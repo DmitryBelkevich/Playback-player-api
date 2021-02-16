@@ -12,11 +12,13 @@ repositories {
 ext {
     springframework_version = "5.+"
     servlet_api_version = "4.+"
+    jackson_version = "2.+"
 }
 
 dependencies {
     implementation "org.springframework:spring-webmvc:${springframework_version}"
     implementation "javax.servlet:javax.servlet-api:${servlet_api_version}"
+    implementation "com.fasterxml.jackson.core:jackson-databind:${jackson_version}"
 
     testCompile group: 'junit', name: 'junit', version: '4.12'
 }
