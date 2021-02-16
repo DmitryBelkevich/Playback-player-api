@@ -12,7 +12,7 @@ public class BandService {
 
     public BandService() {
         long id = 1;
-        while (id < 10) {
+        while (id <= 10) {
             Band band = new Band();
 
             band.setId(id);

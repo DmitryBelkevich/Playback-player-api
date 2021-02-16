@@ -11,7 +11,7 @@ public class SongService {
 
     public SongService() {
         long id = 1;
-        while (id < 10) {
+        while (id <= 10) {
             Song song = new Song();
 
             song.setId(id);
