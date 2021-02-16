@@ -6,10 +6,10 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
 @RestController
-@RequestMapping("/")
-public class MainController {
+@RequestMapping("/api/songs")
+public class SongsController {
     @GetMapping(value = "", produces = (MediaType.TEXT_PLAIN_VALUE + ";charset=UTF-8"))
-    public String main() {
-        return "Hello World";
+    public String getAll() {
+        return "songs";
     }
 }
