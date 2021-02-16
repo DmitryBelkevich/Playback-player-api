@@ -9,9 +9,7 @@ import java.util.Iterator;
 public class SongService {
     private Collection<Song> songs = new ArrayList<>();
 
-    public Collection<Song> getAll() {
-        songs.clear();
-
+    public SongService() {
         long id = 1;
         while (id < 10) {
             Song song = new Song();
@@ -23,7 +21,9 @@ public class SongService {
 
             id++;
         }
+    }
 
+    public Collection<Song> getAll() {
         return songs;
     }
 
