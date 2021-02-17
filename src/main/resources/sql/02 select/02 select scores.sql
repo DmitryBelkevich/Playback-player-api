@@ -14,7 +14,7 @@ SELECT scores.id           AS "score.id",
        songs.key_signature AS "song.key_signature",
        songs.text          AS "song.text",
 
-       bands.id            AS "band.id"
+       bands.id            AS "band.id",
        bands.title         AS "band.title"
 FROM scores
          LEFT JOIN songs ON scores.song_id = songs.id
@@ -32,7 +32,7 @@ SELECT scores.id           AS "score.id",
        songs.key_signature AS "song.key_signature",
        songs.text          AS "song.text",
 
-       bands.id            AS "band.id"
+       bands.id            AS "band.id",
        bands.title         AS "band.title"
 FROM scores
          LEFT JOIN songs ON scores.song_id = songs.id
