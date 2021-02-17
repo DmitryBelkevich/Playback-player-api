@@ -28,6 +28,9 @@ public class Main {
         Collection<Band> bands = new ArrayList<>();
         Band band = null;
         while (resultSet.next()) {
+            if (band == null)
+                band = new Band();
+
             Song song = new Song();
             song.setId(resultSet.getLong("song.id"));
             song.setTitle(resultSet.getString("song.title"));
@@ -35,11 +38,9 @@ public class Main {
             song.setText(resultSet.getString("song.text"));
 
             long current_band_id = resultSet.getLong("band.id");
-            if (band == null) {
-                band = new Band();
-            }
             if (current_band_id != band.getId()) {
                 band = new Band();
+
                 band.setId(resultSet.getLong("band.id"));
                 band.setTitle(resultSet.getString("band.title"));
                 band.setSongs(new ArrayList<>());
