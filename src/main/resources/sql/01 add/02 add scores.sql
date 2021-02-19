@@ -2,8 +2,7 @@
 
 INSERT INTO scores (title, url, song_id)
 VALUES
--- Metallica
---    Nothing Else Matters
+-- Metallica - Nothing Else Matters
 ('Full Score', '1k4BzIVlqFwtq3U8Q9siaVkqF2EREjLhb', 6),
 ('Voice 1, Voice 2, Voice 3', '10ElmX3VxueV3c9kDX1Chr1KClN0Updd6', 6),
 ('Voice 1', '1JuZ7W3f5xt4ln9U5HXyt9zx0tc6ZvL2z', 6),
@@ -19,8 +18,7 @@ VALUES
 ('Drum Set, Tambourine', '1WsbpdiBgGa75db1c7wO4xd03Hb9xe0UM', 6),
 ('Drum Set', '1MZ5fugr_OO2oP5hs1BUaELZhP-hIIYgP', 6),
 ('Tambourine', '1t0fjtCpmLCq_sjS9Pv0AJIvDN9tl0LH4', 6),
--- Nirvana
---    Smells Like Teen Spirit
+-- Nirvana - Smells Like Teen Spirit
 ('Full Score', '1VEkKrcNV5ml3q2A3Lb4bgSNlDcyWxp59', 8),
 ('Voice', '1SpOdr38l0AqSqXTiA5e8pQxH5puAntEr', 8),
 ('Electric Guitar 1, Electric Guitar 2', '15IB9wQICtwk-wgXKlNMO_h0g5x-sajjC', 8),
@@ -28,8 +26,7 @@ VALUES
 ('Electric Guitar 2', '13BeSqfsp1-UkMbk-yfmd31NUnpyu6DnT', 8),
 ('Bass Guitar', '1KxkRXcsxEVH1_cz9TXuv6tU5yVnbaqUC', 8),
 ('Drum Set', '1ODMHRGSVd-P298c2Hme0HO3DuE5ehL6D', 8),
--- Radiohead
---    Creep
+-- Radiohead - Creep
 ('Full Score', '1C_bw5AfNgfGcLfxjuVhAolYr_Yrtk8OD', 9),
 ('Voice', '1Ydkc-56WBZZTAHNnsFIry2axUR_TimpC', 9),
 ('Electric Guitar 1, Electric Guitar 2, Electric Guitar 3', '1-6XxyMgBLYWJHAX0LOhtmc8LV8_RSkvZ', 9),
@@ -39,8 +36,7 @@ VALUES
 ('Bass Guitar', '1zihOQgvjW1BDt18hbLLDuadWq58zVCFI', 9),
 ('Drum Set', '1NiFaXNBryD-Zl31qmwYs1wqT-AJ__hJm', 9),
 ('Piano', '1RlHYLK3GGzF8RWOl2LMOVgpY_VSzqRls', 9),
--- Rammstein
---     Frühling in Paris
+-- Rammstein - Frühling in Paris
 ('Full Score', '15uf0unM_w4h2IJebOwafIffASeuqN_Gv', 11),
 ('Voice', '172DHyakrRnnLm6lw-267eQklWmAVgCCB', 11),
 ('Acoustic Guitar', '18cIAN4XHchhcKlO6MrYsk3lHCjQC56JQ', 11),
@@ -52,7 +48,7 @@ VALUES
 ('Harmonica', '1_WIAnvQJuovAHu6hvd5pH9c8cimUdQdr', 11),
 ('Pad 5 (Bowed)', '17cq_D60F38rSdQw1cQahJQ7giW6H8lKM', 11),
 ('Flute', '1jvO7ZvXmUcLPdtvSKfujbffwpSptR7oL', 11),
---     Mutter
+-- Rammstein - Mutter
 ('Full Score', '1_hXAXC_U4BWl9Ea3aO-SykBBUJATRgLW', 12),
 ('Voice 1', '1WxlRi0uF6Pp5OwZt1oAXVlrYeCOLl79C', 12),
 ('Voice 2', '1MUo5IyzzroweAWAPx7Qo_W2zjaSNR2zI', 12),
@@ -65,8 +61,7 @@ VALUES
 ('Violin II', '1cpU8LV4b_dc8lPRApVLIhHSLCEnLzdbh', 12),
 ('Viola', '1TlUnPKJr15-4kdaBp_c4zjXotDbOYn6X', 12),
 ('Violoncello', '1hh0ftOmQwuryDKhY1Q2xAnc90IlAFn_4', 12),
--- System of a Down
---     Aerials
+-- System of a Down - Aerials
 ('Full Score', '1YNHjNPBejDmI7dUYP7e9qHmKRMU3mZPS', 13),
 ('Voice 1', '1G67U9X-4FZvV_MLoo3nIwdmluU7FAh3o', 13),
 ('Voice 2', '18m9fXfVd_pW48SkAylT9clE4fVKpX5-j', 13),
@@ -80,7 +75,7 @@ VALUES
 ('Violoncello', '1XBLzyWMg2zLQ3MQFJhJhMW4hQkRfZkTi', 13),
 ('Sitar', '19h_2ID3Whlq9nxCmOIhBZrrV_pM3geZM', 13),
 ('Pad 5 (Bowed)', '1UF2AjDxRPDdGPAjyPhDu7GOwcmh_wfRk', 13),
---     Chop Suey!
+-- System of a Down - Chop Suey!
 ('Full Score', '19oIxRhtPPLZdKn7re_WeFY9pd-mL40_V', 14),
 ('Voice 1', '1-NWHsXJVoRx9gzRqpwte5p2NQE3Oolt4', 14),
 ('Voice 2', '1zvUpBsVSfEWIrTUdYpMOMIoORgBBOwPX', 14),
@@ -90,7 +85,7 @@ VALUES
 ('Acoustic Guitar', '16RF9letWwtxCwFWmnCvkhdl_6nXHsWhL', 14),
 ('Bass Guitar', '16IgKupKOiSSCcwWPRMEuw5QJE47awD2k', 14),
 ('Drum Set ', '1YJYMuTkzIs1UQyrrM9611oBH15OwnTzC', 14),
---     Lonely Day
+-- System of a Down - Lonely Day
 ('Full Score', '1scLIVxunxbGpoJLoGDIiJ-ve0c5X7fcG', 15),
 ('Voice 1, Voice 2', '1is-1Li5fXbHLOB--st1vsobZqVnxXci2', 15),
 ('Voice 1', '1ITQiQH8GUNS99LnCuCXUFA8pjH5bTjM4', 15),
@@ -102,7 +97,7 @@ VALUES
 ('Electric Guitar 5', '1_RmUbHwVvOhKpJzTA-xIg6rOFmHrB5oq', 15),
 ('Bass Guitar', '1posQp_tdNImmd_ttrJvqszS_EHVz-l0U', 15),
 ('Drum Set', '1YdXXbmN9B75_05HiUuTtY7KgNRAtyNV8', 15),
---     Toxicity
+-- System of a Down - Toxicity
 ('Full Score', '1OfA9mglKfhHcfueCZ_flzIIiDH11lzRq', 16),
 ('Voice 1', '1jVjjT167mdcuI_mYuamZIrouNM1Dq-jD', 16),
 ('Voice 2', '1UDADMlwDz7_u3AlZBgdAKcec3ZI-WHvT', 16),
@@ -114,8 +109,7 @@ VALUES
 ('Bass Guitar', '1MVUmocAqtntmNOQrx8MslLoPA98fOQQW', 16),
 ('Drum Set', '1QE8odgOvqQrK2ja8UIE8XoB2vJd6xPp9', 16),
 ('Piano', '1M6oUkUSUT6IYq0-9oEML1SfJ6ltfcI34', 16),
--- The Beatles
---     Yesterday
+-- The Beatles - Yesterday
 ('Full Score', '18q1qSP8TfVakFsP7uaxKmrPjFe9eALaz', 17),
 ('Voice', '1S6JdwKIF1-pJqJbDZGO6KrWxFobKbPO3', 17),
 ('Acoustic Guitar', '1BUKH8ax1cbUwhHHKH9M9h7-nB2tjSoQ7', 17),
@@ -124,8 +118,7 @@ VALUES
 ('Violin II', '1SWjEc4Vf6YO3nIvV5-tU9F0_95pSBnHV', 17),
 ('Viola', '1OJhJP9iza7cETz26y9XZ62NjnprLFmyb', 17),
 ('Violoncello', '1zDZJpk97T_dQGt2FBGAB2QRyKcbdcE5K', 17),
--- The Cranberries
---     Zombie
+-- The Cranberries - Zombie
 ('Full Score', '1YyJ13CdGuETeNbY1exDq7F7FiOJqqwkT', 18),
 ('Voice 1, Voice 2', '19TE-KiizgtKPCj47CiDTe3eQaOyqsDkE', 18),
 ('Voice 1', '1x0rjduRh1U5b3OhO_qVkeV_GqnIXoS6d', 18),
@@ -135,8 +128,7 @@ VALUES
 ('Electric Guitar 2', '1GOpWP-9IYoeoEJOYUa_uMJsVRWetCGzJ', 18),
 ('Bass Guitar', '1GNnUsC4AxL5fJ67UXsdEyK1L2tZp_J0K', 18),
 ('Drum Set', '1a8eIUF-I81wBEr6bj-77Wt26Kt7TwbDq', 18),
--- Animal ДжаZ
---     Три полоски
+-- Animal ДжаZ - Три полоски
 ('Full Score', '1vwFcjLGRibvBgQVHxKwlNJXWmlzCI4PT', 19),
 ('Voice 1, Voice 2', '10bZwlpreashBBMDCwBSFUCGSx7q3oSc5', 19),
 ('Voice 1', '1AxZ4NbwLeiF39SBMvUfDBx42Htdboaqp', 19),
@@ -150,8 +142,7 @@ VALUES
 ('Lead 1 (Square)', '1NRneH5UwZbcuueE0ocmVGIR3Am1Pl7or', 19),
 ('Strings', '15zk4M_a9ddplQ2xQYAlyMTKwTy7SCZFR', 19),
 ('Piano', '1kIniguMjBGQSKhL5fERuLCucci575Pcr', 19),
--- BRUTTO
---     12 обезьян
+-- BRUTTO - 12 обезьян
 ('Full Score', '13gudceQ0P8kYsWzniyVFrmPDOqmITuHl', 20),
 ('Voice 1, Voice 2, Voice 3', '1ZibPn4XT_sEbwvT_hec2eQycFCb6_czu', 20),
 ('Voice 1', '1QHehl7Tbn7hyLwhKPkDkD3-QlOvITXv_', 20),
@@ -161,15 +152,13 @@ VALUES
 ('Acoustic Guitar 1', '1FnyF9Bbhk0CeSXfA_cEBQkLw_B78gJSB', 20),
 ('Acoustic Guitar 2', '1ObYKYNrnHn4POKuUT8eBJTw19Tq6apPd', 20),
 ('Tambourine', '1d-h3XL1K1A2f8gzonDAYu6asGtTnaWX5', 20),
--- Lumen
---     Гореть
+-- Lumen - Гореть
 ('Full Score', '1tMb6hETD85jKs_Xxjg8HpxzkeMTBg6Be', 23),
 ('Voice', '13Uv-K7ywLEO7a5k1d-TRMbFumqwEXK0n', 23),
 ('Acoustic Guitar', '167SabiMGs9T3CmqDl56GjcEd5hHIA12h', 23),
 ('Viola', '1UTey9Pp2hJgtk6SiMfLy5GxbRs3h6yjl', 23),
 ('Violoncello', '1IT7JfyvTz6meX4nGlXE6alFuYrMMnfLI', 23),
--- Агата Кристи
---     Как на войне
+-- Агата Кристи - Как на войне
 ('Full Score', '1PRxk_qJAD30VIep5yizZX_VjCAppMVj5', 26),
 ('Voice', '1O2ndHnk-asrRdYuS3nDxPbZy64PCo-wd', 26),
 ('Acoustic Guitar', '1CHC5auLI0JXSEMkjCPZD1cyRlhyBHwr_', 26),
@@ -180,8 +169,7 @@ VALUES
 ('Cabasa', '1DyQ_G1rAuM3lNHq0T6RpohRwwhdmjh4I', 26),
 ('Maracas', '1BDraB5BnnYBowY15F3U3wNHROvbeCCvZ', 26),
 ('Pad 1 (New Age)', '1sbgE7jIIsINn5xodkiqUZvCFaFORs3Qh', 26),
--- Альянс
---     На заре
+-- Альянс - На заре
 ('Full Score', '1VU9saBYtJFXdd9ijZM-ym6kTEDjTrIfa', 28),
 ('Voice', '1kmkML8Kl5BBdJYLD76pIVx5cooMDN0BU', 28),
 ('Bass Guitar', '1Y-AC3Egz6Ghn6Z4PDBPUZhGtq0OnJzlY', 28),
@@ -192,8 +180,7 @@ VALUES
 ('Lead 2 (Sawtooth)', '1ITOeSkX6ZzjWLFWxKk0mfykVPJ8CIkLn', 28),
 ('Synth Brass', '1Vww3be-qIsLbjcUZEvdElMfvjJJfmzZG', 28),
 ('Electric Clavichord', '1zpYWsBceKLJ_ALffaqK12Osyf1npD4KP', 28),
--- Би-2
---     Варвара
+-- Би-2 - Варвара
 ('Full Score', '1jkCjk7nXKyncVkG_Lv929ggfqOtXGCtf', 34),
 ('Voice 1', '1ymxj_1D7RskKREr4y1_6elBZRjdZ2NTL', 34),
 ('Voice 2', '1kHu0BGUCRjhzp797mqqSibU2cRhQKb1B', 34),
@@ -203,7 +190,7 @@ VALUES
 ('Drum Set', '19qThyC0PndqZPTeIUzj3uyev9eWzhGir', 34),
 ('Pad 2 (Warm)', '13Mu6TmXfacO6cIPLSoO7k1EF6RDZUopI', 34),
 ('Trumpet in Bb', '1bfdXL5YC-DfWJzn_5oBLvdeSKH9olOHY', 34),
---     Полковнику никто не пишет
+-- Би-2 - Полковнику никто не пишет
 ('Full Score', '1xBT415rcj2VNHbkA8cEnDnQ-1m5NODlq', 37),
 ('Voice', '1Gvl8mPIS7YUTWwKh_lPSnpKGxQ3rvzGF', 37),
 ('Electric Guitar', '159lB47LJ4bMt8VUEWJSq5k0aKWvduKKZ', 37),
@@ -214,8 +201,7 @@ VALUES
 ('Pizzicato', '16WPaioMCqqg2FwEaEpG983t2w-nwpKOI', 37),
 ('Strings', '16rdJsAZx85NHpGclHW2yjuUg4UU8TJYE', 37),
 ('Pad 2 (Warm)', '1i4jb85_aY1dvFKDFCIBv3-motnsm_4Xy', 37),
--- Валентин Стрыкало
---     Наше лето
+-- Валентин Стрыкало - Наше лето
 ('Full Score', '1SquFGslQDQC8Yd56Wgl9V6I2wVsp3drt', 39),
 ('Voice', '1sU5UhoteSJ94sk9WvLPhj6ylpiIAKjG0', 39),
 ('Acoustic Guitar', '1snWekahxxtdUGr0YcZWaPmDIWG3e_0tx', 39),
@@ -224,8 +210,7 @@ VALUES
 ('Synth Brass', '1dzMAfWNlmC9zqEbVLTOy-JADYzJFzdtl', 39),
 ('Crotales', '1k-y4m8qHqNTcwxyphiHroeYutDHEFfgy', 39),
 ('Synth Strings', '1_8-CDYutuM1CQkZl_QXCCCe6gQ4PzOcj', 39),
--- ДДТ
---     Что такое осень
+-- ДДТ - Что такое осень
 ('Full Score', '1xr4PTmHuJEmXh6Jr_tNJV5im-UsBd8Zz', 51),
 ('Voice 1, Voice 2, Voice 3', '1uJHDQTlFl48i_jRkqWsfH8w1CMsLJeNi', 51),
 ('Voice 1', '1m8UyqMxVfNXBhk2WXq9zaEDAPx8sAbLo', 51),
@@ -237,8 +222,7 @@ VALUES
 ('Drum Set', '1nI-IoralMP6hE8J-p-chhSQKryLWAJ2g', 51),
 ('Flute', '1fBJcfDxylIDS8LvB21tbbp9keJdico-0', 51),
 ('FX 3 (Crystal), Pizz', '12emQ7eoAXamQoDe1tY765ArcV-k4YpiZ', 51),
--- Звери
---     Всё, что касается
+-- Звери - Всё, что касается
 ('Full Score', '1o9D-B9yUtZ6KpRdjOiqY1n35Tb-4FhYR', 56),
 ('Voice 1, Voice 2.3', '11la7QAJzHWajV_JWj5C--aXQs4XteLdl', 56),
 ('Voice 1', '1czRPOo2o7J7IbICHoXKj9B_GafdMll-s', 56),
@@ -250,32 +234,28 @@ VALUES
 ('Shaker', '1KZw7XJ7BRnsNWg76kO1CH9x7iUqk5SqR', 56),
 ('Piano', '16QgaJbS4QGZJ12dppfmdM4JLWwfBNxOB', 56),
 ('Strings', '12v5E7TGaLgoOLPqyZCqlwYuCkG4o4kt_', 56),
--- Земляне
---     Трава у дома
+-- Земляне - Трава у дома
 ('Full Score', '1ThFDzdBqTweaHJFfx2NVYVCJqp0PNuBZ', 61),
 ('Voice 1, Voice 2, Voice 3', '11YrftUQkfCtl3PfNXHTAf9GeSl-5FLbx', 61),
 ('Voice 1', '1Ro-GMJRWsqORCk9wFOzJQroG14UoE8AG', 61),
 ('Voice 2, Voice 3', '1_VC7xZEsdNjzysLlz3xsQm80tC7b07Zr', 61),
 ('Voice 2', '1iIDlRy4B1EiwKE_wFxaScbtZkOeLvQ5h', 61),
 ('Voice 3', '18zWpJG2pqQbviz58avEPyYJIpsWL8PTg', 61),
-('Electric Guitar 1, Electric Guitar 2, Electric Guitar 3, Electric Guitar 4', '15AyM2jHcgKZQS-pnY_lHKOFrwoc1zBNE',
- 61),
+('Electric Guitar 1, Electric Guitar 2, Electric Guitar 3, Electric Guitar 4', '15AyM2jHcgKZQS-pnY_lHKOFrwoc1zBNE', 61),
 ('Electric Guitar 1', '1bJ7dlhSBbVqCRN0_p6dgLGcU5O6YxBLB', 61),
 ('Electric Guitar 2', '1l9fPdE5yTfV0Mw83ld3fqGIh_xbk0rxS', 61),
 ('Electric Guitar 3', '1gz-0iJYod328GSYNJ_FtaN9DbVus5zNG', 61),
 ('Electric Guitar 4', '1WqM9255tKE7Tv9pND5fz7c5kL4VcmUhN', 61),
 ('Bass Guitar', '1gYzkCdvJaALIzTYsyKIpCKktB2NEXq84', 61),
 ('Drum Set', '12sCtS25OEwikeoPGeWKx5Z32kUcyXn7h', 61),
-('Pad 1 (New Age), FX 5 (Brightness), FX 3 (Crystal), Lead 1 (Square), FX 8 (Sci-fi), FX 4 (Atmosphere)',
- '1HTUHUdE8zPCTFdtTU7k5OTg6QcTqDoqq', 61),
+('Pad 1 (New Age), FX 5 (Brightness), FX 3 (Crystal), Lead 1 (Square), FX 8 (Sci-fi), FX 4 (Atmosphere)', '1HTUHUdE8zPCTFdtTU7k5OTg6QcTqDoqq', 61),
 ('Pad 1 (New Age)', '11P7WHlE-RneuI76mp4lVxrj_eY7d-Diu', 61),
 ('FX 5 (Brightness)', '1IvR2SlV4MyHEKsB6VxK8WAPPL-GLQ34h', 61),
 ('FX 3 (Crystal)', '1_RGYaCBXuHxpJO2Rz2gkW5izdWJWJyS8', 61),
 ('Lead 1 (Square)', '1PkgjMHMUKKTg4u5EJdfoqKgeJ0fSVhua', 61),
 ('FX 8 (Sci-fi)', '1A3xr-iFk681Xh-DrkVmUi-zYrSLQt56Q', 61),
 ('FX 4 (Atmosphere)', '1mWs-5V4bYwRzSQh7g-IBBJM4IbYOvIsQ', 61),
--- Кино
---     Группа крови
+-- Кино - Группа крови
 ('Full Score', '14Duh-aajA36ytTr9sKm2JBdviu4yla1Y', 64),
 ('Voice', '1Phlv8GTLuqlgP8Kx4YP39hWyw6U0rLep', 64),
 ('Electric Guitar 1, Electric Guitar 2, Electric Guitar 3', '1APpeTmxGRBDWQXfP61cdvmp6bLoeQ_gr', 64),
@@ -290,12 +270,11 @@ VALUES
 ('Pad 2 (Warm)', '1wxuS1Mqhmy_Sfmny8JAwPKbLt-YUGYDn', 64),
 ('Electric Organ', '1j5Zn7dUSyzxVSLCvDuhjK7_2NnvgDxNa', 64),
 ('Pad 4 (Choir)', '1JnqoDn1bIcgNzx-Xvc1lmr6hNjncZ1rr', 64),
---     Кончится лето
+-- Кино - Кончится лето
 ('Full Score', '1fr8zS6cZnw6U_0XwlAY7fREQ-g58nnUK', 67),
 ('Voice', '15iSp2vbRXI7vldzWuXhvspFNrNjAHIfd', 67),
 ('Acoustic Guitar', '18_iGB9yA4cAqdczkiuOl52nmJ_OJ9bEM', 67),
-('Electric Guitar 1, Electric Guitar 2, Electric Guitar 3, Electric Guitar 4', '19jsDtyv_VRDuzIVyVSxwanWkklt6BSyn',
- 67),
+('Electric Guitar 1, Electric Guitar 2, Electric Guitar 3, Electric Guitar 4', '19jsDtyv_VRDuzIVyVSxwanWkklt6BSyn', 67),
 ('Electric Guitar 1', '1CoGSXX7tscEIVPnXz4AxP30QrtbA34Gz', 67),
 ('Electric Guitar 2', '1C6a7qay1qgLB8q99Wql1xfVS0GgWvuTh', 67),
 ('Electric Guitar 3', '1GbP7eqFnigMc3V6MLU0SdV1dOmED4yjJ', 67),
@@ -303,8 +282,7 @@ VALUES
 ('Bass Guitar', '1F2HR4zqSK5BDwFY74_XNA3Q6ZtHQBVgV', 67),
 ('Drum Set', '1e7xzpnhed2tPtDhMIz-BavQoeDxaYQqI', 67),
 ('Pad 1 (New Age)', '1yVe3X0QpyogA7LwJbjLfk4wgxzXJeqow', 67),
--- Король и Шут
---     Дурак и молния
+-- Король и Шут - Дурак и молния
 ('Full Score', '1X6ZRGjBxWZs0_A_f9oHoVgjoho2yyqpH', 74),
 ('Voice', '1a8iRJKiOPx5VW5ysjNszVHscn5CG3Fy6', 74),
 ('Electric Guitar 1, Electric Guitar 2', '1hOHr6jJh99bVVTf15Z04s3grjlTkIefp', 74),
@@ -312,7 +290,7 @@ VALUES
 ('Electric Guitar 2', '1AiTrG6sjj7jm4eW1bxy7wwxCTQJGrN15', 74),
 ('Bass Guitar', '1FPoE4kzPIlZ3DPMW4SLX4PSUHu2UfIG4', 74),
 ('Drum Set', '1Mwz48QRPt0o8Fv1weK3LvcCig-ovAeb1', 74),
---     Ели мясо мужики
+-- Король и Шут - Ели мясо мужики
 ('Full Score', '1Zp6WVXBUWn11fxFQA3goVWmto-NaYC4n', 75),
 ('Voice 1, Voice 2, Voice 3.4', '19iF-T8iQ3p09xDogjI4hbGU3kLqxKMS2', 75),
 ('Voice 1', '1gjDPhhAipjMG6Jn0YtJpL03pQn5w7uPE', 75),
@@ -323,7 +301,7 @@ VALUES
 ('Electric Guitar 2', '1ecRazP4gdYiJDMuJpuwmGV5iaZexNtyJ', 75),
 ('Bass Guitar', '1IXbd_lx0IFe-KXxJSWMTUxl8kR0JaNXm', 75),
 ('Drum Set', '11XvUI2lvOJUlIJ2OKzqNwyBmclNpyql3', 75),
---     Жаль, нет ружья!
+-- Король и Шут - Жаль, нет ружья!
 ('Full Score', '18NbKSG02ulsLB9EDnNWJnlQJlUxZQMBz', 76),
 ('Voice 1, Voice 2', '11AFXilJ-MG5TW7XMriyKNerAB9kZ6cN7', 76),
 ('Voice 1', '1nXTS1aXkUf3PJEwfCKbntIJlttHV2Mlz', 76),
@@ -334,7 +312,7 @@ VALUES
 ('Electric Guitar 2', '1jYgQIurUDWHpp06oV4UgwK67Nqz8iJCa', 76),
 ('Bass Guitar', '1E74jfSER-ZOyPY3oZJV0ggl6KM-XI_hh', 76),
 ('Drum Set', '1q9Yxh9q7hYIT9Lehe1tMpWa5GiREcO7x', 76),
---     Мёртвый Анархист
+-- Король и Шут - Мёртвый Анархист
 ('Full Score', '1RMiG0J_Z-MY33xoMu-nFF34I0KkSdxSp', 80),
 ('Voice 1, Voice 2, Voice 3', '1NqLO-oT_YXQ1XTD9sE1WgBJM-FmNY3JP', 80),
 ('Voice 1', '1i6JmZUhE9RFr6UVVPbwV67cTeUitxHMU', 80),
@@ -345,8 +323,7 @@ VALUES
 ('Electric Guitar 2', '1gWCw_DpMHuOo8njBImfxbq7lIMey-tOe', 80),
 ('Bass Guitar', '16ztdjh6WARbnmeVCTGHwF7Ecchj4YvMt', 80),
 ('Drum Set', '1O1ToifAYS3m3uDniNhWpkNe7qv07Szcf', 80),
--- Ляпис Трубецкой
---     Воины света
+-- Ляпис Трубецкой - Воины света
 ('Full Score', '1usL0DjvqV6wp8aQFy4iV3MFMN0Tlv_zz', 88),
 ('Voice 1', '1wStlOWmiJbdNEkmKimY7S9x3AViHENNN', 88),
 ('Voice 2', '1TdBIm0QyfhWDy-xb0nU9VdJAt08DW4TC', 88),
@@ -354,7 +331,7 @@ VALUES
 ('Electric Guitar', '1ywcoc3Mx-jwXA-aA41bDh_z6JISwVREB', 88),
 ('Bass Guitar', '130M00XWbDJnmJoTMl7MkLpqaV4Cl2fUm', 88),
 ('Drum Set', '1g-5YPxofHXqBExhQqJyLutH25tdTzH11', 88),
---     Не быць скотам!
+-- Ляпис Трубецкой - Не быць скотам!
 ('Full Score', '1Z7F3IDi-hb9f6An_ZKLpZH05LeH4qjgc', 94),
 ('Voice 1', '1JB_YQ0WDQYQ_T6qkLPEXN8LCV8zMH77A', 94),
 ('Voice 2', '1h2fMlVgjjkU0YWS2kUVLD9VXQse54PyN', 94),
@@ -364,8 +341,7 @@ VALUES
 ('Trumpet in Bb 1', '1o_I_0b85J8Jl9TpCqZb8kWIsTjtj99F6', 94),
 ('Trumpet in Bb 2', '1v8EiMLh-SDr-cqUiywhOiTUQGhadGBp4', 94),
 ('Trombone', '1X1nTQT-Di-mLR2YmLYvVb06OG_5Wk8s9', 94),
--- МУККА
---     ДЕВОЧКА С КАРЕ
+-- МУККА - ДЕВОЧКА С КАРЕ
 ('Full Score', '1N3Cpda-i9HS_nFTV4NcCsvwhOaWDu9iN', 104),
 ('Voice 1, Voice 2', '1r8x-vlqyHYDNcbgTnU1oNcrJ6g0TRei1', 104),
 ('Voice 1', '1ggySXYc36PRpJraU3pAd0S_exJm7yv3P', 104),
@@ -378,8 +354,7 @@ VALUES
 ('Lead 1 (Square)', '1WJtnrsgYaG5_oSfJ0mVN_S_WC_51Fiet', 104),
 ('Synth Strings', '1GSeFMB6sAh9heFZlwCIRbfh9EcLEHGGs', 104),
 ('FX 1 (Abduction)', '1n39a08XRoFgRDE_DyBJy-5AyiW8bxXPc', 104),
--- Ненси
---     Дым сигарет с ментолом
+-- Ненси - Дым сигарет с ментолом
 ('Full Score', '1XPtkEAOLJ93olNHzDmkiiotN_GZZKq_f', 113),
 ('Voice 1', '1FCkgaj4WOUUuBjzJzJkE_62X8gJhTDze', 113),
 ('Voice 2', '1zXOzEwVXA-3Lj-Q9XgcTRzaD8OGhLzxf', 113),
@@ -391,8 +366,7 @@ VALUES
 ('Piano', '17xmhbcjtgQXYUtuPMx9hoahNx4qtQxGl', 113),
 ('Strings', '1EHPr0Tsabi3ku7ErD8g5rdzog3fI9GiG', 113),
 ('FX 1 (Abduction)', '1h4DgOxxZ9PW-arx7_FZEiI8lbecgdIpb', 113),
--- Порнофильмы
---     Я так соскучился
+-- Порнофильмы - Я так соскучился
 ('Full Score', '1S6N9p5obHXfxUimiWNzWYRVoJrG74MkD', 114),
 ('Voice 1', '1UDGfYO0F81U08RcLX8ctOewpxnXsGwK_', 114),
 ('Voice 2', '1A5eHyvOhQNjQhqNJhJYE1CSggqvT7dCY', 114),
@@ -400,8 +374,7 @@ VALUES
 ('Electric Guitar 2', '1RS7zSzHmCW9kRWuDtL3sGl_l8C4QaXj0', 114),
 ('Bass Guitar', '1ep_VSzCx-z8Dmg-CczaDnVKhsJauP1E5', 114),
 ('Drum Set', '1NeeABlcXERWDdC2akeVRcekx5W95If7X', 114),
--- Сектор Газа
---     30 лет
+-- Сектор Газа - 30 лет
 ('Full Score', '1fxd4E_u0x9YHhnAwyxKGQjOJiUhKlPwt', 115),
 ('Voice 1, Voice 2', '1yB8JrfEmGSF1MTpMdMRfcJb8BoYTzEM9', 115),
 ('Voice 1', '1lvn943l6Ptcnq-ozdWBisNr0YOlrmq70', 115),
@@ -415,7 +388,7 @@ VALUES
 ('Drum Set', '1gkjY9bbtKK5l1VdooHpHK40nPHH8MocN', 115),
 ('Handclap', '12lcBAAEdziqkJcrHfzdNEROrlIe9P2mQ', 115),
 ('Electric Organ', '1rMlvrisaMSIPwY4FDPYw1BPRBUqhLRVh', 115),
---     Демобилизация
+-- Сектор Газа - Демобилизация
 ('Full Score', '1T4613P2Lbu54j7nSLaGtovAf0_U_D_Ao', 116),
 ('Voice', '1T0zsGcr4aB7NUFz92fTZzVw9s01OTnrQ', 116),
 ('Acoustic Guitar, Electric Guitar 1, Electric Guitar 2', '1xCB-sXEZb1_eFzoc5TwKApvf1nj4oowP', 116),
@@ -425,7 +398,7 @@ VALUES
 ('5-string Bass Guitar', '1iWtM5E5llk37VABYyq4A8j2TM6fCucg4', 116),
 ('Drum Set', '15C0QGjolVHlZsrePvm3G4QRNsdqE4wuV', 116),
 ('Pad 4 (Choir)', '1RRUMtrqpqNCajr0eAghr0ZPHnlEMXzqX', 116),
---     Туман
+-- Сектор Газа - Туман
 ('Full Score', '19q1Y8QgxHNWNpWc54S9hPY1ODl5JkVWQ', 118),
 ('Voice', '1Zf4B8KFnzRB2hKH664F__Qz85V9ms65v', 118),
 ('Acoustic Guitar', '1pqZtrssEBCYBZgsIzVsc9hZhDl6FGg6h', 118),
@@ -437,8 +410,7 @@ VALUES
 ('Electric Guitar 4', '14jwlKNOxr8fV9EeImZHHRZ3ucCVhEDFz', 118),
 ('Bass Guitar', '1O1GFKDUIq_BH0HbXoLkS3d-upypWOSNy', 118),
 ('Drum Set', '1KXTvKkb6FxqNSx5epwIMmP1MEqtLEoLn', 118),
--- Сергей Тихановcкий & Kosmas
---     Разбуры турмы муры
+-- Сергей Тихановcкий & Kosmas - Разбуры турмы муры
 ('Full Score', '1AohRuxB41Wogr6hxh_AXI8U7A3_MDyxG', 119),
 ('Voice 1.2', '1wkJGz6JNYUOstTgXNYqYr8uE4ngsz0G5', 119),
 ('Voice 3', '1NBNi7phQOMOecoBaJNeCLQFQ08QjApG-', 119),
@@ -452,7 +424,7 @@ VALUES
 ('Shaker', '1bV2XpoWsY58-_-WxFf2kOKnA3rmAAUoo', 119),
 ('Tambourine', '1Qxd-8oWXE5YlpOQjbmlv1Z2VXXo6mOlD', 119),
 ('Keyboard', '1K7uFtKM5fB7V9yv1DyV7mMb-s_TlCcI4', 119),
---     Стены рухнут
+-- Сергей Тихановcкий & Kosmas - Стены рухнут
 ('Full Score', '1ZCB9NHvR3pB8m5eI4MO7jMn7kVtb7A8Y', 120),
 ('Voice 1.2', '1Xw8pnbXszuSbQq7POzQZrWdM3hWrBQgj', 120),
 ('Voice 3', '1pAoC95m04qqJQYR0KOzgrKbqILj4W8jB', 120),
@@ -466,8 +438,7 @@ VALUES
 ('Shaker', '1wqTACchYHajuJCWpVpqvjosln1AqpFiu', 120),
 ('Tambourine', '1VUXWL3mKwlAn_9-PkDSNpoWjnCZtCU0X', 120),
 ('Keyboard', '1dBpJiG_i1_PbB325lTD65YGrUDAWRCB7', 120),
--- Слот
---     Круги на воде
+-- Слот - Круги на воде
 ('Full Score', '14aqRd-DvdrMAIA1ORbm_IrJbHNDAsGwj', 122),
 ('Voice 1', '1ic6kOqt7xeiaZ326KcFFLJQJGKYpiKQw', 122),
 ('Voice 2', '1I8Q7ja7lMDUiyzwGxWarK73sumY42FjG', 122),
@@ -478,8 +449,7 @@ VALUES
 ('5-string Bass Guitar', '1AczV33ebgfAwXrwUw90tFZV2KAHNx98V', 122),
 ('Drum Set', '1O71Qv4HxrTq184_dbOdKWW21-APOUwRM', 122),
 ('Keyboard', '1sv3mZSyqhnJVYv2q8tNlC2ZCDdSCnFU1', 122),
--- Сплин
---     Выхода нет
+-- Сплин - Выхода нет
 ('Full Score', '1zCi4RV1_oysBZke1GUCDQ8k8uTkzk3vo', 123),
 ('Voice 1', '1yYmYfk5W3VP_zS0jlkJPVrZyqwFIYVlp', 123),
 ('Voice 2', '1_WAHEwoGgGwte2rBV-KFPVPJwNMnuufp', 123),
@@ -490,7 +460,7 @@ VALUES
 ('Shaker', '1S6dFJl0NkjY583AYadbpXtF_9Mfe0O0D', 123),
 ('Rain Stick', '1X4_qME_6G3RcE0bAeA3v1nwbtxGFfRlw', 123),
 ('Pad 8 (Sweep)', '1Ab45F2b2oUJeqD2kL5ZIlQhaQr2W-uWy', 123),
---     Орбит без сахара
+-- Сплин - Орбит без сахара
 ('Full Score', '1vbwmgfB8XKVnKlwRf0za2cX3LKH-St7S', 126),
 ('Voice 1', '1Xb3EQ_IFkYSvI6axjN0d7GXu-cFLYNK3', 126),
 ('Voice 2', '1ey1yA0aT6y34AwIb4q4nFf7Dxi3dQL7p', 126),
@@ -501,7 +471,7 @@ VALUES
 ('Tambourine', '1RgnrXb8uSnjY6RhJFxKnc1hwwRkTcFkA', 126),
 ('Claves', '1GlrDeb6anTJ1wydQdLKzVJW6Nh7028WL', 126),
 ('Lead 5 (Charang)', '1AasljozEgFrKDzNnMp6BOMr8tcsvWg9O', 126),
---     Романс
+-- Сплин - Романс
 ('Full Score', '1IUB1H-MyGsmLbk5-IOEw0cw75YsMPZma', 127),
 ('Voice', '1EXEfAcFcUeUNBeHXTxraSZQdi6zmpiRt', 127),
 ('Acoustic Guitar 1', '1igxovW4qvfoUzKjX_GgzsPbTQxjseQF3', 127),
@@ -515,8 +485,7 @@ VALUES
 ('Flute 1.2', '1T2BEVyW6OVsBWKs1AyEd1gZ9hmdvYMLw', 127),
 ('Violin 1.2', '1YSFRUhZgHAc8kW2nwPRrYxmU1zKOfm11', 127),
 ('Electric Organ', '1idCBib9Sd-klk3Frx56ixbx7WDDnHwUx', 127),
--- Танцы Минус
---     Половинка
+-- Танцы Минус - Половинка
 ('Full Score', '1Xt4O-HNtmtIClTjdZEJppc7c9wtV1AVH', 128),
 ('Voice', '1y0V44jvOrDCzao4iBc75QbdX81TPcBmO', 128),
 ('Acoustic Guitar', '1SxZ1e891Hw3bHd9c2CuilxSjTVUav54v', 128),
@@ -527,8 +496,7 @@ VALUES
 ('Drum Set', '1VaDFWu7ZNYY4XmrDO9DI28_-Pumd49WL', 128),
 ('Piano', '13bS3pyWWVYUJEh6IVJC5DWNNzOBVQOjj', 128),
 ('Lead 6 (Voice)', '1Nl-O7leSKbREysF0Omupd6x8ZgD-V-O3', 128),
--- Чичерина
---     Ту-лу-ла
+-- Чичерина - Ту-лу-ла
 ('Full Score', '13Z4dyiz4CP3WoNmE9dqdkJRRF0VwqQ1o', 129),
 ('Voice 1', '1NiobksiMr2_OHVcTf3dSzDEhF4BYAdfk', 129),
 ('Voice 2', '1qrGxvWeu0pm2VVSC7tMMmKuySj_4f20S', 129),
