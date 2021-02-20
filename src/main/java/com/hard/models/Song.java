@@ -3,12 +3,21 @@ package com.hard.models;
 import com.fasterxml.jackson.annotation.JsonProperty;
 import com.hard.models.abstracts.Model;
 
+import javax.persistence.*;
+import java.util.ArrayList;
 import java.util.Collection;
 
+@Entity
+@Table(name = "songs")
 public class Song extends Model {
     private String title;
+    @Column(name = "key_signature")
     private String keySignature;
     private String text;
+    @ManyToOne
+    @JoinColumn(name = "band_id", nullable = false)
+    private Band band;
+    @OneToMany(mappedBy = "song")
     private Collection<Score> scores;
 
     public String getTitle() {
@@ -26,6 +35,14 @@ public class Song extends Model {
     @JsonProperty("key_signature")
     public void setKeySignature(String keySignature) {
         this.keySignature = keySignature;
+    }
+
+    public Band getBand() {
+        return band;
+    }
+
+    public void setBand(Band band) {
+        this.band = band;
     }
 
     public String getText() {
