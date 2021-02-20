@@ -21,6 +21,8 @@ public class Song extends Model {
     private Collection<Score> scores;
     @OneToMany(mappedBy = "song")
     private Collection<Playback> playbacks;
+    @OneToMany(mappedBy = "song")
+    private Collection<Metronome> metronomes;
 
     public String getTitle() {
         return title;
@@ -69,5 +71,13 @@ public class Song extends Model {
 
     public void setPlaybacks(Collection<Playback> playbacks) {
         this.playbacks = playbacks;
+    }
+
+    public Collection<Metronome> getMetronomes() {
+        return metronomes;
+    }
+
+    public void setMetronomes(Collection<Metronome> metronomes) {
+        this.metronomes = metronomes;
     }
 }

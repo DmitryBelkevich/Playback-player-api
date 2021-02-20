@@ -39,7 +39,8 @@ public class Main {
                 .addAnnotatedClass(Band.class)
                 .addAnnotatedClass(Song.class)
                 .addAnnotatedClass(Score.class)
-                .addAnnotatedClass(Playback.class);
+                .addAnnotatedClass(Playback.class)
+                .addAnnotatedClass(Metronome.class);
 
         SessionFactory sessionFactory = configuration
                 .buildSessionFactory();
