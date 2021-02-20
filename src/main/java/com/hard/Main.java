@@ -1,9 +1,6 @@
 package com.hard;
 
-import com.hard.models.Band;
-import com.hard.models.Score;
-import com.hard.models.Song;
-import com.hard.models.User;
+import com.hard.models.*;
 import org.hibernate.Session;
 import org.hibernate.SessionFactory;
 import org.hibernate.cfg.Configuration;
@@ -41,7 +38,8 @@ public class Main {
                 .addAnnotatedClass(User.class)
                 .addAnnotatedClass(Band.class)
                 .addAnnotatedClass(Song.class)
-                .addAnnotatedClass(Score.class);
+                .addAnnotatedClass(Score.class)
+                .addAnnotatedClass(Playback.class);
 
         SessionFactory sessionFactory = configuration
                 .buildSessionFactory();
