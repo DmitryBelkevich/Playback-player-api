@@ -1,81 +1,92 @@
 package com.hard.repositories;
 
-import com.hard.models.Song;
+import com.hard.models.*;
+import org.hibernate.Hibernate;
+import org.hibernate.Session;
+import org.hibernate.SessionFactory;
+import org.hibernate.Transaction;
+import org.hibernate.cfg.Configuration;
+import org.hibernate.cfg.Environment;
+import org.hibernate.query.NativeQuery;
 
-import java.sql.*;
-import java.util.ArrayList;
 import java.util.Collection;
-import java.util.Iterator;
 import java.util.Properties;
 
 public class SongRepository {
-    private Collection<Song> songs = new ArrayList<>();
+    private SessionFactory sessionFactory;
+    private Session session;
 
     public SongRepository() {
-        connect();
+        Properties properties = new Properties();
+
+        // Database connection settings
+        properties.setProperty(Environment.DRIVER, "org.postgresql.Driver");
+        properties.setProperty(Environment.URL, "jdbc:postgresql://localhost:5432/playback_player");
+        properties.setProperty(Environment.USER, "postgres");
+        properties.setProperty(Environment.PASS, "1234");
+
+        // SQL dialect
+        properties.setProperty(Environment.DIALECT, "org.hibernate.dialect.PostgreSQL95Dialect");
+
+        // JDBC connection pool (use the built-in)
+        properties.setProperty(Environment.POOL_SIZE, "1");
+
+        // Echo all executed SQL to stdout
+        properties.setProperty(Environment.SHOW_SQL, "true");
+
+        // Enable Hibernate's automatic session context management
+        properties.setProperty(Environment.CURRENT_SESSION_CONTEXT_CLASS, "thread");
+
+        // Drop the existing tables and create new one
+        properties.setProperty(Environment.HBM2DDL_AUTO, "update");
+
+        Configuration configuration = new Configuration()
+                .setProperties(properties)
+                .addAnnotatedClass(User.class)
+                .addAnnotatedClass(Band.class)
+                .addAnnotatedClass(Song.class)
+                .addAnnotatedClass(Score.class)
+                .addAnnotatedClass(Playback.class)
+                .addAnnotatedClass(Metronome.class);
+
+        sessionFactory = configuration
+                .buildSessionFactory();
+
+        session = sessionFactory.getCurrentSession();
     }
 
     public Collection<Song> getAll() {
+        Transaction transaction = session.beginTransaction();
+
+        NativeQuery query = session.createSQLQuery("SELECT * FROM songs").addEntity(Song.class);
+        Collection<Song> songs = query.list();
+
+        for (Song song : songs) {
+            Hibernate.initialize(song.getScores());
+            Hibernate.initialize(song.getPlaybacks());
+            Hibernate.initialize(song.getMetronomes());
+        }
+
+        transaction.commit();
+
+        session.close();
+
+        sessionFactory.close();
+
         return songs;
     }
 
     public Song getById(long id) {
-        Iterator<Song> iterator = songs.iterator();
-        while (iterator.hasNext()) {
-            Song song = iterator.next();
-            if (song.getId() == id)
-                return song;
-        }
+        Transaction transaction = session.beginTransaction();
 
-        return null;
-    }
+        Song song = session.get(Song.class, id);
 
-    private void connect() {
-        String url = "jdbc:postgresql://localhost:9999/postgres";
-        Properties properties = new Properties();
-        properties.setProperty("user", "postgres");
-        properties.setProperty("password", "1234");
+        transaction.commit();
 
-        try {
-            Class.forName("org.postgresql.Driver");
-        } catch (ClassNotFoundException e) {
-            e.printStackTrace();
-        }
+        session.close();
 
-        Connection connection = null;
-        try {
-            connection = DriverManager.getConnection(url, properties);
-        } catch (SQLException throwables) {
-            throwables.printStackTrace();
-        }
+        sessionFactory.close();
 
-        if (connection != null) {
-            try {
-                Statement statement = connection.createStatement();
-
-                ResultSet resultSet = statement.executeQuery("select * from songs");
-                while (resultSet.next()) {
-                    long id = resultSet.getLong("id");
-                    String title = resultSet.getString("title");
-                    long band_id = resultSet.getLong("band_id");
-                    String key_signature = resultSet.getString("key_signature");
-                    String text = resultSet.getString("text");
-
-                    Song song = new Song();
-
-                    song.setId(id);
-                    song.setTitle(title);
-                    song.setKeySignature(key_signature);
-                    song.setText(text);
-
-                    songs.add(song);
-                }
-
-                statement.close();
-                connection.close();
-            } catch (SQLException throwables) {
-                throwables.printStackTrace();
-            }
-        }
+        return song;
     }
 }
