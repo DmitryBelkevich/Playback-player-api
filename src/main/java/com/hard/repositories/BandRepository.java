@@ -1,7 +1,13 @@
 package com.hard.repositories;
 
-import com.hard.models.Band;
-import com.hard.models.Song;
+import com.hard.models.*;
+import org.hibernate.Hibernate;
+import org.hibernate.Session;
+import org.hibernate.SessionFactory;
+import org.hibernate.Transaction;
+import org.hibernate.cfg.Configuration;
+import org.hibernate.cfg.Environment;
+import org.hibernate.query.NativeQuery;
 
 import java.sql.*;
 import java.util.ArrayList;
@@ -10,91 +16,95 @@ import java.util.Iterator;
 import java.util.Properties;
 
 public class BandRepository {
-    private Collection<Band> bands = new ArrayList<>();
+    private SessionFactory sessionFactory;
+    private Session session;
 
     public BandRepository() {
-        connect();
+        Properties properties = new Properties();
+
+        // Database connection settings
+        properties.setProperty(Environment.DRIVER, "org.postgresql.Driver");
+        properties.setProperty(Environment.URL, "jdbc:postgresql://localhost:5432/playback_player");
+        properties.setProperty(Environment.USER, "postgres");
+        properties.setProperty(Environment.PASS, "1234");
+
+        // SQL dialect
+        properties.setProperty(Environment.DIALECT, "org.hibernate.dialect.PostgreSQL95Dialect");
+
+        // JDBC connection pool (use the built-in)
+        properties.setProperty(Environment.POOL_SIZE, "1");
+
+        // Echo all executed SQL to stdout
+        properties.setProperty(Environment.SHOW_SQL, "true");
+
+        // Enable Hibernate's automatic session context management
+        properties.setProperty(Environment.CURRENT_SESSION_CONTEXT_CLASS, "thread");
+
+        // Drop the existing tables and create new one
+        properties.setProperty(Environment.HBM2DDL_AUTO, "update");
+
+        Configuration configuration = new Configuration()
+                .setProperties(properties)
+                .addAnnotatedClass(User.class)
+                .addAnnotatedClass(Band.class)
+                .addAnnotatedClass(Song.class)
+                .addAnnotatedClass(Score.class)
+                .addAnnotatedClass(Playback.class)
+                .addAnnotatedClass(Metronome.class);
+
+        sessionFactory = configuration
+                .buildSessionFactory();
+
+        session = sessionFactory.getCurrentSession();
     }
 
     public Collection<Band> getAll() {
+        Transaction transaction = session.beginTransaction();
+
+        NativeQuery query = session.createSQLQuery("SELECT * FROM bands").addEntity(Band.class);
+        Collection<Band> bands = query.list();
+
+        for (Band band : bands) {
+            Hibernate.initialize(band.getSongs());
+
+            Collection<Song> songs = band.getSongs();
+
+            for (Song song : songs) {
+                Hibernate.initialize(song.getScores());
+                Hibernate.initialize(song.getPlaybacks());
+                Hibernate.initialize(song.getMetronomes());
+            }
+        }
+
+        transaction.commit();
+
+        session.close();
+
+        sessionFactory.close();
+
         return bands;
     }
 
     public Band getById(long id) {
-        Iterator<Band> iterator = bands.iterator();
-        while (iterator.hasNext()) {
-            Band band = iterator.next();
-            if (band.getId() == id)
-                return band;
+        Transaction transaction = session.beginTransaction();
+
+        Band band = session.get(Band.class, id);
+        Hibernate.initialize(band.getSongs());
+
+        Collection<Song> songs = band.getSongs();
+
+        for (Song song : songs) {
+            Hibernate.initialize(song.getScores());
+            Hibernate.initialize(song.getPlaybacks());
+            Hibernate.initialize(song.getMetronomes());
         }
 
-        return null;
-    }
+        transaction.commit();
 
-    private String sql = "SELECT bands.id            AS \"band.id\",\n" +
-            "       bands.title         AS \"band.title\",\n" +
-            "       songs.id            AS \"song.id\",\n" +
-            "       songs.title         AS \"song.title\",\n" +
-            "       songs.key_signature AS \"song.key_signature\",\n" +
-            "       songs.text          AS \"song.text\"\n" +
-            "FROM songs\n" +
-            "         LEFT JOIN bands ON songs.band_id = bands.id";
+        session.close();
 
-    private void connect() {
-        String url = "jdbc:postgresql://localhost:9999/postgres";
-        Properties properties = new Properties();
-        properties.setProperty("user", "postgres");
-        properties.setProperty("password", "1234");
+        sessionFactory.close();
 
-        try {
-            Class.forName("org.postgresql.Driver");
-        } catch (ClassNotFoundException e) {
-            e.printStackTrace();
-        }
-
-        Connection connection = null;
-        try {
-            connection = DriverManager.getConnection(url, properties);
-        } catch (SQLException throwables) {
-            throwables.printStackTrace();
-        }
-
-        if (connection != null) {
-            try {
-                Statement statement = connection.createStatement();
-
-                ResultSet resultSet = statement.executeQuery(sql);
-
-                Band band = null;
-                while (resultSet.next()) {
-                    Song song = new Song();
-                    song.setId(resultSet.getLong("song.id"));
-                    song.setTitle(resultSet.getString("song.title"));
-                    song.setKeySignature(resultSet.getString("song.key_signature"));
-                    song.setText(resultSet.getString("song.text"));
-
-                    long current_band_id = resultSet.getLong("band.id");
-                    if (band == null) {
-                        band = new Band();
-                    }
-                    if (current_band_id != band.getId()) {
-                        band = new Band();
-                        band.setId(resultSet.getLong("band.id"));
-                        band.setTitle(resultSet.getString("band.title"));
-                        band.setSongs(new ArrayList<>());
-                        band.getSongs().add(song);
-
-                        bands.add(band);
-                    } else {
-                        band.getSongs().add(song);
-                    }
-                }
-
-                statement.close();
-                connection.close();
-            } catch (SQLException throwables) {
-                throwables.printStackTrace();
-            }
-        }
+        return band;
     }
 }

@@ -80,6 +80,9 @@ public class SongRepository {
         Transaction transaction = session.beginTransaction();
 
         Song song = session.get(Song.class, id);
+        Hibernate.initialize(song.getScores());
+        Hibernate.initialize(song.getPlaybacks());
+        Hibernate.initialize(song.getMetronomes());
 
         transaction.commit();
 
