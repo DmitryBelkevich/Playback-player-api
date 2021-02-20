@@ -1,5 +1,6 @@
 package com.hard.models;
 
+import com.fasterxml.jackson.annotation.JsonIgnore;
 import com.hard.models.abstracts.Model;
 
 import javax.persistence.*;
@@ -11,6 +12,7 @@ public class Score extends Model {
     private String url;
     @ManyToOne
     @JoinColumn(name = "song_id", nullable = false)
+    @JsonIgnore
     private Song song;
 
     public String getTitle() {

@@ -1,5 +1,6 @@
 package com.hard.models;
 
+import com.fasterxml.jackson.annotation.JsonIgnore;
 import com.fasterxml.jackson.annotation.JsonProperty;
 import com.hard.models.abstracts.Model;
 
@@ -16,6 +17,7 @@ public class Song extends Model {
     private String text;
     @ManyToOne
     @JoinColumn(name = "band_id", nullable = false)
+    @JsonIgnore
     private Band band;
     @OneToMany(mappedBy = "song")
     private Collection<Score> scores;
