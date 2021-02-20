@@ -19,6 +19,8 @@ public class Song extends Model {
     private Band band;
     @OneToMany(mappedBy = "song")
     private Collection<Score> scores;
+    @OneToMany(mappedBy = "song")
+    private Collection<Playback> playbacks;
 
     public String getTitle() {
         return title;
@@ -37,14 +39,6 @@ public class Song extends Model {
         this.keySignature = keySignature;
     }
 
-    public Band getBand() {
-        return band;
-    }
-
-    public void setBand(Band band) {
-        this.band = band;
-    }
-
     public String getText() {
         return text;
     }
@@ -53,11 +47,27 @@ public class Song extends Model {
         this.text = text;
     }
 
+    public Band getBand() {
+        return band;
+    }
+
+    public void setBand(Band band) {
+        this.band = band;
+    }
+
     public Collection<Score> getScores() {
         return scores;
     }
 
     public void setScores(Collection<Score> scores) {
         this.scores = scores;
+    }
+
+    public Collection<Playback> getPlaybacks() {
+        return playbacks;
+    }
+
+    public void setPlaybacks(Collection<Playback> playbacks) {
+        this.playbacks = playbacks;
     }
 }
