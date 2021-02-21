@@ -169,6 +169,12 @@ VALUES
 (DEFAULT, 'Cabasa', '1DyQ_G1rAuM3lNHq0T6RpohRwwhdmjh4I', 26),
 (DEFAULT, 'Maracas', '1BDraB5BnnYBowY15F3U3wNHROvbeCCvZ', 26),
 (DEFAULT, 'Pad 1 (New Age)', '1sbgE7jIIsINn5xodkiqUZvCFaFORs3Qh', 26),
+-- Аквариум - Город золотой
+(DEFAULT, 'Full Score', '177uT6ZxjWyg_TJaVcwqvhonGj9wNTVUI', 27),
+(DEFAULT, 'Voice', '1AREtwyIP4yzdo1MzMrFIIJ4SftJ_uvpb', 27),
+(DEFAULT, 'Acoustic Guitar', '1i_x7aeXwLNOW9SaE6YoO03G0T9xGxRg1', 27),
+(DEFAULT, 'Fretless Bass Guitar', '1pXsvkuULwx8h-NnM-v5zCs7YI7A76H-L', 27),
+(DEFAULT, 'Piccolo', '1MWnMxx-fyrWSZEM0hxtBxr45ZVrajWys', 27),
 -- Альянс - На заре
 (DEFAULT, 'Full Score', '1VU9saBYtJFXdd9ijZM-ym6kTEDjTrIfa', 28),
 (DEFAULT, 'Voice', '1kmkML8Kl5BBdJYLD76pIVx5cooMDN0BU', 28),
