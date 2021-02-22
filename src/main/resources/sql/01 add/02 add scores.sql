@@ -455,6 +455,7 @@ VALUES
 (DEFAULT, 'Shaker', '1wqTACchYHajuJCWpVpqvjosln1AqpFiu', 120),
 (DEFAULT, 'Tambourine', '1VUXWL3mKwlAn_9-PkDSNpoWjnCZtCU0X', 120),
 (DEFAULT, 'Keyboard', '1dBpJiG_i1_PbB325lTD65YGrUDAWRCB7', 120),
+-- Синяя птица - Там, где клён шумит
 -- Слот - Круги на воде
 (DEFAULT, 'Full Score', '14aqRd-DvdrMAIA1ORbm_IrJbHNDAsGwj', 122),
 (DEFAULT, 'Voice 1', '1ic6kOqt7xeiaZ326KcFFLJQJGKYpiKQw', 122),

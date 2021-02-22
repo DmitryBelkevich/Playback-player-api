@@ -264,6 +264,7 @@ VALUES
 -- Сергей Тихановcкий & Kosmas - Стены рухнут
 (DEFAULT, 'original', '1yQxC65aHyLpe3VFChlru9opT1yZlQTXQ', 120),
 (DEFAULT, '0', '1E-myP2M7zOkpOgp3mBgY1fA5TZYnHhbJ', 120),
+-- Синяя птица - Там, где клён шумит
 -- Слот - Круги на воде
 (DEFAULT, 'original', '1YlSgh1QzHl7t272sqgZIZogWzbBhFgyF', 122),
 (DEFAULT, '+1', '1608Rx2FTKM7Qpi5m1sjqykuBVZ5Vi3vg', 122),
