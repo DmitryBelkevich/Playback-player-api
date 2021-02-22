@@ -115,12 +115,26 @@ VALUES
 (DEFAULT, '+3', '1sxCjEUXgeFZucHx0a7g2ZYyDAsTqAWLM', 39),
 (DEFAULT, '0', '19V5F2fYUZkSX42Rc35xFPe-IAGB72_EE', 39),
 (DEFAULT, '-2', '1_pok6JtLQb7apnORc6zTP_MvfHIej9SU', 39),
+-- Гражданская оборона - Всё идёт по плану
+-- Гражданская оборона - Всё как у людей
+-- Гражданская оборона - Зоопарк
+-- Гражданская оборона - Моя оборона
+-- Гражданская оборона - Мёртвые
+-- Гражданская оборона - Насрать на моё лицо
+-- Гражданская оборона - Нечего терять
+-- Гражданская оборона - Про дурачка
 -- ДДТ - В последнюю осень
 (DEFAULT, '0', '1tA9yqkYEYAd1ZDFmWG6njlI6uVMzOv1p', 48),
+-- ДДТ - Осенняя
+-- ДДТ - Просвистела
 -- ДДТ - Что такое осень
 (DEFAULT, 'original', '1G-2pWpl6W2YVgW6xpWuAlu5Yq5S1XRkn', 51),
 (DEFAULT, '0', '1oFX2FUWsAN2hxKFdChZYRlDtf4Ot2zwk', 51),
 (DEFAULT, '-2', '1wLhVHa3MtA65rVNcUzJA2eylSwow3KlW', 51),
+-- ДДТ - Это всё…
+-- Егор и Опизденевшие - Про дурачка
+-- Егор и Опизденевшие - Про мишутку (Песенка для Янки)
+-- Жуки - Батарейка
 -- Звери - Всё, что касается
 (DEFAULT, 'original', '1b6_DTGyFiJjRB1IZACaS88mEKEYuIi8B', 56),
 (DEFAULT, '0', '1AHZ0DVs7gu13uxD5eLOPgOAb-DoURQB6', 56),
@@ -128,6 +142,7 @@ VALUES
 (DEFAULT, '-2', '1M3MUN38uasKCxibqRYDOpUHJe5ytnOiQ', 57),
 -- Звери - Напитки покрепче
 (DEFAULT, '-2', '1RTU0fMYNYn1oiN1becC8XlKOovw4DM1G', 58),
+-- Звери - Просто такая сильная любовь
 -- Звери - Районы-кварталы
 (DEFAULT, '0', '12EllXngEV88TfxNQgmn3cuJDBdiwQHwm', 60),
 -- Земляне - Трава у дома
@@ -190,6 +205,7 @@ VALUES
 (DEFAULT, '0', '1JN9LUaUCwH5kLnVEMI8OxuDcRQPOTpeG', 83),
 -- Ленинград - В Питере - пить
 (DEFAULT, '0', '1LOnxBYpYtcoja0RdESC9xufAG64NNo40', 84),
+-- Ленинград - Терминатор
 -- Леприконсы - Хали-Гали
 (DEFAULT, '-2', '12RUbq0rDW1qhWrGkBSPeocxVq163m8xL', 86),
 -- Ляпис Трубецкой - Ау
@@ -219,6 +235,7 @@ VALUES
 (DEFAULT, '0', '1smYkPrjJig_y-ozvJ0edmLizmyjFoiNa', 98),
 -- Ляпис Трубецкой - Шут
 (DEFAULT, '-2', '1ZYFVpydRIlHJDfVCKjDmSV4lOahAlX4A', 99),
+-- Ляпис Трубецкой - Яблони
 -- Ляпис Трубецкой - Я верю
 (DEFAULT, '-2', '1wlWCIZJeRpJ5P2QvagB_weIFAqdbobwe', 101),
 -- Михаил Боярский - Зеленоглазое такси
@@ -235,8 +252,13 @@ VALUES
 (DEFAULT, '0', '1XLMZNAxiQKvaufDAXmf5hMtMB0lNCoh0', 105),
 -- Мумий Тролль - Медведица
 (DEFAULT, '0', '125olCwlUYIUOMzUbZyGDt92H8Oe7Dimi', 106),
+-- Наутилус Помпилиус - Дыхание
+-- Наутилус Помпилиус - Крылья
 -- Наутилус Помпилиус - Последнее письмо
 (DEFAULT, '0', '1piEdKD0z11eK8WlOlOJ3BPQHTDMzzxLn', 109),
+-- Наутилус Помпилиус - Прогулки по воде
+-- Наутилус Помпилиус - Скованные одной цепью
+-- Наутилус Помпилиус - Я хочу быть с тобой
 -- Ненси - Дым сигарет с ментолом
 (DEFAULT, 'original', '1G0fC6XaLmrkDzavWQWe1fMlzJkqwx_Rd', 113),
 (DEFAULT, '0', '1MHdB7Y5aPqVAgyMraKeTBHkQ5F8QnYge', 113),
