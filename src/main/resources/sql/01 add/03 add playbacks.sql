@@ -287,6 +287,9 @@ VALUES
 (DEFAULT, 'original', '1yQxC65aHyLpe3VFChlru9opT1yZlQTXQ', 120),
 (DEFAULT, '0', '1E-myP2M7zOkpOgp3mBgY1fA5TZYnHhbJ', 120),
 -- Синяя птица - Там, где клён шумит
+(DEFAULT, 'original', '1_vGMqVWwZvAT7sLJNpITKCBBcaaCkcKY', 121),
+(DEFAULT, '0', '1wlHDu22rywGc5OvDFwmquO4Q24wooPQo', 121),
+(DEFAULT, '-2', '1Cja_cMlr2gg-dFAOoEvbx1PPR_WP0JAq', 121),
 -- Слот - Круги на воде
 (DEFAULT, 'original', '1YlSgh1QzHl7t272sqgZIZogWzbBhFgyF', 122),
 (DEFAULT, '+1', '1608Rx2FTKM7Qpi5m1sjqykuBVZ5Vi3vg', 122),
