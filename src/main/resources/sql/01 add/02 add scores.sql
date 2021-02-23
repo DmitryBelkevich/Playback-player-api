@@ -456,6 +456,14 @@ VALUES
 (DEFAULT, 'Tambourine', '1VUXWL3mKwlAn_9-PkDSNpoWjnCZtCU0X', 120),
 (DEFAULT, 'Keyboard', '1dBpJiG_i1_PbB325lTD65YGrUDAWRCB7', 120),
 -- Синяя птица - Там, где клён шумит
+(DEFAULT, 'Full Score', '1DlBQ_uyczivHw4acT1r-QHi5N-9ahjnL', 121),
+(DEFAULT, 'Voice 1, Voice 2.3', '1q9wYCmt18f_AWVQGcJcQzdJ1SRQY-2Qt', 121),
+(DEFAULT, 'Voice 1', '1IbFXZBfW0NTRxbUSb51vykMGpjS70IXu', 121),
+(DEFAULT, 'Voice 2.3', '1laKn7tT2slH7JLL8fg-xEhz8pkpA6JnD', 121),
+(DEFAULT, 'Electric Guitar', '1B855tEqYeLDiXTOM7cYhrVzkSCN1a5JE', 121),
+(DEFAULT, 'Bass Guitar', '1nY-q0y_cVX-nLgl0NlIbCqqBWWakbU5Z', 121),
+(DEFAULT, 'Drum Set', '1K9iM-eatwv5AMLxT_sMl4G1p_jHOlxl4', 121),
+(DEFAULT, 'Piano', '1pjjnaxWpufB1fcQ8ju6qZ58x3q002pIn', 121),
 -- Слот - Круги на воде
 (DEFAULT, 'Full Score', '14aqRd-DvdrMAIA1ORbm_IrJbHNDAsGwj', 122),
 (DEFAULT, 'Voice 1', '1ic6kOqt7xeiaZ326KcFFLJQJGKYpiKQw', 122),
