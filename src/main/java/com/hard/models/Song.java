@@ -12,17 +12,24 @@ import java.util.Collection;
 @Table(name = "songs")
 public class Song extends Model {
     private String title;
+
     @Column(name = "key_signature")
     private String keySignature;
-    private String text;
+
     @ManyToOne
     @JoinColumn(name = "band_id", nullable = false)
     @JsonIgnore
     private Band band;
+
+    @OneToOne(mappedBy = "song")
+    private Text text;
+
     @OneToMany(mappedBy = "song")
     private Collection<Score> scores;
+
     @OneToMany(mappedBy = "song")
     private Collection<Playback> playbacks;
+
     @OneToMany(mappedBy = "song")
     private Collection<Metronome> metronomes;
 
@@ -43,20 +50,20 @@ public class Song extends Model {
         this.keySignature = keySignature;
     }
 
-    public String getText() {
-        return text;
-    }
-
-    public void setText(String text) {
-        this.text = text;
-    }
-
     public Band getBand() {
         return band;
     }
 
     public void setBand(Band band) {
         this.band = band;
+    }
+
+    public Text getText() {
+        return text;
+    }
+
+    public void setText(Text text) {
+        this.text = text;
     }
 
     public Collection<Score> getScores() {

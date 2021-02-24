@@ -11,6 +11,7 @@ import java.util.Collection;
 @Table(name = "bands")
 public class Band extends Model {
     private String title;
+
     @OneToMany(mappedBy = "band")
     private Collection<Song> songs;
 

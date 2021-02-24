@@ -15,6 +15,7 @@ public class Metronome extends Model {
     private int numerator;
     private int denominator;
     private int tempo;
+
     @ManyToOne
     @JoinColumn(name = "song_id", nullable = false)
     @JsonIgnore

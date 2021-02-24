@@ -10,6 +10,7 @@ import javax.persistence.*;
 public class Score extends Model {
     private String title;
     private String url;
+
     @ManyToOne
     @JoinColumn(name = "song_id", nullable = false)
     @JsonIgnore

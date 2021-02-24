@@ -48,6 +48,7 @@ public class BandRepository {
                 .addAnnotatedClass(User.class)
                 .addAnnotatedClass(Band.class)
                 .addAnnotatedClass(Song.class)
+                .addAnnotatedClass(Text.class)
                 .addAnnotatedClass(Score.class)
                 .addAnnotatedClass(Playback.class)
                 .addAnnotatedClass(Metronome.class);

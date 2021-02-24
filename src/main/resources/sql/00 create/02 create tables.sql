@@ -41,6 +41,22 @@ ALTER TABLE songs
             ON UPDATE CASCADE
             ON DELETE CASCADE;
 
+-- texts
+
+CREATE TABLE IF NOT EXISTS texts
+(
+    id      BIGSERIAL PRIMARY KEY,
+    url     VARCHAR(1024),
+    song_id BIGINT
+);
+
+ALTER TABLE texts
+    ADD CONSTRAINT texts_song_id_fkey
+        FOREIGN KEY (song_id)
+            REFERENCES songs (id)
+            ON UPDATE CASCADE
+            ON DELETE CASCADE;
+
 -- scores
 
 CREATE TABLE IF NOT EXISTS scores
