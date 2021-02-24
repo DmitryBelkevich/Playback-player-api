@@ -193,7 +193,8 @@ VALUES
 -- Король и Шут - Кукла колдуна
 (DEFAULT, '0', '1o1p9742SmxLNb4L-IpuOHsupZWNbz4ik', 78),
 -- Король и Шут - Лесник
-(DEFAULT, '0', '1JWwk241xScRwVt6uEVqEtR5akj1ibtfj', 79),
+(DEFAULT, 'original', '1Q-1rGHNMcSIAkaOgHu7r5kGW5u6AlAzp', 79),
+(DEFAULT, '0', '1G4jZvYLAaO11N3wcuwF9JyZ7zf8eztrp', 79),
 -- Король и Шут - Мёртвый Анархист
 (DEFAULT, 'original', '1_a5-6MuaDVE3cDtsgncZL32lQ8jc0Eon', 80),
 (DEFAULT, '0', '1d1nelo5N_ijF_UNnsLJ-zijCIbgKqA1R', 80),
