@@ -269,14 +269,18 @@ VALUES
 (DEFAULT, '0', '1zYlwkeJG-88fJSRN_dGRKCK7mv7HYSnu', 114),
 (DEFAULT, '-2', '1XcU25y1Hbyj6xz35t1DEKbmtQonE80Z9', 114),
 -- Сектор Газа - 30 лет
+(DEFAULT, 'original', '1wIDn6ec4OlJ_D1er16Qf2Sk_lPLGsOdb', 115),
 (DEFAULT, '0', '1jHSNKYNF_TbBwGtYDNpwUbWhuqwtmn94', 115),
 (DEFAULT, '-1', '1Q3Wt0wmsiNO0ICcIKAa9SK3pQMEe4rCb', 115),
 (DEFAULT, '-2', '1EV6mNddZ2nZeJnZEhzmPtIURjPDDIEnt', 115),
 -- Сектор Газа - Демобилизация
+(DEFAULT, 'original', '1AOgo6z5PacmGOR_cEVkHImkrNHTP6uUf', 116),
 (DEFAULT, '0', '1ClW4nvRODv7ved3D_RCfFkAphclT9z3l', 116),
 (DEFAULT, '-2', '14bCHWbBhGuWc_Ei93qaCt71UILw_lOqL', 116),
 -- Сектор Газа - Пора домой
-(DEFAULT, '-2', '1Sy6h1-gow9d2eO6AxYfYTBgLnqy4ndfT', 117),
+(DEFAULT, 'original', '1HzP8J_N_ZH0AdHs3PQ3ISUcoPX_EpiNm', 117),
+(DEFAULT, '0', '19PuzE6JjAp8vzkqqDaOif3YddNxeRoPX', 117),
+(DEFAULT, '-2', '1YCgOA42e4nseyg2N5uUnifHjvtPGaKan', 117),
 -- Сектор Газа - Туман
 (DEFAULT, 'original', '1KmiuMyrSRQa7sg3SMAsKww4OcvavGBuX', 118),
 (DEFAULT, '0', '1H2doovd6GE01_NliojJb26JhrFqRQB6q', 118),
