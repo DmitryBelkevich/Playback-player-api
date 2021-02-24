@@ -289,7 +289,7 @@ VALUES
 (DEFAULT, 'Drum Set', '1e7xzpnhed2tPtDhMIz-BavQoeDxaYQqI', 67),
 (DEFAULT, 'Pad 1 (New Age)', '1yVe3X0QpyogA7LwJbjLfk4wgxzXJeqow', 67),
 -- Король и Шут - Воспоминание о былой любви
-(DEFAULT, 'Full Score', '1rTNk7JdK5ZQqpavVXXB7Sy7DYK6V46ol', 73),
+(DEFAULT, 'Full Score', '1DtZMHimuwJhV90ekZKEn3wQltcVN7H-Q', 73),
 (DEFAULT, 'Voice 1, Voice 2', '11P80LAbApMeCAt4IlqecGXY0iSigfEJg', 73),
 (DEFAULT, 'Voice 1', '1OfJcnzG9NJgstO3KsPoXTJfBrikQPhQW', 73),
 (DEFAULT, 'Voice 2', '15rhXz9P0kSq3Uqu_UNPNohHzd4gT5pAq', 73),
@@ -298,9 +298,9 @@ VALUES
 (DEFAULT, 'Electric Guitar 2', '1BZ9Azlx8xPk1rNojD2mwxsz1Y5Na7LHY', 73),
 (DEFAULT, 'Bass Guitar', '1mtSVdXbcIhhR3XgD3hpKu17JI91jqUcn', 73),
 (DEFAULT, 'Drum Set', '1Ws9xU0TC8toDxUfYP_qdCD-fKHL84Wx9', 73),
-(DEFAULT, 'Violin, Viola', '1hXstD7dw-IreUaQctZA3HGQebznO2pYB', 73),
-(DEFAULT, 'Violin', '1Z9aQJEcybliGd5XkDmFMrnhgbKIn0Cz_', 73),
-(DEFAULT, 'Viola', '1NyhgAE-Xrv3a-1lX31nPBBa_T3OLEIIW', 73),
+(DEFAULT, 'Violin, Viola', '12HvGzMCDN87shrki4K-_jSEfrLeK5r5-', 73),
+(DEFAULT, 'Violin', '15qDFVAMfjxIazTBH1uAmTIcTIB1oVflq', 73),
+(DEFAULT, 'Viola', '1KiLTBpsWsMSbJWaf6r2Qo-nu9N5MtV-B', 73),
 -- Король и Шут - Дурак и молния
 (DEFAULT, 'Full Score', '1RrB_RfJvvLgpY7HLT5XNL3o86WHeM6TD', 74),
 (DEFAULT, 'Voice', '1a8iRJKiOPx5VW5ysjNszVHscn5CG3Fy6', 74),
