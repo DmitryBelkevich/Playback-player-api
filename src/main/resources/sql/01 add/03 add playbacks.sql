@@ -176,6 +176,7 @@ VALUES
 -- Кипелов - Я свободен!
 (DEFAULT, '0', '1-nGYWtzW5tFXT9W9ca-5V5DEmVPQhux9', 72),
 -- Король и Шут - Воспоминание о былой любви
+(DEFAULT, 'original', '1QxAgG3f1KArNxnkEmdGTUQSvKZYv9PwF', 73),
 (DEFAULT, '0', '1jf0gR5EpT5qodPgplVJsenAt709yZwlN', 73),
 -- Король и Шут - Дурак и молния
 (DEFAULT, 'original', '1a4DgfuiaB-irTmAmn-iW64kgBlaUgseG', 74),
