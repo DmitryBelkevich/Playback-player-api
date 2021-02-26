@@ -177,7 +177,7 @@ VALUES
 (DEFAULT, '0', '1-nGYWtzW5tFXT9W9ca-5V5DEmVPQhux9', 72),
 -- Король и Шут - Воспоминание о былой любви
 (DEFAULT, 'original', '1QxAgG3f1KArNxnkEmdGTUQSvKZYv9PwF', 73),
-(DEFAULT, '0', '1ej37qJd4if-7CfUutECfmoCqmuZqfkcy', 73),
+(DEFAULT, '0', '1oJZDM10h_rIGFMdjV6vHg0Herrsb1a6I', 73),
 -- Король и Шут - Дурак и молния
 (DEFAULT, 'original', '1a4DgfuiaB-irTmAmn-iW64kgBlaUgseG', 74),
 (DEFAULT, '0', '1UAruekfzB-YRM95vrMMWYKZIM_zH1s0l', 74),
@@ -245,7 +245,9 @@ VALUES
 (DEFAULT, '0', '1kQHGP2fELW804Z_kJTprPrUmwbORDMS8', 102),
 -- Михаил Круг - Кольщик
 (DEFAULT, 'original', '1fvlhRCo7p4Kt10cFsgbny-6VcfObirVE', 103),
-(DEFAULT, '-2', '1fTr60r0JyNiQK6e_NJ8nhYpr2YJstwEM', 103),
+(DEFAULT, '0', '1TPTH2RYljlUMr9H8HZ5n9odSlc-V-EWJ', 103),
+(DEFAULT, '-1', '1DI9nYJRYzHbWrIe0KRzq5b0_n2yqGc9L', 103),
+(DEFAULT, '-2', '1ME3K80tqVIo1paB_G1WC1LR5On93gKzg', 103),
 -- МУККА - ДЕВОЧКА С КАРЕ
 (DEFAULT, 'original', '1r8qHmacix9KerOKNRxE3Lll0ks-orfVp', 104),
 (DEFAULT, '0', '1lXW4sMNrEPN81f3I_HsaWL8AuwmfmWau', 104),
