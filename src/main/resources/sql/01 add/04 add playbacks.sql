@@ -305,14 +305,14 @@ VALUES
 (DEFAULT, '-2', '1jN7UFNqST3wwuzNOuk5ojOzZ_yYOBkV0', 122),
 -- Сплин - Выхода нет
 (DEFAULT, 'original', '1TFfR8esb__0DnsP8SMc02xvcfOKSGN3p', 123),
-(DEFAULT, '0', '1lWHV2sKLMUQvA-0Ja6PLXW9KhRdoyuIR', 123),
+(DEFAULT, '0', '1agtSI6Guw2pyf0JF4BQ1OKpBAbrpsvPX', 123),
 -- Сплин - Линия жизни
 (DEFAULT, '0', '1i1TE8CQ1qje46JPPSEMqNSncdKc6AoBQ', 124),
 -- Сплин - Моё сердце
 (DEFAULT, '0', '1ilBBPuLUa3pWWSdbr5s2C_wVpXH935aT', 125),
 -- Сплин - Орбит без сахара
 (DEFAULT, 'original', '1W3RKtn2pNLYhXPX4x58ru3jUAZexr16l', 126),
-(DEFAULT, '0', '1yc6WxGDcYqCkKUnLuLpKGv27DEIB38Cp', 126),
+(DEFAULT, '0', '1EUMB6U7BOAEQhl5ualx3trWbCPSuQqe4', 126),
 -- Сплин - Романс
 (DEFAULT, 'original', '1IGAxFyBv9-cwbQgyYWEtUUQTw6MzfOHT', 127),
 (DEFAULT, '0', '1y03jkJpseyax1_B20hx_IOigTSiWzFd4', 127),
