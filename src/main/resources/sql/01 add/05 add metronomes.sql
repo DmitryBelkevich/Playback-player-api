@@ -10,75 +10,77 @@ VALUES
 (DEFAULT, null, 4, 4, 126, 3),
 -- Maroon 5 - This Love
 (DEFAULT, null, 4, 4, 95, 4),
+-- Linkin Park - Numb
+(DEFAULT, null, 4, 4, 110, 5),
 -- Metallica - No Leaf Clover
-(DEFAULT, null, 2, 4, 75, 5),
+(DEFAULT, null, 2, 4, 75, 6),
 -- Metallica - Nothing Else Matters
-(DEFAULT, null, 6, 8, 47, 6),
+(DEFAULT, null, 6, 8, 47, 7),
 -- Metallica - The Unforgiven
-(DEFAULT, null, 2, 4, 70, 7),
+(DEFAULT, null, 2, 4, 70, 8),
 -- Nirvana - Smells Like Teen Spirit
-(DEFAULT, null, 2, 4, 117, 8),
+(DEFAULT, null, 2, 4, 117, 9),
 -- Radiohead - Creep
-(DEFAULT, null, 4, 4, 95, 9),
+(DEFAULT, null, 4, 4, 95, 10),
 -- Radiohead - Karma Police
 -- Rammstein - Frühling in Paris
-(DEFAULT, null, 4, 4, 128, 11),
+(DEFAULT, null, 4, 4, 128, 12),
 -- Rammstein - Mutter
-(DEFAULT, null, 4, 4, 58, 12),
+(DEFAULT, null, 4, 4, 58, 13),
 -- System of a Down - Aerials
-(DEFAULT, null, 4, 4, 80, 13),
+(DEFAULT, null, 4, 4, 80, 14),
 -- System of a Down - Chop Suey!
-(DEFAULT, null, 4, 4, 130, 14),
+(DEFAULT, null, 4, 4, 130, 15),
 -- System of a Down - Lonely Day
-(DEFAULT, null, 6, 8, 75, 15),
+(DEFAULT, null, 6, 8, 75, 16),
 -- System of a Down - Toxicity
-(DEFAULT, null, 6, 8, 80, 16),
+(DEFAULT, null, 6, 8, 80, 17),
 -- The Beatles - Yesterday
-(DEFAULT, null, 4, 4, 95, 17),
+(DEFAULT, null, 4, 4, 95, 18),
 -- The Cranberries - Zombie
-(DEFAULT, null, 4, 4, 80, 18),
+(DEFAULT, null, 4, 4, 80, 19),
 -- Animal ДжаZ - Три полоски
-(DEFAULT, null, 4, 4, 108, 19),
+(DEFAULT, null, 4, 4, 108, 20),
 -- BRUTTO - 12 обезьян
-(DEFAULT, null, 4, 4, 128, 20),
+(DEFAULT, null, 4, 4, 128, 21),
 -- IOWA - Бьёт Бит
-(DEFAULT, null, 2, 4, 110, 21),
+(DEFAULT, null, 2, 4, 110, 22),
 -- IOWA - Улыбайся
-(DEFAULT, null, 4, 4, 130, 22),
+(DEFAULT, null, 4, 4, 130, 23),
 -- Lumen - Гореть
-(DEFAULT, null, 4, 4, 67, 23),
+(DEFAULT, null, 4, 4, 67, 24),
 -- N.R.M. - Лёгкія-лёгкія
-(DEFAULT, null, 4, 4, 132, 24),
+(DEFAULT, null, 4, 4, 132, 25),
 -- N.R.M. - Тры чарапахі
-(DEFAULT, null, 2, 4, 132, 25),
+(DEFAULT, null, 2, 4, 132, 26),
 -- Агата Кристи - Как на войне
-(DEFAULT, null, 4, 4, 137, 26),
+(DEFAULT, null, 4, 4, 137, 27),
 -- Аквариум - Город золотой
-(DEFAULT, null, 2, 4, 65, 27),
+(DEFAULT, null, 2, 4, 65, 28),
 -- Альянс - На заре
-(DEFAULT, null, 4, 4, 127, 28),
+(DEFAULT, null, 4, 4, 127, 29),
 -- Ария - Беспечный ангел
-(DEFAULT, null, 4, 4, 130, 29),
--- Ария - Закат
 (DEFAULT, null, 4, 4, 130, 30),
+-- Ария - Закат
+(DEFAULT, null, 4, 4, 130, 31),
 -- Ария - Осколок льда
-(DEFAULT, null, 4, 4, 71, 31),
+(DEFAULT, null, 4, 4, 71, 32),
 -- Ария - Штиль
-(DEFAULT, null, 12, 8, 68, 32),
+(DEFAULT, null, 12, 8, 68, 33),
 -- АукцЫон - Дорога
-(DEFAULT, null, 3, 4, 130, 33),
+(DEFAULT, null, 3, 4, 130, 34),
 -- Би-2 - Варвара
-(DEFAULT, null, 2, 4, 84, 34),
+(DEFAULT, null, 2, 4, 84, 35),
 -- Би-2 - Компромисс
-(DEFAULT, null, 4, 4, 105, 35),
+(DEFAULT, null, 4, 4, 105, 36),
 -- Би-2 - Мой рок-н-ролл
-(DEFAULT, null, 4, 4, 120, 36),
+(DEFAULT, null, 4, 4, 120, 37),
 -- Би-2 - Полковнику никто не пишет
-(DEFAULT, null, 4, 4, 88, 37),
+(DEFAULT, null, 4, 4, 88, 38),
 -- Би-2 - Серебро
-(DEFAULT, null, 2, 4, 85, 38),
+(DEFAULT, null, 2, 4, 85, 39),
 -- Валентин Стрыкало - Наше лето
-(DEFAULT, null, 4, 4, 120, 39),
+(DEFAULT, null, 4, 4, 120, 40),
 -- Гражданская оборона - Всё идёт по плану
 -- Гражданская оборона - Всё как у людей
 -- Гражданская оборона - Зоопарк
@@ -88,156 +90,156 @@ VALUES
 -- Гражданская оборона - Нечего терять
 -- Гражданская оборона - Про дурачка
 -- ДДТ - В последнюю осень
-(DEFAULT, null, 2, 4, 113, 48),
+(DEFAULT, null, 2, 4, 113, 49),
 -- ДДТ - Осенняя
 -- ДДТ - Просвистела
 -- ДДТ - Что такое осень
-(DEFAULT, null, 4, 4, 198, 51),
+(DEFAULT, null, 4, 4, 198, 52),
 -- ДДТ - Это всё…
 -- Егор и Опизденевшие - Про дурачка
 -- Егор и Опизденевшие - Про мишутку (Песенка для Янки)
 -- Жуки - Батарейка
 -- Звери - Всё, что касается
-(DEFAULT, null, 4, 4, 177, 56),
+(DEFAULT, null, 4, 4, 177, 57),
 -- Звери - До скорой встречи
-(DEFAULT, null, 4, 4, 150, 57),
+(DEFAULT, null, 4, 4, 150, 58),
 -- Звери - Напитки покрепче
-(DEFAULT, null, 2, 4, 72, 58),
+(DEFAULT, null, 2, 4, 72, 59),
 -- Звери - Просто такая сильная любовь
 -- Звери - Районы-кварталы
-(DEFAULT, null, 2, 4, 88, 60),
+(DEFAULT, null, 2, 4, 88, 61),
 -- Земляне - Трава у дома
-(DEFAULT, 'Intro', 4, 4, 85, 61),
-(DEFAULT, 'Break', 4, 4, 128, 61),
+(DEFAULT, 'Intro', 4, 4, 85, 62),
+(DEFAULT, 'Break', 4, 4, 128, 62),
 -- Земфира - Искала
-(DEFAULT, null, 2, 4, 95, 62),
+(DEFAULT, null, 2, 4, 95, 63),
 -- Земфира - Хочешь?
-(DEFAULT, null, 4, 4, 67, 63),
+(DEFAULT, null, 4, 4, 67, 64),
 -- Кино - Группа крови
-(DEFAULT, null, 4, 4, 124, 64),
+(DEFAULT, null, 4, 4, 124, 65),
 -- Кино - Звезда по имени Солнце
-(DEFAULT, null, 4, 4, 118, 65),
+(DEFAULT, null, 4, 4, 118, 66),
 -- Кино - Когда твоя девушка больна
-(DEFAULT, null, 4, 4, 117, 66),
+(DEFAULT, null, 4, 4, 117, 67),
 -- Кино - Кончится лето
-(DEFAULT, null, 4, 4, 139, 67),
+(DEFAULT, null, 4, 4, 139, 68),
 -- Кино - Кукушка
-(DEFAULT, null, 4, 4, 106, 68),
+(DEFAULT, null, 4, 4, 106, 69),
 -- Кино - Мама, мы все тяжело больны
-(DEFAULT, null, 4, 4, 167, 69),
+(DEFAULT, null, 4, 4, 167, 70),
 -- Кино - Пачка сигарет
-(DEFAULT, null, 2, 4, 87, 70),
+(DEFAULT, null, 2, 4, 87, 71),
 -- Кино - Хочу перемен!
-(DEFAULT, null, 4, 4, 130, 71),
+(DEFAULT, null, 4, 4, 130, 72),
 -- Кипелов - Я свободен!
-(DEFAULT, null, 4, 4, 70, 72),
+(DEFAULT, null, 4, 4, 70, 73),
 -- Король и Шут - Воспоминание о былой любви
-(DEFAULT, null, 4, 4, 115, 73),
+(DEFAULT, null, 4, 4, 115, 74),
 -- Король и Шут - Дурак и молния
-(DEFAULT, null, 4, 4, 178, 74),
+(DEFAULT, null, 4, 4, 178, 75),
 -- Король и Шут - Ели мясо мужики
-(DEFAULT, null, 4, 4, 170, 75),
+(DEFAULT, null, 4, 4, 170, 76),
 -- Король и Шут - Жаль, нет ружья!
-(DEFAULT, null, 4, 4, 152, 76),
+(DEFAULT, null, 4, 4, 152, 77),
 -- Король и Шут - Камнем по голове
-(DEFAULT, null, 4, 4, 162, 77),
+(DEFAULT, null, 4, 4, 162, 78),
 -- Король и Шут - Кукла колдуна
-(DEFAULT, null, 4, 4, 148, 78),
+(DEFAULT, null, 4, 4, 148, 79),
 -- Король и Шут - Лесник
-(DEFAULT, null, 4, 4, 173, 79),
+(DEFAULT, null, 4, 4, 173, 80),
 -- Король и Шут - Мёртвый Анархист
-(DEFAULT, null, 4, 4, 125, 80),
+(DEFAULT, null, 4, 4, 125, 81),
 -- Король и Шут - Наблюдатель
-(DEFAULT, null, 2, 4, 125, 81),
+(DEFAULT, null, 2, 4, 125, 82),
 -- Король и Шут - Проклятый старый дом
-(DEFAULT, null, 4, 4, 120, 82),
+(DEFAULT, null, 4, 4, 120, 83),
 -- Король и Шут - Прыгну со скалы
-(DEFAULT, null, 4, 4, 156, 83),
+(DEFAULT, null, 4, 4, 156, 84),
 -- Ленинград - WWW
-(DEFAULT, null, 4, 4, 140, 84),
+(DEFAULT, null, 4, 4, 140, 85),
 -- Ленинград - В Питере - пить
-(DEFAULT, null, 2, 4, 80, 85),
+(DEFAULT, null, 2, 4, 80, 86),
 -- Ленинград - Терминатор
 -- Леприконсы - Хали-Гали
-(DEFAULT, null, 4, 4, 144, 87),
+(DEFAULT, null, 4, 4, 144, 88),
 -- Ляпис Трубецкой - Ау
-(DEFAULT, null, 4, 4, 123, 88),
+(DEFAULT, null, 4, 4, 123, 89),
 -- Ляпис Трубецкой - Воины света
-(DEFAULT, null, 4, 4, 105, 89),
+(DEFAULT, null, 4, 4, 105, 90),
 -- Ляпис Трубецкой - В платье белом
-(DEFAULT, null, 4, 4, 128, 90),
+(DEFAULT, null, 4, 4, 128, 91),
 -- Ляпис Трубецкой - Грай
-(DEFAULT, null, 4, 4, 92, 91),
+(DEFAULT, null, 4, 4, 92, 92),
 -- Ляпис Трубецкой - Евпатория
-(DEFAULT, null, 4, 4, 124, 92),
+(DEFAULT, null, 4, 4, 124, 93),
 -- Ляпис Трубецкой - Капитал
-(DEFAULT, null, 2, 4, 126, 93),
+(DEFAULT, null, 2, 4, 126, 94),
 -- Ляпис Трубецкой - Манифест
-(DEFAULT, null, 2, 4, 150, 94),
+(DEFAULT, null, 2, 4, 150, 95),
 -- Ляпис Трубецкой - Не быць скотам!
-(DEFAULT, null, 4, 4, 144, 95),
+(DEFAULT, null, 4, 4, 144, 96),
 -- Ляпис Трубецкой - Belarus Freedom
 -- Ляпис Трубецкой - Огоньки
-(DEFAULT, null, 2, 4, 106, 97),
+(DEFAULT, null, 2, 4, 106, 98),
 -- Ляпис Трубецкой - Сочи
-(DEFAULT, null, 4, 4, 141, 98),
+(DEFAULT, null, 4, 4, 141, 99),
 -- Ляпис Трубецкой - Танцуй
-(DEFAULT, null, 4, 4, 212, 99),
+(DEFAULT, null, 4, 4, 212, 100),
 -- Ляпис Трубецкой - Шут
-(DEFAULT, null, 2, 4, 100, 100),
+(DEFAULT, null, 2, 4, 100, 101),
 -- Ляпис Трубецкой - Яблони
-(DEFAULT, null, 4, 4, 120, 101),
+(DEFAULT, null, 4, 4, 120, 102),
 -- Ляпис Трубецкой - Я верю
-(DEFAULT, null, 2, 4, 81, 102),
+(DEFAULT, null, 2, 4, 81, 103),
 -- Михаил Боярский - Зеленоглазое такси
-(DEFAULT, null, 4, 4, 104, 103),
+(DEFAULT, null, 4, 4, 104, 104),
 -- Михаил Круг - Кольщик
-(DEFAULT, null, 4, 4, 64, 104),
+(DEFAULT, null, 4, 4, 64, 105),
 -- МУККА - ДЕВОЧКА С КАРЕ
-(DEFAULT, null, 4, 4, 150, 105),
+(DEFAULT, null, 4, 4, 150, 106),
 -- Мумий Тролль - Владивосток 2000
-(DEFAULT, null, 4, 4, 130, 106),
--- Мумий Тролль - Медведица
 (DEFAULT, null, 4, 4, 130, 107),
+-- Мумий Тролль - Медведица
+(DEFAULT, null, 4, 4, 130, 108),
 -- Наутилус Помпилиус - Дыхание
 -- Наутилус Помпилиус - Крылья
 -- Наутилус Помпилиус - Последнее письмо
-(DEFAULT, 'Intro, Verse 1', 2, 4, 50, 110),
-(DEFAULT, 'Chorus', 2, 4, 85, 110),
+(DEFAULT, 'Intro, Verse 1', 2, 4, 50, 111),
+(DEFAULT, 'Chorus', 2, 4, 85, 111),
 -- Наутилус Помпилиус - Прогулки по воде
 -- Наутилус Помпилиус - Скованные одной цепью
 -- Наутилус Помпилиус - Я хочу быть с тобой
 -- Ненси - Дым сигарет с ментолом
-(DEFAULT, null, 4, 4, 75, 114),
+(DEFAULT, null, 4, 4, 75, 115),
 -- Порнофильмы - Я так соскучился
-(DEFAULT, null, 6, 8, 64, 115),
+(DEFAULT, null, 6, 8, 64, 116),
 -- Сектор Газа - 30 лет
-(DEFAULT, null, 4, 4, 151, 116),
+(DEFAULT, null, 4, 4, 151, 117),
 -- Сектор Газа - Демобилизация
-(DEFAULT, null, 4, 4, 204, 117),
+(DEFAULT, null, 4, 4, 204, 118),
 -- Сектор Газа - Пора домой
-(DEFAULT, null, 4, 4, 160, 118),
--- Сектор Газа - Туман
 (DEFAULT, null, 4, 4, 160, 119),
+-- Сектор Газа - Туман
+(DEFAULT, null, 4, 4, 160, 120),
 -- Сергей Тихановcкий & Kosmas - Разбуры турмы муры
-(DEFAULT, null, 6, 8, 69, 120),
--- Сергей Тихановcкий & Kosmas - Стены рухнут
 (DEFAULT, null, 6, 8, 69, 121),
+-- Сергей Тихановcкий & Kosmas - Стены рухнут
+(DEFAULT, null, 6, 8, 69, 122),
 -- Синяя птица - Там, где клён шумит
-(DEFAULT, null, 2, 4, 65, 122),
+(DEFAULT, null, 2, 4, 65, 123),
 -- Слот - Круги на воде
-(DEFAULT, null, 4, 4, 71, 123),
+(DEFAULT, null, 4, 4, 71, 124),
 -- Сплин - Выхода нет
-(DEFAULT, null, 4, 4, 86, 124),
+(DEFAULT, null, 4, 4, 86, 125),
 -- Сплин - Линия жизни
-(DEFAULT, null, 4, 4, 105, 125),
+(DEFAULT, null, 4, 4, 105, 126),
 -- Сплин - Моё сердце
-(DEFAULT, null, 4, 4, 131, 126),
+(DEFAULT, null, 4, 4, 131, 127),
 -- Сплин - Орбит без сахара
-(DEFAULT, null, 4, 4, 136, 127),
+(DEFAULT, null, 4, 4, 136, 128),
 -- Сплин - Романс
-(DEFAULT, null, 4, 4, 100, 128),
+(DEFAULT, null, 4, 4, 100, 129),
 -- Танцы Минус - Половинка
-(DEFAULT, null, 2, 4, 87, 129),
+(DEFAULT, null, 2, 4, 87, 130),
 -- Чичерина - Ту-лу-ла
-(DEFAULT, null, 2, 4, 130, 130);
+(DEFAULT, null, 2, 4, 130, 131);
