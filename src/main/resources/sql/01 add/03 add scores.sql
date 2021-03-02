@@ -367,7 +367,7 @@ VALUES
 (DEFAULT, 'Electric Guitar 1', '1dFp49slQgSUlIwW_m5RIZxeMaL8mOoF1', 82),
 (DEFAULT, 'Electric Guitar 2', '1neI7mHFg5EE9my-BYlwJZyOBLYKmlqt-', 82),
 (DEFAULT, 'Bass Guitar', '1PFbQlVh1oEUbyObxBAfOhWKKwRGRalyZ', 82),
-(DEFAULT, 'Drum Set', '1puQyomDGtQKS3txFCxGfnKgfjQRnAatI', 82),
+(DEFAULT, 'Drum Set', '1D5_MqHZgDVhQd9eK6TwlOXoNwjYKrdX_', 82),
 (DEFAULT, 'Violin 1, Violin 2, Violin 3', '1n0xOihXuA94z3JYBOBS5UkibGszPGQbJ', 82),
 (DEFAULT, 'Violin 1', '1nEzox6YBIO_9L5xZTKR9SBS28S_eTcF0', 82),
 (DEFAULT, 'Violin 2', '1VDl8cfbl0zDOdRE9TcAB5X4EEgzPgqsZ', 82),
