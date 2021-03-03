@@ -355,10 +355,10 @@ VALUES
 (DEFAULT, 'Electric Guitar 2', '1gWCw_DpMHuOo8njBImfxbq7lIMey-tOe', 81),
 (DEFAULT, 'Bass Guitar', '16ztdjh6WARbnmeVCTGHwF7Ecchj4YvMt', 81),
 (DEFAULT, 'Drum Set', '1O1ToifAYS3m3uDniNhWpkNe7qv07Szcf', 81),
--- Ляпис Трубецкой - Наблюдатель
-(DEFAULT, 'Full Score', '1QBC-NARwMiiB-IcTFsDPCRfswZUB9Bk0', 82),
-(DEFAULT, 'Voice 1, Voice 2, Voice 3, Voice 4, Voice 5', '1BsV77_nm75YfP8vTkgtYv0XYr9uUT6i6', 82),
-(DEFAULT, 'Voice 1', '1F_VrfowljgWQL4QiyQgl9aHIda7SfEis', 82),
+-- Король и Шут - Наблюдатель
+(DEFAULT, 'Full Score', '1FaxfMcmMW-BdBDcJbcmyXmHosTg3H7Pk', 82),
+(DEFAULT, 'Voice 1, Voice 2, Voice 3, Voice 4, Voice 5', '1r5yI-nyHeelDJhBfQExb75X5xQ88cspC', 82),
+(DEFAULT, 'Voice 1', '1RCpBeZFQekkT0B5oPCriBdFEOYic25-I', 82),
 (DEFAULT, 'Voice 2', '1vV8RqcmsZZAkL6aiwQ8pKnmUWEXuqt-C', 82),
 (DEFAULT, 'Voice 3', '1Kc-fBqOV0JWu_VmaAeGGt1KRoFIkAEqj', 82),
 (DEFAULT, 'Voice 4', '1asiPPOmhPTjAC3zwzKTJgo_n7Y01tZZ9', 82),
