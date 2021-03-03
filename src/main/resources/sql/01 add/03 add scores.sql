@@ -356,9 +356,9 @@ VALUES
 (DEFAULT, 'Bass Guitar', '16ztdjh6WARbnmeVCTGHwF7Ecchj4YvMt', 81),
 (DEFAULT, 'Drum Set', '1O1ToifAYS3m3uDniNhWpkNe7qv07Szcf', 81),
 -- Король и Шут - Наблюдатель
-(DEFAULT, 'Full Score', '1FaxfMcmMW-BdBDcJbcmyXmHosTg3H7Pk', 82),
-(DEFAULT, 'Voice 1, Voice 2, Voice 3, Voice 4, Voice 5', '1r5yI-nyHeelDJhBfQExb75X5xQ88cspC', 82),
-(DEFAULT, 'Voice 1', '1RCpBeZFQekkT0B5oPCriBdFEOYic25-I', 82),
+(DEFAULT, 'Full Score', '1VCaTgnXe9HlekqrDG_cG6AVVF_7uE7gz', 82),
+(DEFAULT, 'Voice 1, Voice 2, Voice 3, Voice 4, Voice 5', '12cSQcApdeAkz6JSYOw75JfQFAF0sKVl8', 82),
+(DEFAULT, 'Voice 1', '1g-VYl4WA6dssOzCMOE3vm139YswkNpTd', 82),
 (DEFAULT, 'Voice 2', '1t5D4FeAf57iXWp3F92dxq7aBeQSZMbzW', 82),
 (DEFAULT, 'Voice 3', '1wuoZsd0fJgDRIb1WmBDD_qFjXnnAR_Us', 82),
 (DEFAULT, 'Voice 4', '1asiPPOmhPTjAC3zwzKTJgo_n7Y01tZZ9', 82),
