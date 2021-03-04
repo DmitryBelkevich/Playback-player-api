@@ -134,7 +134,7 @@ VALUES
 -- Король и Шут - Воспоминание о былой любви
 (DEFAULT, '1jsXRPufNyzu45Rx3y3MBBFka1LFQ0aIR', 74),
 -- Король и Шут - Два монаха в одну ночь
--- (DEFAULT, '', 75),
+(DEFAULT, '1I0MBK0Uti5hIxeRLRPCpArwfxzlGaPiH', 75),
 -- Король и Шут - Дурак и молния
 -- (DEFAULT, '', 76),
 -- Король и Шут - Ели мясо мужики
