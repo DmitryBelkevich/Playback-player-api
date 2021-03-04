@@ -178,148 +178,149 @@ VALUES
 -- Король и Шут - Воспоминание о былой любви
 (DEFAULT, 'original', '1QxAgG3f1KArNxnkEmdGTUQSvKZYv9PwF', 74),
 (DEFAULT, '0', '1oJZDM10h_rIGFMdjV6vHg0Herrsb1a6I', 74),
+-- Король и Шут - Два монаха в одну ночь
 -- Король и Шут - Дурак и молния
-(DEFAULT, 'original', '1a4DgfuiaB-irTmAmn-iW64kgBlaUgseG', 75),
-(DEFAULT, '0', '1UAruekfzB-YRM95vrMMWYKZIM_zH1s0l', 75),
-(DEFAULT, '-2', '1nI773EMyqZYIWOhVS93FQG58Uz3FW7wO', 75),
+(DEFAULT, 'original', '1a4DgfuiaB-irTmAmn-iW64kgBlaUgseG', 76),
+(DEFAULT, '0', '1UAruekfzB-YRM95vrMMWYKZIM_zH1s0l', 76),
+(DEFAULT, '-2', '1nI773EMyqZYIWOhVS93FQG58Uz3FW7wO', 76),
 -- Король и Шут - Ели мясо мужики
-(DEFAULT, 'original', '1C1Ne1uam2icG1LvQ1SO0Tq9AiJLlZcSi', 76),
-(DEFAULT, '0', '1EMEWMpNYldH4q_GTEtIm_-YL9gV3CHT1', 76),
-(DEFAULT, '-2', '1399mJhc-_y2vkzH6eG9BeZi73G5KWwhb', 76),
+(DEFAULT, 'original', '1C1Ne1uam2icG1LvQ1SO0Tq9AiJLlZcSi', 77),
+(DEFAULT, '0', '1EMEWMpNYldH4q_GTEtIm_-YL9gV3CHT1', 77),
+(DEFAULT, '-2', '1399mJhc-_y2vkzH6eG9BeZi73G5KWwhb', 77),
 -- Король и Шут - Жаль, нет ружья!
-(DEFAULT, 'original', '1NvzZg9oaFODT-xkG3FXqV92ZCFkrrq85', 77),
-(DEFAULT, '0', '1WiuXcOgrtxxPs0PdF-FQYAe089MoPWwX', 77),
+(DEFAULT, 'original', '1NvzZg9oaFODT-xkG3FXqV92ZCFkrrq85', 78),
+(DEFAULT, '0', '1WiuXcOgrtxxPs0PdF-FQYAe089MoPWwX', 78),
 -- Король и Шут - Камнем по голове
-(DEFAULT, '0', '16oRCsW7YQ8b-OeI_nah6BzAjeI-ezRd9', 78),
+(DEFAULT, '0', '16oRCsW7YQ8b-OeI_nah6BzAjeI-ezRd9', 79),
 -- Король и Шут - Кукла колдуна
-(DEFAULT, '0', '1o1p9742SmxLNb4L-IpuOHsupZWNbz4ik', 79),
+(DEFAULT, '0', '1o1p9742SmxLNb4L-IpuOHsupZWNbz4ik', 80),
 -- Король и Шут - Лесник
-(DEFAULT, 'original', '1Q-1rGHNMcSIAkaOgHu7r5kGW5u6AlAzp', 80),
-(DEFAULT, '0', '1G4jZvYLAaO11N3wcuwF9JyZ7zf8eztrp', 80),
+(DEFAULT, 'original', '1Q-1rGHNMcSIAkaOgHu7r5kGW5u6AlAzp', 81),
+(DEFAULT, '0', '1G4jZvYLAaO11N3wcuwF9JyZ7zf8eztrp', 81),
 -- Король и Шут - Мёртвый Анархист
-(DEFAULT, 'original', '1_a5-6MuaDVE3cDtsgncZL32lQ8jc0Eon', 81),
-(DEFAULT, '0', '1d1nelo5N_ijF_UNnsLJ-zijCIbgKqA1R', 81),
+(DEFAULT, 'original', '1_a5-6MuaDVE3cDtsgncZL32lQ8jc0Eon', 82),
+(DEFAULT, '0', '1d1nelo5N_ijF_UNnsLJ-zijCIbgKqA1R', 82),
 -- Король и Шут - Наблюдатель
 -- Король и Шут - Проклятый старый дом
-(DEFAULT, '0', '17-rpX5wLcxuRsOkm0jsVn5KBjnzOfL2N', 83),
+(DEFAULT, '0', '17-rpX5wLcxuRsOkm0jsVn5KBjnzOfL2N', 84),
 -- Король и Шут - Прыгну со скалы
-(DEFAULT, '0', '172JHGchXTyn5ITHU7141BUX4DGXYkPRU', 84),
+(DEFAULT, '0', '172JHGchXTyn5ITHU7141BUX4DGXYkPRU', 85),
 -- Ленинград - WWW
-(DEFAULT, '0', '1JN9LUaUCwH5kLnVEMI8OxuDcRQPOTpeG', 85),
+(DEFAULT, '0', '1JN9LUaUCwH5kLnVEMI8OxuDcRQPOTpeG', 86),
 -- Ленинград - В Питере - пить
-(DEFAULT, '0', '1LOnxBYpYtcoja0RdESC9xufAG64NNo40', 86),
+(DEFAULT, '0', '1LOnxBYpYtcoja0RdESC9xufAG64NNo40', 87),
 -- Ленинград - Терминатор
 -- Леприконсы - Хали-Гали
-(DEFAULT, '-2', '12RUbq0rDW1qhWrGkBSPeocxVq163m8xL', 88),
+(DEFAULT, '-2', '12RUbq0rDW1qhWrGkBSPeocxVq163m8xL', 89),
 -- Ляпис Трубецкой - Ау
-(DEFAULT, '0', '1w6zwBojmXn3OVL7gNft3QEqHkVPh-lG9', 89),
+(DEFAULT, '0', '1w6zwBojmXn3OVL7gNft3QEqHkVPh-lG9', 90),
 -- Ляпис Трубецкой - Воины света
-(DEFAULT, 'original', '1XCrCRLugOStGdUkn8fp_-7_ExGQhR26H', 90),
-(DEFAULT, '-2', '16DvdFQu1brxhXkJpUUD-ohQaM9nX_2X5', 90),
+(DEFAULT, 'original', '1XCrCRLugOStGdUkn8fp_-7_ExGQhR26H', 91),
+(DEFAULT, '-2', '16DvdFQu1brxhXkJpUUD-ohQaM9nX_2X5', 91),
 -- Ляпис Трубецкой - В платье белом
-(DEFAULT, '-2', '1eZQwihWm2xW-tKuqrpH2x_2qcAhdglm1', 91),
+(DEFAULT, '-2', '1eZQwihWm2xW-tKuqrpH2x_2qcAhdglm1', 92),
 -- Ляпис Трубецкой - Грай
-(DEFAULT, '-2', '1K57XmKi0JyD6m1Vo8vPl5YXdSLmMjifs', 92),
+(DEFAULT, '-2', '1K57XmKi0JyD6m1Vo8vPl5YXdSLmMjifs', 93),
 -- Ляпис Трубецкой - Евпатория
-(DEFAULT, '-2', '1qCZ3P_Z3de39NgmTKwDJuqG5QM2qp_86', 93),
+(DEFAULT, '-2', '1qCZ3P_Z3de39NgmTKwDJuqG5QM2qp_86', 94),
 -- Ляпис Трубецкой - Капитал
-(DEFAULT, '0', '1crRVper_GpLcHv6EUw8Qjzg2Ck68DHOl', 94),
+(DEFAULT, '0', '1crRVper_GpLcHv6EUw8Qjzg2Ck68DHOl', 95),
 -- Ляпис Трубецкой - Манифест
-(DEFAULT, '0', '1leUlCGpAb8HAJU619cwgPPF0HcN7kvRB', 95),
+(DEFAULT, '0', '1leUlCGpAb8HAJU619cwgPPF0HcN7kvRB', 96),
 -- Ляпис Трубецкой - Не быць скотам!
-(DEFAULT, 'original', '1rqg5XSxEbhDHnLhOgr8lUSZlFmppKqAk', 96),
+(DEFAULT, 'original', '1rqg5XSxEbhDHnLhOgr8lUSZlFmppKqAk', 97),
 -- Ляпис Трубецкой - Belarus Freedom
-(DEFAULT, 'original', '1kX6ECO39N49fBFBmrlZoOfyT7UeTm2Dx', 97),
+(DEFAULT, 'original', '1kX6ECO39N49fBFBmrlZoOfyT7UeTm2Dx', 98),
 -- Ляпис Трубецкой - Огоньки
-(DEFAULT, '0', '17zGUoMypAzM8O-R1s1_jZy3fTjRFvFwq', 98),
+(DEFAULT, '0', '17zGUoMypAzM8O-R1s1_jZy3fTjRFvFwq', 99),
 -- Ляпис Трубецкой - Сочи
-(DEFAULT, '0', '1Jy3OI-UAmh77i51bf7E_kGk055S1a5JJ', 99),
+(DEFAULT, '0', '1Jy3OI-UAmh77i51bf7E_kGk055S1a5JJ', 100),
 -- Ляпис Трубецкой - Танцуй
-(DEFAULT, '0', '1smYkPrjJig_y-ozvJ0edmLizmyjFoiNa', 100),
+(DEFAULT, '0', '1smYkPrjJig_y-ozvJ0edmLizmyjFoiNa', 101),
 -- Ляпис Трубецкой - Шут
-(DEFAULT, '-2', '1ZYFVpydRIlHJDfVCKjDmSV4lOahAlX4A', 101),
+(DEFAULT, '-2', '1ZYFVpydRIlHJDfVCKjDmSV4lOahAlX4A', 102),
 -- Ляпис Трубецкой - Яблони
 -- Ляпис Трубецкой - Я верю
-(DEFAULT, '-2', '1wlWCIZJeRpJ5P2QvagB_weIFAqdbobwe', 103),
+(DEFAULT, '-2', '1wlWCIZJeRpJ5P2QvagB_weIFAqdbobwe', 104),
 -- Михаил Боярский - Зеленоглазое такси
-(DEFAULT, 'original', '1TJEQsSf_fhbmfCv9nc82Sxh0P9zSqNmB', 104),
-(DEFAULT, '0', '1kQHGP2fELW804Z_kJTprPrUmwbORDMS8', 104),
+(DEFAULT, 'original', '1TJEQsSf_fhbmfCv9nc82Sxh0P9zSqNmB', 105),
+(DEFAULT, '0', '1kQHGP2fELW804Z_kJTprPrUmwbORDMS8', 105),
 -- Михаил Круг - Кольщик
-(DEFAULT, 'original', '1fvlhRCo7p4Kt10cFsgbny-6VcfObirVE', 105),
-(DEFAULT, '0', '1TPTH2RYljlUMr9H8HZ5n9odSlc-V-EWJ', 105),
-(DEFAULT, '-1', '1DI9nYJRYzHbWrIe0KRzq5b0_n2yqGc9L', 105),
-(DEFAULT, '-2', '1ME3K80tqVIo1paB_G1WC1LR5On93gKzg', 105),
+(DEFAULT, 'original', '1fvlhRCo7p4Kt10cFsgbny-6VcfObirVE', 106),
+(DEFAULT, '0', '1TPTH2RYljlUMr9H8HZ5n9odSlc-V-EWJ', 106),
+(DEFAULT, '-1', '1DI9nYJRYzHbWrIe0KRzq5b0_n2yqGc9L', 106),
+(DEFAULT, '-2', '1ME3K80tqVIo1paB_G1WC1LR5On93gKzg', 106),
 -- МУККА - ДЕВОЧКА С КАРЕ
-(DEFAULT, 'original', '1r8qHmacix9KerOKNRxE3Lll0ks-orfVp', 106),
-(DEFAULT, '0', '1lXW4sMNrEPN81f3I_HsaWL8AuwmfmWau', 106),
-(DEFAULT, '-3', '1lXYOBYqm0QR2gzNBGgfoYPlkQUsQMOJv', 106),
+(DEFAULT, 'original', '1r8qHmacix9KerOKNRxE3Lll0ks-orfVp', 107),
+(DEFAULT, '0', '1lXW4sMNrEPN81f3I_HsaWL8AuwmfmWau', 107),
+(DEFAULT, '-3', '1lXYOBYqm0QR2gzNBGgfoYPlkQUsQMOJv', 107),
 -- Мумий Тролль - Владивосток 2000
-(DEFAULT, '0', '1XLMZNAxiQKvaufDAXmf5hMtMB0lNCoh0', 107),
+(DEFAULT, '0', '1XLMZNAxiQKvaufDAXmf5hMtMB0lNCoh0', 108),
 -- Мумий Тролль - Медведица
-(DEFAULT, '0', '125olCwlUYIUOMzUbZyGDt92H8Oe7Dimi', 108),
+(DEFAULT, '0', '125olCwlUYIUOMzUbZyGDt92H8Oe7Dimi', 109),
 -- Наутилус Помпилиус - Дыхание
 -- Наутилус Помпилиус - Крылья
 -- Наутилус Помпилиус - Последнее письмо
-(DEFAULT, '0', '1piEdKD0z11eK8WlOlOJ3BPQHTDMzzxLn', 111),
+(DEFAULT, '0', '1piEdKD0z11eK8WlOlOJ3BPQHTDMzzxLn', 112),
 -- Наутилус Помпилиус - Прогулки по воде
 -- Наутилус Помпилиус - Скованные одной цепью
 -- Наутилус Помпилиус - Я хочу быть с тобой
 -- Ненси - Дым сигарет с ментолом
-(DEFAULT, 'original', '1G0fC6XaLmrkDzavWQWe1fMlzJkqwx_Rd', 115),
-(DEFAULT, '0', '1MHdB7Y5aPqVAgyMraKeTBHkQ5F8QnYge', 115),
+(DEFAULT, 'original', '1G0fC6XaLmrkDzavWQWe1fMlzJkqwx_Rd', 116),
+(DEFAULT, '0', '1MHdB7Y5aPqVAgyMraKeTBHkQ5F8QnYge', 116),
 -- Порнофильмы - Я так соскучился
-(DEFAULT, 'original', '1Zw0YoRcOeNcRgs3pP5F_ZBucy-HTFSiY', 116),
-(DEFAULT, '+5', '1s57rt4vx7AI-kzYCcUJCJ6BUy9VAnkVm', 116),
-(DEFAULT, '0', '1zYlwkeJG-88fJSRN_dGRKCK7mv7HYSnu', 116),
-(DEFAULT, '-2', '1XcU25y1Hbyj6xz35t1DEKbmtQonE80Z9', 116),
+(DEFAULT, 'original', '1Zw0YoRcOeNcRgs3pP5F_ZBucy-HTFSiY', 117),
+(DEFAULT, '+5', '1s57rt4vx7AI-kzYCcUJCJ6BUy9VAnkVm', 117),
+(DEFAULT, '0', '1zYlwkeJG-88fJSRN_dGRKCK7mv7HYSnu', 117),
+(DEFAULT, '-2', '1XcU25y1Hbyj6xz35t1DEKbmtQonE80Z9', 117),
 -- Сектор Газа - 30 лет
-(DEFAULT, 'original', '1wIDn6ec4OlJ_D1er16Qf2Sk_lPLGsOdb', 117),
-(DEFAULT, '0', '1jHSNKYNF_TbBwGtYDNpwUbWhuqwtmn94', 117),
-(DEFAULT, '-1', '1Q3Wt0wmsiNO0ICcIKAa9SK3pQMEe4rCb', 117),
-(DEFAULT, '-2', '1EV6mNddZ2nZeJnZEhzmPtIURjPDDIEnt', 117),
+(DEFAULT, 'original', '1wIDn6ec4OlJ_D1er16Qf2Sk_lPLGsOdb', 118),
+(DEFAULT, '0', '1jHSNKYNF_TbBwGtYDNpwUbWhuqwtmn94', 118),
+(DEFAULT, '-1', '1Q3Wt0wmsiNO0ICcIKAa9SK3pQMEe4rCb', 118),
+(DEFAULT, '-2', '1EV6mNddZ2nZeJnZEhzmPtIURjPDDIEnt', 118),
 -- Сектор Газа - Демобилизация
-(DEFAULT, 'original', '1AOgo6z5PacmGOR_cEVkHImkrNHTP6uUf', 118),
-(DEFAULT, '0', '1ClW4nvRODv7ved3D_RCfFkAphclT9z3l', 118),
-(DEFAULT, '-2', '14bCHWbBhGuWc_Ei93qaCt71UILw_lOqL', 118),
+(DEFAULT, 'original', '1AOgo6z5PacmGOR_cEVkHImkrNHTP6uUf', 119),
+(DEFAULT, '0', '1ClW4nvRODv7ved3D_RCfFkAphclT9z3l', 119),
+(DEFAULT, '-2', '14bCHWbBhGuWc_Ei93qaCt71UILw_lOqL', 119),
 -- Сектор Газа - Пора домой
-(DEFAULT, 'original', '1HzP8J_N_ZH0AdHs3PQ3ISUcoPX_EpiNm', 119),
-(DEFAULT, '0', '19PuzE6JjAp8vzkqqDaOif3YddNxeRoPX', 119),
-(DEFAULT, '-2', '1YCgOA42e4nseyg2N5uUnifHjvtPGaKan', 119),
+(DEFAULT, 'original', '1HzP8J_N_ZH0AdHs3PQ3ISUcoPX_EpiNm', 120),
+(DEFAULT, '0', '19PuzE6JjAp8vzkqqDaOif3YddNxeRoPX', 120),
+(DEFAULT, '-2', '1YCgOA42e4nseyg2N5uUnifHjvtPGaKan', 120),
 -- Сектор Газа - Туман
-(DEFAULT, 'original', '1KmiuMyrSRQa7sg3SMAsKww4OcvavGBuX', 120),
-(DEFAULT, '0', '1H2doovd6GE01_NliojJb26JhrFqRQB6q', 120),
-(DEFAULT, '-2', '1r1pjuRsU03eK2dKB4V5D_ppO6uoX1tHP', 120),
+(DEFAULT, 'original', '1KmiuMyrSRQa7sg3SMAsKww4OcvavGBuX', 121),
+(DEFAULT, '0', '1H2doovd6GE01_NliojJb26JhrFqRQB6q', 121),
+(DEFAULT, '-2', '1r1pjuRsU03eK2dKB4V5D_ppO6uoX1tHP', 121),
 -- Сергей Тихановcкий & Kosmas - Разбуры турмы муры
-(DEFAULT, 'original', '1VEyAlIKFCcQ9jVc4cvkhuPHRXpPNygri', 121),
-(DEFAULT, '0', '1E-myP2M7zOkpOgp3mBgY1fA5TZYnHhbJ', 121),
--- Сергей Тихановcкий & Kosmas - Стены рухнут
-(DEFAULT, 'original', '1yQxC65aHyLpe3VFChlru9opT1yZlQTXQ', 122),
+(DEFAULT, 'original', '1VEyAlIKFCcQ9jVc4cvkhuPHRXpPNygri', 122),
 (DEFAULT, '0', '1E-myP2M7zOkpOgp3mBgY1fA5TZYnHhbJ', 122),
+-- Сергей Тихановcкий & Kosmas - Стены рухнут
+(DEFAULT, 'original', '1yQxC65aHyLpe3VFChlru9opT1yZlQTXQ', 123),
+(DEFAULT, '0', '1E-myP2M7zOkpOgp3mBgY1fA5TZYnHhbJ', 123),
 -- Синяя птица - Там, где клён шумит
-(DEFAULT, 'original', '1_vGMqVWwZvAT7sLJNpITKCBBcaaCkcKY', 123),
-(DEFAULT, '0', '1wlHDu22rywGc5OvDFwmquO4Q24wooPQo', 123),
-(DEFAULT, '-2', '1Cja_cMlr2gg-dFAOoEvbx1PPR_WP0JAq', 123),
+(DEFAULT, 'original', '1_vGMqVWwZvAT7sLJNpITKCBBcaaCkcKY', 124),
+(DEFAULT, '0', '1wlHDu22rywGc5OvDFwmquO4Q24wooPQo', 124),
+(DEFAULT, '-2', '1Cja_cMlr2gg-dFAOoEvbx1PPR_WP0JAq', 124),
 -- Слот - Круги на воде
-(DEFAULT, 'original', '1YlSgh1QzHl7t272sqgZIZogWzbBhFgyF', 124),
-(DEFAULT, '+1', '1608Rx2FTKM7Qpi5m1sjqykuBVZ5Vi3vg', 124),
-(DEFAULT, '0', '1UIBGxHCpQneDtNd5yXofr3PdGGUXIzun', 124),
-(DEFAULT, '-2', '1jN7UFNqST3wwuzNOuk5ojOzZ_yYOBkV0', 124),
+(DEFAULT, 'original', '1YlSgh1QzHl7t272sqgZIZogWzbBhFgyF', 125),
+(DEFAULT, '+1', '1608Rx2FTKM7Qpi5m1sjqykuBVZ5Vi3vg', 125),
+(DEFAULT, '0', '1UIBGxHCpQneDtNd5yXofr3PdGGUXIzun', 125),
+(DEFAULT, '-2', '1jN7UFNqST3wwuzNOuk5ojOzZ_yYOBkV0', 125),
 -- Сплин - Выхода нет
-(DEFAULT, 'original', '1TFfR8esb__0DnsP8SMc02xvcfOKSGN3p', 125),
-(DEFAULT, '0', '1agtSI6Guw2pyf0JF4BQ1OKpBAbrpsvPX', 125),
+(DEFAULT, 'original', '1TFfR8esb__0DnsP8SMc02xvcfOKSGN3p', 126),
+(DEFAULT, '0', '1agtSI6Guw2pyf0JF4BQ1OKpBAbrpsvPX', 126),
 -- Сплин - Линия жизни
-(DEFAULT, '0', '1i1TE8CQ1qje46JPPSEMqNSncdKc6AoBQ', 126),
+(DEFAULT, '0', '1i1TE8CQ1qje46JPPSEMqNSncdKc6AoBQ', 127),
 -- Сплин - Моё сердце
-(DEFAULT, '0', '1ilBBPuLUa3pWWSdbr5s2C_wVpXH935aT', 127),
+(DEFAULT, '0', '1ilBBPuLUa3pWWSdbr5s2C_wVpXH935aT', 128),
 -- Сплин - Орбит без сахара
-(DEFAULT, 'original', '1W3RKtn2pNLYhXPX4x58ru3jUAZexr16l', 128),
-(DEFAULT, '0', '1EUMB6U7BOAEQhl5ualx3trWbCPSuQqe4', 128),
+(DEFAULT, 'original', '1W3RKtn2pNLYhXPX4x58ru3jUAZexr16l', 129),
+(DEFAULT, '0', '1EUMB6U7BOAEQhl5ualx3trWbCPSuQqe4', 129),
 -- Сплин - Романс
-(DEFAULT, 'original', '1IGAxFyBv9-cwbQgyYWEtUUQTw6MzfOHT', 129),
-(DEFAULT, '0', '1y03jkJpseyax1_B20hx_IOigTSiWzFd4', 129),
+(DEFAULT, 'original', '1IGAxFyBv9-cwbQgyYWEtUUQTw6MzfOHT', 130),
+(DEFAULT, '0', '1y03jkJpseyax1_B20hx_IOigTSiWzFd4', 130),
 -- Танцы Минус - Половинка
-(DEFAULT, 'original', '1_D-H2wiH2j0WosnHXETXsZKkV2-pr_fL', 130),
-(DEFAULT, '0', '1AIrDfhM2YtBisszdHB4NXn2HKQLpTOaC', 130),
+(DEFAULT, 'original', '1_D-H2wiH2j0WosnHXETXsZKkV2-pr_fL', 131),
+(DEFAULT, '0', '1AIrDfhM2YtBisszdHB4NXn2HKQLpTOaC', 131),
 -- Чичерина - Ту-лу-ла
-(DEFAULT, 'original', '1zi9vRYg4WKaaRa54Svx6iJxDLF_6bCGb', 131),
-(DEFAULT, '0', '1F_atD-LA7Z2feN19bmFUhrRrY-UYxMcB', 131);
+(DEFAULT, 'original', '1zi9vRYg4WKaaRa54Svx6iJxDLF_6bCGb', 132),
+(DEFAULT, '0', '1F_atD-LA7Z2feN19bmFUhrRrY-UYxMcB', 132);
