@@ -402,8 +402,8 @@ VALUES
 (DEFAULT, 'Trumpet in Bb 2', '1v8EiMLh-SDr-cqUiywhOiTUQGhadGBp4', 98),
 (DEFAULT, 'Trombone', '1X1nTQT-Di-mLR2YmLYvVb06OG_5Wk8s9', 98),
 -- Михаил Круг - Кольщик
-(DEFAULT, 'Full Score', '1H0o3suHiCcDdA6so7nac5UXsPDGyFqG7', 107),
-(DEFAULT, 'Voice', '1iiYziND59oEw2K4GeeUTU2Y_JqHbTDhj', 107),
+(DEFAULT, 'Full Score', '1E4YoyS9mkY7-IkBlEM7nYf2pYlRsi-yc', 107),
+(DEFAULT, 'Voice', '19-TxJKPmRaJ-HwrCAE_wiIwL-Ec8DSw1', 107),
 (DEFAULT, 'Bass Guitar', '1otppoOqwDzEzPuixMZi4hul1TcJFwx0m', 107),
 (DEFAULT, 'Drum Set, Tambourine', '1rDwAjiQvzf9q9fsLoc_kL4xLOlqsrcpQ', 107),
 (DEFAULT, 'Drum Set', '1GnfAAEKu_na8RRMgYP_AV7c_YZqElxD6', 107),
