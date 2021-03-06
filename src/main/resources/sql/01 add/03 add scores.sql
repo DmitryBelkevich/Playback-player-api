@@ -307,7 +307,15 @@ VALUES
 (DEFAULT, 'Violin', '15qDFVAMfjxIazTBH1uAmTIcTIB1oVflq', 74),
 (DEFAULT, 'Viola', '1KiLTBpsWsMSbJWaf6r2Qo-nu9N5MtV-B', 74),
 -- Король и Шут - Два вора и монета
--- (DEFAULT, '', '', 75),
+(DEFAULT, 'Full Score', '1x-tpe7BW_R2autN5k_LiJu8y1NshmvdT', 75),
+(DEFAULT, 'Voice 1, Voice 2', '1KGvFnh12QeBXP-GTGtNh6FJ0tj01Tx7I', 75),
+(DEFAULT, 'Voice 1', '1nYJ4_5LLEfODxxvTXWiXEnUakLNQrHfG', 75),
+(DEFAULT, 'Voice 2', '1bWWXukZYpQ-haXFvb7v4xHxoQb9CzwI0', 75),
+(DEFAULT, 'Electric Guitar 1, Electric Guitar 2', '1k7zGIJEUUPiy2QavXGT_9-ZzaCuByOZn', 75),
+(DEFAULT, 'Electric Guitar 1', '1kSfBy6qoHn-Q3JJrZvzAVp3_yiZJQLNH', 75),
+(DEFAULT, 'Electric Guitar 2', '1tXmbRd04w0uybKPkJEhMTztAKdjCCiPw', 75),
+(DEFAULT, 'Bass Guitar', '1LfatSaEeUrD6oGMeUYbcs4YzhBJEF9Bh', 75),
+(DEFAULT, 'Drum Set', '1zG5rej9E2XRU8e4EgmKE_21EJHnY-o4d', 75),
 -- Король и Шут - Два монаха в одну ночь
 (DEFAULT, 'Full Score', '1vvnG-70Crz49HtUU6Kv1A_yD7UGXGnL-', 76),
 (DEFAULT, 'Voice', '1xvCEFWnZDNDxI7Q8ychULpmkUVGLtlxQ', 76),
