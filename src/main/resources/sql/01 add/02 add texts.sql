@@ -154,7 +154,7 @@ VALUES
 -- Король и Шут - Наблюдатель
 (DEFAULT, '15K64bOm9D7AOHf6RqOuCb4kT2-vPMvff', 84),
 -- Король и Шут - Проклятый старый дом
--- (DEFAULT, '', 85),
+(DEFAULT, '1RuJJGH48mhyJU9Hn8v66jKxYR6hR5ZJU', 85),
 -- Король и Шут - Прыгну со скалы
 -- (DEFAULT, '', 86),
 -- Ленинград - WWW

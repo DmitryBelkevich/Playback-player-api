@@ -407,6 +407,18 @@ VALUES
 (DEFAULT, 'Violin 1', '1nEzox6YBIO_9L5xZTKR9SBS28S_eTcF0', 84),
 (DEFAULT, 'Violin 2', '1VDl8cfbl0zDOdRE9TcAB5X4EEgzPgqsZ', 84),
 (DEFAULT, 'Violin 3', '1BEv0LSfcG9jU5IkPzJK0a2kCandBp53Y', 84),
+-- Король и Шут - Проклятый старый дом
+(DEFAULT, 'Full Score', '1WOIzjlrnl4CX9OlUW8GbWeN5cIbmD_wT', 85),
+(DEFAULT, 'Voice 1, Voice 2', '1cUMUjGiLLx_nay05smkkQ91DZVzRkHzu', 85),
+(DEFAULT, 'Voice 1', '16X84_iGJTf1xgsdnXEee03PAfQb-d09P', 85),
+(DEFAULT, 'Voice 2', '1RN_9UZd_Xb7Fn3oWEyYqGOqP-rdQlcbQ', 85),
+(DEFAULT, 'Electric Guitar 1, Electric Guitar 2, Electric Guitar 3', '1VlDcPh3ifEHVOg1GSJzjLbLrxLmy9yk_', 85),
+(DEFAULT, 'Electric Guitar 1', '1Clp5xWO3AS6LeFoeATBvuDqZIQp4Wczb', 85),
+(DEFAULT, 'Electric Guitar 2', '1muaKkoTA3nUjbg1vxns0gcj0tyuXHGGq', 85),
+(DEFAULT, 'Electric Guitar 3', '1siMEyr0oYtIXae2u0JZWAY-6ERFz17wQ', 85),
+(DEFAULT, 'Bass Guitar', '118m2gT122AzbBr2EGqDGUuxkc74tdffZ', 85),
+(DEFAULT, 'Drum Set', '1jP-1xla0P6-F5AYFL8Hcv3vVvp4VQNpD', 85),
+(DEFAULT, 'Violin', '1LklOt91sRC68l1KDir_1VNjYUJYznKbF', 85),
 -- Ляпис Трубецкой - Воины света
 (DEFAULT, 'Full Score', '1usL0DjvqV6wp8aQFy4iV3MFMN0Tlv_zz', 92),
 (DEFAULT, 'Voice 1', '1wStlOWmiJbdNEkmKimY7S9x3AViHENNN', 92),
