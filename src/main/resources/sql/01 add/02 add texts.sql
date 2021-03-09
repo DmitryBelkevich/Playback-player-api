@@ -144,7 +144,7 @@ VALUES
 -- Король и Шут - Жаль, нет ружья!
 (DEFAULT, '11CauXLbzrP3MuE5vIckNJA2bFNtnoRhs', 79),
 -- Король и Шут - Камнем по голове
--- (DEFAULT, '', 80),
+(DEFAULT, '1AcMMUVVFsj5Ec7IqyMzEBl7I3TpzqPjC', 80),
 -- Король и Шут - Кукла колдуна
 -- (DEFAULT, '', 81),
 -- Король и Шут - Лесник

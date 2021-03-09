@@ -192,7 +192,9 @@ VALUES
 (DEFAULT, 'original', '1NvzZg9oaFODT-xkG3FXqV92ZCFkrrq85', 79),
 (DEFAULT, '0', '1WiuXcOgrtxxPs0PdF-FQYAe089MoPWwX', 79),
 -- Король и Шут - Камнем по голове
-(DEFAULT, '0', '16oRCsW7YQ8b-OeI_nah6BzAjeI-ezRd9', 80),
+(DEFAULT, '0', '14ZREIU6Rt6Z10oimQ4S3iPBMvxQyRTgE', 80),
+(DEFAULT, '-1', '1NDpE_bbxck-TG8z-jymLNRrrRCv7y-NQ', 80),
+(DEFAULT, '-2', '1vuKM0mZe9E-pTLIMJrx0RstUQG_Ea-x2', 80),
 -- Король и Шут - Кукла колдуна
 (DEFAULT, '0', '1o1p9742SmxLNb4L-IpuOHsupZWNbz4ik', 81),
 -- Король и Шут - Лесник

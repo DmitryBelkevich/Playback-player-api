@@ -355,6 +355,15 @@ VALUES
 (DEFAULT, 'Electric Guitar 2', '1jYgQIurUDWHpp06oV4UgwK67Nqz8iJCa', 79),
 (DEFAULT, 'Bass Guitar', '1E74jfSER-ZOyPY3oZJV0ggl6KM-XI_hh', 79),
 (DEFAULT, 'Drum Set', '1q9Yxh9q7hYIT9Lehe1tMpWa5GiREcO7x', 79),
+-- Король и Шут - Камнем по голове
+(DEFAULT, 'Full Score', '197374ZaWaO_e8Pp9f5kpBPagS4Hr-s1G', 80),
+(DEFAULT, 'Voice', '1UHpP__i_Ih9c_sAR6wzpzILPmVtX21Vt', 80),
+(DEFAULT, 'Electric Guitar 1, Electric Guitar 2, Electric Guitar 3', '1T2YwWpFxOM-CB9iVRgCUUXeKewk3NWwa', 80),
+(DEFAULT, 'Electric Guitar 1', '1c9X_u0CNA-VwtZncLzDbg0ZMC05Qk-MQ', 80),
+(DEFAULT, 'Electric Guitar 2', '1AmaNn0lllkMAM6_F3DLH8Yp3waNv66Va', 80),
+(DEFAULT, 'Electric Guitar 3', '1JD3jfpSJ2_3yGm9F3LnC3EqrdZxpLSBO', 80),
+(DEFAULT, 'Bass Guitar', '1Kov3RChko1bvNx2YI1sLa74OO1rHIVWn', 80),
+(DEFAULT, 'Drum Set', '1FmCBaOAY7sIl-o615kk4ZAyioFfhn2kK', 80),
 -- Король и Шут - Кукла колдуна
 (DEFAULT, 'Full Score', '1dLvoBUnKeL6ZpHwhKDE382SMGrlk6LLn', 81),
 (DEFAULT, 'Voice 1, Voice 2, Voice 3', '1VNV8ZaiyI2C3w4IqOBZ6waqzVA376aD_', 81),
