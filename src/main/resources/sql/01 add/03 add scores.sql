@@ -484,7 +484,7 @@ VALUES
 (DEFAULT, 'Voice 3', '1wHIw_l6LVBGdQtRYgZqc5a8nS5WleOnD', 117),
 (DEFAULT, 'Voice 4', '1xrLyjMfB0xUTpXfig5kDWrmm4lx1TA37', 117),
 (DEFAULT, 'Electric Guitar', '179d7O9JdP90jDtrvpFzpOPwPPNQi7CTP', 117),
-(DEFAULT, 'Bass Guitar', '1PA1TH793y1v4ZxzrK6KysXNQfzUsI6Pv', 117),
+(DEFAULT, 'Bass Guitar', '1_x6gRYb1YexzOxFBSvUU7q8glneMufA8', 117),
 (DEFAULT, 'Drum Set', '1LMu1_WTcvr5Gr_6rZstfgctbVnRRsYYS', 117),
 (DEFAULT, 'Piano', '17xmhbcjtgQXYUtuPMx9hoahNx4qtQxGl', 117),
 (DEFAULT, 'Strings', '1EHPr0Tsabi3ku7ErD8g5rdzog3fI9GiG', 117),
