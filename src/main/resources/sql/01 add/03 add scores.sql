@@ -133,6 +133,12 @@ VALUES
 (DEFAULT, 'Electric Guitar 2', '1GOpWP-9IYoeoEJOYUa_uMJsVRWetCGzJ', 19),
 (DEFAULT, 'Bass Guitar', '1GNnUsC4AxL5fJ67UXsdEyK1L2tZp_J0K', 19),
 (DEFAULT, 'Drum Set', '1a8eIUF-I81wBEr6bj-77Wt26Kt7TwbDq', 19),
+-- The Offspring - Self Esteem
+(DEFAULT, 'Full Score', '1naCNbkrr5X0sZ_qsavb4EvCq5Jw2TFAo', 20),
+(DEFAULT, 'Voice 1.2', '1FzQyithTiYNxFhBIWJF3ap009POL61TI', 20),
+(DEFAULT, 'Electric Guitar', '1lT7dQNjN-wzIx2pI8eWWrfSn-wFD4QtY', 20),
+(DEFAULT, 'Bass Guitar', '1ZrQrk9L-f0ZKCJ16qy9O6A4sen7ESSlO', 20),
+(DEFAULT, 'Drum Set', '1bEBL94poINxtR2ita_XG3p3aqxjjft41', 20),
 -- Animal ДжаZ - Три полоски
 (DEFAULT, 'Full Score', '1vwFcjLGRibvBgQVHxKwlNJXWmlzCI4PT', 20),
 (DEFAULT, 'Voice 1, Voice 2', '10bZwlpreashBBMDCwBSFUCGSx7q3oSc5', 20),
