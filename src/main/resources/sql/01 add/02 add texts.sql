@@ -221,7 +221,7 @@ VALUES
 -- Сектор Газа - Демобилизация
 -- (DEFAULT, '', 121),
 -- Сектор Газа - Пора домой
-(DEFAULT, '18BIop-OrduXX3qPAVjtbVUmuInJ8R2RY', 123),
+(DEFAULT, '18BIop-OrduXX3qPAVjtbVUmuInJ8R2RY', 122),
 -- Сектор Газа - Туман
 (DEFAULT, '1dcEqgfBCl2ABVcwGlmTAs9lQFJSTpjnz', 123),
 -- Сергей Тихановcкий & Kosmas - Разбуры турмы муры
