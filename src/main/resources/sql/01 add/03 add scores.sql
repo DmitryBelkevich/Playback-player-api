@@ -134,8 +134,8 @@ VALUES
 (DEFAULT, 'Bass Guitar', '1GNnUsC4AxL5fJ67UXsdEyK1L2tZp_J0K', 19),
 (DEFAULT, 'Drum Set', '1a8eIUF-I81wBEr6bj-77Wt26Kt7TwbDq', 19),
 -- The Offspring - Self Esteem
-(DEFAULT, 'Full Score', '1uZZkCm9MiGv6F3kNoJgFamf0rr8FUSZo', 20),
-(DEFAULT, 'Voice 1.2', '1HRGti-nEmtmBPfF3KaQaXiAe8WjSTIW6', 20),
+(DEFAULT, 'Full Score', '1Ll0rsErp8IgdmFlw6EdjUTRs1miZ4waW', 20),
+(DEFAULT, 'Voice 1.2', '1SadX4yaJ-08BjCUhLmNKDDalLUIqwkjl', 20),
 (DEFAULT, 'Electric Guitar', '1lYKfgZT0LctXO3a9rJbru0jbeKfVX5GN', 20),
 (DEFAULT, 'Bass Guitar', '1AQaIMj57NUw94OlEtxDiTfb97kQGzbZf', 20),
 (DEFAULT, 'Drum Set', '1SLv18qI58Nzkq4cDnIwGk9k5v8tYEiUb', 20),
