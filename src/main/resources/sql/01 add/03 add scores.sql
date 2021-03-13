@@ -134,6 +134,16 @@ VALUES
 (DEFAULT, 'Bass Guitar', '1GNnUsC4AxL5fJ67UXsdEyK1L2tZp_J0K', 19),
 (DEFAULT, 'Drum Set', '1a8eIUF-I81wBEr6bj-77Wt26Kt7TwbDq', 19),
 -- The Offspring - Pretty Fly (for a White Guy)
+(DEFAULT, 'Full Score', '1EovIujXd_st1hHmSCV7S0hHEcavRnk7N', 20),
+(DEFAULT, 'Voice 1.2, Voice 3.4, Voice 5', '1tjhJ_JjiwIvMxMJQg5_FFyQmCJSuhfJL', 20),
+(DEFAULT, 'Voice 1.2', '1n9jPac3WmbsiT6uI4exrRDSfYdLkFvj2', 20),
+(DEFAULT, 'Voice 3.4', '1d367qjEB_mdGxqM6kDi9LAFyQGCNjM1f', 20),
+(DEFAULT, 'Voice 5', '1PrC0GwvAV2Y_hZEV9TBeBD2RWzmwlQO7', 20),
+(DEFAULT, 'Electric Guitar', '1sYhkoTzXbYY6LVhkk6KQrMlyxqCH8cst', 20),
+(DEFAULT, 'Bass Guitar', '1bhf2uwPFzl-JtB3MSTYyM8KesPUV3nVG', 20),
+(DEFAULT, 'Drum Set, Maracas, Cowbell, Guiro, Congas', '1KLFjLhnAYeOYL7QzXh4-zF9NlD0LF9WU', 20),
+(DEFAULT, 'Drum Set', '1cKjntzAiPeIAq27J1R9jb6xGbWei5IFV', 20),
+(DEFAULT, 'Maracas, Cowbell, Guiro, Congas', '10tpFoIZi6Inw5V6_w4FD7Z_5cQcnXYbq', 20),
 -- The Offspring - Self Esteem
 (DEFAULT, 'Full Score', '1Ll0rsErp8IgdmFlw6EdjUTRs1miZ4waW', 21),
 (DEFAULT, 'Voice 1.2', '1SadX4yaJ-08BjCUhLmNKDDalLUIqwkjl', 21),

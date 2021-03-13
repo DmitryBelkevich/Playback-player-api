@@ -39,7 +39,7 @@ VALUES
 -- The Cranberries - Zombie
 -- (DEFAULT, '', 19),
 -- The Offspring - Pretty Fly (for a White Guy)
--- (DEFAULT, '', 20),
+(DEFAULT, '1zU3iFvGLxKx27awXEsP6hAyx9o01Wijc', 20),
 -- The Offspring - Self Esteem
 (DEFAULT, '1JzXB9RCzN1qA-6N6jrEsRoXPncC18_np', 21),
 -- Animal ДжаZ - Три полоски
