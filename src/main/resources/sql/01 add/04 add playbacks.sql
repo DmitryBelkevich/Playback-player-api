@@ -286,44 +286,44 @@ VALUES
 (DEFAULT, '0', '1ClW4nvRODv7ved3D_RCfFkAphclT9z3l', 123),
 (DEFAULT, '-2', '14bCHWbBhGuWc_Ei93qaCt71UILw_lOqL', 123),
 -- Сектор Газа - Пора домой
-(DEFAULT, 'original', '1HzP8J_N_ZH0AdHs3PQ3ISUcoPX_EpiNm', 124),
-(DEFAULT, '0', '19PuzE6JjAp8vzkqqDaOif3YddNxeRoPX', 124),
-(DEFAULT, '-2', '1YCgOA42e4nseyg2N5uUnifHjvtPGaKan', 124),
+(DEFAULT, 'original', '1HzP8J_N_ZH0AdHs3PQ3ISUcoPX_EpiNm', 125),
+(DEFAULT, '0', '19PuzE6JjAp8vzkqqDaOif3YddNxeRoPX', 125),
+(DEFAULT, '-2', '1YCgOA42e4nseyg2N5uUnifHjvtPGaKan', 125),
 -- Сектор Газа - Туман
-(DEFAULT, 'original', '1KmiuMyrSRQa7sg3SMAsKww4OcvavGBuX', 125),
-(DEFAULT, '0', '1H2doovd6GE01_NliojJb26JhrFqRQB6q', 125),
-(DEFAULT, '-2', '1r1pjuRsU03eK2dKB4V5D_ppO6uoX1tHP', 125),
+(DEFAULT, 'original', '1KmiuMyrSRQa7sg3SMAsKww4OcvavGBuX', 126),
+(DEFAULT, '0', '1H2doovd6GE01_NliojJb26JhrFqRQB6q', 126),
+(DEFAULT, '-2', '1r1pjuRsU03eK2dKB4V5D_ppO6uoX1tHP', 126),
 -- Сергей Тихановcкий & Kosmas - Разбуры турмы муры
-(DEFAULT, 'original', '1VEyAlIKFCcQ9jVc4cvkhuPHRXpPNygri', 126),
-(DEFAULT, '0', '1E-myP2M7zOkpOgp3mBgY1fA5TZYnHhbJ', 126),
--- Сергей Тихановcкий & Kosmas - Стены рухнут
-(DEFAULT, 'original', '1yQxC65aHyLpe3VFChlru9opT1yZlQTXQ', 127),
+(DEFAULT, 'original', '1VEyAlIKFCcQ9jVc4cvkhuPHRXpPNygri', 127),
 (DEFAULT, '0', '1E-myP2M7zOkpOgp3mBgY1fA5TZYnHhbJ', 127),
+-- Сергей Тихановcкий & Kosmas - Стены рухнут
+(DEFAULT, 'original', '1yQxC65aHyLpe3VFChlru9opT1yZlQTXQ', 128),
+(DEFAULT, '0', '1E-myP2M7zOkpOgp3mBgY1fA5TZYnHhbJ', 128),
 -- Синяя птица - Там, где клён шумит
-(DEFAULT, 'original', '1_vGMqVWwZvAT7sLJNpITKCBBcaaCkcKY', 128),
-(DEFAULT, '0', '1wlHDu22rywGc5OvDFwmquO4Q24wooPQo', 128),
-(DEFAULT, '-2', '1Cja_cMlr2gg-dFAOoEvbx1PPR_WP0JAq', 128),
+(DEFAULT, 'original', '1_vGMqVWwZvAT7sLJNpITKCBBcaaCkcKY', 129),
+(DEFAULT, '0', '1wlHDu22rywGc5OvDFwmquO4Q24wooPQo', 129),
+(DEFAULT, '-2', '1Cja_cMlr2gg-dFAOoEvbx1PPR_WP0JAq', 129),
 -- Слот - Круги на воде
-(DEFAULT, 'original', '1YlSgh1QzHl7t272sqgZIZogWzbBhFgyF', 129),
-(DEFAULT, '+1', '1608Rx2FTKM7Qpi5m1sjqykuBVZ5Vi3vg', 129),
-(DEFAULT, '0', '1UIBGxHCpQneDtNd5yXofr3PdGGUXIzun', 129),
-(DEFAULT, '-2', '1jN7UFNqST3wwuzNOuk5ojOzZ_yYOBkV0', 129),
+(DEFAULT, 'original', '1YlSgh1QzHl7t272sqgZIZogWzbBhFgyF', 130),
+(DEFAULT, '+1', '1608Rx2FTKM7Qpi5m1sjqykuBVZ5Vi3vg', 130),
+(DEFAULT, '0', '1UIBGxHCpQneDtNd5yXofr3PdGGUXIzun', 130),
+(DEFAULT, '-2', '1jN7UFNqST3wwuzNOuk5ojOzZ_yYOBkV0', 130),
 -- Сплин - Выхода нет
-(DEFAULT, 'original', '1TFfR8esb__0DnsP8SMc02xvcfOKSGN3p', 130),
-(DEFAULT, '0', '1agtSI6Guw2pyf0JF4BQ1OKpBAbrpsvPX', 130),
+(DEFAULT, 'original', '1TFfR8esb__0DnsP8SMc02xvcfOKSGN3p', 131),
+(DEFAULT, '0', '1agtSI6Guw2pyf0JF4BQ1OKpBAbrpsvPX', 131),
 -- Сплин - Линия жизни
-(DEFAULT, '0', '1i1TE8CQ1qje46JPPSEMqNSncdKc6AoBQ', 131),
+(DEFAULT, '0', '1i1TE8CQ1qje46JPPSEMqNSncdKc6AoBQ', 132),
 -- Сплин - Моё сердце
-(DEFAULT, '0', '1ilBBPuLUa3pWWSdbr5s2C_wVpXH935aT', 132),
+(DEFAULT, '0', '1ilBBPuLUa3pWWSdbr5s2C_wVpXH935aT', 133),
 -- Сплин - Орбит без сахара
-(DEFAULT, 'original', '1W3RKtn2pNLYhXPX4x58ru3jUAZexr16l', 133),
-(DEFAULT, '0', '1EUMB6U7BOAEQhl5ualx3trWbCPSuQqe4', 133),
+(DEFAULT, 'original', '1W3RKtn2pNLYhXPX4x58ru3jUAZexr16l', 134),
+(DEFAULT, '0', '1EUMB6U7BOAEQhl5ualx3trWbCPSuQqe4', 134),
 -- Сплин - Романс
-(DEFAULT, 'original', '1IGAxFyBv9-cwbQgyYWEtUUQTw6MzfOHT', 134),
-(DEFAULT, '0', '1y03jkJpseyax1_B20hx_IOigTSiWzFd4', 134),
+(DEFAULT, 'original', '1IGAxFyBv9-cwbQgyYWEtUUQTw6MzfOHT', 135),
+(DEFAULT, '0', '1y03jkJpseyax1_B20hx_IOigTSiWzFd4', 135),
 -- Танцы Минус - Половинка
-(DEFAULT, 'original', '1_D-H2wiH2j0WosnHXETXsZKkV2-pr_fL', 135),
-(DEFAULT, '0', '1AIrDfhM2YtBisszdHB4NXn2HKQLpTOaC', 135),
+(DEFAULT, 'original', '1_D-H2wiH2j0WosnHXETXsZKkV2-pr_fL', 136),
+(DEFAULT, '0', '1AIrDfhM2YtBisszdHB4NXn2HKQLpTOaC', 136),
 -- Чичерина - Ту-лу-ла
-(DEFAULT, 'original', '1zi9vRYg4WKaaRa54Svx6iJxDLF_6bCGb', 136),
-(DEFAULT, '0', '1F_atD-LA7Z2feN19bmFUhrRrY-UYxMcB', 136);
+(DEFAULT, 'original', '1zi9vRYg4WKaaRa54Svx6iJxDLF_6bCGb', 137),
+(DEFAULT, '0', '1F_atD-LA7Z2feN19bmFUhrRrY-UYxMcB', 137);
