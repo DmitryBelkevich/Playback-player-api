@@ -223,30 +223,32 @@ VALUES
 -- Сектор Газа - 30 лет
 (DEFAULT, '1VH1TAITlCzMJ5kYZXR8wfvEQ-0SmH5kK', 122),
 -- Сектор Газа - Демобилизация
--- (DEFAULT, '', 123),
+(DEFAULT, '1YibK7hLxoRIZaFFBHWGL8XgmTFq00V4o', 123),
+-- Сектор Газа - Лирика
+-- (DEFAULT, '', 124),
 -- Сектор Газа - Пора домой
-(DEFAULT, '18BIop-OrduXX3qPAVjtbVUmuInJ8R2RY', 124),
+(DEFAULT, '18BIop-OrduXX3qPAVjtbVUmuInJ8R2RY', 125),
 -- Сектор Газа - Туман
-(DEFAULT, '1dcEqgfBCl2ABVcwGlmTAs9lQFJSTpjnz', 125),
+(DEFAULT, '1dcEqgfBCl2ABVcwGlmTAs9lQFJSTpjnz', 126),
 -- Сергей Тихановcкий & Kosmas - Разбуры турмы муры
--- (DEFAULT, '', 126),
--- Сергей Тихановcкий & Kosmas - Стены рухнут
 -- (DEFAULT, '', 127),
+-- Сергей Тихановcкий & Kosmas - Стены рухнут
+-- (DEFAULT, '', 128),
 -- Синяя птица - Там, где клён шумит
-(DEFAULT, '1jU1OELMO1mB8-e40pxr9ibZ8DdPXGQIK', 128);
+(DEFAULT, '1jU1OELMO1mB8-e40pxr9ibZ8DdPXGQIK', 129);
 -- Слот - Круги на воде
--- (DEFAULT, '', 129),
--- Сплин - Выхода нет
 -- (DEFAULT, '', 130),
--- Сплин - Линия жизни
+-- Сплин - Выхода нет
 -- (DEFAULT, '', 131),
--- Сплин - Моё сердце
+-- Сплин - Линия жизни
 -- (DEFAULT, '', 132),
--- Сплин - Орбит без сахара
+-- Сплин - Моё сердце
 -- (DEFAULT, '', 133),
--- Сплин - Романс
+-- Сплин - Орбит без сахара
 -- (DEFAULT, '', 134),
--- Танцы Минус - Половинка
+-- Сплин - Романс
 -- (DEFAULT, '', 135),
+-- Танцы Минус - Половинка
+-- (DEFAULT, '', 136),
 -- Чичерина - Ту-лу-ла
--- (DEFAULT, '', 136);
+-- (DEFAULT, '', 137);
