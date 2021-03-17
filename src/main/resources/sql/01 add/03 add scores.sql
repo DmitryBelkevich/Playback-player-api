@@ -495,9 +495,9 @@ VALUES
 (DEFAULT, 'Synth Strings', '1GSeFMB6sAh9heFZlwCIRbfh9EcLEHGGs', 111),
 (DEFAULT, 'FX 1 (Abduction)', '1n39a08XRoFgRDE_DyBJy-5AyiW8bxXPc', 111),
 -- Ненси - Дым сигарет с ментолом
-(DEFAULT, 'Full Score', '1klX0rIAM-SR71wqJ98-Tr9cfg4mPXL1n', 120),
-(DEFAULT, 'Voice 1, Voice 2, Voice 3, Voice 4', '1ZBFbqxcqnXdeMImAcroyvdAeAbqSRtun', 120),
-(DEFAULT, 'Voice 1', '1FCkgaj4WOUUuBjzJzJkE_62X8gJhTDze', 120),
+(DEFAULT, 'Full Score', '1N4_ujdoWMgdngCZuE0K9M-sGxs5QePVa', 120),
+(DEFAULT, 'Voice 1, Voice 2, Voice 3, Voice 4', '1k1fSgWZjsqD4Iz5Ugr3vaJIy2atQyWRd', 120),
+(DEFAULT, 'Voice 1', '11VHrHzrowUqoU4ZS0tx6U5SBIHGwn80Y', 120),
 (DEFAULT, 'Voice 2', '1zXOzEwVXA-3Lj-Q9XgcTRzaD8OGhLzxf', 120),
 (DEFAULT, 'Voice 3', '1wHIw_l6LVBGdQtRYgZqc5a8nS5WleOnD', 120),
 (DEFAULT, 'Voice 4', '1xrLyjMfB0xUTpXfig5kDWrmm4lx1TA37', 120),
