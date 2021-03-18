@@ -225,7 +225,7 @@ VALUES
 -- Сектор Газа - Демобилизация
 (DEFAULT, '1YibK7hLxoRIZaFFBHWGL8XgmTFq00V4o', 123),
 -- Сектор Газа - Лирика
--- (DEFAULT, '', 124),
+(DEFAULT, '1tvKj2W1dfPK4F7NkDPkwONG3pkAIoMnk', 124),
 -- Сектор Газа - Пора домой
 (DEFAULT, '18BIop-OrduXX3qPAVjtbVUmuInJ8R2RY', 125),
 -- Сектор Газа - Туман
