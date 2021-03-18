@@ -545,8 +545,8 @@ VALUES
 (DEFAULT, 'Handclap', '12lcBAAEdziqkJcrHfzdNEROrlIe9P2mQ', 122),
 (DEFAULT, 'Electric Organ', '1rMlvrisaMSIPwY4FDPYw1BPRBUqhLRVh', 122),
 -- Сектор Газа - Демобилизация
-(DEFAULT, 'Full Score', '1T4613P2Lbu54j7nSLaGtovAf0_U_D_Ao', 123),
-(DEFAULT, 'Voice', '1T0zsGcr4aB7NUFz92fTZzVw9s01OTnrQ', 123),
+(DEFAULT, 'Full Score', '1HFnYIB_ux1St3zdMaDLydVWY2dDonXF7', 123),
+(DEFAULT, 'Voice', '1QieJnb8MJQdcbvUALX9fFG2r7idCsnmj', 123),
 (DEFAULT, 'Acoustic Guitar, Electric Guitar 1, Electric Guitar 2', '1xCB-sXEZb1_eFzoc5TwKApvf1nj4oowP', 123),
 (DEFAULT, 'Acoustic Guitar', '1UK6EW9XqYzj-wvF4RKvctKHG3OOABNAt', 123),
 (DEFAULT, 'Electric Guitar 1', '1LTKGqgwN0ooZ5Q5GHYT9OPm-C82AfX_p', 123),
