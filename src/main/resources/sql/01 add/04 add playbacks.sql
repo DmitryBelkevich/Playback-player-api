@@ -286,6 +286,11 @@ VALUES
 (DEFAULT, 'original', '1AOgo6z5PacmGOR_cEVkHImkrNHTP6uUf', 123),
 (DEFAULT, '0', '1ClW4nvRODv7ved3D_RCfFkAphclT9z3l', 123),
 (DEFAULT, '-2', '14bCHWbBhGuWc_Ei93qaCt71UILw_lOqL', 123),
+-- Сектор Газа - Лирика
+(DEFAULT, 'original', '1iOMjlNjamlp1ykLzpyAsMyKc_J1UClC8', 124),
+(DEFAULT, '0', '1cHTkmOyK8J465YSLrkW17DrB-M9TiYQy', 124),
+(DEFAULT, '-1', '1TKkDi3MdToOwIDbERVbUF7MQ2iNgsqR1', 124),
+(DEFAULT, '-2', '1YyDsTxcXiKYlqZ6EJFguOZ_LxQ9vCsg0', 124),
 -- Сектор Газа - Пора домой
 (DEFAULT, 'original', '1HzP8J_N_ZH0AdHs3PQ3ISUcoPX_EpiNm', 125),
 (DEFAULT, '0', '19PuzE6JjAp8vzkqqDaOif3YddNxeRoPX', 125),
