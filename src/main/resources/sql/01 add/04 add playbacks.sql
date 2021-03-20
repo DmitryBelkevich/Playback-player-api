@@ -231,6 +231,7 @@ VALUES
 (DEFAULT, 'original', '1IuRBaCdhtyEMe8G4Su0GrlFHFlgR-th1', 99),
 (DEFAULT, '0', '1RevqZU15nwqcDvyUxQsIQPx5TGMYWMZf', 99),
 -- Ляпис Трубецкой - Манифест
+(DEFAULT, 'original', '1S3UunphRtnHia7WLnBW-X_yrC8aMkbSJ', 100),
 (DEFAULT, '0', '1leUlCGpAb8HAJU619cwgPPF0HcN7kvRB', 100),
 -- Ляпис Трубецкой - Не быць скотам!
 (DEFAULT, 'original', '1rqg5XSxEbhDHnLhOgr8lUSZlFmppKqAk', 101),
