@@ -554,6 +554,18 @@ VALUES
 (DEFAULT, '5-string Bass Guitar', '1iWtM5E5llk37VABYyq4A8j2TM6fCucg4', 123),
 (DEFAULT, 'Drum Set', '15C0QGjolVHlZsrePvm3G4QRNsdqE4wuV', 123),
 (DEFAULT, 'Pad 4 (Choir)', '1RRUMtrqpqNCajr0eAghr0ZPHnlEMXzqX', 123),
+-- Сектор Газа - Лирика
+(DEFAULT, 'Full Score', '1wDm-_0NqHu_VNf0i4T426hXDc1ecbPGP', 124),
+(DEFAULT, 'Voice', '1FnvKPnzmEchnoMlY8HOm6jp9CxANeqpC', 124),
+(DEFAULT, 'Acoustic Guitar, Electric Guitar 1, Electric Guitar 2, Electric Guitar 3, Electric Guitar 4', '1Y1S2a38ow84Umr2jd4uTlpiQr9ew0KmU', 124),
+(DEFAULT, 'Acoustic Guitar', '1ZQ1NQBtR6IpVH-Lh2_7i5ey15Rm5Z4vD', 124),
+(DEFAULT, 'Electric Guitar 1', '1pArQfP_zs7qI4qTBUB7eQPrRNpHce-bq', 124),
+(DEFAULT, 'Electric Guitar 2', '1DQQEmWEmi0ZPjVlT72uSpwdUtQa7WNWg', 124),
+(DEFAULT, 'Electric Guitar 3', '1UYp5YF0Tz_tlf2uLNYKsWQyxIB1Hu5Ai', 124),
+(DEFAULT, 'Electric Guitar 4', '1rEpfNeHDTBpfSDpwPKc_f1jNlnyGU39-', 124),
+(DEFAULT, 'Bass Guitar', '1XzbFlJfuNoKwOjzGU-KEV1A9x1OgygJb', 124),
+(DEFAULT, 'Drum Set', '1UZjbulwCiuQ25tJF-Rr6t7DMlija3-Rg', 124),
+(DEFAULT, 'Flute 1, Flute 2.3', '1w85uYF4te9PehESoczcv53ql4tYYjgaZ', 124),
 -- Сектор Газа - Пора домой
 (DEFAULT, 'Full Score', '1Rqgi_HmLkq0LzF-bhd14xtYlEkdx2s9W', 125),
 (DEFAULT, 'Voice', '1MK5p_p2qnRqqJlY-xUlY2fM6h6vj8KnO', 125),
