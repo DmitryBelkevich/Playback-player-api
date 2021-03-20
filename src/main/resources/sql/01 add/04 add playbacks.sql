@@ -228,7 +228,8 @@ VALUES
 -- Ляпис Трубецкой - Евпатория
 (DEFAULT, '-2', '1qCZ3P_Z3de39NgmTKwDJuqG5QM2qp_86', 98),
 -- Ляпис Трубецкой - Капитал
-(DEFAULT, '0', '1crRVper_GpLcHv6EUw8Qjzg2Ck68DHOl', 99),
+(DEFAULT, 'original', '1IuRBaCdhtyEMe8G4Su0GrlFHFlgR-th1', 99),
+(DEFAULT, '0', '1RevqZU15nwqcDvyUxQsIQPx5TGMYWMZf', 99),
 -- Ляпис Трубецкой - Манифест
 (DEFAULT, '0', '1leUlCGpAb8HAJU619cwgPPF0HcN7kvRB', 100),
 -- Ляпис Трубецкой - Не быць скотам!
