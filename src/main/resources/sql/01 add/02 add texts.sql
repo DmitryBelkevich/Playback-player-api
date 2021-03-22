@@ -202,7 +202,7 @@ VALUES
 -- Михаил Боярский - Зеленоглазое такси
 -- (DEFAULT, '', 109),
 -- Михаил Круг - Владимирский централ
--- (DEFAULT, '', 110),
+(DEFAULT, '1hjEcHC-tYz1SkhoGzVn0xhnr7W_1GDM_', 110),
 -- Михаил Круг - Кольщик
 (DEFAULT, '1jNVE9F_7iBaSbyn1pCzMnHGdrX1hQOtJ', 111),
 -- МУККА - ДЕВОЧКА С КАРЕ
