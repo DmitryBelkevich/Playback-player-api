@@ -566,8 +566,8 @@ VALUES
 (DEFAULT, 'Drum Set', '15C0QGjolVHlZsrePvm3G4QRNsdqE4wuV', 124),
 (DEFAULT, 'Pad 4 (Choir)', '1RRUMtrqpqNCajr0eAghr0ZPHnlEMXzqX', 124),
 -- Сектор Газа - Лирика
-(DEFAULT, 'Full Score', '1wDm-_0NqHu_VNf0i4T426hXDc1ecbPGP', 125),
-(DEFAULT, 'Voice', '1FnvKPnzmEchnoMlY8HOm6jp9CxANeqpC', 125),
+(DEFAULT, 'Full Score', '1oFsAkNb1PpMh5uRY9OFI4DmvCFGtApI2', 125),
+(DEFAULT, 'Voice', '12MfQ8e8ChGcxXjjkNzfmuI1TEdpfcsb2', 125),
 (DEFAULT, 'Acoustic Guitar, Electric Guitar 1, Electric Guitar 2, Electric Guitar 3, Electric Guitar 4', '1Y1S2a38ow84Umr2jd4uTlpiQr9ew0KmU', 125),
 (DEFAULT, 'Acoustic Guitar', '1ZQ1NQBtR6IpVH-Lh2_7i5ey15Rm5Z4vD', 125),
 (DEFAULT, 'Electric Guitar 1', '1pArQfP_zs7qI4qTBUB7eQPrRNpHce-bq', 125),
