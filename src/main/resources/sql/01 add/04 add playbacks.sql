@@ -81,6 +81,7 @@ VALUES
 -- Агата Кристи - Никогда
 -- Аквариум - Город золотой
 (DEFAULT, '-2', '1OTHQOrv5RrQLl_JZCq_mCnGDhiaHVCHT', 31),
+-- Алла Пугачёва - Позови меня с собой
 -- Альянс - На заре
 (DEFAULT, 'original', '16ggNNQ-pwjX5AOGOGkgvpvvSt-bIIW7h', 32),
 (DEFAULT, '0', '1ukd4mUa6X0r5jSkvdfw-6cSGIAQtDdoq', 32),

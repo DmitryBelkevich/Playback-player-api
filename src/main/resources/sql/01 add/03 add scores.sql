@@ -212,6 +212,7 @@ VALUES
 (DEFAULT, 'Acoustic Guitar', '1i_x7aeXwLNOW9SaE6YoO03G0T9xGxRg1', 31),
 (DEFAULT, 'Fretless Bass Guitar', '1pXsvkuULwx8h-NnM-v5zCs7YI7A76H-L', 31),
 (DEFAULT, 'Piccolo', '1MWnMxx-fyrWSZEM0hxtBxr45ZVrajWys', 31),
+-- Алла Пугачёва - Позови меня с собой
 -- Альянс - На заре
 (DEFAULT, 'Full Score', '1VU9saBYtJFXdd9ijZM-ym6kTEDjTrIfa', 32),
 (DEFAULT, 'Voice', '1kmkML8Kl5BBdJYLD76pIVx5cooMDN0BU', 32),
