@@ -63,6 +63,7 @@ VALUES
 -- Аквариум - Город золотой
 -- (DEFAULT, '', 31),
 -- Алла Пугачёва - Позови меня с собой
+(DEFAULT, '1Cenp7Q9riOoakC0gpJC4AeIfW0-1d6Xp', 32),
 -- Альянс - На заре
 (DEFAULT, '1qsxOUZ-vt8B-6oJhbfbg-EezKGF4lczq', 33),
 -- Ария - Беспечный ангел
