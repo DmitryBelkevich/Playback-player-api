@@ -82,6 +82,7 @@ VALUES
 -- Аквариум - Город золотой
 (DEFAULT, '-2', '1OTHQOrv5RrQLl_JZCq_mCnGDhiaHVCHT', 31),
 -- Алла Пугачёва - Позови меня с собой
+(DEFAULT, 'original', '1Zjpe_x6UWTHkUssAu53MP-5sORdFCrFc', 32),
 -- Альянс - На заре
 (DEFAULT, 'original', '16ggNNQ-pwjX5AOGOGkgvpvvSt-bIIW7h', 33),
 (DEFAULT, '0', '1ukd4mUa6X0r5jSkvdfw-6cSGIAQtDdoq', 33),
