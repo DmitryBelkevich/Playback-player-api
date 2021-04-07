@@ -27,68 +27,69 @@ VALUES
 -- Rammstein - Mutter
 -- (DEFAULT, '', 13),
 -- Reamonn - Supergirl
+-- (DEFAULT, '', 14),
 -- System of a Down - Aerials
-(DEFAULT, '1ATCfsprwO6poFwFtURq49JXPPRen5V_8', 14),
+(DEFAULT, '1ATCfsprwO6poFwFtURq49JXPPRen5V_8', 15),
 -- System of a Down - Chop Suey!
-(DEFAULT, '1gKDBLRqf4fkymtkPNcMbDSxrW18D5Sep', 15),
+(DEFAULT, '1gKDBLRqf4fkymtkPNcMbDSxrW18D5Sep', 16),
 -- System of a Down - Lonely Day
-(DEFAULT, '17QY2dfSxTkUwyGcL9Ovrtqtsh7vrOay2', 16),
+(DEFAULT, '17QY2dfSxTkUwyGcL9Ovrtqtsh7vrOay2', 17),
 -- System of a Down - Toxicity
-(DEFAULT, '1Vr2z7DHr02lC4lgD7lXaUA-M_wvBLsQz', 17),
+(DEFAULT, '1Vr2z7DHr02lC4lgD7lXaUA-M_wvBLsQz', 18),
 -- The Beatles - Yesterday
--- (DEFAULT, '', 18),
--- The Cranberries - Zombie
 -- (DEFAULT, '', 19),
+-- The Cranberries - Zombie
+-- (DEFAULT, '', 20),
 -- The Offspring - Pretty Fly (for a White Guy)
-(DEFAULT, '1zU3iFvGLxKx27awXEsP6hAyx9o01Wijc', 20),
+(DEFAULT, '1zU3iFvGLxKx27awXEsP6hAyx9o01Wijc', 21),
 -- The Offspring - Self Esteem
-(DEFAULT, '1JzXB9RCzN1qA-6N6jrEsRoXPncC18_np', 21),
+(DEFAULT, '1JzXB9RCzN1qA-6N6jrEsRoXPncC18_np', 22),
 -- Animal ДжаZ - Три полоски
-(DEFAULT, '1pWTRd9J8w-o-R4ISAebN3vdfSwUazlb0', 22),
+(DEFAULT, '1pWTRd9J8w-o-R4ISAebN3vdfSwUazlb0', 23),
 -- BRUTTO - 12 обезьян
--- (DEFAULT, '', 23),
--- IOWA - Бьёт Бит
 -- (DEFAULT, '', 24),
--- IOWA - Улыбайся
+-- IOWA - Бьёт Бит
 -- (DEFAULT, '', 25),
--- Lumen - Гореть
+-- IOWA - Улыбайся
 -- (DEFAULT, '', 26),
--- N.R.M. - Лёгкія-лёгкія
+-- Lumen - Гореть
 -- (DEFAULT, '', 27),
--- N.R.M. - Тры чарапахі
+-- N.R.M. - Лёгкія-лёгкія
 -- (DEFAULT, '', 28),
--- Агата Кристи - Как на войне
+-- N.R.M. - Тры чарапахі
 -- (DEFAULT, '', 29),
+-- Агата Кристи - Как на войне
+-- (DEFAULT, '', 30),
 -- Агата Кристи - Никогда
-(DEFAULT, '1kxnvn2IoxMf8tG4brhGg3xtfSeNVMb-l', 30),
+(DEFAULT, '1kxnvn2IoxMf8tG4brhGg3xtfSeNVMb-l', 31),
 -- Аквариум - Город золотой
--- (DEFAULT, '', 31),
+-- (DEFAULT, '', 32),
 -- Алла Пугачёва - Позови меня с собой
-(DEFAULT, '1Cenp7Q9riOoakC0gpJC4AeIfW0-1d6Xp', 32),
+(DEFAULT, '1Cenp7Q9riOoakC0gpJC4AeIfW0-1d6Xp', 33),
 -- Альянс - На заре
-(DEFAULT, '1qsxOUZ-vt8B-6oJhbfbg-EezKGF4lczq', 33),
+(DEFAULT, '1qsxOUZ-vt8B-6oJhbfbg-EezKGF4lczq', 34),
 -- Ария - Беспечный ангел
--- (DEFAULT, '', 34),
--- Ария - Закат
 -- (DEFAULT, '', 35),
--- Ария - Осколок льда
+-- Ария - Закат
 -- (DEFAULT, '', 36),
--- Ария - Штиль
+-- Ария - Осколок льда
 -- (DEFAULT, '', 37),
--- АукцЫон - Дорога
+-- Ария - Штиль
 -- (DEFAULT, '', 38),
--- Би-2 - Варвара
+-- АукцЫон - Дорога
 -- (DEFAULT, '', 39),
--- Би-2 - Компромисс
+-- Би-2 - Варвара
 -- (DEFAULT, '', 40),
--- Би-2 - Мой рок-н-ролл
+-- Би-2 - Компромисс
 -- (DEFAULT, '', 41),
+-- Би-2 - Мой рок-н-ролл
+-- (DEFAULT, '', 42),
 -- Би-2 - Полковнику никто не пишет
-(DEFAULT, '1LlOHnnq-wIJewkeKhE-BV3E53LDGkXtA', 42),
+(DEFAULT, '1LlOHnnq-wIJewkeKhE-BV3E53LDGkXtA', 43),
 -- Би-2 - Серебро
--- (DEFAULT, '', 43),
--- Валентин Стрыкало - Наше лето
 -- (DEFAULT, '', 44),
+-- Валентин Стрыкало - Наше лето
+-- (DEFAULT, '', 45),
 -- Гражданская оборона - Всё идёт по плану
 -- Гражданская оборона - Всё как у людей
 -- Гражданская оборона - Зоопарк
@@ -98,162 +99,162 @@ VALUES
 -- Гражданская оборона - Нечего терять
 -- Гражданская оборона - Про дурачка
 -- ДДТ - В последнюю осень
--- (DEFAULT, '', 53),
+-- (DEFAULT, '', 54),
 -- ДДТ - Осенняя
 -- ДДТ - Просвистела
 -- ДДТ - Что такое осень
-(DEFAULT, '1bNemBk0c7_XenKj1Nx3SNbcDyexNAsAD', 56),
+(DEFAULT, '1bNemBk0c7_XenKj1Nx3SNbcDyexNAsAD', 57),
 -- ДДТ - Это всё…
 -- Егор и Опизденевшие - Про дурачка
 -- Егор и Опизденевшие - Про мишутку (Песенка для Янки)
 -- Жуки - Батарейка
 -- Звери - Всё, что касается
--- (DEFAULT, '', 61),
--- Звери - До скорой встречи
 -- (DEFAULT, '', 62),
--- Звери - Напитки покрепче
+-- Звери - До скорой встречи
 -- (DEFAULT, '', 63),
+-- Звери - Напитки покрепче
+-- (DEFAULT, '', 64),
 -- Звери - Просто такая сильная любовь
 -- Звери - Районы-кварталы
--- (DEFAULT, '', 65),
+-- (DEFAULT, '', 66),
 -- Земляне - Трава у дома
-(DEFAULT, '1vtsCxcGLj6-O51ZjNEuMKt7TZw-GmjOK', 66),
+(DEFAULT, '1vtsCxcGLj6-O51ZjNEuMKt7TZw-GmjOK', 67),
 -- Земфира - Искала
--- (DEFAULT, '', 67),
--- Земфира - Хочешь?
 -- (DEFAULT, '', 68),
--- Кино - Группа крови
+-- Земфира - Хочешь?
 -- (DEFAULT, '', 69),
--- Кино - Звезда по имени Солнце
+-- Кино - Группа крови
 -- (DEFAULT, '', 70),
--- Кино - Когда твоя девушка больна
+-- Кино - Звезда по имени Солнце
 -- (DEFAULT, '', 71),
--- Кино - Кончится лето
+-- Кино - Когда твоя девушка больна
 -- (DEFAULT, '', 72),
--- Кино - Кукушка
+-- Кино - Кончится лето
 -- (DEFAULT, '', 73),
--- Кино - "Мама, мы все тяжело больны
+-- Кино - Кукушка
 -- (DEFAULT, '', 74),
--- Кино - Пачка сигарет
+-- Кино - "Мама, мы все тяжело больны
 -- (DEFAULT, '', 75),
--- Кино - Хочу перемен!
+-- Кино - Пачка сигарет
 -- (DEFAULT, '', 76),
--- Кипелов - Я свободен!
+-- Кино - Хочу перемен!
 -- (DEFAULT, '', 77),
+-- Кипелов - Я свободен!
+-- (DEFAULT, '', 78),
 -- Король и Шут - Воспоминание о былой любви
-(DEFAULT, '1jsXRPufNyzu45Rx3y3MBBFka1LFQ0aIR', 78),
+(DEFAULT, '1jsXRPufNyzu45Rx3y3MBBFka1LFQ0aIR', 79),
 -- Король и Шут - Два вора и монета
-(DEFAULT, '10vIdFb5RUWn6lmTLBOvTLSLSt3KOdv29', 79),
+(DEFAULT, '10vIdFb5RUWn6lmTLBOvTLSLSt3KOdv29', 80),
 -- Король и Шут - Два монаха в одну ночь
-(DEFAULT, '1I0MBK0Uti5hIxeRLRPCpArwfxzlGaPiH', 80),
+(DEFAULT, '1I0MBK0Uti5hIxeRLRPCpArwfxzlGaPiH', 81),
 -- Король и Шут - Дурак и молния
--- (DEFAULT, '', 81),
--- Король и Шут - Ели мясо мужики
 -- (DEFAULT, '', 82),
+-- Король и Шут - Ели мясо мужики
+-- (DEFAULT, '', 83),
 -- Король и Шут - Жаль, нет ружья!
-(DEFAULT, '11CauXLbzrP3MuE5vIckNJA2bFNtnoRhs', 83),
+(DEFAULT, '11CauXLbzrP3MuE5vIckNJA2bFNtnoRhs', 84),
 -- Король и Шут - Камнем по голове
-(DEFAULT, '1AcMMUVVFsj5Ec7IqyMzEBl7I3TpzqPjC', 84),
+(DEFAULT, '1AcMMUVVFsj5Ec7IqyMzEBl7I3TpzqPjC', 85),
 -- Король и Шут - Кукла колдуна
--- (DEFAULT, '', 85),
--- Король и Шут - Лесник
 -- (DEFAULT, '', 86),
+-- Король и Шут - Лесник
+-- (DEFAULT, '', 87),
 -- Король и Шут - Мёртвый Анархист
-(DEFAULT, '1J-4JkTNl-2QxLoTT6twWLzuOhfFoo9lS', 87),
+(DEFAULT, '1J-4JkTNl-2QxLoTT6twWLzuOhfFoo9lS', 88),
 -- Король и Шут - Наблюдатель
-(DEFAULT, '15K64bOm9D7AOHf6RqOuCb4kT2-vPMvff', 88),
+(DEFAULT, '15K64bOm9D7AOHf6RqOuCb4kT2-vPMvff', 89),
 -- Король и Шут - Проклятый старый дом
-(DEFAULT, '1RuJJGH48mhyJU9Hn8v66jKxYR6hR5ZJU', 89),
+(DEFAULT, '1RuJJGH48mhyJU9Hn8v66jKxYR6hR5ZJU', 90),
 -- Король и Шут - Прыгну со скалы
--- (DEFAULT, '', 90),
--- Ленинград - WWW
 -- (DEFAULT, '', 91),
--- Ленинград - В Питере - пить
+-- Ленинград - WWW
 -- (DEFAULT, '', 92),
+-- Ленинград - В Питере - пить
+-- (DEFAULT, '', 93),
 -- Ленинград - Терминатор
 -- Леприконсы - Хали-Гали
--- (DEFAULT, '', 94),
--- Ляпис Трубецкой - Ау
 -- (DEFAULT, '', 95),
--- Ляпис Трубецкой - Воины света
+-- Ляпис Трубецкой - Ау
 -- (DEFAULT, '', 96),
--- Ляпис Трубецкой - В платье белом
+-- Ляпис Трубецкой - Воины света
 -- (DEFAULT, '', 97),
--- Ляпис Трубецкой - Грай
+-- Ляпис Трубецкой - В платье белом
 -- (DEFAULT, '', 98),
--- Ляпис Трубецкой - Евпатория
+-- Ляпис Трубецкой - Грай
 -- (DEFAULT, '', 99),
+-- Ляпис Трубецкой - Евпатория
+-- (DEFAULT, '', 100),
 -- Ляпис Трубецкой - Капитал
-(DEFAULT, '10DO8XBy4mWEQYzs-Qevk97iAzIWOafh8', 100),
+(DEFAULT, '10DO8XBy4mWEQYzs-Qevk97iAzIWOafh8', 101),
 -- Ляпис Трубецкой - Манифест
--- (DEFAULT, '', 101),
--- Ляпис Трубецкой - Не быць скотам!
 -- (DEFAULT, '', 102),
--- Ляпис Трубецкой - Belarus Freedom
+-- Ляпис Трубецкой - Не быць скотам!
 -- (DEFAULT, '', 103),
--- Ляпис Трубецкой - Огоньки
+-- Ляпис Трубецкой - Belarus Freedom
 -- (DEFAULT, '', 104),
--- Ляпис Трубецкой - Сочи
+-- Ляпис Трубецкой - Огоньки
 -- (DEFAULT, '', 105),
--- Ляпис Трубецкой - Танцуй
+-- Ляпис Трубецкой - Сочи
 -- (DEFAULT, '', 106),
--- Ляпис Трубецкой - Шут
+-- Ляпис Трубецкой - Танцуй
 -- (DEFAULT, '', 107),
+-- Ляпис Трубецкой - Шут
+-- (DEFAULT, '', 108),
 -- Ляпис Трубецкой - Яблони
 -- Ляпис Трубецкой - Я верю
--- (DEFAULT, '', 109),
--- Михаил Боярский - Зеленоглазое такси
 -- (DEFAULT, '', 110),
+-- Михаил Боярский - Зеленоглазое такси
+-- (DEFAULT, '', 111),
 -- Михаил Круг - Владимирский централ
-(DEFAULT, '1hjEcHC-tYz1SkhoGzVn0xhnr7W_1GDM_', 111),
+(DEFAULT, '1hjEcHC-tYz1SkhoGzVn0xhnr7W_1GDM_', 112),
 -- Михаил Круг - Кольщик
-(DEFAULT, '1jNVE9F_7iBaSbyn1pCzMnHGdrX1hQOtJ', 112),
+(DEFAULT, '1jNVE9F_7iBaSbyn1pCzMnHGdrX1hQOtJ', 113),
 -- МУККА - ДЕВОЧКА С КАРЕ
-(DEFAULT, '1P7kxdPdtxzSueUMbDZKm-COhjveUvjRt', 113),
+(DEFAULT, '1P7kxdPdtxzSueUMbDZKm-COhjveUvjRt', 114),
 -- Мумий Тролль - Владивосток 2000
-(DEFAULT, '1Lp4x49dw1LFzzct_gLN8WFVtvG1eEDLv', 114),
+(DEFAULT, '1Lp4x49dw1LFzzct_gLN8WFVtvG1eEDLv', 115),
 -- Мумий Тролль - Медведица
--- (DEFAULT, '', 115),
+-- (DEFAULT, '', 116),
 -- Наутилус Помпилиус - Дыхание
 -- Наутилус Помпилиус - Крылья
 -- Наутилус Помпилиус - Последнее письмо
--- (DEFAULT, '', 118),
+-- (DEFAULT, '', 119),
 -- Наутилус Помпилиус - Прогулки по воде
 -- Наутилус Помпилиус - Скованные одной цепью
 -- Наутилус Помпилиус - Я хочу быть с тобой
 -- Ненси - Дым сигарет с ментолом
-(DEFAULT, '1BEVEH3tLqiBfc69HNHKrUF3WlwaqEvW0', 122),
+(DEFAULT, '1BEVEH3tLqiBfc69HNHKrUF3WlwaqEvW0', 123),
 -- Порнофильмы - Я так соскучился
-(DEFAULT, '1lL6BOSpselagLAFSTzCk4vLrVsfRAMBo', 123),
+(DEFAULT, '1lL6BOSpselagLAFSTzCk4vLrVsfRAMBo', 124),
 -- Сектор Газа - 30 лет
-(DEFAULT, '1VH1TAITlCzMJ5kYZXR8wfvEQ-0SmH5kK', 124),
+(DEFAULT, '1VH1TAITlCzMJ5kYZXR8wfvEQ-0SmH5kK', 125),
 -- Сектор Газа - Демобилизация
-(DEFAULT, '1YibK7hLxoRIZaFFBHWGL8XgmTFq00V4o', 125),
+(DEFAULT, '1YibK7hLxoRIZaFFBHWGL8XgmTFq00V4o', 126),
 -- Сектор Газа - Лирика
-(DEFAULT, '1tvKj2W1dfPK4F7NkDPkwONG3pkAIoMnk', 126),
+(DEFAULT, '1tvKj2W1dfPK4F7NkDPkwONG3pkAIoMnk', 127),
 -- Сектор Газа - Пора домой
-(DEFAULT, '18BIop-OrduXX3qPAVjtbVUmuInJ8R2RY', 127),
+(DEFAULT, '18BIop-OrduXX3qPAVjtbVUmuInJ8R2RY', 128),
 -- Сектор Газа - Туман
-(DEFAULT, '1dcEqgfBCl2ABVcwGlmTAs9lQFJSTpjnz', 128),
+(DEFAULT, '1dcEqgfBCl2ABVcwGlmTAs9lQFJSTpjnz', 129),
 -- Сергей Тихановcкий & Kosmas - Разбуры турмы муры
--- (DEFAULT, '', 129),
--- Сергей Тихановcкий & Kosmas - Стены рухнут
 -- (DEFAULT, '', 130),
+-- Сергей Тихановcкий & Kosmas - Стены рухнут
+-- (DEFAULT, '', 131),
 -- Синяя птица - Там, где клён шумит
-(DEFAULT, '1jU1OELMO1mB8-e40pxr9ibZ8DdPXGQIK', 131);
+(DEFAULT, '1jU1OELMO1mB8-e40pxr9ibZ8DdPXGQIK', 132);
 -- Слот - Круги на воде
--- (DEFAULT, '', 132),
--- Сплин - Выхода нет
 -- (DEFAULT, '', 133),
--- Сплин - Линия жизни
+-- Сплин - Выхода нет
 -- (DEFAULT, '', 134),
--- Сплин - Моё сердце
+-- Сплин - Линия жизни
 -- (DEFAULT, '', 135),
--- Сплин - Орбит без сахара
+-- Сплин - Моё сердце
 -- (DEFAULT, '', 136),
--- Сплин - Романс
+-- Сплин - Орбит без сахара
 -- (DEFAULT, '', 137),
--- Танцы Минус - Половинка
+-- Сплин - Романс
 -- (DEFAULT, '', 138),
+-- Танцы Минус - Половинка
+-- (DEFAULT, '', 139),
 -- Чичерина - Ту-лу-ла
--- (DEFAULT, '', 139);
+-- (DEFAULT, '', 140);
