@@ -236,7 +236,7 @@ VALUES
 (DEFAULT, '0', '1RevqZU15nwqcDvyUxQsIQPx5TGMYWMZf', 101),
 -- Ляпис Трубецкой - Манифест
 (DEFAULT, 'original', '1S3UunphRtnHia7WLnBW-X_yrC8aMkbSJ', 102),
-(DEFAULT, '0', '1leUlCGpAb8HAJU619cwgPPF0HcN7kvRB', 102),
+(DEFAULT, '0', '1b-t0aXIamfFcKGEHGvhQ5oZKNj0nxZiT', 102),
 -- Ляпис Трубецкой - Не быць скотам!
 (DEFAULT, 'original', '1rqg5XSxEbhDHnLhOgr8lUSZlFmppKqAk', 103),
 -- Ляпис Трубецкой - Belarus Freedom
