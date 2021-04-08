@@ -500,6 +500,18 @@ VALUES
 (DEFAULT, 'Drum Set', '12sfI0mVGT7bpO2T-p0-7qm6tiga_36ED', 101),
 (DEFAULT, 'Tambourine', '1XNvj2MLHTFwvyFIVjgPUZXjwbR0jVCmw', 101),
 (DEFAULT, 'Trumpet in Bb 1.2, Trombone', '1PDLvLaxnaaLHqg7sZ1s7NnhsOWPOB5RO', 101),
+-- Ляпис Трубецкой - Манифест
+(DEFAULT, 'Full Score', '1oBNLy2NkgU-DuJkA1gRBYZA0qrTX1R-O', 102),
+(DEFAULT, 'Voice 1, Voice 2, Voice 3', '1sYOoGa1dF-47Bg7lH9IeI56ZMf5Zugd0', 102),
+(DEFAULT, 'Voice 1', '1f4Tk4C1E--VwrFgtJ_CYLAbzGFwI3crK', 102),
+(DEFAULT, 'Voice 2', '1R1IkWstSh7wnjIMrovA0OnurVeKQDcS0', 102),
+(DEFAULT, 'Voice 3', '1-0pXpYVZpM87YCIP3bcVnnKNxr__Nx-v', 102),
+(DEFAULT, 'Electric Guitar 1, Electric Guitar 2', '1W2jxrFbBZy5COSIhhSf71lo_rwV3RaQn', 102),
+(DEFAULT, 'Electric Guitar 1', '1IwlO5U3jWhhQlfaIm7JwBnqfgpKRGIWA', 102),
+(DEFAULT, 'Electric Guitar 2', '1WR9bU0wBiEOVFt_xJc2m98m2Ik31KyyN', 102),
+(DEFAULT, 'Bass Guitar', '1RIRXyZ7ysXJS38k5ikvCvSH9-Azse5Vx', 102),
+(DEFAULT, 'Drum Set', '19lkTVLey26UXIf-NRcEkAUCM2WWqU0uB', 102),
+(DEFAULT, 'Trumpet in Bb, Trombone', '15-N3oRDjOuy-luMZD0w1GB0dMAg1YZYM', 102),
 -- Ляпис Трубецкой - Не быць скотам!
 (DEFAULT, 'Full Score', '1Z7F3IDi-hb9f6An_ZKLpZH05LeH4qjgc', 103),
 (DEFAULT, 'Voice 1', '1JB_YQ0WDQYQ_T6qkLPEXN8LCV8zMH77A', 103),
