@@ -187,7 +187,7 @@ VALUES
 -- Ляпис Трубецкой - Капитал
 (DEFAULT, '10DO8XBy4mWEQYzs-Qevk97iAzIWOafh8', 101),
 -- Ляпис Трубецкой - Манифест
--- (DEFAULT, '', 102),
+(DEFAULT, '1EStGmBL6WImHv0nr53gkLaY8EKuIy-Ol', 102),
 -- Ляпис Трубецкой - Не быць скотам!
 -- (DEFAULT, '', 103),
 -- Ляпис Трубецкой - Belarus Freedom
