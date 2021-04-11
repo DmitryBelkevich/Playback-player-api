@@ -523,9 +523,9 @@ VALUES
 (DEFAULT, 'Trumpet in Bb 2', '1v8EiMLh-SDr-cqUiywhOiTUQGhadGBp4', 103),
 (DEFAULT, 'Trombone', '1X1nTQT-Di-mLR2YmLYvVb06OG_5Wk8s9', 103),
 -- Ляпис Трубецкой - Я верю
-(DEFAULT, 'Full Score', '1YbNvqfhsLxYj-oI5EoNL-xwtAAO-8zcJ', 110),
-(DEFAULT, 'Voice 1, Voice 2, Voice 3', '1OqufktYLWUjletrAQs278IeMhgvSvqnF', 110),
-(DEFAULT, 'Voice 1', '1tC1bxP3147YMKw2pDZ1LDgh8wWjthf9a', 110),
+(DEFAULT, 'Full Score', '1RTusBXllNqrxx8IHWj_Orlyj_KXQUrJ6', 110),
+(DEFAULT, 'Voice 1, Voice 2, Voice 3', '1csiIi0wThzW-xwEyTPGADG-OLLJef2ji', 110),
+(DEFAULT, 'Voice 1', '1ny6iEsdpyVSmGOlDrk-50oPz4gx_Khbi', 110),
 (DEFAULT, 'Voice 2', '15847Qocob9Gg1EF8mDzzEPQQib7fOIkU', 110),
 (DEFAULT, 'Voice 3', '1hJ7kuxFSWGsmUlv8WuPwsRSfKb32Ggag', 110),
 (DEFAULT, 'Electric Guitar 1, Electric Guitar 2', '1tx2Ar-jUwu_SOQBzeQLzEVqRmaMhIX5t', 110),
