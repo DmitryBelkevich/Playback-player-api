@@ -251,7 +251,10 @@ VALUES
 (DEFAULT, '-2', '1ZYFVpydRIlHJDfVCKjDmSV4lOahAlX4A', 108),
 -- Ляпис Трубецкой - Яблони
 -- Ляпис Трубецкой - Я верю
-(DEFAULT, '-2', '1wlWCIZJeRpJ5P2QvagB_weIFAqdbobwe', 110),
+(DEFAULT, 'original', '1YAQLe1erw3zsXEzsFBgkXj6PcJnTfiNa', 110),
+(DEFAULT, '0', '1vA7BqvJJk4pStzV2skYssS9aJDkUJEic', 110),
+(DEFAULT, '-1', '1ODKjDfe4UqcNT6l1fLe9GX8E8WGPJE_G', 110),
+(DEFAULT, '-2', '13I2CTCJ3QZkf-Zk7RaFcl-4ojE4gyR43', 110),
 -- Михаил Боярский - Зеленоглазое такси
 (DEFAULT, 'original', '1TJEQsSf_fhbmfCv9nc82Sxh0P9zSqNmB', 111),
 (DEFAULT, '0', '1kQHGP2fELW804Z_kJTprPrUmwbORDMS8', 111),
