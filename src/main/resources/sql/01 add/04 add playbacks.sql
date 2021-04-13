@@ -172,9 +172,10 @@ VALUES
 (DEFAULT, '0', '16ivCYOYCE7z7hPx3AIXH2qosw_AnsN5J', 73),
 -- Кино - Кукушка
 (DEFAULT, '0', '1DmneUQCqStU_u28YdCEiRujhmfDHX93V', 74),
--- Кино - "Мама, мы все тяжело больны
+-- Кино - Мама, мы все тяжело больны
 (DEFAULT, '0', '1VCs2WGEhHQ885SpxqGOEYJqgFjRcQ7VX', 75),
 -- Кино - Пачка сигарет
+(DEFAULT, 'original', '1F9-DUIZBjRMPoqHfhNKfpCC0zjqTaCWS', 76),
 (DEFAULT, '0', '1BE9TYu4gsHKgHSVGAmTT0370adeZgGlT', 76),
 -- Кино - Хочу перемен!
 (DEFAULT, '0', '1QI9KpuaKq8UNgue1M4eb1wdRNq3TC6tX', 77),
