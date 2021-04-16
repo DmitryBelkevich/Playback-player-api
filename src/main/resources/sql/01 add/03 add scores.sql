@@ -765,10 +765,10 @@ VALUES
 (DEFAULT, 'Piano', '13bS3pyWWVYUJEh6IVJC5DWNNzOBVQOjj', 139),
 (DEFAULT, 'Lead 6 (Voice)', '1Nl-O7leSKbREysF0Omupd6x8ZgD-V-O3', 139),
 -- Чичерина - Ту-лу-ла
-(DEFAULT, 'Full Score', '13Z4dyiz4CP3WoNmE9dqdkJRRF0VwqQ1o', 140),
-(DEFAULT, 'Voice 1', '1NiobksiMr2_OHVcTf3dSzDEhF4BYAdfk', 140),
-(DEFAULT, 'Voice 2', '1qrGxvWeu0pm2VVSC7tMMmKuySj_4f20S', 140),
-(DEFAULT, 'Electric Guitar 1', '1j-H_6YvuD7iCmaZxV_w5ST2ji1Af7Hws', 140),
-(DEFAULT, 'Electric Guitar 2', '1F9b_ZDCSfnxqs5bf467cV2CGC-xpRBal', 140),
-(DEFAULT, 'Bass Guitar', '1rBDny1h3t4bYiWZ6tAkxuB0r802AJFML', 140),
-(DEFAULT, 'Drum Set', '1Tyh-Ek-liKgLpG4jny8Uy4thaphCwAao', 140);
+(DEFAULT, 'Full Score', '13Z4dyiz4CP3WoNmE9dqdkJRRF0VwqQ1o', 141),
+(DEFAULT, 'Voice 1', '1NiobksiMr2_OHVcTf3dSzDEhF4BYAdfk', 141),
+(DEFAULT, 'Voice 2', '1qrGxvWeu0pm2VVSC7tMMmKuySj_4f20S', 141),
+(DEFAULT, 'Electric Guitar 1', '1j-H_6YvuD7iCmaZxV_w5ST2ji1Af7Hws', 141),
+(DEFAULT, 'Electric Guitar 2', '1F9b_ZDCSfnxqs5bf467cV2CGC-xpRBal', 141),
+(DEFAULT, 'Bass Guitar', '1rBDny1h3t4bYiWZ6tAkxuB0r802AJFML', 141),
+(DEFAULT, 'Drum Set', '1Tyh-Ek-liKgLpG4jny8Uy4thaphCwAao', 141);
