@@ -347,9 +347,9 @@ VALUES
 (DEFAULT, 'Drum Set', '1e7xzpnhed2tPtDhMIz-BavQoeDxaYQqI', 73),
 (DEFAULT, 'Pad 1 (New Age)', '1yVe3X0QpyogA7LwJbjLfk4wgxzXJeqow', 73),
 -- Кино - Пачка сигарет
-(DEFAULT, 'Full Score', '1S3r3NrnhxWNFGC-M0l88YEQ5_Znk_wxF', 76),
-(DEFAULT, 'Voice 1.2, Voice 3', '12dujCD3CI3YqIhLzhoqXOog8i1zjO7mv', 76),
-(DEFAULT, 'Voice 1.2', '1ub4mc7_GuCyOg282isOdAXon5J0jmnmz', 76),
+(DEFAULT, 'Full Score', '1ba49N4yZ2vNZ28Mq3QJzq2p4NBVafz8J', 76),
+(DEFAULT, 'Voice 1.2, Voice 3', '18C4URCexdANJXaFcCXlKv_CoR6t1C_4X', 76),
+(DEFAULT, 'Voice 1.2', '12kE-_mzZfBqxbH4hI8n8Oo6JCIp7A6z4', 76),
 (DEFAULT, 'Voice 3', '13hv6QuS6nwuyTK5Ivobfzv5opKB5hN5W', 76),
 (DEFAULT, 'Acoustic Guitar, Electric Guitar 1, Electric Guitar 2', '1XGFwZMEByDAmplv4GdpY4g6VkLfcFhq2', 76),
 (DEFAULT, 'Acoustic Guitar', '18APDIWAoq1AP6OkX6IzAVK7j3JMKWGBZ', 76),
