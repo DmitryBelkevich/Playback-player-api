@@ -175,88 +175,88 @@ VALUES
 -- Леприконсы - Хали-Гали
 -- (DEFAULT, '', 95),
 -- Ляпис Трубецкой - Ау
--- (DEFAULT, '', 96),
--- Ляпис Трубецкой - Воины света
 -- (DEFAULT, '', 97),
--- Ляпис Трубецкой - В платье белом
+-- Ляпис Трубецкой - Воины света
 -- (DEFAULT, '', 98),
--- Ляпис Трубецкой - Грай
+-- Ляпис Трубецкой - В платье белом
 -- (DEFAULT, '', 99),
--- Ляпис Трубецкой - Евпатория
+-- Ляпис Трубецкой - Грай
 -- (DEFAULT, '', 100),
+-- Ляпис Трубецкой - Евпатория
+-- (DEFAULT, '', 101),
 -- Ляпис Трубецкой - Капитал
-(DEFAULT, '10DO8XBy4mWEQYzs-Qevk97iAzIWOafh8', 101),
+(DEFAULT, '10DO8XBy4mWEQYzs-Qevk97iAzIWOafh8', 102),
 -- Ляпис Трубецкой - Манифест
-(DEFAULT, '1EStGmBL6WImHv0nr53gkLaY8EKuIy-Ol', 102),
+(DEFAULT, '1EStGmBL6WImHv0nr53gkLaY8EKuIy-Ol', 103),
 -- Ляпис Трубецкой - Не быць скотам!
--- (DEFAULT, '', 103),
--- Ляпис Трубецкой - Belarus Freedom
 -- (DEFAULT, '', 104),
--- Ляпис Трубецкой - Огоньки
+-- Ляпис Трубецкой - Belarus Freedom
 -- (DEFAULT, '', 105),
--- Ляпис Трубецкой - Сочи
+-- Ляпис Трубецкой - Огоньки
 -- (DEFAULT, '', 106),
--- Ляпис Трубецкой - Танцуй
+-- Ляпис Трубецкой - Сочи
 -- (DEFAULT, '', 107),
--- Ляпис Трубецкой - Шут
+-- Ляпис Трубецкой - Танцуй
 -- (DEFAULT, '', 108),
+-- Ляпис Трубецкой - Шут
+-- (DEFAULT, '', 109),
 -- Ляпис Трубецкой - Яблони
 -- Ляпис Трубецкой - Я верю
-(DEFAULT, '1cRWUgp0kLuD1gycmz6EPDGfzCB3AeNg_', 110),
+(DEFAULT, '1cRWUgp0kLuD1gycmz6EPDGfzCB3AeNg_', 111),
 -- Михаил Боярский - Зеленоглазое такси
--- (DEFAULT, '', 111),
+-- (DEFAULT, '', 112),
 -- Михаил Круг - Владимирский централ
-(DEFAULT, '1hjEcHC-tYz1SkhoGzVn0xhnr7W_1GDM_', 112),
+(DEFAULT, '1hjEcHC-tYz1SkhoGzVn0xhnr7W_1GDM_', 113),
 -- Михаил Круг - Кольщик
-(DEFAULT, '1jNVE9F_7iBaSbyn1pCzMnHGdrX1hQOtJ', 113),
+(DEFAULT, '1jNVE9F_7iBaSbyn1pCzMnHGdrX1hQOtJ', 114),
 -- МУККА - ДЕВОЧКА С КАРЕ
-(DEFAULT, '1P7kxdPdtxzSueUMbDZKm-COhjveUvjRt', 114),
+(DEFAULT, '1P7kxdPdtxzSueUMbDZKm-COhjveUvjRt', 115),
 -- Мумий Тролль - Владивосток 2000
-(DEFAULT, '1Lp4x49dw1LFzzct_gLN8WFVtvG1eEDLv', 115),
+(DEFAULT, '1Lp4x49dw1LFzzct_gLN8WFVtvG1eEDLv', 116),
 -- Мумий Тролль - Медведица
--- (DEFAULT, '', 116),
+-- (DEFAULT, '', 117),
 -- Наутилус Помпилиус - Дыхание
 -- Наутилус Помпилиус - Крылья
 -- Наутилус Помпилиус - Последнее письмо
--- (DEFAULT, '', 119),
+-- (DEFAULT, '', 120),
 -- Наутилус Помпилиус - Прогулки по воде
 -- Наутилус Помпилиус - Скованные одной цепью
 -- Наутилус Помпилиус - Я хочу быть с тобой
 -- Ненси - Дым сигарет с ментолом
-(DEFAULT, '1BEVEH3tLqiBfc69HNHKrUF3WlwaqEvW0', 123),
+(DEFAULT, '1BEVEH3tLqiBfc69HNHKrUF3WlwaqEvW0', 124),
 -- Порнофильмы - Я так соскучился
-(DEFAULT, '1lL6BOSpselagLAFSTzCk4vLrVsfRAMBo', 124),
+(DEFAULT, '1lL6BOSpselagLAFSTzCk4vLrVsfRAMBo', 125),
 -- Сектор Газа - 30 лет
-(DEFAULT, '1VH1TAITlCzMJ5kYZXR8wfvEQ-0SmH5kK', 125),
+(DEFAULT, '1VH1TAITlCzMJ5kYZXR8wfvEQ-0SmH5kK', 126),
 -- Сектор Газа - Демобилизация
-(DEFAULT, '1YibK7hLxoRIZaFFBHWGL8XgmTFq00V4o', 126),
+(DEFAULT, '1YibK7hLxoRIZaFFBHWGL8XgmTFq00V4o', 127),
 -- Сектор Газа - Лирика
-(DEFAULT, '1tvKj2W1dfPK4F7NkDPkwONG3pkAIoMnk', 127),
+(DEFAULT, '1tvKj2W1dfPK4F7NkDPkwONG3pkAIoMnk', 128),
 -- Сектор Газа - Пора домой
-(DEFAULT, '18BIop-OrduXX3qPAVjtbVUmuInJ8R2RY', 128),
+(DEFAULT, '18BIop-OrduXX3qPAVjtbVUmuInJ8R2RY', 129),
 -- Сектор Газа - Туман
-(DEFAULT, '1dcEqgfBCl2ABVcwGlmTAs9lQFJSTpjnz', 129),
+(DEFAULT, '1dcEqgfBCl2ABVcwGlmTAs9lQFJSTpjnz', 130),
 -- Сергей Тихановcкий & Kosmas - Разбуры турмы муры
--- (DEFAULT, '', 130),
--- Сергей Тихановcкий & Kosmas - Стены рухнут
 -- (DEFAULT, '', 131),
+-- Сергей Тихановcкий & Kosmas - Стены рухнут
+-- (DEFAULT, '', 132),
 -- Синяя птица - Там, где клён шумит
-(DEFAULT, '1jU1OELMO1mB8-e40pxr9ibZ8DdPXGQIK', 132);
+(DEFAULT, '1jU1OELMO1mB8-e40pxr9ibZ8DdPXGQIK', 133);
 -- Слот - Круги на воде
--- (DEFAULT, '', 133),
--- Сплин - Выхода нет
 -- (DEFAULT, '', 134),
--- Сплин - Линия жизни
+-- Сплин - Выхода нет
 -- (DEFAULT, '', 135),
--- Сплин - Моё сердце
+-- Сплин - Линия жизни
 -- (DEFAULT, '', 136),
--- Сплин - Орбит без сахара
+-- Сплин - Моё сердце
 -- (DEFAULT, '', 137),
--- Сплин - Романс
+-- Сплин - Орбит без сахара
 -- (DEFAULT, '', 138),
--- Танцы Минус - Половинка
+-- Сплин - Романс
 -- (DEFAULT, '', 139),
--- Татьяна Дасковская - Прекрасное далеко
+-- Танцы Минус - Половинка
 -- (DEFAULT, '', 140),
+-- Татьяна Дасковская - Прекрасное далеко
+-- (DEFAULT, '', 141),
 -- Чичерина - Ту-лу-ла
--- (DEFAULT, '', 141);
+-- (DEFAULT, '', 142);
