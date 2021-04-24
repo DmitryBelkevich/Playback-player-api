@@ -176,7 +176,7 @@ VALUES
 (DEFAULT, '0', '1VCs2WGEhHQ885SpxqGOEYJqgFjRcQ7VX', 75),
 -- Кино - Пачка сигарет
 (DEFAULT, 'original', '1F9-DUIZBjRMPoqHfhNKfpCC0zjqTaCWS', 76),
-(DEFAULT, '0', '1BE9TYu4gsHKgHSVGAmTT0370adeZgGlT', 76),
+(DEFAULT, '0', '1hDYC0YLB7r1Q2xjl8pnuY4oZHnz7y3Gq', 76),
 -- Кино - Хочу перемен!
 (DEFAULT, '0', '1QI9KpuaKq8UNgue1M4eb1wdRNq3TC6tX', 77),
 -- Кипелов - Я свободен!
