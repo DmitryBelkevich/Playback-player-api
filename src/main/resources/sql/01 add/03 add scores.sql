@@ -495,6 +495,15 @@ VALUES
 (DEFAULT, 'Bass Guitar', '118m2gT122AzbBr2EGqDGUuxkc74tdffZ', 90),
 (DEFAULT, 'Drum Set', '1jP-1xla0P6-F5AYFL8Hcv3vVvp4VQNpD', 90),
 (DEFAULT, 'Violin', '1LklOt91sRC68l1KDir_1VNjYUJYznKbF', 90),
+-- Любэ - Позови меня тихо по имени
+(DEFAULT, 'Full Score', '15VUHfmGgPhElEQez5uRFTB-Ee9Fx9Sfk', 96),
+(DEFAULT, 'Voice 1, Voice 2, Voice 3', '1qa8U32SY_Pox8CUSG9DG4zXr9rmvcpcW', 96),
+(DEFAULT, 'Voice 1', '1NL7eVPsIgLMmF13CWpdLfsRXQZG1nUkz', 96),
+(DEFAULT, 'Voice 2', '1UNfnCFBxQtji1nkXhybfQbFL23o1ZHqy', 96),
+(DEFAULT, 'Voice 3', '1pkEKcIrvFhpD6yXOFWjUMonDBI-WKfZu', 96),
+(DEFAULT, 'Acoustic Guitar 1, Acoustic Guitar 2', '1FX_I4-jml1zQMSJvgyNWWJtszPUonee0', 96),
+(DEFAULT, 'Acoustic Guitar 1', '1f6T7l9Z4cOXZnoQjhAXipUlmVC0oXxJf', 96),
+(DEFAULT, 'Acoustic Guitar 2', '1AI-AlFwDymbnmhSxSHWb3OWA-E0S4bck', 96),
 -- Ляпис Трубецкой - Воины света
 (DEFAULT, 'Full Score', '1usL0DjvqV6wp8aQFy4iV3MFMN0Tlv_zz', 98),
 (DEFAULT, 'Voice 1', '1wStlOWmiJbdNEkmKimY7S9x3AViHENNN', 98),
