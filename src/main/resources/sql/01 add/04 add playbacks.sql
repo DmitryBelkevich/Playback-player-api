@@ -222,6 +222,7 @@ VALUES
 -- Леприконсы - Хали-Гали
 (DEFAULT, '-2', '12RUbq0rDW1qhWrGkBSPeocxVq163m8xL', 95),
 -- Любэ - Позови меня тихо по имени
+(DEFAULT, 'original', '1e9FkKo4ws0-OwjaUZhEZZNvb1cepK6Um', 96),
 -- Ляпис Трубецкой - Ау
 (DEFAULT, '0', '1w6zwBojmXn3OVL7gNft3QEqHkVPh-lG9', 97),
 -- Ляпис Трубецкой - Воины света
