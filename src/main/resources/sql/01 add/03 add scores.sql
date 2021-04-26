@@ -114,7 +114,7 @@ VALUES
 (DEFAULT, 'Electric Guitar 1, Electric Guitar 2', '1KYaFm1a2oM9mmjKCcr5EnT7gyVb09QkT', 18),
 (DEFAULT, 'Electric Guitar 1', '1pRxXN7BQbzqrA3coiuGBTRz8axVnguNc', 18),
 (DEFAULT, 'Electric Guitar 2', '1p_k6NZMkE9jSks1T2RIcvgdgLGHas2EY', 18),
-(DEFAULT, 'Bass Guitar', '1YAs9Cf-vPXwJCiYiO3U6ByrHPZEL0p_b', 18),
+(DEFAULT, 'Bass Guitar', '1ISP1sxmvdNTZSYqKdKC1U8I-RoISZE76', 18),
 (DEFAULT, 'Drum Set', '12HeDjeaxYTPfYBnVSYIIdfxbsJGLNPU2', 18),
 (DEFAULT, 'Piano', '1F1htEbazbjgES7GSVZAfbaqOrMo2PWtF', 18),
 -- The Beatles - Yesterday
