@@ -115,8 +115,8 @@ VALUES
 (DEFAULT, 'Electric Guitar 1', '1pRxXN7BQbzqrA3coiuGBTRz8axVnguNc', 18),
 (DEFAULT, 'Electric Guitar 2', '1p_k6NZMkE9jSks1T2RIcvgdgLGHas2EY', 18),
 (DEFAULT, 'Bass Guitar', '1YAs9Cf-vPXwJCiYiO3U6ByrHPZEL0p_b', 18),
-(DEFAULT, 'Drum Set', '1_0DjoTyDBY_gypztQwtihAvw4IMxC8WF', 18),
-(DEFAULT, 'Piano', '1ZedhhA80Tf38rdWw9U1O-5JCUuKbBkfV', 18),
+(DEFAULT, 'Drum Set', '12HeDjeaxYTPfYBnVSYIIdfxbsJGLNPU2', 18),
+(DEFAULT, 'Piano', '1F1htEbazbjgES7GSVZAfbaqOrMo2PWtF', 18),
 -- The Beatles - Yesterday
 (DEFAULT, 'Full Score', '18q1qSP8TfVakFsP7uaxKmrPjFe9eALaz', 19),
 (DEFAULT, 'Voice', '1S6JdwKIF1-pJqJbDZGO6KrWxFobKbPO3', 19),
