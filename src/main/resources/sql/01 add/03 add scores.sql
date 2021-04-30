@@ -337,8 +337,8 @@ VALUES
 (DEFAULT, 'Electric Organ', '1j5Zn7dUSyzxVSLCvDuhjK7_2NnvgDxNa', 70),
 (DEFAULT, 'Pad 4 (Choir)', '1JnqoDn1bIcgNzx-Xvc1lmr6hNjncZ1rr', 70),
 -- Кино - Звезда по имени Солнце
-(DEFAULT, 'Full Score', '15lWRK_fQnsn9Mhdpi1XUzAeSQljTV0YC', 71),
-(DEFAULT, 'Voice', '1PZAP8gx81ahINy8x2vJLDsOdZbZ98kPV', 71),
+(DEFAULT, 'Full Score', '1GEqY5ZRzYxjTekAP9NYDc1r47K_1AlM-', 71),
+(DEFAULT, 'Voice', '1Wk-aPHhidMH5PNt8qBHGQ4iKxiRkiuK-', 71),
 (DEFAULT, 'Acoustic Guitar, Electric Guitar 1, Electric Guitar 2', '1KMobv5Jl6LYwYpqcQlBKFmHK6A_wZo5c', 71),
 (DEFAULT, 'Acoustic Guitar', '1MTU9u0FqN0RV8AO_D2_ewanUEBBLW4jO', 71),
 (DEFAULT, 'Electric Guitar 1', '1YTFiD5s-XExYJz6GHGcvFf7O1_DTo-Yr', 71),
