@@ -336,6 +336,18 @@ VALUES
 (DEFAULT, 'Pad 2 (Warm)', '1wxuS1Mqhmy_Sfmny8JAwPKbLt-YUGYDn', 70),
 (DEFAULT, 'Electric Organ', '1j5Zn7dUSyzxVSLCvDuhjK7_2NnvgDxNa', 70),
 (DEFAULT, 'Pad 4 (Choir)', '1JnqoDn1bIcgNzx-Xvc1lmr6hNjncZ1rr', 70),
+-- Кино - Звезда по имени Солнце
+(DEFAULT, 'Full Score', '15lWRK_fQnsn9Mhdpi1XUzAeSQljTV0YC', 71),
+(DEFAULT, 'Voice', '1PZAP8gx81ahINy8x2vJLDsOdZbZ98kPV', 71),
+(DEFAULT, 'Acoustic Guitar, Electric Guitar 1, Electric Guitar 2', '1KMobv5Jl6LYwYpqcQlBKFmHK6A_wZo5c', 71),
+(DEFAULT, 'Acoustic Guitar', '1MTU9u0FqN0RV8AO_D2_ewanUEBBLW4jO', 71),
+(DEFAULT, 'Electric Guitar 1', '1YTFiD5s-XExYJz6GHGcvFf7O1_DTo-Yr', 71),
+(DEFAULT, 'Electric Guitar 2', '1nCj7S416uEe80xxNtcqXvpmiOhahzc_c', 71),
+(DEFAULT, 'Bass Guitar', '1k4OuQwnwRNhYI46emCQne9CdJ2V0tccr', 71),
+(DEFAULT, 'Drum Set', '1A-w_3m5-_4i8QQ9ZVMVlpahrjfFl2DZI', 71),
+(DEFAULT, 'Piano, Harpsichord', '1UqvH0WLSsTCF6BM-KD6_F7hM0Qv352Ay', 71),
+(DEFAULT, 'Piano', '1aZu3QHwYbQzBBwo9MOlWD4aZ7qAOYgIk', 71),
+(DEFAULT, 'Harpsichord', '1B4d8ES6ONIwNjJTUqFgzfB0p8X4IkPkt', 71),
 -- Кино - Кончится лето
 (DEFAULT, 'Full Score', '1fr8zS6cZnw6U_0XwlAY7fREQ-g58nnUK', 73),
 (DEFAULT, 'Voice', '15iSp2vbRXI7vldzWuXhvspFNrNjAHIfd', 73),
