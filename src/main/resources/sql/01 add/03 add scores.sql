@@ -2,6 +2,7 @@
 
 INSERT INTO scores (id, title, url, song_id)
 VALUES
+-- Joan Osborne - One of Us
 -- Linkin Park - Numb
 (DEFAULT, 'Electric Guitar 1, Electric Guitar 2', '1Wr-AVEMZTsA3UJjNakZm2ILS4o67creu', 50),
 -- Metallica - Nothing Else Matters
