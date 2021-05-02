@@ -7,7 +7,7 @@ VALUES
 -- Eurythmics - Sweet Dreams (Are Made of This)
 -- (DEFAULT, '', 20),
 -- Joan Osborne - One of Us
--- (DEFAULT, '', 30),
+(DEFAULT, '10lA-I8AoECCIA0rMZAxowMdgnEAqtIk-', 30),
 -- Maroon 5 - This Love
 -- (DEFAULT, '', 40),
 -- Linkin Park - Numb

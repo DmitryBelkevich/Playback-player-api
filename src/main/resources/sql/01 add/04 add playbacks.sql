@@ -9,6 +9,7 @@ VALUES
 -- Eurythmics - Sweet Dreams (Are Made of This)
 (DEFAULT, 'original', '1WiC6XGzYRXTpMTtVS6qtJ0Iq6MUI9d1q', 20),
 -- Joan Osborne - One of Us
+(DEFAULT, 'original', '1BvaaGEfJKr8jY1CIds1CV0rYyIXf6NtT', 30),
 -- Maroon 5 - This Love
 (DEFAULT, 'original', '1LOXvoiv3hH_O8O3ikz4PIHfF7Wbol_nP', 40),
 -- Metallica - No Leaf Clover
