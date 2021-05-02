@@ -8,8 +8,9 @@ VALUES (1, 'Hard'),
 
 INSERT INTO bands (id, title)
 VALUES (1, 'Alice Merton'),
-       (10, 'Bon Jovi'),
-       (15, 'Eurythmics'),
+       (5, 'Bon Jovi'),
+       (10, 'Eurythmics'),
+       (15, 'Joan Osborne'),
        (20, 'Maroon 5'),
        (25, 'Linkin Park'),
        (30, 'Metallica'),
@@ -68,8 +69,8 @@ VALUES (1, 'Alice Merton'),
 
 INSERT INTO songs (id, title, band_id, key_signature)
 VALUES (1, 'No Roots', 1, 'Bm'),
-       (2, 'It''s My Life', 10, 'Cm'),
-       (3, 'Sweet Dreams (Are Made of This)', 15, 'Cm'),
+       (2, 'It''s My Life', 5, 'Cm'),
+       (3, 'Sweet Dreams (Are Made of This)', 10, 'Cm'),
        (4, 'This Love', 20, 'Cm'),
        (5, 'Numb', 25, 'F#m'),
        (6, 'No Leaf Clover', 30, 'Ebm'),
