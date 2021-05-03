@@ -510,6 +510,7 @@ VALUES
 (DEFAULT, 'Bass Guitar', '118m2gT122AzbBr2EGqDGUuxkc74tdffZ', 900),
 (DEFAULT, 'Drum Set', '1jP-1xla0P6-F5AYFL8Hcv3vVvp4VQNpD', 900),
 (DEFAULT, 'Violin', '1LklOt91sRC68l1KDir_1VNjYUJYznKbF', 900),
+-- Любэ - Конь
 -- Любэ - Позови меня тихо по имени
 (DEFAULT, 'Full Score', '15VUHfmGgPhElEQez5uRFTB-Ee9Fx9Sfk', 965),
 (DEFAULT, 'Voice 1, Voice 2, Voice 3', '1qa8U32SY_Pox8CUSG9DG4zXr9rmvcpcW', 965),
