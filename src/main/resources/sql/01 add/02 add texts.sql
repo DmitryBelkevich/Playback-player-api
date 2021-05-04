@@ -232,6 +232,8 @@ VALUES
 -- Наутилус Помпилиус - Я хочу быть с тобой
 -- Ненси - Дым сигарет с ментолом
 (DEFAULT, '1BEVEH3tLqiBfc69HNHKrUF3WlwaqEvW0', 1240),
+-- Ненси - Чистый лист
+(DEFAULT, '1XDMKvweEBggsTkVWAI607DzFZvASw0gP', 1245),
 -- Порнофильмы - Я так соскучился
 (DEFAULT, '1lL6BOSpselagLAFSTzCk4vLrVsfRAMBo', 1250),
 -- Сектор Газа - 30 лет
