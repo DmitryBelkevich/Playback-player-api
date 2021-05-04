@@ -209,6 +209,8 @@ VALUES
 (DEFAULT, '1cRWUgp0kLuD1gycmz6EPDGfzCB3AeNg_', 1110),
 -- Михаил Боярский - Зеленоглазое такси
 (DEFAULT, '1MWK5AlWW3yAKogbsQms8w1RMojxJAYYE', 1120),
+-- Михаил Боярский - Ланфрен-ланфра
+(DEFAULT, '1C9_ziHoyzqYDUhPbMxC4uYke8r8AqwB0', 1125),
 -- Михаил Круг - Владимирский централ
 (DEFAULT, '1hjEcHC-tYz1SkhoGzVn0xhnr7W_1GDM_', 1130),
 -- Михаил Круг - Кольщик
