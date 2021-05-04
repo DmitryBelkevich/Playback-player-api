@@ -181,7 +181,7 @@ VALUES
 -- (DEFAULT, '', 930),
 -- Ленинград - Терминатор
 -- Леприконсы - Хали-Гали
--- (DEFAULT, '', 950),
+(DEFAULT, '12xaoXoOWWzVsseQLkDb4ifdSEGFocw-x', 950),
 -- Любэ - Конь
 (DEFAULT, '1vy_07S_ePv5LXaxTCRzlYBqjLl98bOdS', 960),
 -- Любэ - Позови меня тихо по имени
@@ -235,6 +235,7 @@ VALUES
 -- (DEFAULT, '', 1200),
 -- Наутилус Помпилиус - Прогулки по воде
 -- Наутилус Помпилиус - Скованные одной цепью
+(DEFAULT, '16zNVtGePNVZzwwA0tAncJcmZdFP7HPzJ', 1220),
 -- Наутилус Помпилиус - Я хочу быть с тобой
 -- Ненси - Дым сигарет с ментолом
 (DEFAULT, '1BEVEH3tLqiBfc69HNHKrUF3WlwaqEvW0', 1240),
