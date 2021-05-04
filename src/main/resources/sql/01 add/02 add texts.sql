@@ -178,6 +178,8 @@ VALUES
 -- Ленинград - Терминатор
 -- Леприконсы - Хали-Гали
 -- (DEFAULT, '', 950),
+-- Любэ - Конь
+(DEFAULT, '1vy_07S_ePv5LXaxTCRzlYBqjLl98bOdS', 960),
 -- Любэ - Позови меня тихо по имени
 (DEFAULT, '1box1lCMNJcxwZDNIBfDGJLK0xp9xOM3I', 965),
 -- Ляпис Трубецкой - Ау
