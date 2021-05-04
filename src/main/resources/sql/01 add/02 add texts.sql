@@ -235,34 +235,34 @@ VALUES
 -- Сектор Газа - 30 лет
 (DEFAULT, '1VH1TAITlCzMJ5kYZXR8wfvEQ-0SmH5kK', 1260),
 -- Сектор Газа - Демобилизация
-(DEFAULT, '1YibK7hLxoRIZaFFBHWGL8XgmTFq00V4o', 1270),
+(DEFAULT, '1YibK7hLxoRIZaFFBHWGL8XgmTFq00V4o', 1280),
 -- Сектор Газа - Лирика
-(DEFAULT, '1tvKj2W1dfPK4F7NkDPkwONG3pkAIoMnk', 1280),
+(DEFAULT, '1tvKj2W1dfPK4F7NkDPkwONG3pkAIoMnk', 1290),
 -- Сектор Газа - Пора домой
-(DEFAULT, '18BIop-OrduXX3qPAVjtbVUmuInJ8R2RY', 1290),
+(DEFAULT, '18BIop-OrduXX3qPAVjtbVUmuInJ8R2RY', 1300),
 -- Сектор Газа - Туман
-(DEFAULT, '1dcEqgfBCl2ABVcwGlmTAs9lQFJSTpjnz', 1300),
+(DEFAULT, '1dcEqgfBCl2ABVcwGlmTAs9lQFJSTpjnz', 1310),
 -- Сергей Тихановcкий & Kosmas - Разбуры турмы муры
--- (DEFAULT, '', 1310),
--- Сергей Тихановcкий & Kosmas - Стены рухнут
 -- (DEFAULT, '', 1320),
+-- Сергей Тихановcкий & Kosmas - Стены рухнут
+-- (DEFAULT, '', 1330),
 -- Синяя птица - Там, где клён шумит
-(DEFAULT, '1jU1OELMO1mB8-e40pxr9ibZ8DdPXGQIK', 1330);
+(DEFAULT, '1jU1OELMO1mB8-e40pxr9ibZ8DdPXGQIK', 1340);
 -- Слот - Круги на воде
--- (DEFAULT, '', 1340),
--- Сплин - Выхода нет
 -- (DEFAULT, '', 1350),
--- Сплин - Линия жизни
+-- Сплин - Выхода нет
 -- (DEFAULT, '', 1360),
--- Сплин - Моё сердце
+-- Сплин - Линия жизни
 -- (DEFAULT, '', 1370),
--- Сплин - Орбит без сахара
+-- Сплин - Моё сердце
 -- (DEFAULT, '', 1380),
--- Сплин - Романс
+-- Сплин - Орбит без сахара
 -- (DEFAULT, '', 1390),
--- Танцы Минус - Половинка
+-- Сплин - Романс
 -- (DEFAULT, '', 1400),
--- Татьяна Дасковская - Прекрасное далеко
+-- Танцы Минус - Половинка
 -- (DEFAULT, '', 1410),
+-- Татьяна Дасковская - Прекрасное далеко
+-- (DEFAULT, '', 1420),
 -- Чичерина - Ту-лу-ла
--- (DEFAULT, '', 1420);
+-- (DEFAULT, '', 1430);
