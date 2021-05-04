@@ -251,7 +251,7 @@ VALUES
 -- Сергей Тихановcкий & Kosmas - Стены рухнут
 -- (DEFAULT, '', 1330),
 -- Синяя птица - Там, где клён шумит
-(DEFAULT, '1jU1OELMO1mB8-e40pxr9ibZ8DdPXGQIK', 1340);
+(DEFAULT, '1jU1OELMO1mB8-e40pxr9ibZ8DdPXGQIK', 1340),
 -- Слот - Круги на воде
 -- (DEFAULT, '', 1350),
 -- Сплин - Выхода нет
@@ -267,6 +267,8 @@ VALUES
 -- Танцы Минус - Половинка
 -- (DEFAULT, '', 1410),
 -- Татьяна Дасковская - Прекрасное далеко
--- (DEFAULT, '', 1420),
+(DEFAULT, '163HW7ZpJBV5e54feoiwlDbQf4r1nptFz', 1420),
 -- Чичерина - Ту-лу-ла
--- (DEFAULT, '', 1430);
+-- (DEFAULT, '', 1430),
+-- Ярослав Евдокимов - Фантазер
+(DEFAULT, '1aVMCjQqYjtUh4lka4jdx-BNudi3LBRIR', 1440);
