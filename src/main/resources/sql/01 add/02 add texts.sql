@@ -277,5 +277,5 @@ VALUES
 (DEFAULT, '163HW7ZpJBV5e54feoiwlDbQf4r1nptFz', 1420),
 -- Чичерина - Ту-лу-ла
 -- (DEFAULT, '', 1430),
--- Ярослав Евдокимов - Фантазер
+-- Ярослав Евдокимов - Фантазёр
 (DEFAULT, '1aVMCjQqYjtUh4lka4jdx-BNudi3LBRIR', 1440);
