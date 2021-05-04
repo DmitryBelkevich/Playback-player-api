@@ -73,13 +73,13 @@ VALUES
 -- Альянс - На заре
 (DEFAULT, '1qsxOUZ-vt8B-6oJhbfbg-EezKGF4lczq', 340),
 -- Ария - Беспечный ангел
--- (DEFAULT, '', 350),
+(DEFAULT, '1dEy512lg4zWJM4gXE9JwNBjhSNzXTUS_', 350),
 -- Ария - Закат
 -- (DEFAULT, '', 360),
 -- Ария - Осколок льда
 -- (DEFAULT, '', 370),
 -- Ария - Штиль
--- (DEFAULT, '', 380),
+(DEFAULT, '18lgs_Oj5jJpO0oZZuNFQhB62GyWNviBJ', 380),
 -- АукцЫон - Дорога
 -- (DEFAULT, '', 390),
 -- Би-2 - Варвара
