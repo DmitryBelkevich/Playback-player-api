@@ -66,6 +66,8 @@ VALUES
 (DEFAULT, '1kxnvn2IoxMf8tG4brhGg3xtfSeNVMb-l', 310),
 -- Аквариум - Город золотой
 -- (DEFAULT, '', 320),
+-- Алексин - Малолетние шалавы
+(DEFAULT, '1vayh9CHsO46ZU3pSGBLVEA9MLP9axNxK', 325),
 -- Алла Пугачёва - Позови меня с собой
 (DEFAULT, '1Cenp7Q9riOoakC0gpJC4AeIfW0-1d6Xp', 330),
 -- Альянс - На заре
