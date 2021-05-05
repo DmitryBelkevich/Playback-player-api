@@ -187,15 +187,15 @@ VALUES
 -- Любэ - Позови меня тихо по имени
 (DEFAULT, '1box1lCMNJcxwZDNIBfDGJLK0xp9xOM3I', 965),
 -- Ляпис Трубецкой - Ау
--- (DEFAULT, '', 970),
+(DEFAULT, '1eKdLn6OS7gtWd5i-sXHIvIqS3KjNsbhG', 970),
 -- Ляпис Трубецкой - Воины света
 -- (DEFAULT, '', 980),
 -- Ляпис Трубецкой - В платье белом
--- (DEFAULT, '', 990),
+(DEFAULT, '1Ar433wQqH0cWsVSG7uxgaWLJXTA8Yu2f', 990),
 -- Ляпис Трубецкой - Грай
 -- (DEFAULT, '', 1000),
 -- Ляпис Трубецкой - Евпатория
--- (DEFAULT, '', 1010),
+(DEFAULT, '1Ot5bo28jB0I-lG7EhCE0RRDO-ldrMjTH', 1010),
 -- Ляпис Трубецкой - Капитал
 (DEFAULT, '10DO8XBy4mWEQYzs-Qevk97iAzIWOafh8', 1020),
 -- Ляпис Трубецкой - Манифест
@@ -205,13 +205,13 @@ VALUES
 -- Ляпис Трубецкой - Belarus Freedom
 -- (DEFAULT, '', 1050),
 -- Ляпис Трубецкой - Огоньки
--- (DEFAULT, '', 1060),
+(DEFAULT, '12ylxk_rIRqfPfdCf2fzt1PgGrKhFgzAK', 1060),
 -- Ляпис Трубецкой - Сочи
 -- (DEFAULT, '', 1070),
 -- Ляпис Трубецкой - Танцуй
--- (DEFAULT, '', 1080),
+(DEFAULT, '129SCr_IPCDKmHB7kP3aAwUZt1IymQDjE', 1080),
 -- Ляпис Трубецкой - Шут
--- (DEFAULT, '', 1090),
+(DEFAULT, '1QO5Ds4nPhpplLcIaUUDssABBw4Scf95t', 1090),
 -- Ляпис Трубецкой - Яблони
 -- Ляпис Трубецкой - Я верю
 (DEFAULT, '1cRWUgp0kLuD1gycmz6EPDGfzCB3AeNg_', 1110),
