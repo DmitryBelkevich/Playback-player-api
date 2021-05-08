@@ -7,7 +7,7 @@ VALUES (1, 'Hard'),
 -- bands
 
 INSERT INTO bands (id, title)
-VALUES (1, 'Alice Merton'),
+VALUES (1, 'Alice Merton'),-- Pop, Dance
        (5, 'Bon Jovi'),-- Rock, Punk
        (10, 'Eurythmics'),
        (15, 'Joan Osborne'),-- Rock, Punk
