@@ -4,6 +4,16 @@ INSERT INTO users (id, name)
 VALUES (1, 'Hard'),
        (2, 'Leon');
 
+-- genres
+
+-- INSERT INTO genres (id, title)
+-- VALUES (1, 'Metal'),
+--        (2, 'Rock, Punk'),
+--        (3, 'Pop, Dance'),
+--        (4, 'Estrada'),
+--        (5, 'New school'),
+--        (6, 'Instrumental');
+
 -- bands
 
 INSERT INTO bands (id, title)
