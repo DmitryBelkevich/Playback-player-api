@@ -68,6 +68,7 @@ VALUES (1, 'Alice Merton'),-- Pop, Dance
        (225, 'Мумий Тролль'),-- Rock, Punk
        (230, 'Наутилус Помпилиус'),-- Rock, Punk
        (235, 'Ненси'),-- Pop, Dance
+       (237, 'Песняры'),-- Estrada
        (240, 'Порнофильмы'),-- Rock, Punk
        (245, 'Сектор Газа'),-- Rock, Punk
        (250, 'Сергей Тихановcкий & Kosmas'),-- Rock, Punk
