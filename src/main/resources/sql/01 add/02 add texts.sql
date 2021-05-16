@@ -61,7 +61,7 @@ VALUES
 -- N.R.M. - Тры чарапахі
 -- (DEFAULT, '', 290),
 -- Агата Кристи - Как на войне
--- (DEFAULT, '', 300),
+(DEFAULT, '1RyOu58rkrFU4jGd1iUja4pjevEnoVzUf', 300),
 -- Агата Кристи - Никогда
 (DEFAULT, '1kxnvn2IoxMf8tG4brhGg3xtfSeNVMb-l', 310),
 -- Аквариум - Город золотой
