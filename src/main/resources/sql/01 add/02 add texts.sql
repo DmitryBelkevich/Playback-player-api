@@ -241,6 +241,8 @@ VALUES
 (DEFAULT, '1BEVEH3tLqiBfc69HNHKrUF3WlwaqEvW0', 1240),
 -- Ненси - Чистый лист
 (DEFAULT, '1XDMKvweEBggsTkVWAI607DzFZvASw0gP', 1245),
+-- Песняры - Белоруссия
+(DEFAULT, '1XQyMxTW-rgAPJtkpjTL8dNqDswETt796', 1247),
 -- Порнофильмы - Я так соскучился
 (DEFAULT, '1lL6BOSpselagLAFSTzCk4vLrVsfRAMBo', 1250),
 -- Сектор Газа - 30 лет
