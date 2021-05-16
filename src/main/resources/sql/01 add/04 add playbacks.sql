@@ -348,6 +348,9 @@ VALUES
 -- Сплин - Романс
 (DEFAULT, 'original', '1IGAxFyBv9-cwbQgyYWEtUUQTw6MzfOHT', 1400),
 (DEFAULT, '0', '1y03jkJpseyax1_B20hx_IOigTSiWzFd4', 1400),
+-- Стас Михайлов - Всё для тебя
+(DEFAULT, '0', '176frERptpk8tE4jbMtQ-QKK5iT7G5lAr', 1405),
+(DEFAULT, '-2', '1VuU8C7OcSUizmeLkr5nCEbR6Hiqopd_t', 1405),
 -- Танцы Минус - Половинка
 (DEFAULT, 'original', '1_D-H2wiH2j0WosnHXETXsZKkV2-pr_fL', 1410),
 (DEFAULT, '0', '1AIrDfhM2YtBisszdHB4NXn2HKQLpTOaC', 1410),
