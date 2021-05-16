@@ -349,6 +349,7 @@ VALUES
 (DEFAULT, 'original', '1IGAxFyBv9-cwbQgyYWEtUUQTw6MzfOHT', 1400),
 (DEFAULT, '0', '1y03jkJpseyax1_B20hx_IOigTSiWzFd4', 1400),
 -- Стас Михайлов - Всё для тебя
+(DEFAULT, 'original', '1uvuqFZgbi4Udv7OxQBV80ZVFLBfq854T', 1405),
 (DEFAULT, '0', '176frERptpk8tE4jbMtQ-QKK5iT7G5lAr', 1405),
 (DEFAULT, '-2', '1VuU8C7OcSUizmeLkr5nCEbR6Hiqopd_t', 1405),
 -- Танцы Минус - Половинка
