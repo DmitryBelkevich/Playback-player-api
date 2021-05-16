@@ -82,6 +82,9 @@ VALUES
 (DEFAULT, '0', '1JZdpTjJJGW6lFcUF8m8px3f2ry_IOpSC', 300),
 (DEFAULT, '-2', '19W1-SPlJytjM7u5HO21PHIstZYrAXbGd', 300),
 -- Агата Кристи - Никогда
+(DEFAULT, 'original', '1UQW9aBdBCpTnLoVMNxZpqyeRU91jiw0v', 310),
+(DEFAULT, '0', '1terxHMtjZUFx1sxeynCpE3NwdWTRoGw7', 310),
+(DEFAULT, '-2', '1wfmeUruVcHNRGKM9ViNzr8HJuCmVcXJs', 310),
 -- Аквариум - Город золотой
 (DEFAULT, '-2', '1OTHQOrv5RrQLl_JZCq_mCnGDhiaHVCHT', 320),
 -- Алла Пугачёва - Позови меня с собой
