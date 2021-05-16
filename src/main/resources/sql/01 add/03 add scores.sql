@@ -185,8 +185,8 @@ VALUES
 (DEFAULT, 'Viola', '1UTey9Pp2hJgtk6SiMfLy5GxbRs3h6yjl', 270),
 (DEFAULT, 'Violoncello', '1IT7JfyvTz6meX4nGlXE6alFuYrMMnfLI', 270),
 -- Агата Кристи - Как на войне
-(DEFAULT, 'Full Score', '1PRxk_qJAD30VIep5yizZX_VjCAppMVj5', 300),
-(DEFAULT, 'Voice', '1O2ndHnk-asrRdYuS3nDxPbZy64PCo-wd', 300),
+(DEFAULT, 'Full Score', '1qzpCSC6N4pRhPoZu0BZoBNyeIaNW5San', 300),
+(DEFAULT, 'Voice', '19PXNaB7MOD_kz-ZDu_LZ4tSV6LWN43uk', 300),
 (DEFAULT, 'Acoustic Guitar', '1CHC5auLI0JXSEMkjCPZD1cyRlhyBHwr_', 300),
 (DEFAULT, 'Electric Guitar', '1Ug5r4NX4iMK34agmAkjnbDP3LwISYcap', 300),
 (DEFAULT, 'Synth Bass', '1hOzM7aP5TuJCiY-bTjSx_2KvXVmqj0iy', 300),
