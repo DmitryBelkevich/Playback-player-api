@@ -134,7 +134,7 @@ VALUES
 -- Кино - Звезда по имени Солнце
 (DEFAULT, '1690Q0jyq325Iv0Evbc1b-jeFCBdtOWmk', 710),
 -- Кино - Когда твоя девушка больна
--- (DEFAULT, '', 720),
+(DEFAULT, '1fPhNq-8JedX1_2mBTjztYsaIDBQqvYgA', 720),
 -- Кино - Кончится лето
 -- (DEFAULT, '', 730),
 -- Кино - Кукушка
