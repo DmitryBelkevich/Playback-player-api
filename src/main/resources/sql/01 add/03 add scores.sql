@@ -30,8 +30,8 @@ VALUES
 (DEFAULT, 'Bass Guitar', '1KxkRXcsxEVH1_cz9TXuv6tU5yVnbaqUC', 90),
 (DEFAULT, 'Drum Set', '1ODMHRGSVd-P298c2Hme0HO3DuE5ehL6D', 90),
 -- Radiohead - Creep
-(DEFAULT, 'Full Score', '1C_bw5AfNgfGcLfxjuVhAolYr_Yrtk8OD', 100),
-(DEFAULT, 'Voice', '1Ydkc-56WBZZTAHNnsFIry2axUR_TimpC', 100),
+(DEFAULT, 'Full Score', '11844QanF2TncNvI8OpJCnX0zjHaTw89w', 100),
+(DEFAULT, 'Voice', '1tW9a0NMkMpmEfMABBx1BFZJMJyT5oUz9', 100),
 (DEFAULT, 'Electric Guitar 1, Electric Guitar 2, Electric Guitar 3', '1-6XxyMgBLYWJHAX0LOhtmc8LV8_RSkvZ', 100),
 (DEFAULT, 'Electric Guitar 1', '1mD_UwZHITOUAWQfUhj6sC1gAAcS8_CQt', 100),
 (DEFAULT, 'Electric Guitar 2', '1KX-LN21919RKmUAz5ai9WzzIYYw4RYW-', 100),
