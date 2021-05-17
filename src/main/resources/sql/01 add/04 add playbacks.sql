@@ -169,7 +169,7 @@ VALUES
 (DEFAULT, 'original', '1rec_Lhy2xayDlfKl4Qvre9CU3jhe0yIZ', 700),
 (DEFAULT, '0', '1MyYxABh1_8ceYhLzfPQVPGuukBwf2tji', 700),
 -- Кино - Звезда по имени Солнце
-(DEFAULT, '0', '119paFbFkbv_NTreK3GNbjp8f7jx8sOTJ', 710),
+(DEFAULT, '0', '1lreTbqRzxPyA22Zj2LaG10oFQ6kqTQl4', 710),
 -- Кино - Когда твоя девушка больна
 (DEFAULT, '0', '13E4biwkhB2IHQVEuMY4fV99G7N5siOha', 720),
 -- Кино - Кончится лето
