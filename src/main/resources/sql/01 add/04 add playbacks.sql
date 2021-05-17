@@ -172,7 +172,7 @@ VALUES
 (DEFAULT, '0', '1lreTbqRzxPyA22Zj2LaG10oFQ6kqTQl4', 710),
 -- Кино - Когда твоя девушка больна
 (DEFAULT, 'original', '1PL1WbqB4qNgzbIY6T55vj0_F-HOuS7oK', 720),
-(DEFAULT, '0', '13E4biwkhB2IHQVEuMY4fV99G7N5siOha', 720),
+(DEFAULT, '0', '1UaZXutLoJ5_d43fXLqoAVfT3g-X0ozcW', 720),
 -- Кино - Кончится лето
 (DEFAULT, 'original', '1gczdEsO-j0r4ypiUcdPc-Vt3gcIt_0P0', 730),
 (DEFAULT, '0', '16ivCYOYCE7z7hPx3AIXH2qosw_AnsN5J', 730),
