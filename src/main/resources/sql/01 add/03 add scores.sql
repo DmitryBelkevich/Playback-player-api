@@ -248,14 +248,14 @@ VALUES
 (DEFAULT, 'Synth Brass', '1Vww3be-qIsLbjcUZEvdElMfvjJJfmzZG', 340),
 (DEFAULT, 'Electric Clavichord', '1zpYWsBceKLJ_ALffaqK12Osyf1npD4KP', 340),
 -- Би-2 - Варвара
-(DEFAULT, 'Full Score', '1jkCjk7nXKyncVkG_Lv929ggfqOtXGCtf', 400),
+(DEFAULT, 'Full Score', '1xE-8jx2-CxXwK1dHQo_MH_anuOMNd-cn', 400),
 (DEFAULT, 'Voice 1', '1ymxj_1D7RskKREr4y1_6elBZRjdZ2NTL', 400),
 (DEFAULT, 'Voice 2', '1kHu0BGUCRjhzp797mqqSibU2cRhQKb1B', 400),
 (DEFAULT, 'Acoustic Guitar', '1NtFq8NpyqK5jHCl7nb4D9X2D8dEAWt4O', 400),
 (DEFAULT, 'Electric Guitar', '1s9cbfu8_BGbBUUpKDgLbRBooz81bsBBz', 400),
 (DEFAULT, '5-string Bass Guitar', '1-_kgKjtLeMTEfuUI0QNMkIqPupaUcNEY', 400),
 (DEFAULT, 'Drum Set', '19qThyC0PndqZPTeIUzj3uyev9eWzhGir', 400),
-(DEFAULT, 'Pad 2 (Warm)', '13Mu6TmXfacO6cIPLSoO7k1EF6RDZUopI', 400),
+(DEFAULT, 'Pad 2 (Warm)', '1XUAjEUTje2UFixE99hS3pfBjy34WSlLr', 400),
 (DEFAULT, 'Trumpet in Bb', '1bfdXL5YC-DfWJzn_5oBLvdeSKH9olOHY', 400),
 -- Би-2 - Полковнику никто не пишет
 (DEFAULT, 'Full Score', '1xBT415rcj2VNHbkA8cEnDnQ-1m5NODlq', 430),
