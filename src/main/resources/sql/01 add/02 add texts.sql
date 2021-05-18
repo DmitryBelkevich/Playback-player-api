@@ -264,15 +264,15 @@ VALUES
 -- Слот - Круги на воде
 -- (DEFAULT, '', 1350),
 -- Сплин - Выхода нет
--- (DEFAULT, '', 1360),
+(DEFAULT, '1PNCEsQaREvDUMvniS_yyAAJ8qd1uRH6N', 1360),
 -- Сплин - Линия жизни
 -- (DEFAULT, '', 1370),
 -- Сплин - Моё сердце
 -- (DEFAULT, '', 1380),
 -- Сплин - Орбит без сахара
--- (DEFAULT, '', 1390),
+(DEFAULT, '1DRx51rkYx4Ou_-SH8KqUIRXf247qJPH8', 1390),
 -- Сплин - Романс
--- (DEFAULT, '', 1400),
+(DEFAULT, '1N1PvlAR-rBxVjmIza6ovDAUl9fsvKE9Z', 1400),
 -- Стас Михайлов - Всё для тебя
 (DEFAULT, '115SIVb_I9hp3c0eddvavWoQG0W9tiYpQ', 1405),
 -- Танцы Минус - Половинка
