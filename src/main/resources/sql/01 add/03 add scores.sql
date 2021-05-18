@@ -785,7 +785,7 @@ VALUES
 (DEFAULT, 'Rain Stick', '1X4_qME_6G3RcE0bAeA3v1nwbtxGFfRlw', 1360),
 (DEFAULT, 'Pad 8 (Sweep)', '1Ab45F2b2oUJeqD2kL5ZIlQhaQr2W-uWy', 1360),
 -- Сплин - Орбит без сахара
-(DEFAULT, 'Full Score', '1loLtKt8D8DMVFwk3OSAt20gShC-s0R0C', 1390),
+(DEFAULT, 'Full Score', '1hvTWFjyfu2YLCSKaDKo54JX0_SZiLaCe', 1390),
 (DEFAULT, 'Voice 1, Voice 2', '1oi9pxQufbLRiCjaf1QFq4J_DhUjtDVhm', 1390),
 (DEFAULT, 'Voice 1', '1Xb3EQ_IFkYSvI6axjN0d7GXu-cFLYNK3', 1390),
 (DEFAULT, 'Voice 2', '1yJ8oEzR2Giymv4lp3icrJVdAXdbntJFA', 1390),
