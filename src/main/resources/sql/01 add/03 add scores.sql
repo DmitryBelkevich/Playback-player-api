@@ -248,8 +248,8 @@ VALUES
 (DEFAULT, 'Synth Brass', '1Vww3be-qIsLbjcUZEvdElMfvjJJfmzZG', 340),
 (DEFAULT, 'Electric Clavichord', '1zpYWsBceKLJ_ALffaqK12Osyf1npD4KP', 340),
 -- Би-2 - Варвара
-(DEFAULT, 'Full Score', '1xE-8jx2-CxXwK1dHQo_MH_anuOMNd-cn', 400),
-(DEFAULT, 'Voice 1', '1ymxj_1D7RskKREr4y1_6elBZRjdZ2NTL', 400),
+(DEFAULT, 'Full Score', '1sGKOnWBLpDNC6RUXsYcjIdcsESNPs6gB', 400),
+(DEFAULT, 'Voice 1', '1yoHOM6my7-oBWJJt1x8BAiUkGbn5s_IF', 400),
 (DEFAULT, 'Voice 2', '1kHu0BGUCRjhzp797mqqSibU2cRhQKb1B', 400),
 (DEFAULT, 'Acoustic Guitar', '1NtFq8NpyqK5jHCl7nb4D9X2D8dEAWt4O', 400),
 (DEFAULT, 'Electric Guitar', '1s9cbfu8_BGbBUUpKDgLbRBooz81bsBBz', 400),
