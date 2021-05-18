@@ -268,7 +268,7 @@ VALUES
 -- Сплин - Линия жизни
 -- (DEFAULT, '', 1370),
 -- Сплин - Моё сердце
--- (DEFAULT, '', 1380),
+(DEFAULT, '163PcnIjeCoxGIXZk6fMi1q6KOcnVS3w3', 1380),
 -- Сплин - Орбит без сахара
 (DEFAULT, '1DRx51rkYx4Ou_-SH8KqUIRXf247qJPH8', 1390),
 -- Сплин - Романс
