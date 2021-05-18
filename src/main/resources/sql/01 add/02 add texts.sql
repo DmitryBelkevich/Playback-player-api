@@ -93,7 +93,7 @@ VALUES
 -- Би-2 - Серебро
 -- (DEFAULT, '', 440),
 -- Валентин Стрыкало - Наше лето
--- (DEFAULT, '', 450),
+(DEFAULT, '1QswkDz8eZfFXHIgSetji7mDjvxafqNMe', 450),
 -- Город 312 - Останусь
 (DEFAULT, '12IlYKTH1UU6WgYTVlH1bMsZSloz7YOL8', 455),
 -- Гражданская оборона - Всё идёт по плану
