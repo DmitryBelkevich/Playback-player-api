@@ -773,9 +773,9 @@ VALUES
 (DEFAULT, 'Drum Set', '1O71Qv4HxrTq184_dbOdKWW21-APOUwRM', 1350),
 (DEFAULT, 'Keyboard', '1sv3mZSyqhnJVYv2q8tNlC2ZCDdSCnFU1', 1350),
 -- Сплин - Выхода нет
-(DEFAULT, 'Full Score', '1Oo3D-Iv4mBwGv7lKE2MtBj5TRAgwbx5z', 1360),
-(DEFAULT, 'Voice 1, Voice 2', '1YXpQw2Jm1UzqoyJTAtKnL9-LKzFmKhoJ', 1360),
-(DEFAULT, 'Voice 1', '1rXzA3_qfNMkgg-VubJl2WBn-_mL-A6gz', 1360),
+(DEFAULT, 'Full Score', '1kS_J_9htOqN_h_fpcXMlCBrjhE_u7n36', 1360),
+(DEFAULT, 'Voice 1, Voice 2', '1s_OHoJwXOciowOabvFMDpcvMtTvYUeCQ', 1360),
+(DEFAULT, 'Voice 1', '1ycnVFgbBuBOf8nLCM2-sTWKFY8tL_4J0', 1360),
 (DEFAULT, 'Voice 2', '1_WAHEwoGgGwte2rBV-KFPVPJwNMnuufp', 1360),
 (DEFAULT, 'Electric Guitar', '1hY0FMPb2qQbohTOL6aWgMqxEfHb26aOk', 1360),
 (DEFAULT, '5-string Bass Guitar', '1QsJ3W9PuwhHYGi-0LJND32hnH2_z3yKT', 1360),
