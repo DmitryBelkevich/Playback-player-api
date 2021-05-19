@@ -797,8 +797,8 @@ VALUES
 (DEFAULT, 'Claves', '1GlrDeb6anTJ1wydQdLKzVJW6Nh7028WL', 1390),
 (DEFAULT, 'Lead 5 (Charang)', '1Zy2iNNnJULd8r7lY6DMb1P4713HQoXTu', 1390),
 -- Сплин - Романс
-(DEFAULT, 'Full Score', '1IUB1H-MyGsmLbk5-IOEw0cw75YsMPZma', 1400),
-(DEFAULT, 'Voice', '1EXEfAcFcUeUNBeHXTxraSZQdi6zmpiRt', 1400),
+(DEFAULT, 'Full Score', '1SFktgYb01rP8KzO1_hgHQ2q4AnjxNQpy', 1400),
+(DEFAULT, 'Voice', '1jXVXzSnqs1KOf1mmvCBEeFw7cgb2ZFPA', 1400),
 (DEFAULT, 'Acoustic Guitar 1', '1igxovW4qvfoUzKjX_GgzsPbTQxjseQF3', 1400),
 (DEFAULT, 'Acoustic Guitar 2', '1PJNFaqdQ2AFG6SxY8lRU-6fCJgdMkjIB', 1400),
 (DEFAULT, 'Electric Guitar 1', '1qP0oIjjw5gKgNS2xSC2302k6YYV4NV1r', 1400),
