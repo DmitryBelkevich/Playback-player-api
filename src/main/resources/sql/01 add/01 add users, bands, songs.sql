@@ -20,6 +20,7 @@ INSERT INTO bands (id, title)
 VALUES (1, 'Alice Merton'),-- Pop, Dance
        (5, 'Bon Jovi'),-- Rock, Punk
        (10, 'Eurythmics'),
+       (12, 'Gary Moore'),-- Blues
        (15, 'Joan Osborne'),-- Rock, Punk
        (20, 'Maroon 5'),-- Pop, Dance
        (25, 'Linkin Park'),-- Rock, Punk
@@ -88,6 +89,7 @@ INSERT INTO songs (id, title, band_id, key_signature)
 VALUES (1, 'No Roots', 1, 'Bm'),
        (10, 'It''s My Life', 5, 'Cm'),
        (20, 'Sweet Dreams (Are Made of This)', 10, 'Cm'),
+       (25, 'The Loner', 12, 'Gm'),
        (30, 'One of Us', 15, 'F#m'),
        (40, 'This Love', 20, 'Cm'),
        (50, 'Numb', 25, 'F#m'),
