@@ -142,7 +142,7 @@ VALUES
 -- Кино - Мама, мы все тяжело больны
 -- (DEFAULT, '', 750),
 -- Кино - Муравейник
--- (DEFAULT, '', 755),
+(DEFAULT, '1MIm6Kpw-gugEOabe8x80aVvQOCCf3Jx0', 755),
 -- Кино - Пачка сигарет
 (DEFAULT, '13NJw888shKdCpCETked68ufggVxyF6Vq', 760),
 -- Кино - Хочу перемен!
