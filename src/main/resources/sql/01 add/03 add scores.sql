@@ -378,6 +378,7 @@ VALUES
 (DEFAULT, 'Bass Guitar', '1F2HR4zqSK5BDwFY74_XNA3Q6ZtHQBVgV', 730),
 (DEFAULT, 'Drum Set', '1e7xzpnhed2tPtDhMIz-BavQoeDxaYQqI', 730),
 (DEFAULT, 'Pad 1 (New Age)', '1yVe3X0QpyogA7LwJbjLfk4wgxzXJeqow', 730),
+-- Кино - Муравейник
 -- Кино - Пачка сигарет
 (DEFAULT, 'Full Score', '1ba49N4yZ2vNZ28Mq3QJzq2p4NBVafz8J', 760),
 (DEFAULT, 'Voice 1.2, Voice 3', '18C4URCexdANJXaFcCXlKv_CoR6t1C_4X', 760),
