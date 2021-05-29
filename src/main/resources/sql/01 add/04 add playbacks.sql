@@ -183,6 +183,8 @@ VALUES
 -- Кино - Мама, мы все тяжело больны
 (DEFAULT, '0', '1VCs2WGEhHQ885SpxqGOEYJqgFjRcQ7VX', 750),
 -- Кино - Муравейник
+(DEFAULT, 'original', '1ZxbX0X5MkHC13SaJgb5sqdOFEK17AY1B', 755),
+(DEFAULT, '0', '1MjRsAaC0rFBG2WxLbZJdYCmdodPlMDz4', 755),
 -- Кино - Пачка сигарет
 (DEFAULT, 'original', '1F9-DUIZBjRMPoqHfhNKfpCC0zjqTaCWS', 760),
 (DEFAULT, '0', '1hDYC0YLB7r1Q2xjl8pnuY4oZHnz7y3Gq', 760),
