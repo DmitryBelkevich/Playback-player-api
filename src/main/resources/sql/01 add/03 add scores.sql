@@ -379,7 +379,7 @@ VALUES
 (DEFAULT, 'Drum Set', '1e7xzpnhed2tPtDhMIz-BavQoeDxaYQqI', 730),
 (DEFAULT, 'Pad 1 (New Age)', '1yVe3X0QpyogA7LwJbjLfk4wgxzXJeqow', 730),
 -- Кино - Муравейник
-(DEFAULT, 'Full Score', '1LWKB_h5CX5-CdCPcZxdQxy9yQV59f34T', 755),
+(DEFAULT, 'Full Score', '1XNRGEzFUHoBs4N9qZQaYyfjdzvg8gghd', 755),
 (DEFAULT, 'Voice', '1v3ncQWU-9AO0ljhBsQcewwo3hjqLw_72', 755),
 (DEFAULT, 'Acoustic Guitar 1, Acoustic Guitar 2, Acoustic Guitar 3', '1RLOtANZgOuLCnvkZht-x3VHx5lmX9M8V', 755),
 (DEFAULT, 'Acoustic Guitar 1', '1AKwllofQSnvwm-zecxrKlxjRazS2Q1TS', 755),
@@ -390,8 +390,8 @@ VALUES
 (DEFAULT, 'Drum Set', '1yTII4mn5D2WBAGbSv1QPWb78BuL1-kE6', 755),
 (DEFAULT, 'Cymbals', '1ZS_aZoo0trNDj_sP4f4ai8umboZj4Vxm', 755),
 (DEFAULT, 'Handclap', '1kWMsCfBsVJlwcNTkWBtbgF8uILyq2kJo', 755),
-(DEFAULT, 'Lead 1 (Square), Synth Bass', '1APpRvrPe3Cyi_BOoQ1fLr33DtnGUSJq6', 755),
-(DEFAULT, 'Lead 1 (Square)', '1R8ICxbvYq4hbmFpSIdQ0ci-yYf86id0K', 755),
+(DEFAULT, 'Lead 1 (Square), Synth Bass', '1-DnLzYF0Y6yLlHphdadZnWIqpHDv_7lF', 755),
+(DEFAULT, 'Lead 1 (Square)', '1sGcJyZ15L4YQwVist5LzXgdkfBgtzb_m', 755),
 (DEFAULT, 'Synth Bass', '17Y9arNWbNN9Nq1s3FSGgTSXJ_ZcS11Yp', 755),
 -- Кино - Пачка сигарет
 (DEFAULT, 'Full Score', '1ba49N4yZ2vNZ28Mq3QJzq2p4NBVafz8J', 760),
