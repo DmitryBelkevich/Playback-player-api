@@ -121,7 +121,7 @@ VALUES
 -- The Beatles - Yesterday
 (DEFAULT, 'Full Score', '1yIticIrI1rBsYw-erWA_fBZctPAOCx_2', 190),
 (DEFAULT, 'Voice', '1nPaBdVI63L03KDIR7yUnf7EzdExIlptp', 190),
-(DEFAULT, 'Acoustic Guitar', '1KoNREKEtznmiGew2G4PIjJukj6kQqqpF', 190),
+(DEFAULT, 'Acoustic Guitar', '1YbfYs3mOsbtHAciQxYp_29_TvtN2nUjC', 190),
 (DEFAULT, 'Violin I, Violin II, Viola, Violoncello', '1TE1l0Zy_pHcKBdgDpcBCKuVISqbA-ob1', 190),
 (DEFAULT, 'Violin I', '1qB_yJ-K3OAL0kr9OIeDJk850UyaV0ax9', 190),
 (DEFAULT, 'Violin II', '14E_WfWuOsJ8SdzLkYNnG18vyCNXCuQh7', 190),
