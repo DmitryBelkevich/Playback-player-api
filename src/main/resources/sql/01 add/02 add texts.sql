@@ -39,7 +39,7 @@ VALUES
 -- System of a Down - Toxicity
 (DEFAULT, '1Vr2z7DHr02lC4lgD7lXaUA-M_wvBLsQz', 180),
 -- The Beatles - Yesterday
--- (DEFAULT, '', 190),
+(DEFAULT, '1fZssjEMEoHsa1HD6Vh3f5HExWvzVY5b5', 190),
 -- The Cranberries - Zombie
 -- (DEFAULT, '', 200),
 -- The Offspring - Pretty Fly (for a White Guy)
