@@ -90,7 +90,8 @@ VALUES
 (DEFAULT, '0', '1terxHMtjZUFx1sxeynCpE3NwdWTRoGw7', 310),
 (DEFAULT, '-2', '1wfmeUruVcHNRGKM9ViNzr8HJuCmVcXJs', 310),
 -- Аквариум - Город золотой
-(DEFAULT, '-2', '1OTHQOrv5RrQLl_JZCq_mCnGDhiaHVCHT', 320),
+(DEFAULT, '0', '1Y1Z8L9_N7Er8ma3xd_AJ3YGiuNle1kY5', 320),
+(DEFAULT, '-2', '1_91wLHOLYrLFEXs7waRC-ixYzoxgjy8X', 320),
 -- Алла Пугачёва - Позови меня с собой
 (DEFAULT, 'original', '1Zjpe_x6UWTHkUssAu53MP-5sORdFCrFc', 330),
 (DEFAULT, '0', '1u_nmmPVgOW7QmzwLxWK6SHmc3aPWZB82', 330),
