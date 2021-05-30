@@ -543,6 +543,14 @@ VALUES
 (DEFAULT, 'Drum Set', '1jP-1xla0P6-F5AYFL8Hcv3vVvp4VQNpD', 900),
 (DEFAULT, 'Violin', '1LklOt91sRC68l1KDir_1VNjYUJYznKbF', 900),
 -- Любэ - Конь
+(DEFAULT, 'Full Score', '1S04L6-0K-F6foScj7fRkKQr8tNOzWLra', 960),
+(DEFAULT, 'Voice 1, Voice 2', '1fKNzKOKSmQYuuXyf6EaCREmyutEsDJfl', 960),
+(DEFAULT, 'Voice 1', '1tHYVIoanZJHwNEh8nS4aeENAnad5Ul7c', 960),
+(DEFAULT, 'Voice 2', '1OePsTQSNg_30gZ6XSaiBTccKFgGXIoJF', 960),
+(DEFAULT, 'Tenor, Baritone, Bass', '12QsP1oyFOv5JecnkLpI2ebnf0C1SOvZT', 960),
+(DEFAULT, 'Tenor', '1GZekoTs1kCxVYXUQ7ojyCuq7Jj9mc5xg', 960),
+(DEFAULT, 'Baritone', '1lxTl87_dKz8cK2KnDYNw_2Rm_WDJfDjB', 960),
+(DEFAULT, 'Bass', '1PQvsqCzP8GAIwHIstmexM6-lDuPLbGo9', 960),
 -- Любэ - Позови меня тихо по имени
 (DEFAULT, 'Full Score', '15VUHfmGgPhElEQez5uRFTB-Ee9Fx9Sfk', 965),
 (DEFAULT, 'Voice 1, Voice 2, Voice 3', '1qa8U32SY_Pox8CUSG9DG4zXr9rmvcpcW', 965),
