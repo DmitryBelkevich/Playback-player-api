@@ -246,7 +246,9 @@ VALUES
 -- Ляпис Трубецкой - В платье белом
 (DEFAULT, '-2', '1eZQwihWm2xW-tKuqrpH2x_2qcAhdglm1', 990),
 -- Ляпис Трубецкой - Грай
-(DEFAULT, '-2', '1K57XmKi0JyD6m1Vo8vPl5YXdSLmMjifs', 1000),
+(DEFAULT, 'original', '1Xycelip9Uav7ZwpJ7o6i4xZhTHSmByvz', 1000),
+(DEFAULT, '0', '1cERqWvAlQLx1xqcKIppf6Ftfuvdhjv8X', 1000),
+(DEFAULT, '-2', '1ahMz0QFxrDX3tkZOMmmAHb3iuVT_LOfb', 1000),
 -- Ляпис Трубецкой - Евпатория
 (DEFAULT, '-2', '1qCZ3P_Z3de39NgmTKwDJuqG5QM2qp_86', 1010),
 -- Ляпис Трубецкой - Капитал
