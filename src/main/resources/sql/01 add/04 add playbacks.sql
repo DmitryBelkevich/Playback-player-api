@@ -7,7 +7,8 @@ VALUES
 -- Bon Jovi - It's My Life
 (DEFAULT, 'original', '1ZhV4e8LrelTti44CgBU3J0QcfP72izZ6', 10),
 -- Gary Moore - The Loner
-(DEFAULT, '0', '13bwfpAl_Y_y950VpY6cQKfBUIiUQwQvZ', 25),
+(DEFAULT, '0', '151ay9ovdknImnk0abkSHsUTeZgPGaQcY', 25),
+(DEFAULT, '-2', '1sBewSCld-VR0houptU3zBfCI4dGKElyW', 25),
 -- Eurythmics - Sweet Dreams (Are Made of This)
 (DEFAULT, 'original', '1WiC6XGzYRXTpMTtVS6qtJ0Iq6MUI9d1q', 20),
 -- Joan Osborne - One of Us
