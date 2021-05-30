@@ -579,6 +579,7 @@ VALUES
 (DEFAULT, 'Electric Guitar 2', '1fAehAa4658TRDPBtkgAiIj_YOCTWtJ3Z', 1000),
 (DEFAULT, 'Bass Guitar', '1R9RtwC9kTL8ugJfxoOZworaZeoLE0gAP', 1000),
 (DEFAULT, 'Drum Set', '1XlZPyjTNBZUSNkJm3y8sFOq5FByIxuwf', 1000),
+(DEFAULT, 'Bagpipes, Soprano Recorder, Accordion, Synth Strings', '1hzcy2mo5HaS9MUhDSiDynY58zH-iBlx0', 1000),
 (DEFAULT, 'Bagpipes', '1Sew6GtU0k58cXbLPHwMvV3R5olTjSrlW', 1000),
 (DEFAULT, 'Soprano Recorder', '1dLAbApG7dc180giDbxZFher7J675Wfpw', 1000),
 (DEFAULT, 'Accordion', '1Q-_7DutpMsv8cOaf2-Rv6cIk-DUXaQei', 1000),
