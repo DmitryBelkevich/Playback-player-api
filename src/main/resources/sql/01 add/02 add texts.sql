@@ -137,6 +137,8 @@ VALUES
 (DEFAULT, '1fPhNq-8JedX1_2mBTjztYsaIDBQqvYgA', 720),
 -- Кино - Кончится лето
 -- (DEFAULT, '', 730),
+-- Кино - Красно-жёлтые дни
+(DEFAULT, '1Z0_C6xvMIFr7AtjMQTy8thnQ2z0JJ-rz', 735),
 -- Кино - Кукушка
 -- (DEFAULT, '', 740),
 -- Кино - Мама, мы все тяжело больны
