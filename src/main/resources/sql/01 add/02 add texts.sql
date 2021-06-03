@@ -285,6 +285,8 @@ VALUES
 -- (DEFAULT, '', 1410),
 -- Татьяна Дасковская - Прекрасное далёко
 (DEFAULT, '163HW7ZpJBV5e54feoiwlDbQf4r1nptFz', 1420),
+-- Форум - Белая ночь
+(DEFAULT, '17zGCNTb9n00-nbaevsPSRnxTxkfhsh9_', 1425),
 -- Чичерина - Ту-лу-ла
 -- (DEFAULT, '', 1430),
 -- Ярослав Евдокимов - Фантазёр
