@@ -894,6 +894,7 @@ VALUES
 (DEFAULT, 'Drum Set', '1VaDFWu7ZNYY4XmrDO9DI28_-Pumd49WL', 1410),
 (DEFAULT, 'Piano', '13bS3pyWWVYUJEh6IVJC5DWNNzOBVQOjj', 1410),
 (DEFAULT, 'Lead 6 (Voice)', '1Nl-O7leSKbREysF0Omupd6x8ZgD-V-O3', 1410),
+-- Форум - Белая ночь
 -- Чичерина - Ту-лу-ла
 (DEFAULT, 'Full Score', '13Z4dyiz4CP3WoNmE9dqdkJRRF0VwqQ1o', 1430),
 (DEFAULT, 'Voice 1', '1NiobksiMr2_OHVcTf3dSzDEhF4BYAdfk', 1430),
