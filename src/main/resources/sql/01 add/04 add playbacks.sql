@@ -56,7 +56,7 @@ VALUES
 (DEFAULT, '0', '1dJ8rhhJVd6wU4mrTiy48odM6JYnFuXuB', 180),
 -- The Beatles - Yesterday
 (DEFAULT, 'original', '1ee2g11nNUiCMVF53zHSAXqnYII8ZdZvV', 190),
-(DEFAULT, '0', '1dzzPdrjF-HzHKbjM7liSK8IKzwWhz12w', 190),
+(DEFAULT, '0', '1Kaei_I3lvPzS9bhtrCclkDsOPQOxN3sp', 190),
 -- The Cranberries - Zombie
 (DEFAULT, 'original', '1udKRjlWsrX-lQTPMw0QJZSiQXN71oLxY', 200),
 (DEFAULT, '+3', '1RMpdc7kURzyTi8Hdwd5IxmQeKy2ITJ25', 200),
@@ -64,8 +64,8 @@ VALUES
 (DEFAULT, '-2', '14f1pEFoO6bLao6oiwBuXUFgi1u8UNEMc', 200),
 -- Animal ДжаZ - Три полоски
 (DEFAULT, 'original', '11FHM4hHS6tqdStEO3nKC3-F-Cwr3RnAx', 230),
-(DEFAULT, '0', '1KIAl0GoKca0-UJ2kUfSNbJ_7ALPKuyUu', 230),
-(DEFAULT, '-2', '17aXVMRwlryDMUW7u3ZxA0J5X1HcWaCyA', 230),
+(DEFAULT, '0', '1Pji3yNUq0P--uCwhIdQF_u-xypQV19R1', 230),
+(DEFAULT, '-2', '1x9hKCns3XUH6hv-ouGPk4_gwWO3U5DPZ', 230),
 -- BRUTTO - 12 обезьян
 (DEFAULT, 'original', '1VLFscNbxvL7AFgwMMHwef4DLHr2O6E_J', 240),
 (DEFAULT, '-2', '1z-UCRghp2dRWTHvEoSjw2JP_WfClAwd7', 240),
@@ -309,9 +309,9 @@ VALUES
 (DEFAULT, '0', '1MHdB7Y5aPqVAgyMraKeTBHkQ5F8QnYge', 1240),
 -- Порнофильмы - Я так соскучился
 (DEFAULT, 'original', '1Zw0YoRcOeNcRgs3pP5F_ZBucy-HTFSiY', 1250),
-(DEFAULT, '+5', '1s57rt4vx7AI-kzYCcUJCJ6BUy9VAnkVm', 1250),
-(DEFAULT, '0', '1zYlwkeJG-88fJSRN_dGRKCK7mv7HYSnu', 1250),
-(DEFAULT, '-2', '1XcU25y1Hbyj6xz35t1DEKbmtQonE80Z9', 1250),
+(DEFAULT, '+5', '1jTpCxInCCsHnh2NHWLEPbNDNn8aE8IGr', 1250),
+(DEFAULT, '0', '1MS9R0NY1cVplgYBwOdZZqqpICqsqaCg1', 1250),
+(DEFAULT, '-2', '15z4j1As51ejxBjUQfzBoDq2Nrwm-PPXf', 1250),
 -- Сектор Газа - 30 лет
 (DEFAULT, 'original', '1wIDn6ec4OlJ_D1er16Qf2Sk_lPLGsOdb', 1260),
 (DEFAULT, '0', '1jHSNKYNF_TbBwGtYDNpwUbWhuqwtmn94', 1260),
