@@ -265,6 +265,7 @@ VALUES
 (DEFAULT, 'original', '1kX6ECO39N49fBFBmrlZoOfyT7UeTm2Dx', 1050),
 -- Ляпис Трубецкой - Огоньки
 (DEFAULT, '0', '17zGUoMypAzM8O-R1s1_jZy3fTjRFvFwq', 1060),
+-- Ляпис Трубецкой - Паренёк под следствием
 -- Ляпис Трубецкой - Сочи
 (DEFAULT, '0', '1Jy3OI-UAmh77i51bf7E_kGk055S1a5JJ', 1070),
 -- Ляпис Трубецкой - Танцуй
