@@ -128,9 +128,9 @@ VALUES
 (DEFAULT, 'Viola', '1taTicC3RpwcS-h1Au5-YvZ0c64zPaXkN', 190),
 (DEFAULT, 'Violoncello', '1hTSsmhliHFpLwwDo6fsW2AT_25rUppzY', 190),
 -- The Cranberries - Zombie
-(DEFAULT, 'Full Score', '1YyJ13CdGuETeNbY1exDq7F7FiOJqqwkT', 200),
-(DEFAULT, 'Voice 1, Voice 2', '19TE-KiizgtKPCj47CiDTe3eQaOyqsDkE', 200),
-(DEFAULT, 'Voice 1', '1x0rjduRh1U5b3OhO_qVkeV_GqnIXoS6d', 200),
+(DEFAULT, 'Full Score', '1YbRBMEQar5iW27CJhLAStMzocsmVzIYQ', 200),
+(DEFAULT, 'Voice 1, Voice 2', '1bgkkkfH7iiXMElSAaBJXgz4W4bWe7X7G', 200),
+(DEFAULT, 'Voice 1', '1MUe1R5aIQSepEMixPIkKzVFunwplW-oE', 200),
 (DEFAULT, 'Voice 2', '1gEw89iTiTorzafRjKVo4_-kCxheo6wn7', 200),
 (DEFAULT, 'Electric Guitar 1, Electric Guitar 2', '1yaeH-bCHkyWp-mFSnSd6trIurYMp9xwv', 200),
 (DEFAULT, 'Electric Guitar 1', '1bs8nOzJ6l1UGT8k4k0k546PT7P3B04Gx', 200),
