@@ -609,10 +609,10 @@ VALUES
 (DEFAULT, 'Tambourine', '1XNvj2MLHTFwvyFIVjgPUZXjwbR0jVCmw', 1020),
 (DEFAULT, 'Trumpet in Bb 1.2, Trombone', '1PDLvLaxnaaLHqg7sZ1s7NnhsOWPOB5RO', 1020),
 -- Ляпис Трубецкой - Манифест
-(DEFAULT, 'Full Score', '19nxXdcoJ-dYQP6UWg2PTZuO9fAsh41Gr', 1030),
-(DEFAULT, 'Voice 1, Voice 2, Voice 3', '1nMkDa8TOEn0KG39M0sL5sH_sOJyg6bSi', 1030),
+(DEFAULT, 'Full Score', '1g9xlK1DMuVgDB3FI031vJzk_sKIgl_Xa', 1030),
+(DEFAULT, 'Voice 1, Voice 2, Voice 3', '1k1tm6id1LaM-IH17bZj-HMj0tqBjjREe', 1030),
 (DEFAULT, 'Voice 1', '1hvXeCsHoWMz-uVEuX1mlQUj7MvU5iS7b', 1030),
-(DEFAULT, 'Voice 2', '1LgdtCCS1bK9JxFZHZXbuvjvur7zjybAT', 1030),
+(DEFAULT, 'Voice 2', '1op8wDOzFVgeCSrx596DU3pEQ3bQLNspx', 1030),
 (DEFAULT, 'Voice 3', '1AdX640vvFfNawMuf0eiINMRm8mFOOZ2S', 1030),
 (DEFAULT, 'Electric Guitar 1, Electric Guitar 2', '1zYYmwnbKOpPJasgnicbZbwInELKLbXGw', 1030),
 (DEFAULT, 'Electric Guitar 1', '1cJcYDK7mA1tnwfH0mK5bVLbhofKgbJrk', 1030),
