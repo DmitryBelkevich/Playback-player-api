@@ -898,6 +898,12 @@ VALUES
 (DEFAULT, 'Piano', '13bS3pyWWVYUJEh6IVJC5DWNNzOBVQOjj', 1410),
 (DEFAULT, 'Lead 6 (Voice)', '1Nl-O7leSKbREysF0Omupd6x8ZgD-V-O3', 1410),
 -- Форум - Белая ночь
+(DEFAULT, 'Full Score', '1YpiCzYh_2EDJLTeuh9pcCrNactUikfk0', 1425),
+(DEFAULT, 'Voice', '1Ycs6Sym5vYRNeuaUyKun1SXQFgeRPkzS', 1425),
+(DEFAULT, 'Electric Guitar', '1dOcujyYFRaPpFoIu006ZAiQWUXfN5Czg', 1425),
+(DEFAULT, 'Bass Guitar', '1Fv7gD0vcNoCTtgmnx76ZwqLYgGjoDxwd', 1425),
+(DEFAULT, 'Drum Set', '1Tptw2yyCJYpphI9PzcpPDyVwxW0PYFRH', 1425),
+(DEFAULT, 'FX 3 (Crystal), FX 4 (Atmosphere), Pad 6 (Metallic), Pad 2 (Warm), Synth Bass, Lead 8 (Bass + Lead)', '1jguvwlE7-Bn3vofaP8mLXDrTQFkOZHq7', 1425),
 -- Чичерина - Ту-лу-ла
 (DEFAULT, 'Full Score', '13Z4dyiz4CP3WoNmE9dqdkJRRF0VwqQ1o', 1430),
 (DEFAULT, 'Voice 1', '1NiobksiMr2_OHVcTf3dSzDEhF4BYAdfk', 1430),
