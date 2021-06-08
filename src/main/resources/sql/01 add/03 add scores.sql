@@ -898,9 +898,9 @@ VALUES
 (DEFAULT, 'Piano', '13bS3pyWWVYUJEh6IVJC5DWNNzOBVQOjj', 1410),
 (DEFAULT, 'Lead 6 (Voice)', '1Nl-O7leSKbREysF0Omupd6x8ZgD-V-O3', 1410),
 -- Форум - Белая ночь
-(DEFAULT, 'Full Score', '1YpiCzYh_2EDJLTeuh9pcCrNactUikfk0', 1425),
+(DEFAULT, 'Full Score', '1vdqQlS7fYFl8GuNulj8u3LJ_8Ffhvquy', 1425),
 (DEFAULT, 'Voice', '1Ycs6Sym5vYRNeuaUyKun1SXQFgeRPkzS', 1425),
-(DEFAULT, 'Electric Guitar', '1dOcujyYFRaPpFoIu006ZAiQWUXfN5Czg', 1425),
+(DEFAULT, 'Electric Guitar', '1FErZwtkXvbZRCpJObRb-dyNNJjyvHPOO', 1425),
 (DEFAULT, 'Bass Guitar', '1Fv7gD0vcNoCTtgmnx76ZwqLYgGjoDxwd', 1425),
 (DEFAULT, 'Drum Set', '1Tptw2yyCJYpphI9PzcpPDyVwxW0PYFRH', 1425),
 (DEFAULT, 'FX 3 (Crystal), FX 4 (Atmosphere), Pad 6 (Metallic), Pad 2 (Warm), Synth Bass, Lead 8 (Bass + Lead)', '1jguvwlE7-Bn3vofaP8mLXDrTQFkOZHq7', 1425),
