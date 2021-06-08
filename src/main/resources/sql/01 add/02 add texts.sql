@@ -268,7 +268,7 @@ VALUES
 -- Синяя птица - Там, где клён шумит
 (DEFAULT, '1jU1OELMO1mB8-e40pxr9ibZ8DdPXGQIK', 1340),
 -- Слот - Круги на воде
--- (DEFAULT, '', 1350),
+(DEFAULT, '1HeTPP8lo7ym9mSEEDoxS6PzipOlxspEA', 1350),
 -- Сплин - Выхода нет
 (DEFAULT, '1PNCEsQaREvDUMvniS_yyAAJ8qd1uRH6N', 1360),
 -- Сплин - Линия жизни
