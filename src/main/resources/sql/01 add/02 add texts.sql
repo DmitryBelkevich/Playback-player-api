@@ -267,6 +267,8 @@ VALUES
 -- (DEFAULT, '', 1330),
 -- Синяя птица - Там, где клён шумит
 (DEFAULT, '1jU1OELMO1mB8-e40pxr9ibZ8DdPXGQIK', 1340),
+-- Сладкий сон - На белом покрывале января
+(DEFAULT, '1jCPrNwLhoo6PnG-hJaiO6gw_DZAuLKzD', 1345),
 -- Слот - Круги на воде
 (DEFAULT, '1HeTPP8lo7ym9mSEEDoxS6PzipOlxspEA', 1350),
 -- Сплин - Выхода нет
@@ -281,6 +283,8 @@ VALUES
 (DEFAULT, '1N1PvlAR-rBxVjmIza6ovDAUl9fsvKE9Z', 1400),
 -- Стас Михайлов - Всё для тебя
 (DEFAULT, '115SIVb_I9hp3c0eddvavWoQG0W9tiYpQ', 1405),
+-- Стас Михайлов - Свеча
+(DEFAULT, '1IANgFVOF6AKg5vcRxnoy70qhL2qfywC-', 1407),
 -- Танцы Минус - Половинка
 (DEFAULT, '1E3piSXMJf4yDmDvCwpp15FUJFl17OVm4', 1410),
 -- Татьяна Дасковская - Прекрасное далёко
