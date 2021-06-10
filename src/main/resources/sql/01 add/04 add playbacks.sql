@@ -75,7 +75,7 @@ VALUES
 (DEFAULT, 'original', '1dywI3h9zxdslzF4bgaa_j8fiUqh6d9wa', 260),
 -- Lumen - Гореть
 (DEFAULT, 'original', '1TAmlTGqDiej_IQsD85WydhcGeVeuIPJG', 270),
-(DEFAULT, '0', '1WaBV5VQQAJHhIvzlyHAh9ex0YGBCN-gk', 270),
+(DEFAULT, '0', '1OOlkBsvKgUWx7jQ5mAcGPbsDZ6R1ZA4p', 270),
 -- N.R.M. - Лёгкія-лёгкія
 (DEFAULT, 'original', '17C3G9lzZ_UFfrQVAux49mETYXLZLpk4g', 280),
 -- N.R.M. - Тры чарапахі
