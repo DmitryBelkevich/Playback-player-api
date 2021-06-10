@@ -15,7 +15,7 @@ VALUES
 -- Metallica - No Leaf Clover
 -- (DEFAULT, '', 60),
 -- Metallica - Nothing Else Matters
--- (DEFAULT, '', 70),
+(DEFAULT, '1CI5x5mTeKZSMZA1eTtgXoiofChtVsqf2', 70),
 -- Metallica - The Unforgiven
 -- (DEFAULT, '', 80),
 -- Nirvana - Smells Like Teen Spirit
