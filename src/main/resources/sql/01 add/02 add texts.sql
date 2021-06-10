@@ -282,7 +282,7 @@ VALUES
 -- Стас Михайлов - Всё для тебя
 (DEFAULT, '115SIVb_I9hp3c0eddvavWoQG0W9tiYpQ', 1405),
 -- Танцы Минус - Половинка
--- (DEFAULT, '', 1410),
+(DEFAULT, '1E3piSXMJf4yDmDvCwpp15FUJFl17OVm4', 1410),
 -- Татьяна Дасковская - Прекрасное далёко
 (DEFAULT, '163HW7ZpJBV5e54feoiwlDbQf4r1nptFz', 1420),
 -- Форум - Белая ночь
