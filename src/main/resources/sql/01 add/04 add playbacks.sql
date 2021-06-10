@@ -56,7 +56,7 @@ VALUES
 (DEFAULT, '0', '1dJ8rhhJVd6wU4mrTiy48odM6JYnFuXuB', 180),
 -- The Beatles - Yesterday
 (DEFAULT, 'original', '1ee2g11nNUiCMVF53zHSAXqnYII8ZdZvV', 190),
-(DEFAULT, '0', '1TPwktAE9hhDB1afwOD8X5gdVt26P3kLS', 190),
+(DEFAULT, '0', '1Vk_yY_pI03sMfM4y9zr27zQCBYbbIa8n', 190),
 -- The Cranberries - Zombie
 (DEFAULT, 'original', '1udKRjlWsrX-lQTPMw0QJZSiQXN71oLxY', 200),
 (DEFAULT, '+3', '1RMpdc7kURzyTi8Hdwd5IxmQeKy2ITJ25', 200),
@@ -90,6 +90,7 @@ VALUES
 (DEFAULT, '0', '1terxHMtjZUFx1sxeynCpE3NwdWTRoGw7', 310),
 (DEFAULT, '-2', '1wfmeUruVcHNRGKM9ViNzr8HJuCmVcXJs', 310),
 -- Аквариум - Город золотой
+(DEFAULT, 'original', '1SJOhp6-EYnR0NeEAWTXGnLGecDyS5L0D', 320),
 (DEFAULT, '0', '1Y1Z8L9_N7Er8ma3xd_AJ3YGiuNle1kY5', 320),
 (DEFAULT, '-2', '1_91wLHOLYrLFEXs7waRC-ixYzoxgjy8X', 320),
 -- Алла Пугачёва - Позови меня с собой
@@ -238,6 +239,7 @@ VALUES
 -- Леприконсы - Хали-Гали
 (DEFAULT, '-2', '12RUbq0rDW1qhWrGkBSPeocxVq163m8xL', 950),
 -- Любэ - Конь
+(DEFAULT, 'original', '1gdEaL0CGCfCpIQYjoGrEuF57020mnmkS', 960),
 -- Любэ - Позови меня тихо по имени
 (DEFAULT, 'original', '1e9FkKo4ws0-OwjaUZhEZZNvb1cepK6Um', 965),
 -- Ляпис Трубецкой - Ау

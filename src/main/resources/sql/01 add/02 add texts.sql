@@ -55,7 +55,7 @@ VALUES
 -- IOWA - Улыбайся
 -- (DEFAULT, '', 260),
 -- Lumen - Гореть
--- (DEFAULT, '', 270),
+(DEFAULT, '1pSS1wqUWSIO6bKMJ1UhOpJza4bbVdRw4', 270),
 -- N.R.M. - Лёгкія-лёгкія
 -- (DEFAULT, '', 280),
 -- N.R.M. - Тры чарапахі
@@ -65,7 +65,7 @@ VALUES
 -- Агата Кристи - Никогда
 (DEFAULT, '1kxnvn2IoxMf8tG4brhGg3xtfSeNVMb-l', 310),
 -- Аквариум - Город золотой
--- (DEFAULT, '', 320),
+(DEFAULT, '1ioMOPIKqppfNx_tNX67ONu1lUGCHq1th', 320),
 -- Алексин - Малолетние шалавы
 (DEFAULT, '1vayh9CHsO46ZU3pSGBLVEA9MLP9axNxK', 325),
 -- Алла Пугачёва - Позови меня с собой

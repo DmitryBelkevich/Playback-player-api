@@ -179,9 +179,10 @@ VALUES
 (DEFAULT, 'Acoustic Guitar 2', '1ObYKYNrnHn4POKuUT8eBJTw19Tq6apPd', 240),
 (DEFAULT, 'Tambourine', '1d-h3XL1K1A2f8gzonDAYu6asGtTnaWX5', 240),
 -- Lumen - Гореть
-(DEFAULT, 'Full Score', '1tMb6hETD85jKs_Xxjg8HpxzkeMTBg6Be', 270),
-(DEFAULT, 'Voice', '13Uv-K7ywLEO7a5k1d-TRMbFumqwEXK0n', 270),
+(DEFAULT, 'Full Score', '1vu3QsAx5eNcyZfd-F6rCEb3A9tRd8aYQ', 270),
+(DEFAULT, 'Voice', '1YqhBpSu6NfLZ8uEWPttlNhvagAEUITt8', 270),
 (DEFAULT, 'Acoustic Guitar', '167SabiMGs9T3CmqDl56GjcEd5hHIA12h', 270),
+(DEFAULT, 'Viola, Violoncello', '1X5d2swa7huegqafAQCCWIhvcLskN8sI6', 270),
 (DEFAULT, 'Viola', '1UTey9Pp2hJgtk6SiMfLy5GxbRs3h6yjl', 270),
 (DEFAULT, 'Violoncello', '1IT7JfyvTz6meX4nGlXE6alFuYrMMnfLI', 270),
 -- Агата Кристи - Как на войне
