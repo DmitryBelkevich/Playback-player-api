@@ -223,10 +223,6 @@ VALUES
 (DEFAULT, '1MWK5AlWW3yAKogbsQms8w1RMojxJAYYE', 1120),
 -- Михаил Боярский - Ланфрен-ланфра
 (DEFAULT, '1C9_ziHoyzqYDUhPbMxC4uYke8r8AqwB0', 1125),
--- Михаил Круг - Владимирский централ
-(DEFAULT, '1hjEcHC-tYz1SkhoGzVn0xhnr7W_1GDM_', 1130),
--- Михаил Круг - Кольщик
-(DEFAULT, '1jNVE9F_7iBaSbyn1pCzMnHGdrX1hQOtJ', 1140),
 -- Мумий Тролль - Владивосток 2000
 (DEFAULT, '1Lp4x49dw1LFzzct_gLN8WFVtvG1eEDLv', 1160),
 -- Мумий Тролль - Медведица
@@ -287,6 +283,10 @@ VALUES
 (DEFAULT, '1at3lbPUaaTtdt092O73_NhKK_5fUGHDv', 1430),
 -- Ярослав Евдокимов - Фантазёр
 (DEFAULT, '1aVMCjQqYjtUh4lka4jdx-BNudi3LBRIR', 1440),
+-- Михаил Круг - Владимирский централ
+(DEFAULT, '1hjEcHC-tYz1SkhoGzVn0xhnr7W_1GDM_', 1880),
+-- Михаил Круг - Кольщик
+(DEFAULT, '1jNVE9F_7iBaSbyn1pCzMnHGdrX1hQOtJ', 1900),
 -- Стас Михайлов - Всё для тебя
 (DEFAULT, '115SIVb_I9hp3c0eddvavWoQG0W9tiYpQ', 1920),
 -- Стас Михайлов - Свеча
