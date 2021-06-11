@@ -26,7 +26,6 @@ VALUES
     (1, 'Alice Merton'),-- Pop, Dance
     (5, 'Bon Jovi'),-- Rock, Punk
     (10, 'Eurythmics'),-- SynthPop
-    (12, 'Gary Moore'),-- Blues
     (15, 'Joan Osborne'),-- Rock, Punk
     (20, 'Maroon 5'),-- Pop, Dance
     (25, 'Linkin Park'),-- Rock, Punk
@@ -104,6 +103,7 @@ VALUES
     -- New school
     -- SynthPop
     -- Blues
+    (390, 'Gary Moore'),
     -- Surf
     (400, 'Dick Dale, The Del Tones');
 
@@ -113,10 +113,6 @@ INSERT INTO songs (id, title, band_id, key_signature)
 VALUES (1, 'No Roots', 1, 'Bm'),
        (10, 'It''s My Life', 5, 'Cm'),
        (20, 'Sweet Dreams (Are Made of This)', 10, 'Cm'),
-       (22, 'Parisienne Walkways', 12, null),
-       (23, 'Still Got the Blues', 12, null),
-       (25, 'The Loner', 12, 'Gm'),
-       (27, 'The Prophet', 12, null),
        (30, 'One of Us', 15, 'F#m'),
        (40, 'This Love', 20, 'Cm'),
        (50, 'Numb', 25, 'F#m'),
@@ -305,4 +301,10 @@ VALUES (1, 'No Roots', 1, 'Bm'),
        (1435, 'Всадник из льда', 287, null),
        (1437, 'Эпилог', 287, null),
        (1440, 'Фантазёр', 290, null),
+
+       (1975, 'Parisienne Walkways', 390, null),
+       (1980, 'Still Got the Blues', 390, null),
+       (1985, 'The Loner', 390, 'Gm'),
+       (1990, 'The Prophet', 390, null),
+
        (2000, 'Misirlou', 400, null);

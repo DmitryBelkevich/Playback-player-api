@@ -8,8 +8,6 @@ VALUES
 (DEFAULT, null, 4, 4, 120, 10),
 -- Eurythmics - Sweet Dreams (Are Made of This)
 (DEFAULT, null, 4, 4, 126, 20),
--- Gary Moore - The Loner
-(DEFAULT, null, 6, 8, 55, 25),
 -- Joan Osborne - One of Us
 (DEFAULT, null, 2, 4, 88, 30),
 -- Maroon 5 - This Love
@@ -282,4 +280,6 @@ VALUES
 -- Форум - Белая ночь
 (DEFAULT, null, 2, 4, 126, 1425),
 -- Чичерина - Ту-лу-ла
-(DEFAULT, null, 2, 4, 130, 1430);
+(DEFAULT, null, 2, 4, 130, 1430),
+-- Gary Moore - The Loner
+(DEFAULT, null, 6, 8, 55, 1985);
