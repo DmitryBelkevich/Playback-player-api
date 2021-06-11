@@ -14,8 +14,9 @@ VALUES (1, 'Hard'),
 --        (5, 'Chanson'),
 --        (6, 'New school'),
 --        (7, 'SynthPop'),
---        (8, 'Surf'),
---        (9, 'Instrumental');
+--        (8, 'Blues'),
+--        (9, 'Surf'),
+--        (10, 'Instrumental');
 
 -- bands
 
