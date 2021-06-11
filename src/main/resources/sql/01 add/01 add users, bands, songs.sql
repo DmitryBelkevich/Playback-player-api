@@ -32,6 +32,7 @@ VALUES
        (25, 'Linkin Park'),-- Rock, Punk
        (30, 'Metallica'),-- Metal
        (35, 'Nirvana'),-- Rock, Punk
+       (37, 'Placebo'),-- Rock, Punk
        (40, 'Radiohead'),-- Rock, Punk
        (45, 'Rammstein'),-- Metal
        (50, 'Reamonn'),-- Rock, Punk
@@ -102,6 +103,8 @@ VALUES (1, 'No Roots', 1, 'Bm'),
        (10, 'It''s My Life', 5, 'Cm'),
        (15, 'Misirlou', 7, null),
        (20, 'Sweet Dreams (Are Made of This)', 10, 'Cm'),
+       (22, 'Parisienne Walkways', 12, null),
+       (23, 'Still Got the Blues', 12, null),
        (25, 'The Loner', 12, 'Gm'),
        (27, 'The Prophet', 12, null),
        (30, 'One of Us', 15, 'F#m'),
@@ -111,6 +114,7 @@ VALUES (1, 'No Roots', 1, 'Bm'),
        (70, 'Nothing Else Matters', 30, 'Em'),
        (80, 'The Unforgiven', 30, 'Am'),
        (90, 'Smells Like Teen Spirit', 35, 'Fm'),
+       (95, 'Every You Every Me', 37, null),
        (100, 'Creep', 40, 'G'),
        (110, 'Karma Police', 40, null),
        (120, 'Frühling in Paris', 45, 'F#m'),
@@ -284,6 +288,7 @@ VALUES (1, 'No Roots', 1, 'Bm'),
        (1410, 'Половинка', 275, 'Dm'),
        (1420, 'Прекрасное далёко', 280, 'Am'),
        (1425, 'Белая ночь', 283, 'D#m'),
+       (1427, 'Жара', 285, null),
        (1430, 'Ту-лу-ла', 285, 'C#m'),
        (1435, 'Всадник из льда', 287, null),
        (1437, 'Эпилог', 287, null),
