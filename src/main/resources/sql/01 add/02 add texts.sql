@@ -227,8 +227,6 @@ VALUES
 (DEFAULT, '1hjEcHC-tYz1SkhoGzVn0xhnr7W_1GDM_', 1130),
 -- Михаил Круг - Кольщик
 (DEFAULT, '1jNVE9F_7iBaSbyn1pCzMnHGdrX1hQOtJ', 1140),
--- МУККА - ДЕВОЧКА С КАРЕ
-(DEFAULT, '1P7kxdPdtxzSueUMbDZKm-COhjveUvjRt', 1150),
 -- Мумий Тролль - Владивосток 2000
 (DEFAULT, '1Lp4x49dw1LFzzct_gLN8WFVtvG1eEDLv', 1160),
 -- Мумий Тролль - Медведица
@@ -292,6 +290,8 @@ VALUES
 -- Чичерина - Ту-лу-ла
 (DEFAULT, '1at3lbPUaaTtdt092O73_NhKK_5fUGHDv', 1430),
 -- Ярослав Евдокимов - Фантазёр
-(DEFAULT, '1aVMCjQqYjtUh4lka4jdx-BNudi3LBRIR', 1440);
+(DEFAULT, '1aVMCjQqYjtUh4lka4jdx-BNudi3LBRIR', 1440),
+-- МУККА - ДЕВОЧКА С КАРЕ
+(DEFAULT, '1P7kxdPdtxzSueUMbDZKm-COhjveUvjRt', 1960);
 -- Eurythmics - Sweet Dreams (Are Made of This)
 -- (DEFAULT, '', 1970);

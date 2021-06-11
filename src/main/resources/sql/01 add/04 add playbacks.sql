@@ -286,10 +286,6 @@ VALUES
 (DEFAULT, '0', '1TPTH2RYljlUMr9H8HZ5n9odSlc-V-EWJ', 1140),
 (DEFAULT, '-1', '1DI9nYJRYzHbWrIe0KRzq5b0_n2yqGc9L', 1140),
 (DEFAULT, '-2', '1ME3K80tqVIo1paB_G1WC1LR5On93gKzg', 1140),
--- МУККА - ДЕВОЧКА С КАРЕ
-(DEFAULT, 'original', '1r8qHmacix9KerOKNRxE3Lll0ks-orfVp', 1150),
-(DEFAULT, '0', '1lXW4sMNrEPN81f3I_HsaWL8AuwmfmWau', 1150),
-(DEFAULT, '-3', '1lXYOBYqm0QR2gzNBGgfoYPlkQUsQMOJv', 1150),
 -- Мумий Тролль - Владивосток 2000
 (DEFAULT, '0', '1XLMZNAxiQKvaufDAXmf5hMtMB0lNCoh0', 1160),
 -- Мумий Тролль - Медведица
@@ -371,6 +367,10 @@ VALUES
 -- Чичерина - Ту-лу-ла
 (DEFAULT, 'original', '1zi9vRYg4WKaaRa54Svx6iJxDLF_6bCGb', 1430),
 (DEFAULT, '0', '1F_atD-LA7Z2feN19bmFUhrRrY-UYxMcB', 1430),
+-- МУККА - ДЕВОЧКА С КАРЕ
+(DEFAULT, 'original', '1r8qHmacix9KerOKNRxE3Lll0ks-orfVp', 1960),
+(DEFAULT, '0', '1lXW4sMNrEPN81f3I_HsaWL8AuwmfmWau', 1960),
+(DEFAULT, '-3', '1lXYOBYqm0QR2gzNBGgfoYPlkQUsQMOJv', 1960),
 -- Eurythmics - Sweet Dreams (Are Made of This)
 (DEFAULT, 'original', '1WiC6XGzYRXTpMTtVS6qtJ0Iq6MUI9d1q', 1970),
 -- Gary Moore - The Loner

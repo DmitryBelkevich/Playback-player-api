@@ -39,7 +39,6 @@ VALUES
     (65, 'The Cranberries'),-- Rock, Punk
     (70, 'The Offspring'),-- Rock, Punk
     -- russian
-    (73, 'Anacondaz'),-- New school
     (75, 'Animal ДжаZ'),-- Rock, Punk
     (80, 'BRUTTO'),-- Rock, Punk
     (82, 'DREZDEN'),-- Rock, Punk
@@ -73,7 +72,6 @@ VALUES
     (205, 'Ляпис Трубецкой'),-- Rock, Punk
     (210, 'Михаил Боярский'),-- Estrada
     (215, 'Михаил Круг'),-- Chanson
-    (220, 'МУККА'),-- New school
     (225, 'Мумий Тролль'),-- Rock, Punk
     (230, 'Наутилус Помпилиус'),-- Rock, Punk
     (235, 'Ненси'),-- Pop, Dance
@@ -105,9 +103,11 @@ VALUES
     -- Chanson
 
     -- New school
+    (360, 'Anacondaz'),
+    (370, 'МУККА'),
 
     -- SynthPop
-    (380, 'Eurythmics'),-- SynthPop
+    (380, 'Eurythmics'),
 
     -- Blues
     (390, 'Gary Moore'),
@@ -141,8 +141,6 @@ VALUES (1, 'No Roots', 1, 'Bm'),
        (200, 'Zombie', 65, 'Em'),
        (210, 'Pretty Fly (for a White Guy)', 70, 'Bm'),
        (220, 'Self Esteem', 70, 'Am'),
-       (223, 'Мама, я люблю', 73, null),
-       (225, 'Твоему новому парню', 73, null),
        (230, 'Три полоски', 75, 'Dm'),
        (240, '12 обезьян', 80, 'Gm'),
        (242, 'Эдельвейс', 82, null),
@@ -261,7 +259,6 @@ VALUES (1, 'No Roots', 1, 'Bm'),
        (1135, 'Девочка-пай', 215, null),
        (1140, 'Кольщик', 215, 'Dm'),
        (1145, 'Это было вчера', 215, null),
-       (1150, 'ДЕВОЧКА С КАРЕ', 220, 'Cm'),
        (1160, 'Владивосток 2000', 225, 'Am'),
        (1170, 'Медведица', 225, 'Em'),
        (1180, 'Дыхание', 230, null),
@@ -310,6 +307,9 @@ VALUES (1, 'No Roots', 1, 'Bm'),
        (1440, 'Фантазёр', 290, null),
 
        -- New school
+       (1940, 'Мама, я люблю', 360, null),
+       (1950, 'Твоему новому парню', 360, null),
+       (1960, 'ДЕВОЧКА С КАРЕ', 370, 'Cm'),
 
        -- SynthPop
        (1970, 'Sweet Dreams (Are Made of This)', 380, 'Cm'),

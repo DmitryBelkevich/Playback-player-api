@@ -221,8 +221,6 @@ VALUES
 (DEFAULT, null, 4, 4, 132, 1130),
 -- Михаил Круг - Кольщик
 (DEFAULT, null, 4, 4, 64, 1140),
--- МУККА - ДЕВОЧКА С КАРЕ
-(DEFAULT, null, 4, 4, 150, 1150),
 -- Мумий Тролль - Владивосток 2000
 (DEFAULT, null, 4, 4, 130, 1160),
 -- Мумий Тролль - Медведица
@@ -279,6 +277,8 @@ VALUES
 (DEFAULT, null, 2, 4, 126, 1425),
 -- Чичерина - Ту-лу-ла
 (DEFAULT, null, 2, 4, 130, 1430),
+-- МУККА - ДЕВОЧКА С КАРЕ
+(DEFAULT, null, 4, 4, 150, 1960),
 -- Eurythmics - Sweet Dreams (Are Made of This)
 (DEFAULT, null, 4, 4, 126, 1970),
 -- Gary Moore - The Loner
