@@ -49,7 +49,7 @@ VALUES
 -- Animal ДжаZ - Три полоски
 (DEFAULT, '1pWTRd9J8w-o-R4ISAebN3vdfSwUazlb0', 230),
 -- BRUTTO - 12 обезьян
--- (DEFAULT, '', 240),
+(DEFAULT, '13Vk7NRR0MD0aSoDhkBh8Ins8SMbR62a1', 240),
 -- IOWA - Бьёт Бит
 -- (DEFAULT, '', 250),
 -- IOWA - Улыбайся
