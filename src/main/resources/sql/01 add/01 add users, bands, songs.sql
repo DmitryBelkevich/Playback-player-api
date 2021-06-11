@@ -13,7 +13,9 @@ VALUES (1, 'Hard'),
 --        (4, 'Estrada'),
 --        (5, 'Chanson'),
 --        (6, 'New school'),
---        (7, 'Instrumental');
+--        (7, 'SynthPop'),
+--        (8, 'Surf'),
+--        (9, 'Instrumental');
 
 -- bands
 
@@ -22,7 +24,8 @@ VALUES
        -- foreign
        (1, 'Alice Merton'),-- Pop, Dance
        (5, 'Bon Jovi'),-- Rock, Punk
-       (10, 'Eurythmics'),
+       (7, 'Dick Dale, The Del Tones'),-- Surf
+       (10, 'Eurythmics'),-- SynthPop
        (12, 'Gary Moore'),-- Blues
        (15, 'Joan Osborne'),-- Rock, Punk
        (20, 'Maroon 5'),-- Pop, Dance
@@ -40,6 +43,7 @@ VALUES
        (73, 'Anacondaz'),-- New school
        (75, 'Animal ДжаZ'),-- Rock, Punk
        (80, 'BRUTTO'),-- Rock, Punk
+       (82, 'DREZDEN'),-- Rock, Punk
        (85, 'IOWA'),-- Pop, Dance
        (90, 'Lumen'),-- Rock, Punk
        (95, 'N.R.M.'),-- Rock, Punk
@@ -96,6 +100,7 @@ VALUES
 INSERT INTO songs (id, title, band_id, key_signature)
 VALUES (1, 'No Roots', 1, 'Bm'),
        (10, 'It''s My Life', 5, 'Cm'),
+       (15, 'Misirlou', 7, null),
        (20, 'Sweet Dreams (Are Made of This)', 10, 'Cm'),
        (25, 'The Loner', 12, 'Gm'),
        (27, 'The Prophet', 12, null),
@@ -123,6 +128,7 @@ VALUES (1, 'No Roots', 1, 'Bm'),
        (225, 'Твоему новому парню', 73, null),
        (230, 'Три полоски', 75, 'Dm'),
        (240, '12 обезьян', 80, 'Gm'),
+       (242, 'Эдельвейс', 82, null),
        (250, 'Бьёт Бит', 85, 'Em'),
        (260, 'Улыбайся', 85, 'Em'),
        (270, 'Гореть', 90, 'Gm'),
@@ -250,6 +256,7 @@ VALUES (1, 'No Roots', 1, 'Bm'),
        (1230, 'Я хочу быть с тобой', 230, null),
        (1240, 'Дым сигарет с ментолом', 235, 'Gm'),
        (1245, 'Чистый лист', 235, null),
+       (1246, 'Беловежская пуща', 237, null),
        (1247, 'Белоруссия', 237, 'Dm'),
        (1248, 'Полонез', 237, null),
        (1250, 'Я так соскучился', 240, 'Am'),
