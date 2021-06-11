@@ -277,10 +277,6 @@ VALUES
 (DEFAULT, '1DRx51rkYx4Ou_-SH8KqUIRXf247qJPH8', 1390),
 -- Сплин - Романс
 (DEFAULT, '1N1PvlAR-rBxVjmIza6ovDAUl9fsvKE9Z', 1400),
--- Стас Михайлов - Всё для тебя
-(DEFAULT, '115SIVb_I9hp3c0eddvavWoQG0W9tiYpQ', 1405),
--- Стас Михайлов - Свеча
-(DEFAULT, '1IANgFVOF6AKg5vcRxnoy70qhL2qfywC-', 1407),
 -- Танцы Минус - Половинка
 (DEFAULT, '1E3piSXMJf4yDmDvCwpp15FUJFl17OVm4', 1410),
 -- Татьяна Дасковская - Прекрасное далёко
@@ -291,6 +287,10 @@ VALUES
 (DEFAULT, '1at3lbPUaaTtdt092O73_NhKK_5fUGHDv', 1430),
 -- Ярослав Евдокимов - Фантазёр
 (DEFAULT, '1aVMCjQqYjtUh4lka4jdx-BNudi3LBRIR', 1440),
+-- Стас Михайлов - Всё для тебя
+(DEFAULT, '115SIVb_I9hp3c0eddvavWoQG0W9tiYpQ', 1920),
+-- Стас Михайлов - Свеча
+(DEFAULT, '1IANgFVOF6AKg5vcRxnoy70qhL2qfywC-', 1930),
 -- МУККА - ДЕВОЧКА С КАРЕ
 (DEFAULT, '1P7kxdPdtxzSueUMbDZKm-COhjveUvjRt', 1960);
 -- Eurythmics - Sweet Dreams (Are Made of This)

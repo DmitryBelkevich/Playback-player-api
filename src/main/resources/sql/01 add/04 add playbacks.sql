@@ -355,10 +355,6 @@ VALUES
 -- Сплин - Романс
 (DEFAULT, 'original', '1IGAxFyBv9-cwbQgyYWEtUUQTw6MzfOHT', 1400),
 (DEFAULT, '0', '1y03jkJpseyax1_B20hx_IOigTSiWzFd4', 1400),
--- Стас Михайлов - Всё для тебя
-(DEFAULT, 'original', '1uvuqFZgbi4Udv7OxQBV80ZVFLBfq854T', 1405),
-(DEFAULT, '0', '1V1IB0ytfO-tmITvw61H8HQfoJApl2t8S', 1405),
-(DEFAULT, '-2', '1MdgOIonLWyrrUr67zvOiTnEwdwJ8GGQt', 1405),
 -- Танцы Минус - Половинка
 (DEFAULT, 'original', '1_D-H2wiH2j0WosnHXETXsZKkV2-pr_fL', 1410),
 (DEFAULT, '0', '1AIrDfhM2YtBisszdHB4NXn2HKQLpTOaC', 1410),
@@ -367,6 +363,10 @@ VALUES
 -- Чичерина - Ту-лу-ла
 (DEFAULT, 'original', '1zi9vRYg4WKaaRa54Svx6iJxDLF_6bCGb', 1430),
 (DEFAULT, '0', '1F_atD-LA7Z2feN19bmFUhrRrY-UYxMcB', 1430),
+-- Стас Михайлов - Всё для тебя
+(DEFAULT, 'original', '1uvuqFZgbi4Udv7OxQBV80ZVFLBfq854T', 1920),
+(DEFAULT, '0', '1V1IB0ytfO-tmITvw61H8HQfoJApl2t8S', 1920),
+(DEFAULT, '-2', '1MdgOIonLWyrrUr67zvOiTnEwdwJ8GGQt', 1920),
 -- МУККА - ДЕВОЧКА С КАРЕ
 (DEFAULT, 'original', '1r8qHmacix9KerOKNRxE3Lll0ks-orfVp', 1960),
 (DEFAULT, '0', '1lXW4sMNrEPN81f3I_HsaWL8AuwmfmWau', 1960),
