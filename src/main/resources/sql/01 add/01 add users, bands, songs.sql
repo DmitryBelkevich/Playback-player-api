@@ -22,87 +22,96 @@ VALUES (1, 'Hard'),
 
 INSERT INTO bands (id, title)
 VALUES
-       -- foreign
-       (1, 'Alice Merton'),-- Pop, Dance
-       (5, 'Bon Jovi'),-- Rock, Punk
-       (7, 'Dick Dale, The Del Tones'),-- Surf
-       (10, 'Eurythmics'),-- SynthPop
-       (12, 'Gary Moore'),-- Blues
-       (15, 'Joan Osborne'),-- Rock, Punk
-       (20, 'Maroon 5'),-- Pop, Dance
-       (25, 'Linkin Park'),-- Rock, Punk
-       (30, 'Metallica'),-- Metal
-       (35, 'Nirvana'),-- Rock, Punk
-       (37, 'Placebo'),-- Rock, Punk
-       (40, 'Radiohead'),-- Rock, Punk
-       (45, 'Rammstein'),-- Metal
-       (50, 'Reamonn'),-- Rock, Punk
-       (55, 'System of a Down'),-- Metal
-       (60, 'The Beatles'),-- Rock, Punk
-       (65, 'The Cranberries'),-- Rock, Punk
-       (70, 'The Offspring'),-- Rock, Punk
-       -- russian
-       (73, 'Anacondaz'),-- New school
-       (75, 'Animal ДжаZ'),-- Rock, Punk
-       (80, 'BRUTTO'),-- Rock, Punk
-       (82, 'DREZDEN'),-- Rock, Punk
-       (85, 'IOWA'),-- Pop, Dance
-       (90, 'Lumen'),-- Rock, Punk
-       (95, 'N.R.M.'),-- Rock, Punk
-       (100, 'Агата Кристи'),-- Rock, Punk
-       (105, 'Аквариум'),-- Rock, Punk
-       (107, 'Алексин'),-- Rock, Punk
-       (110, 'Алла Пугачёва'),-- Estrada
-       (115, 'Альянс'),-- Rock, Punk
-       (120, 'Ария'),-- Metal
-       (125, 'АукцЫон'),-- Rock, Punk
-       (130, 'Би-2'),-- Rock, Punk
-       (135, 'Валентин Стрыкало'),-- Rock, Punk
-       (137, 'Город 312'),-- Rock, Punk
-       (140, 'Гражданская оборона'),-- Rock, Punk
-       (145, 'ДДТ'),-- Rock, Punk
-       (150, 'Егор и Опизденевшие'),-- Rock, Punk
-       (155, 'Жуки'),-- Rock, Punk
-       (160, 'Звери'),-- Rock, Punk
-       (165, 'Земляне'),-- Rock, Punk
-       (170, 'Земфира'),-- Rock, Punk
-       (175, 'Кино'),-- Rock, Punk
-       (180, 'Кипелов'),-- Metal
-       (185, 'Король и Шут'),-- Rock, Punk
-       (187, 'Ласковый май'),-- Pop, Dance
-       (190, 'Ленинград'),-- Rock, Punk
-       (195, 'Леприконсы'),-- Rock, Punk
-       (200, 'Любэ'),-- Estrada
-       (205, 'Ляпис Трубецкой'),-- Rock, Punk
-       (210, 'Михаил Боярский'),-- Estrada
-       (215, 'Михаил Круг'),-- Chanson
-       (220, 'МУККА'),-- New school
-       (225, 'Мумий Тролль'),-- Rock, Punk
-       (230, 'Наутилус Помпилиус'),-- Rock, Punk
-       (235, 'Ненси'),-- Pop, Dance
-       (237, 'Песняры'),-- Estrada
-       (240, 'Порнофильмы'),-- Rock, Punk
-       (245, 'Сектор Газа'),-- Rock, Punk
-       (250, 'Сергей Тихановcкий & Kosmas'),-- Rock, Punk
-       (255, 'Синяя птица'),-- Estrada
-       (257, 'Сладкий сон'),-- Pop, Dance
-       (260, 'Слот'),-- Metal
-       (263, 'Смысловые Галлюцинации'),-- Rock, Punk
-       (265, 'Сплин'),-- Rock, Punk
-       (270, 'Стас Михайлов'),-- Chanson
-       (275, 'Танцы Минус'),-- Rock, Punk
-       (280, 'Татьяна Дасковская'),-- Estrada
-       (283, 'Форум'),-- Pop, Dance
-       (285, 'Чичерина'),-- Rock, Punk
-       (287, 'Эпидемия'),-- Metal
-       (290, 'Ярослав Евдокимов');-- Estrada
+    -- foreign
+    (1, 'Alice Merton'),-- Pop, Dance
+    (5, 'Bon Jovi'),-- Rock, Punk
+    (10, 'Eurythmics'),-- SynthPop
+    (12, 'Gary Moore'),-- Blues
+    (15, 'Joan Osborne'),-- Rock, Punk
+    (20, 'Maroon 5'),-- Pop, Dance
+    (25, 'Linkin Park'),-- Rock, Punk
+    (30, 'Metallica'),-- Metal
+    (35, 'Nirvana'),-- Rock, Punk
+    (37, 'Placebo'),-- Rock, Punk
+    (40, 'Radiohead'),-- Rock, Punk
+    (45, 'Rammstein'),-- Metal
+    (50, 'Reamonn'),-- Rock, Punk
+    (55, 'System of a Down'),-- Metal
+    (60, 'The Beatles'),-- Rock, Punk
+    (65, 'The Cranberries'),-- Rock, Punk
+    (70, 'The Offspring'),-- Rock, Punk
+    -- russian
+    (73, 'Anacondaz'),-- New school
+    (75, 'Animal ДжаZ'),-- Rock, Punk
+    (80, 'BRUTTO'),-- Rock, Punk
+    (82, 'DREZDEN'),-- Rock, Punk
+    (85, 'IOWA'),-- Pop, Dance
+    (90, 'Lumen'),-- Rock, Punk
+    (95, 'N.R.M.'),-- Rock, Punk
+    (100, 'Агата Кристи'),-- Rock, Punk
+    (105, 'Аквариум'),-- Rock, Punk
+    (107, 'Алексин'),-- Rock, Punk
+    (110, 'Алла Пугачёва'),-- Estrada
+    (115, 'Альянс'),-- Rock, Punk
+    (120, 'Ария'),-- Metal
+    (125, 'АукцЫон'),-- Rock, Punk
+    (130, 'Би-2'),-- Rock, Punk
+    (135, 'Валентин Стрыкало'),-- Rock, Punk
+    (137, 'Город 312'),-- Rock, Punk
+    (140, 'Гражданская оборона'),-- Rock, Punk
+    (145, 'ДДТ'),-- Rock, Punk
+    (150, 'Егор и Опизденевшие'),-- Rock, Punk
+    (155, 'Жуки'),-- Rock, Punk
+    (160, 'Звери'),-- Rock, Punk
+    (165, 'Земляне'),-- Rock, Punk
+    (170, 'Земфира'),-- Rock, Punk
+    (175, 'Кино'),-- Rock, Punk
+    (180, 'Кипелов'),-- Metal
+    (185, 'Король и Шут'),-- Rock, Punk
+    (187, 'Ласковый май'),-- Pop, Dance
+    (190, 'Ленинград'),-- Rock, Punk
+    (195, 'Леприконсы'),-- Rock, Punk
+    (200, 'Любэ'),-- Estrada
+    (205, 'Ляпис Трубецкой'),-- Rock, Punk
+    (210, 'Михаил Боярский'),-- Estrada
+    (215, 'Михаил Круг'),-- Chanson
+    (220, 'МУККА'),-- New school
+    (225, 'Мумий Тролль'),-- Rock, Punk
+    (230, 'Наутилус Помпилиус'),-- Rock, Punk
+    (235, 'Ненси'),-- Pop, Dance
+    (237, 'Песняры'),-- Estrada
+    (240, 'Порнофильмы'),-- Rock, Punk
+    (245, 'Сектор Газа'),-- Rock, Punk
+    (250, 'Сергей Тихановcкий & Kosmas'),-- Rock, Punk
+    (255, 'Синяя птица'),-- Estrada
+    (257, 'Сладкий сон'),-- Pop, Dance
+    (260, 'Слот'),-- Metal
+    (263, 'Смысловые Галлюцинации'),-- Rock, Punk
+    (265, 'Сплин'),-- Rock, Punk
+    (270, 'Стас Михайлов'),-- Chanson
+    (275, 'Танцы Минус'),-- Rock, Punk
+    (280, 'Татьяна Дасковская'),-- Estrada
+    (283, 'Форум'),-- Pop, Dance
+    (285, 'Чичерина'),-- Rock, Punk
+    (287, 'Эпидемия'),-- Metal
+    (290, 'Ярослав Евдокимов'),-- Estrada
+
+    -- Metal
+    -- Rock, Punk
+    -- Pop, Dance
+    -- Estrada
+    -- Chanson
+    -- New school
+    -- SynthPop
+    -- Blues
+    -- Surf
+    (400, 'Dick Dale, The Del Tones');
 
 -- songs
 
 INSERT INTO songs (id, title, band_id, key_signature)
 VALUES (1, 'No Roots', 1, 'Bm'),
        (10, 'It''s My Life', 5, 'Cm'),
-       (15, 'Misirlou', 7, null),
        (20, 'Sweet Dreams (Are Made of This)', 10, 'Cm'),
        (22, 'Parisienne Walkways', 12, null),
        (23, 'Still Got the Blues', 12, null),
@@ -295,4 +304,5 @@ VALUES (1, 'No Roots', 1, 'Bm'),
        (1430, 'Ту-лу-ла', 285, 'C#m'),
        (1435, 'Всадник из льда', 287, null),
        (1437, 'Эпилог', 287, null),
-       (1440, 'Фантазёр', 290, null);
+       (1440, 'Фантазёр', 290, null),
+       (2000, 'Misirlou', 400, null);
