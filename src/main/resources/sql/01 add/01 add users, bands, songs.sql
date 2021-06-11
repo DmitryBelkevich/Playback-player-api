@@ -18,7 +18,9 @@ VALUES (1, 'Hard'),
 -- bands
 
 INSERT INTO bands (id, title)
-VALUES (1, 'Alice Merton'),-- Pop, Dance
+VALUES
+       -- foreign
+       (1, 'Alice Merton'),-- Pop, Dance
        (5, 'Bon Jovi'),-- Rock, Punk
        (10, 'Eurythmics'),
        (12, 'Gary Moore'),-- Blues
@@ -34,6 +36,8 @@ VALUES (1, 'Alice Merton'),-- Pop, Dance
        (60, 'The Beatles'),-- Rock, Punk
        (65, 'The Cranberries'),-- Rock, Punk
        (70, 'The Offspring'),-- Rock, Punk
+       -- russian
+       (73, 'Anacondaz'),-- New school
        (75, 'Animal ДжаZ'),-- Rock, Punk
        (80, 'BRUTTO'),-- Rock, Punk
        (85, 'IOWA'),-- Pop, Dance
@@ -113,6 +117,8 @@ VALUES (1, 'No Roots', 1, 'Bm'),
        (200, 'Zombie', 65, 'Em'),
        (210, 'Pretty Fly (for a White Guy)', 70, 'Bm'),
        (220, 'Self Esteem', 70, 'Am'),
+       (223, 'Мама, я люблю', 73, null),
+       (225, 'Твоему новому парню', 73, null),
        (230, 'Три полоски', 75, 'Dm'),
        (240, '12 обезьян', 80, 'Gm'),
        (250, 'Бьёт Бит', 85, 'Em'),
@@ -236,6 +242,7 @@ VALUES (1, 'No Roots', 1, 'Bm'),
        (1240, 'Дым сигарет с ментолом', 235, 'Gm'),
        (1245, 'Чистый лист', 235, null),
        (1247, 'Белоруссия', 237, 'Dm'),
+       (1248, 'Полонез', 237, null),
        (1250, 'Я так соскучился', 240, 'Am'),
        (1260, '30 лет', 245, 'Am'),
        (1270, 'Бомж', 245, null),
@@ -255,6 +262,7 @@ VALUES (1, 'No Roots', 1, 'Bm'),
        (1400, 'Романс', 265, 'Dm'),
        (1405, 'Всё для тебя', 270, 'Bm'),
        (1407, 'Свеча', 270, null),
+       (1409, 'Город', 275, null),
        (1410, 'Половинка', 275, 'Dm'),
        (1420, 'Прекрасное далёко', 280, 'Am'),
        (1425, 'Белая ночь', 283, 'D#m'),
