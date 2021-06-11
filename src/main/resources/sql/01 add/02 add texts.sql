@@ -4,8 +4,6 @@ VALUES
 -- (DEFAULT, '', 1),
 -- Bon Jovi - It's My Life
 -- (DEFAULT, '', 10),
--- Eurythmics - Sweet Dreams (Are Made of This)
--- (DEFAULT, '', 20),
 -- Joan Osborne - One of Us
 (DEFAULT, '10lA-I8AoECCIA0rMZAxowMdgnEAqtIk-', 30),
 -- Maroon 5 - This Love
@@ -295,3 +293,5 @@ VALUES
 (DEFAULT, '1at3lbPUaaTtdt092O73_NhKK_5fUGHDv', 1430),
 -- Ярослав Евдокимов - Фантазёр
 (DEFAULT, '1aVMCjQqYjtUh4lka4jdx-BNudi3LBRIR', 1440);
+-- Eurythmics - Sweet Dreams (Are Made of This)
+-- (DEFAULT, '', 1970);

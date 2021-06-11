@@ -6,8 +6,6 @@ VALUES
 (DEFAULT, 'original', '1zKkmIf6LTAORRgXGtA4aairbtsy2LAbA', 1),
 -- Bon Jovi - It's My Life
 (DEFAULT, 'original', '1ZhV4e8LrelTti44CgBU3J0QcfP72izZ6', 10),
--- Eurythmics - Sweet Dreams (Are Made of This)
-(DEFAULT, 'original', '1WiC6XGzYRXTpMTtVS6qtJ0Iq6MUI9d1q', 20),
 -- Joan Osborne - One of Us
 (DEFAULT, 'original', '1BvaaGEfJKr8jY1CIds1CV0rYyIXf6NtT', 30),
 -- Maroon 5 - This Love
@@ -373,6 +371,8 @@ VALUES
 -- Чичерина - Ту-лу-ла
 (DEFAULT, 'original', '1zi9vRYg4WKaaRa54Svx6iJxDLF_6bCGb', 1430),
 (DEFAULT, '0', '1F_atD-LA7Z2feN19bmFUhrRrY-UYxMcB', 1430),
+-- Eurythmics - Sweet Dreams (Are Made of This)
+(DEFAULT, 'original', '1WiC6XGzYRXTpMTtVS6qtJ0Iq6MUI9d1q', 1970),
 -- Gary Moore - The Loner
 (DEFAULT, '0', '151ay9ovdknImnk0abkSHsUTeZgPGaQcY', 1985),
 (DEFAULT, '-2', '1sBewSCld-VR0houptU3zBfCI4dGKElyW', 1985);
