@@ -292,6 +292,6 @@ VALUES
 -- Форум - Белая ночь
 (DEFAULT, '17zGCNTb9n00-nbaevsPSRnxTxkfhsh9_', 1425),
 -- Чичерина - Ту-лу-ла
--- (DEFAULT, '', 1430),
+(DEFAULT, '1at3lbPUaaTtdt092O73_NhKK_5fUGHDv', 1430),
 -- Ярослав Евдокимов - Фантазёр
 (DEFAULT, '1aVMCjQqYjtUh4lka4jdx-BNudi3LBRIR', 1440);
