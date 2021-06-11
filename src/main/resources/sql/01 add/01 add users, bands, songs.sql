@@ -107,10 +107,10 @@ VALUES
     (370, 'МУККА'),
 
     -- SynthPop
-    (380, 'Eurythmics'),
+    (390, 'Eurythmics'),
 
     -- Blues
-    (390, 'Gary Moore'),
+    (395, 'Gary Moore'),
 
     -- Surf
     (400, 'Dick Dale, The Del Tones');
@@ -316,13 +316,13 @@ VALUES (1, 'No Roots', 1, 'Bm'),
        (1960, 'ДЕВОЧКА С КАРЕ', 370, 'Cm'),
 
        -- SynthPop
-       (1970, 'Sweet Dreams (Are Made of This)', 380, 'Cm'),
+       (1970, 'Sweet Dreams (Are Made of This)', 390, 'Cm'),
 
        -- Blues
-       (1975, 'Parisienne Walkways', 390, null),
-       (1980, 'Still Got the Blues', 390, null),
-       (1985, 'The Loner', 390, 'Gm'),
-       (1990, 'The Prophet', 390, null),
+       (1975, 'Parisienne Walkways', 395, null),
+       (1980, 'Still Got the Blues', 395, null),
+       (1985, 'The Loner', 395, 'Gm'),
+       (1990, 'The Prophet', 395, null),
 
        -- Surf
        (2000, 'Misirlou', 400, null);
