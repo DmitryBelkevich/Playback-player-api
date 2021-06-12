@@ -225,10 +225,6 @@ VALUES
 -- Наутилус Помпилиус - Скованные одной цепью
 (DEFAULT, '16zNVtGePNVZzwwA0tAncJcmZdFP7HPzJ', 1220),
 -- Наутилус Помпилиус - Я хочу быть с тобой
--- Ненси - Дым сигарет с ментолом
-(DEFAULT, '1BEVEH3tLqiBfc69HNHKrUF3WlwaqEvW0', 1240),
--- Ненси - Чистый лист
-(DEFAULT, '1XDMKvweEBggsTkVWAI607DzFZvASw0gP', 1245),
 -- Порнофильмы - Я так соскучился
 (DEFAULT, '1lL6BOSpselagLAFSTzCk4vLrVsfRAMBo', 1250),
 -- Сектор Газа - 30 лет
@@ -264,6 +260,10 @@ VALUES
 
 -- Pop, Dance
 
+-- Ненси - Дым сигарет с ментолом
+(DEFAULT, '1BEVEH3tLqiBfc69HNHKrUF3WlwaqEvW0', 1730),
+-- Ненси - Чистый лист
+(DEFAULT, '1XDMKvweEBggsTkVWAI607DzFZvASw0gP', 1735),
 -- Сладкий сон - На белом покрывале января
 (DEFAULT, '1jCPrNwLhoo6PnG-hJaiO6gw_DZAuLKzD', 1740),
 -- Форум - Белая ночь

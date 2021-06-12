@@ -613,19 +613,6 @@ VALUES
 (DEFAULT, 'Electric Organ, Pad 2 (Warm)', '1fb4IrymaocBTDFK_HI9yYl4aECTFd17o', 1110),
 (DEFAULT, 'Electric Organ', '1MnkszFuNVz14dT1G7FmINEwO1SUuaIu8', 1110),
 (DEFAULT, 'Pad 2 (Warm)', '1oc6bN1jRMClSh3lBs40Kf5_vsBaqqBwW', 1110),
--- Ненси - Дым сигарет с ментолом
-(DEFAULT, 'Full Score', '1N4_ujdoWMgdngCZuE0K9M-sGxs5QePVa', 1240),
-(DEFAULT, 'Voice 1, Voice 2, Voice 3, Voice 4', '1k1fSgWZjsqD4Iz5Ugr3vaJIy2atQyWRd', 1240),
-(DEFAULT, 'Voice 1', '11VHrHzrowUqoU4ZS0tx6U5SBIHGwn80Y', 1240),
-(DEFAULT, 'Voice 2', '1zXOzEwVXA-3Lj-Q9XgcTRzaD8OGhLzxf', 1240),
-(DEFAULT, 'Voice 3', '1wHIw_l6LVBGdQtRYgZqc5a8nS5WleOnD', 1240),
-(DEFAULT, 'Voice 4', '1xrLyjMfB0xUTpXfig5kDWrmm4lx1TA37', 1240),
-(DEFAULT, 'Electric Guitar', '12oB-dfilkt0Vp3_rgjVOa2EXKPd_lEhW', 1240),
-(DEFAULT, 'Bass Guitar', '1FYD0eR1mcvMlplkY6OrVRBFaHo9RysUu', 1240),
-(DEFAULT, 'Drum Set', '1LMu1_WTcvr5Gr_6rZstfgctbVnRRsYYS', 1240),
-(DEFAULT, 'Piano', '17xmhbcjtgQXYUtuPMx9hoahNx4qtQxGl', 1240),
-(DEFAULT, 'Strings', '1EHPr0Tsabi3ku7ErD8g5rdzog3fI9GiG', 1240),
-(DEFAULT, 'FX 1 (Abduction)', '1h4DgOxxZ9PW-arx7_FZEiI8lbecgdIpb', 1240),
 -- Порнофильмы - Я так соскучился
 (DEFAULT, 'Full Score', '1S6N9p5obHXfxUimiWNzWYRVoJrG74MkD', 1250),
 (DEFAULT, 'Voice 1', '1UDGfYO0F81U08RcLX8ctOewpxnXsGwK_', 1250),
@@ -797,6 +784,19 @@ VALUES
 
 -- Pop, Dance
 
+-- Ненси - Дым сигарет с ментолом
+(DEFAULT, 'Full Score', '1N4_ujdoWMgdngCZuE0K9M-sGxs5QePVa', 1730),
+(DEFAULT, 'Voice 1, Voice 2, Voice 3, Voice 4', '1k1fSgWZjsqD4Iz5Ugr3vaJIy2atQyWRd', 1730),
+(DEFAULT, 'Voice 1', '11VHrHzrowUqoU4ZS0tx6U5SBIHGwn80Y', 1730),
+(DEFAULT, 'Voice 2', '1zXOzEwVXA-3Lj-Q9XgcTRzaD8OGhLzxf', 1730),
+(DEFAULT, 'Voice 3', '1wHIw_l6LVBGdQtRYgZqc5a8nS5WleOnD', 1730),
+(DEFAULT, 'Voice 4', '1xrLyjMfB0xUTpXfig5kDWrmm4lx1TA37', 1730),
+(DEFAULT, 'Electric Guitar', '12oB-dfilkt0Vp3_rgjVOa2EXKPd_lEhW', 1730),
+(DEFAULT, 'Bass Guitar', '1FYD0eR1mcvMlplkY6OrVRBFaHo9RysUu', 1730),
+(DEFAULT, 'Drum Set', '1LMu1_WTcvr5Gr_6rZstfgctbVnRRsYYS', 1730),
+(DEFAULT, 'Piano', '17xmhbcjtgQXYUtuPMx9hoahNx4qtQxGl', 1730),
+(DEFAULT, 'Strings', '1EHPr0Tsabi3ku7ErD8g5rdzog3fI9GiG', 1730),
+(DEFAULT, 'FX 1 (Abduction)', '1h4DgOxxZ9PW-arx7_FZEiI8lbecgdIpb', 1730),
 -- Форум - Белая ночь
 (DEFAULT, 'Full Score', '1vdqQlS7fYFl8GuNulj8u3LJ_8Ffhvquy', 1745),
 (DEFAULT, 'Voice', '1Ycs6Sym5vYRNeuaUyKun1SXQFgeRPkzS', 1745),
