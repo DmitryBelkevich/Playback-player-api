@@ -782,6 +782,10 @@ VALUES
 (DEFAULT, 'Bass Guitar', '1rBDny1h3t4bYiWZ6tAkxuB0r802AJFML', 1430),
 (DEFAULT, 'Drum Set', '1Tyh-Ek-liKgLpG4jny8Uy4thaphCwAao', 1430),
 
+-- Metal
+
+-- Rock, Punk
+
 -- Pop, Dance
 
 -- Ненси - Дым сигарет с ментолом

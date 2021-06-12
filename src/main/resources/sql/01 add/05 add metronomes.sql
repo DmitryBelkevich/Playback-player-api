@@ -246,6 +246,10 @@ VALUES
 -- Чичерина - Ту-лу-ла
 (DEFAULT, null, 2, 4, 130, 1430),
 
+-- Metal
+
+-- Rock, Punk
+
 -- Pop, Dance
 
 -- Alice Merton - No Roots
