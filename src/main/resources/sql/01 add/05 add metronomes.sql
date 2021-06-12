@@ -15,13 +15,13 @@ VALUES
 -- Rammstein - Mutter
 (DEFAULT, null, 4, 4, 58, 50),
 -- System of a Down - Aerials
-(DEFAULT, null, 4, 4, 80, 150),
+(DEFAULT, null, 4, 4, 80, 60),
 -- System of a Down - Chop Suey!
-(DEFAULT, null, 4, 4, 130, 160),
+(DEFAULT, null, 4, 4, 130, 70),
 -- System of a Down - Lonely Day
-(DEFAULT, null, 6, 8, 75, 170),
+(DEFAULT, null, 6, 8, 75, 90),
 -- System of a Down - Toxicity
-(DEFAULT, null, 6, 8, 80, 180),
+(DEFAULT, null, 6, 8, 80, 100),
 -- Ария - Беспечный ангел
 (DEFAULT, null, 4, 4, 130, 350),
 -- Ария - Закат
@@ -44,7 +44,7 @@ VALUES
 -- Linkin Park - Numb
 (DEFAULT, null, 4, 4, 110, 51),
 -- Nirvana - Smells Like Teen Spirit
-(DEFAULT, null, 2, 4, 117, 90),
+(DEFAULT, null, 2, 4, 117, 91),
 -- Radiohead - Creep
 (DEFAULT, null, 4, 4, 95, 260),
 -- Radiohead - Karma Police

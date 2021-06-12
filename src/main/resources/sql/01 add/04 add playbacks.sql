@@ -19,19 +19,19 @@ VALUES
 (DEFAULT, 'original', '1NRbqmyIe2BZDPloZXIU4kAPPvq7J76U1', 50),
 (DEFAULT, '0', '10YkcIZUL6a0N5TH5wZz_Y9zrWif8uHP2', 50),
 -- System of a Down - Aerials
-(DEFAULT, 'original', '1DWfMgW6cS6A78Dg8kl5mojszgMjLSklc', 150),
-(DEFAULT, '0', '1WQ_u0kNMXSbeWps3D8O2lvjzj1S-vUct', 150),
+(DEFAULT, 'original', '1DWfMgW6cS6A78Dg8kl5mojszgMjLSklc', 60),
+(DEFAULT, '0', '1WQ_u0kNMXSbeWps3D8O2lvjzj1S-vUct', 60),
 -- System of a Down - Chop Suey!
-(DEFAULT, 'original', '1qcpfX-NRo5QzizHiAP6Q3SW03bNjMCDK', 160),
-(DEFAULT, '0', '1Ho5yrqs9xuQUbcfSRfiOf7ynw2ei9oZ6', 160),
+(DEFAULT, 'original', '1qcpfX-NRo5QzizHiAP6Q3SW03bNjMCDK', 70),
+(DEFAULT, '0', '1Ho5yrqs9xuQUbcfSRfiOf7ynw2ei9oZ6', 70),
 -- System of a Down - Lonely Day
-(DEFAULT, 'original', '1rnxYbhBrkCZOG1Tu7SikQkrxGdwaIcf9', 170),
-(DEFAULT, '+1', '1wzUBon2eJ1oehWyMAR2eHHiFQKSym9O3', 170),
-(DEFAULT, '0', '1glzjln_270Xp6GWuJMuI3BAqRF8BrnB9', 170),
-(DEFAULT, '-1', '11EBdzM8S6m5YHxwvDoSY6noMW3Sj0JFq', 170),
+(DEFAULT, 'original', '1rnxYbhBrkCZOG1Tu7SikQkrxGdwaIcf9', 90),
+(DEFAULT, '+1', '1wzUBon2eJ1oehWyMAR2eHHiFQKSym9O3', 90),
+(DEFAULT, '0', '1glzjln_270Xp6GWuJMuI3BAqRF8BrnB9', 90),
+(DEFAULT, '-1', '11EBdzM8S6m5YHxwvDoSY6noMW3Sj0JFq', 90),
 -- System of a Down - Toxicity
-(DEFAULT, 'original', '1KUHhVMY1YPFgKgjhBLKJXl7b5vn7_P1_', 180),
-(DEFAULT, '0', '1dJ8rhhJVd6wU4mrTiy48odM6JYnFuXuB', 180),
+(DEFAULT, 'original', '1KUHhVMY1YPFgKgjhBLKJXl7b5vn7_P1_', 100),
+(DEFAULT, '0', '1dJ8rhhJVd6wU4mrTiy48odM6JYnFuXuB', 100),
 -- Ария - Беспечный ангел
 (DEFAULT, '0', '15CCUu_Zg9IvQ2qTTlqfSg14OkK_qLrn1', 350),
 -- Ария - Закат
@@ -56,9 +56,9 @@ VALUES
 -- Joan Osborne - One of Us
 (DEFAULT, 'original', '1BvaaGEfJKr8jY1CIds1CV0rYyIXf6NtT', 31),
 -- Nirvana - Smells Like Teen Spirit
-(DEFAULT, 'original', '1rHdXtVO1bl8h0q95KHJX79ZfIycTw6NA', 90),
-(DEFAULT, '0', '1xXdCRRkrm2aPRK4PSfxGWkZenbWkh_cB', 90),
-(DEFAULT, '-2', '1kM7bWoYHoHk8ABEs-LCL8FrorpDxnHAh', 90),
+(DEFAULT, 'original', '1rHdXtVO1bl8h0q95KHJX79ZfIycTw6NA', 91),
+(DEFAULT, '0', '1xXdCRRkrm2aPRK4PSfxGWkZenbWkh_cB', 91),
+(DEFAULT, '-2', '1kM7bWoYHoHk8ABEs-LCL8FrorpDxnHAh', 91),
 -- Radiohead - Creep
 (DEFAULT, 'original', '1OLaqXsbL-nyeK0s504AZQFeDlRYCG71J', 260),
 (DEFAULT, '0', '1W_9NUHGjCcTmolR1ICFLSdj203PEFiWm', 260),

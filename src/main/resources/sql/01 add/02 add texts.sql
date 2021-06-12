@@ -13,13 +13,13 @@ VALUES
 -- Rammstein - Mutter
 -- (DEFAULT, '', 50),
 -- System of a Down - Aerials
-(DEFAULT, '1ATCfsprwO6poFwFtURq49JXPPRen5V_8', 150),
+(DEFAULT, '1ATCfsprwO6poFwFtURq49JXPPRen5V_8', 60),
 -- System of a Down - Chop Suey!
-(DEFAULT, '1gKDBLRqf4fkymtkPNcMbDSxrW18D5Sep', 160),
+(DEFAULT, '1gKDBLRqf4fkymtkPNcMbDSxrW18D5Sep', 70),
 -- System of a Down - Lonely Day
-(DEFAULT, '17QY2dfSxTkUwyGcL9Ovrtqtsh7vrOay2', 170),
+(DEFAULT, '17QY2dfSxTkUwyGcL9Ovrtqtsh7vrOay2', 90),
 -- System of a Down - Toxicity
-(DEFAULT, '1Vr2z7DHr02lC4lgD7lXaUA-M_wvBLsQz', 180),
+(DEFAULT, '1Vr2z7DHr02lC4lgD7lXaUA-M_wvBLsQz', 100),
 -- Ария - Беспечный ангел
 (DEFAULT, '1dEy512lg4zWJM4gXE9JwNBjhSNzXTUS_', 350),
 -- Ария - Закат
@@ -42,7 +42,7 @@ VALUES
 -- Linkin Park - Numb
 -- (DEFAULT, '', 51),
 -- Nirvana - Smells Like Teen Spirit
-(DEFAULT, '1VRNtP7xjVVQZStlmwEOeQ1lk5e_NrOGj', 90),
+(DEFAULT, '1VRNtP7xjVVQZStlmwEOeQ1lk5e_NrOGj', 91),
 -- Radiohead - Creep
 (DEFAULT, '1meCuIBWnawQwSBAk79cgnTxF9VvDqwsT', 260),
 -- Radiohead - Karma Police
