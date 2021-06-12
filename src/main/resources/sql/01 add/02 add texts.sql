@@ -235,9 +235,9 @@ VALUES
 -- Сектор Газа - Туман
 (DEFAULT, '1dcEqgfBCl2ABVcwGlmTAs9lQFJSTpjnz', 1310),
 -- Сергей Тихановcкий & Kosmas - Разбуры турмы муры
--- (DEFAULT, '', 1320),
+-- (DEFAULT, '', 1530),
 -- Сергей Тихановcкий & Kosmas - Стены рухнут
--- (DEFAULT, '', 1330),
+-- (DEFAULT, '', 1540),
 -- Сплин - Выхода нет
 (DEFAULT, '1PNCEsQaREvDUMvniS_yyAAJ8qd1uRH6N', 1570),
 -- Сплин - Линия жизни

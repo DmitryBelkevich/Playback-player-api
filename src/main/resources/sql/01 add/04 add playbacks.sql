@@ -309,11 +309,11 @@ VALUES
 (DEFAULT, '0', '1H2doovd6GE01_NliojJb26JhrFqRQB6q', 1310),
 (DEFAULT, '-2', '1r1pjuRsU03eK2dKB4V5D_ppO6uoX1tHP', 1310),
 -- Сергей Тихановcкий & Kosmas - Разбуры турмы муры
-(DEFAULT, 'original', '1VEyAlIKFCcQ9jVc4cvkhuPHRXpPNygri', 1320),
-(DEFAULT, '0', '1E-myP2M7zOkpOgp3mBgY1fA5TZYnHhbJ', 1320),
+(DEFAULT, 'original', '1VEyAlIKFCcQ9jVc4cvkhuPHRXpPNygri', 1530),
+(DEFAULT, '0', '1E-myP2M7zOkpOgp3mBgY1fA5TZYnHhbJ', 1530),
 -- Сергей Тихановcкий & Kosmas - Стены рухнут
-(DEFAULT, 'original', '1yQxC65aHyLpe3VFChlru9opT1yZlQTXQ', 1330),
-(DEFAULT, '0', '1E-myP2M7zOkpOgp3mBgY1fA5TZYnHhbJ', 1330),
+(DEFAULT, 'original', '1yQxC65aHyLpe3VFChlru9opT1yZlQTXQ', 1540),
+(DEFAULT, '0', '1E-myP2M7zOkpOgp3mBgY1fA5TZYnHhbJ', 1540),
 -- Сплин - Выхода нет
 (DEFAULT, 'original', '1TFfR8esb__0DnsP8SMc02xvcfOKSGN3p', 1570),
 (DEFAULT, '0', '1agtSI6Guw2pyf0JF4BQ1OKpBAbrpsvPX', 1570),
