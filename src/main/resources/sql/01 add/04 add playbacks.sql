@@ -64,10 +64,6 @@ VALUES
 -- BRUTTO - 12 обезьян
 (DEFAULT, 'original', '1VLFscNbxvL7AFgwMMHwef4DLHr2O6E_J', 240),
 (DEFAULT, '-2', '1z-UCRghp2dRWTHvEoSjw2JP_WfClAwd7', 240),
--- IOWA - Бьёт Бит
-(DEFAULT, 'original', '19VjudtXPbzOn8CdYPAG2lzJkK-b7YQMN', 250),
--- IOWA - Улыбайся
-(DEFAULT, 'original', '1dywI3h9zxdslzF4bgaa_j8fiUqh6d9wa', 260),
 -- Lumen - Гореть
 (DEFAULT, 'original', '1TAmlTGqDiej_IQsD85WydhcGeVeuIPJG', 270),
 (DEFAULT, '0', '1OOlkBsvKgUWx7jQ5mAcGPbsDZ6R1ZA4p', 270),
@@ -339,6 +335,10 @@ VALUES
 
 -- Pop, Dance
 
+-- IOWA - Бьёт Бит
+(DEFAULT, 'original', '19VjudtXPbzOn8CdYPAG2lzJkK-b7YQMN', 1680),
+-- IOWA - Улыбайся
+(DEFAULT, 'original', '1dywI3h9zxdslzF4bgaa_j8fiUqh6d9wa', 1690),
 -- Ненси - Дым сигарет с ментолом
 (DEFAULT, 'original', '1G0fC6XaLmrkDzavWQWe1fMlzJkqwx_Rd', 1730),
 (DEFAULT, '0', '1MHdB7Y5aPqVAgyMraKeTBHkQ5F8QnYge', 1730),

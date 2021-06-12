@@ -48,10 +48,6 @@ VALUES
 (DEFAULT, '1pWTRd9J8w-o-R4ISAebN3vdfSwUazlb0', 230),
 -- BRUTTO - 12 обезьян
 (DEFAULT, '13Vk7NRR0MD0aSoDhkBh8Ins8SMbR62a1', 240),
--- IOWA - Бьёт Бит
--- (DEFAULT, '', 250),
--- IOWA - Улыбайся
--- (DEFAULT, '', 260),
 -- Lumen - Гореть
 (DEFAULT, '1pSS1wqUWSIO6bKMJ1UhOpJza4bbVdRw4', 270),
 -- N.R.M. - Лёгкія-лёгкія
@@ -258,6 +254,10 @@ VALUES
 
 -- Pop, Dance
 
+-- IOWA - Бьёт Бит
+-- (DEFAULT, '', 1680),
+-- IOWA - Улыбайся
+-- (DEFAULT, '', 1690),
 -- Ласковый май - Белые розы
 (DEFAULT, '1oSQC5SW2AFu7Q_xWGgGy-bhOPqNNPaI3', 1700),
 -- Ненси - Дым сигарет с ментолом

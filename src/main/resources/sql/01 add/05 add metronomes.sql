@@ -48,10 +48,6 @@ VALUES
 (DEFAULT, null, 4, 4, 108, 230),
 -- BRUTTO - 12 обезьян
 (DEFAULT, null, 4, 4, 128, 240),
--- IOWA - Бьёт Бит
-(DEFAULT, null, 2, 4, 110, 250),
--- IOWA - Улыбайся
-(DEFAULT, null, 4, 4, 130, 260),
 -- Lumen - Гореть
 (DEFAULT, null, 4, 4, 67, 270),
 -- N.R.M. - Лёгкія-лёгкія
@@ -256,6 +252,10 @@ VALUES
 
 -- Pop, Dance
 
+-- IOWA - Бьёт Бит
+(DEFAULT, null, 2, 4, 110, 1680),
+-- IOWA - Улыбайся
+(DEFAULT, null, 4, 4, 130, 1690),
 -- Ненси - Дым сигарет с ментолом
 (DEFAULT, null, 4, 4, 75, 1730),
 -- Форум - Белая ночь
