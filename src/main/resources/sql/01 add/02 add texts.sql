@@ -173,8 +173,6 @@ VALUES
 (DEFAULT, '1RuJJGH48mhyJU9Hn8v66jKxYR6hR5ZJU', 900),
 -- Король и Шут - Прыгну со скалы
 -- (DEFAULT, '', 910),
--- Ласковый май - Белые розы
-(DEFAULT, '1oSQC5SW2AFu7Q_xWGgGy-bhOPqNNPaI3', 915),
 -- Ленинград - WWW
 -- (DEFAULT, '', 920),
 -- Ленинград - В Питере - пить
@@ -260,6 +258,8 @@ VALUES
 
 -- Pop, Dance
 
+-- Ласковый май - Белые розы
+(DEFAULT, '1oSQC5SW2AFu7Q_xWGgGy-bhOPqNNPaI3', 1700),
 -- Ненси - Дым сигарет с ментолом
 (DEFAULT, '1BEVEH3tLqiBfc69HNHKrUF3WlwaqEvW0', 1730),
 -- Ненси - Чистый лист
