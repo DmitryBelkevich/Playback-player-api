@@ -2,14 +2,10 @@
 
 INSERT INTO playbacks (id, title, url, song_id)
 VALUES
--- Alice Merton - No Roots
-(DEFAULT, 'original', '1zKkmIf6LTAORRgXGtA4aairbtsy2LAbA', 1),
 -- Bon Jovi - It's My Life
 (DEFAULT, 'original', '1ZhV4e8LrelTti44CgBU3J0QcfP72izZ6', 10),
 -- Joan Osborne - One of Us
 (DEFAULT, 'original', '1BvaaGEfJKr8jY1CIds1CV0rYyIXf6NtT', 30),
--- Maroon 5 - This Love
-(DEFAULT, 'original', '1LOXvoiv3hH_O8O3ikz4PIHfF7Wbol_nP', 40),
 -- Metallica - No Leaf Clover
 (DEFAULT, '-1', '1i08sJpoHA8QAyPLth8Eaz5k65hNvu67O', 60),
 -- Metallica - Nothing Else Matters
@@ -335,6 +331,10 @@ VALUES
 
 -- Pop, Dance
 
+-- Alice Merton - No Roots
+(DEFAULT, 'original', '1zKkmIf6LTAORRgXGtA4aairbtsy2LAbA', 1660),
+-- Maroon 5 - This Love
+(DEFAULT, 'original', '1LOXvoiv3hH_O8O3ikz4PIHfF7Wbol_nP', 1670),
 -- IOWA - Бьёт Бит
 (DEFAULT, 'original', '19VjudtXPbzOn8CdYPAG2lzJkK-b7YQMN', 1680),
 -- IOWA - Улыбайся

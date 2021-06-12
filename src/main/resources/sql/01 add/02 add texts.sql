@@ -1,13 +1,9 @@
 INSERT INTO texts (id, url, song_id)
 VALUES
--- Alice Merton - No Roots
--- (DEFAULT, '', 1),
 -- Bon Jovi - It's My Life
 -- (DEFAULT, '', 10),
 -- Joan Osborne - One of Us
 (DEFAULT, '10lA-I8AoECCIA0rMZAxowMdgnEAqtIk-', 30),
--- Maroon 5 - This Love
--- (DEFAULT, '', 40),
 -- Linkin Park - Numb
 -- (DEFAULT, '', 50),
 -- Metallica - No Leaf Clover
@@ -254,6 +250,10 @@ VALUES
 
 -- Pop, Dance
 
+-- Alice Merton - No Roots
+-- (DEFAULT, '', 1660),
+-- Maroon 5 - This Love
+-- (DEFAULT, '', 1670),
 -- IOWA - Бьёт Бит
 -- (DEFAULT, '', 1680),
 -- IOWA - Улыбайся

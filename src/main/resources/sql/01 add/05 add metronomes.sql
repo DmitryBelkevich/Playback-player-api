@@ -2,14 +2,10 @@
 
 INSERT INTO metronomes (id, title, numerator, denominator, tempo, song_id)
 VALUES
--- Alice Merton - No Roots
-(DEFAULT, null, 4, 4, 116, 1),
 -- Bon Jovi - It's My Life
 (DEFAULT, null, 4, 4, 120, 10),
 -- Joan Osborne - One of Us
 (DEFAULT, null, 2, 4, 88, 30),
--- Maroon 5 - This Love
-(DEFAULT, null, 4, 4, 95, 40),
 -- Linkin Park - Numb
 (DEFAULT, null, 4, 4, 110, 50),
 -- Metallica - No Leaf Clover
@@ -252,6 +248,10 @@ VALUES
 
 -- Pop, Dance
 
+-- Alice Merton - No Roots
+(DEFAULT, null, 4, 4, 116, 1660),
+-- Maroon 5 - This Love
+(DEFAULT, null, 4, 4, 95, 1670),
 -- IOWA - Бьёт Бит
 (DEFAULT, null, 2, 4, 110, 1680),
 -- IOWA - Улыбайся
