@@ -88,9 +88,6 @@ VALUES
 (DEFAULT, 'original', '1SJOhp6-EYnR0NeEAWTXGnLGecDyS5L0D', 320),
 (DEFAULT, '0', '1Y1Z8L9_N7Er8ma3xd_AJ3YGiuNle1kY5', 320),
 (DEFAULT, '-2', '1_91wLHOLYrLFEXs7waRC-ixYzoxgjy8X', 320),
--- Алла Пугачёва - Позови меня с собой
-(DEFAULT, 'original', '1Zjpe_x6UWTHkUssAu53MP-5sORdFCrFc', 330),
-(DEFAULT, '0', '1u_nmmPVgOW7QmzwLxWK6SHmc3aPWZB82', 330),
 -- Альянс - На заре
 (DEFAULT, 'original', '16ggNNQ-pwjX5AOGOGkgvpvvSt-bIIW7h', 340),
 (DEFAULT, '0', '1ukd4mUa6X0r5jSkvdfw-6cSGIAQtDdoq', 340),
@@ -344,6 +341,9 @@ VALUES
 -- Чичерина - Ту-лу-ла
 (DEFAULT, 'original', '1zi9vRYg4WKaaRa54Svx6iJxDLF_6bCGb', 1430),
 (DEFAULT, '0', '1F_atD-LA7Z2feN19bmFUhrRrY-UYxMcB', 1430),
+-- Алла Пугачёва - Позови меня с собой
+(DEFAULT, 'original', '1Zjpe_x6UWTHkUssAu53MP-5sORdFCrFc', 1750),
+(DEFAULT, '0', '1u_nmmPVgOW7QmzwLxWK6SHmc3aPWZB82', 1750),
 -- Любэ - Конь
 (DEFAULT, 'original', '1gdEaL0CGCfCpIQYjoGrEuF57020mnmkS', 1770),
 -- Любэ - Позови меня тихо по имени

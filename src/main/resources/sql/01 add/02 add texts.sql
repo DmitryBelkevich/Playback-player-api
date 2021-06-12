@@ -66,8 +66,6 @@ VALUES
 (DEFAULT, '1ioMOPIKqppfNx_tNX67ONu1lUGCHq1th', 320),
 -- Алексин - Малолетние шалавы
 (DEFAULT, '1vayh9CHsO46ZU3pSGBLVEA9MLP9axNxK', 325),
--- Алла Пугачёва - Позови меня с собой
-(DEFAULT, '1Cenp7Q9riOoakC0gpJC4AeIfW0-1d6Xp', 330),
 -- Альянс - На заре
 (DEFAULT, '1qsxOUZ-vt8B-6oJhbfbg-EezKGF4lczq', 340),
 -- Ария - Беспечный ангел
@@ -267,6 +265,8 @@ VALUES
 (DEFAULT, '17zGCNTb9n00-nbaevsPSRnxTxkfhsh9_', 1425),
 -- Чичерина - Ту-лу-ла
 (DEFAULT, '1at3lbPUaaTtdt092O73_NhKK_5fUGHDv', 1430),
+-- Алла Пугачёва - Позови меня с собой
+(DEFAULT, '1Cenp7Q9riOoakC0gpJC4AeIfW0-1d6Xp', 1750),
 -- Любэ - Конь
 (DEFAULT, '1vy_07S_ePv5LXaxTCRzlYBqjLl98bOdS', 1770),
 -- Любэ - Позови меня тихо по имени
