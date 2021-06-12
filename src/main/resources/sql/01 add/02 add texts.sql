@@ -249,7 +249,7 @@ VALUES
 -- Сплин - Романс
 (DEFAULT, '1N1PvlAR-rBxVjmIza6ovDAUl9fsvKE9Z', 1400),
 -- Танцы Минус - Половинка
-(DEFAULT, '1E3piSXMJf4yDmDvCwpp15FUJFl17OVm4', 1410),
+(DEFAULT, '1E3piSXMJf4yDmDvCwpp15FUJFl17OVm4', 1630),
 -- Чичерина - Ту-лу-ла
 (DEFAULT, '1at3lbPUaaTtdt092O73_NhKK_5fUGHDv', 1650),
 
