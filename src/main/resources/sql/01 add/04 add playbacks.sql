@@ -33,21 +33,21 @@ VALUES
 (DEFAULT, 'original', '1KUHhVMY1YPFgKgjhBLKJXl7b5vn7_P1_', 100),
 (DEFAULT, '0', '1dJ8rhhJVd6wU4mrTiy48odM6JYnFuXuB', 100),
 -- Ария - Беспечный ангел
-(DEFAULT, '0', '15CCUu_Zg9IvQ2qTTlqfSg14OkK_qLrn1', 350),
+(DEFAULT, '0', '15CCUu_Zg9IvQ2qTTlqfSg14OkK_qLrn1', 110),
 -- Ария - Закат
-(DEFAULT, '0', '15Fd6JhPlD94HgIzy1N2lvFo12o7a6WuM', 360),
+(DEFAULT, '0', '15Fd6JhPlD94HgIzy1N2lvFo12o7a6WuM', 120),
 -- Ария - Осколок льда
-(DEFAULT, '0', '15MxbTaO4O9_6k7QjgUEcBSzu1uvoLXo4', 370),
+(DEFAULT, '0', '15MxbTaO4O9_6k7QjgUEcBSzu1uvoLXo4', 130),
 -- Ария - Штиль
-(DEFAULT, 'original', '1nzb51T6n7i0Qb0ci08TthKZRd-26Qs-X', 380),
-(DEFAULT, '0', '15N4Wlmle5IRLFC47-4ZMOgncQ7gCm3wO', 380),
+(DEFAULT, 'original', '1nzb51T6n7i0Qb0ci08TthKZRd-26Qs-X', 170),
+(DEFAULT, '0', '15N4Wlmle5IRLFC47-4ZMOgncQ7gCm3wO', 170),
 -- Кипелов - Я свободен!
-(DEFAULT, '0', '1-nGYWtzW5tFXT9W9ca-5V5DEmVPQhux9', 780),
+(DEFAULT, '0', '1-nGYWtzW5tFXT9W9ca-5V5DEmVPQhux9', 180),
 -- Слот - Круги на воде
-(DEFAULT, 'original', '1YlSgh1QzHl7t272sqgZIZogWzbBhFgyF', 1350),
-(DEFAULT, '+1', '1608Rx2FTKM7Qpi5m1sjqykuBVZ5Vi3vg', 1350),
-(DEFAULT, '0', '1UIBGxHCpQneDtNd5yXofr3PdGGUXIzun', 1350),
-(DEFAULT, '-2', '1jN7UFNqST3wwuzNOuk5ojOzZ_yYOBkV0', 1350),
+(DEFAULT, 'original', '1YlSgh1QzHl7t272sqgZIZogWzbBhFgyF', 190),
+(DEFAULT, '+1', '1608Rx2FTKM7Qpi5m1sjqykuBVZ5Vi3vg', 190),
+(DEFAULT, '0', '1UIBGxHCpQneDtNd5yXofr3PdGGUXIzun', 190),
+(DEFAULT, '-2', '1jN7UFNqST3wwuzNOuk5ojOzZ_yYOBkV0', 190),
 
 -- Rock, Punk
 
@@ -64,16 +64,16 @@ VALUES
 (DEFAULT, '0', '1W_9NUHGjCcTmolR1ICFLSdj203PEFiWm', 260),
 (DEFAULT, '-2', '1OUj_SKgRBx49aFThmydbDc8fUa2TGg-m', 260),
 -- Radiohead - Karma Police
-(DEFAULT, 'original', '1lXAKENCZ8QSPlPWl_6CYPZwFp7oiZqg8', 110),
+(DEFAULT, 'original', '1lXAKENCZ8QSPlPWl_6CYPZwFp7oiZqg8', 111),
 -- Reamonn - Supergirl
 -- The Beatles - Yesterday
-(DEFAULT, 'original', '1ee2g11nNUiCMVF53zHSAXqnYII8ZdZvV', 190),
-(DEFAULT, '0', '1Vk_yY_pI03sMfM4y9zr27zQCBYbbIa8n', 190),
+(DEFAULT, 'original', '1ee2g11nNUiCMVF53zHSAXqnYII8ZdZvV', 191),
+(DEFAULT, '0', '1Vk_yY_pI03sMfM4y9zr27zQCBYbbIa8n', 191),
 -- The Cranberries - Zombie
-(DEFAULT, 'original', '1udKRjlWsrX-lQTPMw0QJZSiQXN71oLxY', 200),
-(DEFAULT, '+3', '1RMpdc7kURzyTi8Hdwd5IxmQeKy2ITJ25', 200),
-(DEFAULT, '0', '1of0XLuibNVjWsQ-B8EnX1CTKQ84tSng9', 200),
-(DEFAULT, '-2', '14f1pEFoO6bLao6oiwBuXUFgi1u8UNEMc', 200),
+(DEFAULT, 'original', '1udKRjlWsrX-lQTPMw0QJZSiQXN71oLxY', 201),
+(DEFAULT, '+3', '1RMpdc7kURzyTi8Hdwd5IxmQeKy2ITJ25', 201),
+(DEFAULT, '0', '1of0XLuibNVjWsQ-B8EnX1CTKQ84tSng9', 201),
+(DEFAULT, '-2', '14f1pEFoO6bLao6oiwBuXUFgi1u8UNEMc', 201),
 -- Animal ДжаZ - Три полоски
 (DEFAULT, 'original', '11FHM4hHS6tqdStEO3nKC3-F-Cwr3RnAx', 230),
 (DEFAULT, '0', '1Pji3yNUq0P--uCwhIdQF_u-xypQV19R1', 230),

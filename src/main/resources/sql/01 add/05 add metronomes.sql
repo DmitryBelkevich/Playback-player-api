@@ -23,17 +23,17 @@ VALUES
 -- System of a Down - Toxicity
 (DEFAULT, null, 6, 8, 80, 100),
 -- Ария - Беспечный ангел
-(DEFAULT, null, 4, 4, 130, 350),
+(DEFAULT, null, 4, 4, 130, 110),
 -- Ария - Закат
-(DEFAULT, null, 4, 4, 130, 360),
+(DEFAULT, null, 4, 4, 130, 120),
 -- Ария - Осколок льда
-(DEFAULT, null, 4, 4, 71, 370),
+(DEFAULT, null, 4, 4, 71, 130),
 -- Ария - Штиль
-(DEFAULT, null, 12, 8, 68, 380),
+(DEFAULT, null, 12, 8, 68, 170),
 -- Кипелов - Я свободен!
-(DEFAULT, null, 4, 4, 70, 780),
+(DEFAULT, null, 4, 4, 70, 180),
 -- Слот - Круги на воде
-(DEFAULT, null, 4, 4, 71, 1350),
+(DEFAULT, null, 4, 4, 71, 190),
 
 -- Rock, Punk
 
@@ -50,11 +50,11 @@ VALUES
 -- Radiohead - Karma Police
 -- Reamonn - Supergirl
 -- The Beatles - Yesterday
-(DEFAULT, null, 4, 4, 95, 190),
+(DEFAULT, null, 4, 4, 95, 191),
 -- The Cranberries - Zombie
-(DEFAULT, null, 4, 4, 80, 200),
+(DEFAULT, null, 4, 4, 80, 201),
 -- The Offspring - Pretty Fly (for a White Guy)
-(DEFAULT, null, 4, 4, 143, 210),
+(DEFAULT, null, 4, 4, 143, 211),
 -- The Offspring - Self Esteem
 (DEFAULT, null, 2, 4, 105, 220),
 -- Animal ДжаZ - Три полоски

@@ -21,17 +21,17 @@ VALUES
 -- System of a Down - Toxicity
 (DEFAULT, '1Vr2z7DHr02lC4lgD7lXaUA-M_wvBLsQz', 100),
 -- Ария - Беспечный ангел
-(DEFAULT, '1dEy512lg4zWJM4gXE9JwNBjhSNzXTUS_', 350),
+(DEFAULT, '1dEy512lg4zWJM4gXE9JwNBjhSNzXTUS_', 110),
 -- Ария - Закат
--- (DEFAULT, '', 360),
+-- (DEFAULT, '', 120),
 -- Ария - Осколок льда
--- (DEFAULT, '', 370),
+-- (DEFAULT, '', 130),
 -- Ария - Штиль
-(DEFAULT, '18lgs_Oj5jJpO0oZZuNFQhB62GyWNviBJ', 380),
+(DEFAULT, '18lgs_Oj5jJpO0oZZuNFQhB62GyWNviBJ', 170),
 -- Кипелов - Я свободен!
--- (DEFAULT, '', 780),
+-- (DEFAULT, '', 180),
 -- Слот - Круги на воде
-(DEFAULT, '1HeTPP8lo7ym9mSEEDoxS6PzipOlxspEA', 1350),
+(DEFAULT, '1HeTPP8lo7ym9mSEEDoxS6PzipOlxspEA', 190),
 
 -- Rock, Punk
 
@@ -46,15 +46,15 @@ VALUES
 -- Radiohead - Creep
 (DEFAULT, '1meCuIBWnawQwSBAk79cgnTxF9VvDqwsT', 260),
 -- Radiohead - Karma Police
--- (DEFAULT, '', 110),
+-- (DEFAULT, '', 111),
 -- Reamonn - Supergirl
--- (DEFAULT, '', 140),
+-- (DEFAULT, '', 141),
 -- The Beatles - Yesterday
-(DEFAULT, '1fZssjEMEoHsa1HD6Vh3f5HExWvzVY5b5', 190),
+(DEFAULT, '1fZssjEMEoHsa1HD6Vh3f5HExWvzVY5b5', 191),
 -- The Cranberries - Zombie
-(DEFAULT, '1NJ7s2ssC_icXcYLGoTMBva_cGAOsIGEs', 200),
+(DEFAULT, '1NJ7s2ssC_icXcYLGoTMBva_cGAOsIGEs', 201),
 -- The Offspring - Pretty Fly (for a White Guy)
-(DEFAULT, '1zU3iFvGLxKx27awXEsP6hAyx9o01Wijc', 210),
+(DEFAULT, '1zU3iFvGLxKx27awXEsP6hAyx9o01Wijc', 211),
 -- The Offspring - Self Esteem
 (DEFAULT, '1JzXB9RCzN1qA-6N6jrEsRoXPncC18_np', 220),
 -- Animal ДжаZ - Три полоски
