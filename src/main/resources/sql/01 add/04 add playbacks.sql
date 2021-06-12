@@ -275,9 +275,6 @@ VALUES
 (DEFAULT, '0', '1vA7BqvJJk4pStzV2skYssS9aJDkUJEic', 1110),
 (DEFAULT, '-1', '1ODKjDfe4UqcNT6l1fLe9GX8E8WGPJE_G', 1110),
 (DEFAULT, '-2', '13I2CTCJ3QZkf-Zk7RaFcl-4ojE4gyR43', 1110),
--- Михаил Боярский - Зеленоглазое такси
-(DEFAULT, 'original', '1TJEQsSf_fhbmfCv9nc82Sxh0P9zSqNmB', 1120),
-(DEFAULT, '0', '1kQHGP2fELW804Z_kJTprPrUmwbORDMS8', 1120),
 -- Мумий Тролль - Владивосток 2000
 (DEFAULT, '0', '1XLMZNAxiQKvaufDAXmf5hMtMB0lNCoh0', 1160),
 -- Мумий Тролль - Медведица
@@ -351,6 +348,9 @@ VALUES
 -- Чичерина - Ту-лу-ла
 (DEFAULT, 'original', '1zi9vRYg4WKaaRa54Svx6iJxDLF_6bCGb', 1430),
 (DEFAULT, '0', '1F_atD-LA7Z2feN19bmFUhrRrY-UYxMcB', 1430),
+-- Михаил Боярский - Зеленоглазое такси
+(DEFAULT, 'original', '1TJEQsSf_fhbmfCv9nc82Sxh0P9zSqNmB', 1800),
+(DEFAULT, '0', '1kQHGP2fELW804Z_kJTprPrUmwbORDMS8', 1800),
 -- Синяя птица - Там, где клён шумит
 (DEFAULT, 'original', '1_vGMqVWwZvAT7sLJNpITKCBBcaaCkcKY', 1850),
 (DEFAULT, '0', '1wlHDu22rywGc5OvDFwmquO4Q24wooPQo', 1850),

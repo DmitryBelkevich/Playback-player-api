@@ -219,10 +219,6 @@ VALUES
 -- Ляпис Трубецкой - Яблони
 -- Ляпис Трубецкой - Я верю
 (DEFAULT, '1cRWUgp0kLuD1gycmz6EPDGfzCB3AeNg_', 1110),
--- Михаил Боярский - Зеленоглазое такси
-(DEFAULT, '1MWK5AlWW3yAKogbsQms8w1RMojxJAYYE', 1120),
--- Михаил Боярский - Ланфрен-ланфра
-(DEFAULT, '1C9_ziHoyzqYDUhPbMxC4uYke8r8AqwB0', 1125),
 -- Мумий Тролль - Владивосток 2000
 (DEFAULT, '1Lp4x49dw1LFzzct_gLN8WFVtvG1eEDLv', 1160),
 -- Мумий Тролль - Медведица
@@ -275,6 +271,10 @@ VALUES
 (DEFAULT, '17zGCNTb9n00-nbaevsPSRnxTxkfhsh9_', 1425),
 -- Чичерина - Ту-лу-ла
 (DEFAULT, '1at3lbPUaaTtdt092O73_NhKK_5fUGHDv', 1430),
+-- Михаил Боярский - Зеленоглазое такси
+(DEFAULT, '1MWK5AlWW3yAKogbsQms8w1RMojxJAYYE', 1800),
+-- Михаил Боярский - Ланфрен-ланфра
+(DEFAULT, '1C9_ziHoyzqYDUhPbMxC4uYke8r8AqwB0', 1810),
 -- Песняры - Белоруссия
 (DEFAULT, '1XQyMxTW-rgAPJtkpjTL8dNqDswETt796', 1830),
 -- Синяя птица - Там, где клён шумит
