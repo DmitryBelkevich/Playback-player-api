@@ -315,18 +315,18 @@ VALUES
 (DEFAULT, 'original', '1yQxC65aHyLpe3VFChlru9opT1yZlQTXQ', 1330),
 (DEFAULT, '0', '1E-myP2M7zOkpOgp3mBgY1fA5TZYnHhbJ', 1330),
 -- Сплин - Выхода нет
-(DEFAULT, 'original', '1TFfR8esb__0DnsP8SMc02xvcfOKSGN3p', 1360),
-(DEFAULT, '0', '1agtSI6Guw2pyf0JF4BQ1OKpBAbrpsvPX', 1360),
+(DEFAULT, 'original', '1TFfR8esb__0DnsP8SMc02xvcfOKSGN3p', 1570),
+(DEFAULT, '0', '1agtSI6Guw2pyf0JF4BQ1OKpBAbrpsvPX', 1570),
 -- Сплин - Линия жизни
-(DEFAULT, '0', '1i1TE8CQ1qje46JPPSEMqNSncdKc6AoBQ', 1370),
+(DEFAULT, '0', '1i1TE8CQ1qje46JPPSEMqNSncdKc6AoBQ', 1580),
 -- Сплин - Моё сердце
-(DEFAULT, '0', '1ilBBPuLUa3pWWSdbr5s2C_wVpXH935aT', 1380),
+(DEFAULT, '0', '1ilBBPuLUa3pWWSdbr5s2C_wVpXH935aT', 1590),
 -- Сплин - Орбит без сахара
-(DEFAULT, 'original', '1W3RKtn2pNLYhXPX4x58ru3jUAZexr16l', 1390),
-(DEFAULT, '0', '1EUMB6U7BOAEQhl5ualx3trWbCPSuQqe4', 1390),
+(DEFAULT, 'original', '1W3RKtn2pNLYhXPX4x58ru3jUAZexr16l', 1600),
+(DEFAULT, '0', '1EUMB6U7BOAEQhl5ualx3trWbCPSuQqe4', 1600),
 -- Сплин - Романс
-(DEFAULT, 'original', '1IGAxFyBv9-cwbQgyYWEtUUQTw6MzfOHT', 1400),
-(DEFAULT, '0', '1y03jkJpseyax1_B20hx_IOigTSiWzFd4', 1400),
+(DEFAULT, 'original', '1IGAxFyBv9-cwbQgyYWEtUUQTw6MzfOHT', 1610),
+(DEFAULT, '0', '1y03jkJpseyax1_B20hx_IOigTSiWzFd4', 1610),
 -- Танцы Минус - Половинка
 (DEFAULT, 'original', '1_D-H2wiH2j0WosnHXETXsZKkV2-pr_fL', 1630),
 (DEFAULT, '0', '1AIrDfhM2YtBisszdHB4NXn2HKQLpTOaC', 1630),

@@ -239,15 +239,15 @@ VALUES
 -- Сергей Тихановcкий & Kosmas - Стены рухнут
 -- (DEFAULT, '', 1330),
 -- Сплин - Выхода нет
-(DEFAULT, '1PNCEsQaREvDUMvniS_yyAAJ8qd1uRH6N', 1360),
+(DEFAULT, '1PNCEsQaREvDUMvniS_yyAAJ8qd1uRH6N', 1570),
 -- Сплин - Линия жизни
--- (DEFAULT, '', 1370),
+-- (DEFAULT, '', 1580),
 -- Сплин - Моё сердце
-(DEFAULT, '163PcnIjeCoxGIXZk6fMi1q6KOcnVS3w3', 1380),
+(DEFAULT, '163PcnIjeCoxGIXZk6fMi1q6KOcnVS3w3', 1590),
 -- Сплин - Орбит без сахара
-(DEFAULT, '1DRx51rkYx4Ou_-SH8KqUIRXf247qJPH8', 1390),
+(DEFAULT, '1DRx51rkYx4Ou_-SH8KqUIRXf247qJPH8', 1600),
 -- Сплин - Романс
-(DEFAULT, '1N1PvlAR-rBxVjmIza6ovDAUl9fsvKE9Z', 1400),
+(DEFAULT, '1N1PvlAR-rBxVjmIza6ovDAUl9fsvKE9Z', 1610),
 -- Танцы Минус - Половинка
 (DEFAULT, '1E3piSXMJf4yDmDvCwpp15FUJFl17OVm4', 1630),
 -- Чичерина - Ту-лу-ла
