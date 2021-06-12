@@ -116,11 +116,11 @@ VALUES
 INSERT INTO songs (id, title, band_id, key_signature)
 VALUES
        -- Metal
-       (60, 'No Leaf Clover', 5, 'Ebm'),
-       (70, 'Nothing Else Matters', 5, 'Em'),
-       (80, 'The Unforgiven', 5, 'Am'),
-       (120, 'Frühling in Paris', 10, 'F#m'),
-       (130, 'Mutter', 10, 'Em'),
+       (10, 'No Leaf Clover', 5, 'Ebm'),
+       (20, 'Nothing Else Matters', 5, 'Em'),
+       (30, 'The Unforgiven', 5, 'Am'),
+       (40, 'Frühling in Paris', 10, 'F#m'),
+       (50, 'Mutter', 10, 'Em'),
        (150, 'Aerials', 15, 'Cm'),
        (160, 'Chop Suey!', 15, 'Gm'),
        (170, 'Lonely Day', 15, 'Abm'),
@@ -138,9 +138,9 @@ VALUES
        (1437, 'Эпилог', 35, null),
 
        -- Rock, Punk
-       (10, 'It''s My Life', 40, 'Cm'),
-       (30, 'One of Us', 45, 'F#m'),
-       (50, 'Numb', 50, 'F#m'),
+       (11, 'It''s My Life', 40, 'Cm'),
+       (31, 'One of Us', 45, 'F#m'),
+       (51, 'Numb', 50, 'F#m'),
        (90, 'Smells Like Teen Spirit', 55, 'Fm'),
        (250, 'Every You Every Me', 60, null),
        (260, 'Creep', 65, 'G'),

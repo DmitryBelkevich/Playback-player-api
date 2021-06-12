@@ -5,19 +5,19 @@ VALUES
 -- Metal
 
 -- Metallica - No Leaf Clover
-(DEFAULT, '-1', '1i08sJpoHA8QAyPLth8Eaz5k65hNvu67O', 60),
+(DEFAULT, '-1', '1i08sJpoHA8QAyPLth8Eaz5k65hNvu67O', 10),
 -- Metallica - Nothing Else Matters
-(DEFAULT, 'original', '1OjohWhLORpbmPUv80SprjowrqNNb7lV9', 70),
-(DEFAULT, '0', '1tO0tvkpeORa06OX7wzhkkeHp1skCy7GR', 70),
-(DEFAULT, '-2', '1QHfy1QncqXr6FZBRKOZyZ8PrUfzs4WjU', 70),
+(DEFAULT, 'original', '1OjohWhLORpbmPUv80SprjowrqNNb7lV9', 20),
+(DEFAULT, '0', '1tO0tvkpeORa06OX7wzhkkeHp1skCy7GR', 20),
+(DEFAULT, '-2', '1QHfy1QncqXr6FZBRKOZyZ8PrUfzs4WjU', 20),
 -- Metallica - The Unforgiven
-(DEFAULT, '0', '16gWOZ3tC1uUoAUlwXnwxXpYqlMUdEska', 80),
+(DEFAULT, '0', '16gWOZ3tC1uUoAUlwXnwxXpYqlMUdEska', 30),
 -- Rammstein - Frühling in Paris
-(DEFAULT, 'original', '1F5x2v6vP8QezTToi_HgKScbcb9MFxyHI', 120),
-(DEFAULT, '0', '1KWet8N_7qKMDeeu3G0cJ7YhjrYYVu2fB', 120),
+(DEFAULT, 'original', '1F5x2v6vP8QezTToi_HgKScbcb9MFxyHI', 40),
+(DEFAULT, '0', '1KWet8N_7qKMDeeu3G0cJ7YhjrYYVu2fB', 40),
 -- Rammstein - Mutter
-(DEFAULT, 'original', '1NRbqmyIe2BZDPloZXIU4kAPPvq7J76U1', 130),
-(DEFAULT, '0', '10YkcIZUL6a0N5TH5wZz_Y9zrWif8uHP2', 130),
+(DEFAULT, 'original', '1NRbqmyIe2BZDPloZXIU4kAPPvq7J76U1', 50),
+(DEFAULT, '0', '10YkcIZUL6a0N5TH5wZz_Y9zrWif8uHP2', 50),
 -- System of a Down - Aerials
 (DEFAULT, 'original', '1DWfMgW6cS6A78Dg8kl5mojszgMjLSklc', 150),
 (DEFAULT, '0', '1WQ_u0kNMXSbeWps3D8O2lvjzj1S-vUct', 150),
@@ -52,9 +52,9 @@ VALUES
 -- Rock, Punk
 
 -- Bon Jovi - It's My Life
-(DEFAULT, 'original', '1ZhV4e8LrelTti44CgBU3J0QcfP72izZ6', 10),
+(DEFAULT, 'original', '1ZhV4e8LrelTti44CgBU3J0QcfP72izZ6', 11),
 -- Joan Osborne - One of Us
-(DEFAULT, 'original', '1BvaaGEfJKr8jY1CIds1CV0rYyIXf6NtT', 30),
+(DEFAULT, 'original', '1BvaaGEfJKr8jY1CIds1CV0rYyIXf6NtT', 31),
 -- Nirvana - Smells Like Teen Spirit
 (DEFAULT, 'original', '1rHdXtVO1bl8h0q95KHJX79ZfIycTw6NA', 90),
 (DEFAULT, '0', '1xXdCRRkrm2aPRK4PSfxGWkZenbWkh_cB', 90),

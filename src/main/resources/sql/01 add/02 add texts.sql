@@ -3,15 +3,15 @@ VALUES
 -- Metal
 
 -- Metallica - No Leaf Clover
--- (DEFAULT, '', 60),
+-- (DEFAULT, '', 10),
 -- Metallica - Nothing Else Matters
-(DEFAULT, '1CI5x5mTeKZSMZA1eTtgXoiofChtVsqf2', 70),
+(DEFAULT, '1CI5x5mTeKZSMZA1eTtgXoiofChtVsqf2', 20),
 -- Metallica - The Unforgiven
--- (DEFAULT, '', 80),
+-- (DEFAULT, '', 30),
 -- Rammstein - Frühling in Paris
--- (DEFAULT, '', 120),
+-- (DEFAULT, '', 40),
 -- Rammstein - Mutter
--- (DEFAULT, '', 130),
+-- (DEFAULT, '', 50),
 -- System of a Down - Aerials
 (DEFAULT, '1ATCfsprwO6poFwFtURq49JXPPRen5V_8', 150),
 -- System of a Down - Chop Suey!
@@ -36,11 +36,11 @@ VALUES
 -- Rock, Punk
 
 -- Bon Jovi - It's My Life
--- (DEFAULT, '', 10),
+-- (DEFAULT, '', 11),
 -- Joan Osborne - One of Us
-(DEFAULT, '10lA-I8AoECCIA0rMZAxowMdgnEAqtIk-', 30),
+(DEFAULT, '10lA-I8AoECCIA0rMZAxowMdgnEAqtIk-', 31),
 -- Linkin Park - Numb
--- (DEFAULT, '', 50),
+-- (DEFAULT, '', 51),
 -- Nirvana - Smells Like Teen Spirit
 (DEFAULT, '1VRNtP7xjVVQZStlmwEOeQ1lk5e_NrOGj', 90),
 -- Radiohead - Creep
