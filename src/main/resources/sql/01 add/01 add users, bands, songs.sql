@@ -23,12 +23,12 @@ VALUES (1, 'Hard'),
 INSERT INTO bands (id, title)
 VALUES
     -- Metal
-    (30, 'Metallica'),
+    (5, 'Metallica'),
     (45, 'Rammstein'),
     (55, 'System of a Down'),
-    (120, 'Ария'),
+    (20, 'Ария'),
     (180, 'Кипелов'),
-    (260, 'Слот'),
+    (30, 'Слот'),
     (287, 'Эпидемия'),
 
     -- Rock, Punk
@@ -117,24 +117,24 @@ VALUES
 INSERT INTO songs (id, title, band_id, key_signature)
 VALUES
        -- Metal
-       (60, 'No Leaf Clover', 30, 'Ebm'),
-       (70, 'Nothing Else Matters', 30, 'Em'),
-       (80, 'The Unforgiven', 30, 'Am'),
+       (60, 'No Leaf Clover', 5, 'Ebm'),
+       (70, 'Nothing Else Matters', 5, 'Em'),
+       (80, 'The Unforgiven', 5, 'Am'),
        (120, 'Frühling in Paris', 45, 'F#m'),
        (130, 'Mutter', 45, 'Em'),
        (150, 'Aerials', 55, 'Cm'),
        (160, 'Chop Suey!', 55, 'Gm'),
        (170, 'Lonely Day', 55, 'Abm'),
        (180, 'Toxicity', 55, 'Cm'),
-       (350, 'Беспечный ангел', 120, 'Em'),
-       (360, 'Закат', 120, 'Em'),
-       (370, 'Осколок льда', 120, 'Am'),
-       (373, 'Свобода', 120, null),
+       (350, 'Беспечный ангел', 20, 'Em'),
+       (360, 'Закат', 20, 'Em'),
+       (370, 'Осколок льда', 20, 'Am'),
+       (373, 'Свобода', 20, null),
        (375, 'Там высоко', 120, null),
        (377, 'Улица роз', 120, null),
        (380, 'Штиль', 120, 'Em'),
        (780, 'Я свободен!', 180, 'Cm'),
-       (1350, 'Круги на воде', 260, 'Bm'),
+       (1350, 'Круги на воде', 30, 'Bm'),
        (1435, 'Всадник из льда', 287, null),
        (1437, 'Эпилог', 287, null),
 
