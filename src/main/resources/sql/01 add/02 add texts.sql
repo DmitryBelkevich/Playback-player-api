@@ -227,13 +227,13 @@ VALUES
 -- Сектор Газа - 30 лет
 (DEFAULT, '1VH1TAITlCzMJ5kYZXR8wfvEQ-0SmH5kK', 1260),
 -- Сектор Газа - Демобилизация
-(DEFAULT, '1YibK7hLxoRIZaFFBHWGL8XgmTFq00V4o', 1280),
+(DEFAULT, '1YibK7hLxoRIZaFFBHWGL8XgmTFq00V4o', 1490),
 -- Сектор Газа - Лирика
-(DEFAULT, '1tvKj2W1dfPK4F7NkDPkwONG3pkAIoMnk', 1290),
+(DEFAULT, '1tvKj2W1dfPK4F7NkDPkwONG3pkAIoMnk', 1500),
 -- Сектор Газа - Пора домой
-(DEFAULT, '18BIop-OrduXX3qPAVjtbVUmuInJ8R2RY', 1300),
+(DEFAULT, '18BIop-OrduXX3qPAVjtbVUmuInJ8R2RY', 1510),
 -- Сектор Газа - Туман
-(DEFAULT, '1dcEqgfBCl2ABVcwGlmTAs9lQFJSTpjnz', 1310),
+(DEFAULT, '1dcEqgfBCl2ABVcwGlmTAs9lQFJSTpjnz', 1520),
 -- Сергей Тихановcкий & Kosmas - Разбуры турмы муры
 -- (DEFAULT, '', 1530),
 -- Сергей Тихановcкий & Kosmas - Стены рухнут
