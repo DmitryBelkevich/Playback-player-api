@@ -46,7 +46,7 @@ VALUES
 -- Nirvana - Smells Like Teen Spirit
 (DEFAULT, null, 2, 4, 117, 90),
 -- Radiohead - Creep
-(DEFAULT, null, 4, 4, 95, 100),
+(DEFAULT, null, 4, 4, 95, 260),
 -- Radiohead - Karma Police
 -- Reamonn - Supergirl
 -- The Beatles - Yesterday

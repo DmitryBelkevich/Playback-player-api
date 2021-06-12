@@ -44,7 +44,7 @@ VALUES
 -- Nirvana - Smells Like Teen Spirit
 (DEFAULT, '1VRNtP7xjVVQZStlmwEOeQ1lk5e_NrOGj', 90),
 -- Radiohead - Creep
-(DEFAULT, '1meCuIBWnawQwSBAk79cgnTxF9VvDqwsT', 100),
+(DEFAULT, '1meCuIBWnawQwSBAk79cgnTxF9VvDqwsT', 260),
 -- Radiohead - Karma Police
 -- (DEFAULT, '', 110),
 -- Reamonn - Supergirl
