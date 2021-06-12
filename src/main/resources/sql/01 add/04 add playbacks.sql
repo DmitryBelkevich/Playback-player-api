@@ -282,15 +282,15 @@ VALUES
 -- Наутилус Помпилиус - Скованные одной цепью
 -- Наутилус Помпилиус - Я хочу быть с тобой
 -- Порнофильмы - Я так соскучился
-(DEFAULT, 'original', '1Zw0YoRcOeNcRgs3pP5F_ZBucy-HTFSiY', 1250),
-(DEFAULT, '+5', '1iPywpXNMISizSnQwHArkWs24mLxWgiRP', 1250),
-(DEFAULT, '0', '1A4KobaGIB8L4flHV3NkNj30wO8pIkvJ8', 1250),
-(DEFAULT, '-2', '1NfAhqO1u0FS4BGOUuATLX9DsFHni_DZw', 1250),
+(DEFAULT, 'original', '1Zw0YoRcOeNcRgs3pP5F_ZBucy-HTFSiY', 1460),
+(DEFAULT, '+5', '1iPywpXNMISizSnQwHArkWs24mLxWgiRP', 1460),
+(DEFAULT, '0', '1A4KobaGIB8L4flHV3NkNj30wO8pIkvJ8', 1460),
+(DEFAULT, '-2', '1NfAhqO1u0FS4BGOUuATLX9DsFHni_DZw', 1460),
 -- Сектор Газа - 30 лет
-(DEFAULT, 'original', '1wIDn6ec4OlJ_D1er16Qf2Sk_lPLGsOdb', 1260),
-(DEFAULT, '0', '1jHSNKYNF_TbBwGtYDNpwUbWhuqwtmn94', 1260),
-(DEFAULT, '-1', '1Q3Wt0wmsiNO0ICcIKAa9SK3pQMEe4rCb', 1260),
-(DEFAULT, '-2', '1EV6mNddZ2nZeJnZEhzmPtIURjPDDIEnt', 1260),
+(DEFAULT, 'original', '1wIDn6ec4OlJ_D1er16Qf2Sk_lPLGsOdb', 1470),
+(DEFAULT, '0', '1jHSNKYNF_TbBwGtYDNpwUbWhuqwtmn94', 1470),
+(DEFAULT, '-1', '1Q3Wt0wmsiNO0ICcIKAa9SK3pQMEe4rCb', 1470),
+(DEFAULT, '-2', '1EV6mNddZ2nZeJnZEhzmPtIURjPDDIEnt', 1470),
 -- Сектор Газа - Демобилизация
 (DEFAULT, 'original', '1AOgo6z5PacmGOR_cEVkHImkrNHTP6uUf', 1490),
 (DEFAULT, '0', '1ClW4nvRODv7ved3D_RCfFkAphclT9z3l', 1490),

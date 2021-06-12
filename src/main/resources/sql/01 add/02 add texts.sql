@@ -223,9 +223,9 @@ VALUES
 (DEFAULT, '16zNVtGePNVZzwwA0tAncJcmZdFP7HPzJ', 1220),
 -- Наутилус Помпилиус - Я хочу быть с тобой
 -- Порнофильмы - Я так соскучился
-(DEFAULT, '1lL6BOSpselagLAFSTzCk4vLrVsfRAMBo', 1250),
+(DEFAULT, '1lL6BOSpselagLAFSTzCk4vLrVsfRAMBo', 1460),
 -- Сектор Газа - 30 лет
-(DEFAULT, '1VH1TAITlCzMJ5kYZXR8wfvEQ-0SmH5kK', 1260),
+(DEFAULT, '1VH1TAITlCzMJ5kYZXR8wfvEQ-0SmH5kK', 1470),
 -- Сектор Газа - Демобилизация
 (DEFAULT, '1YibK7hLxoRIZaFFBHWGL8XgmTFq00V4o', 1490),
 -- Сектор Газа - Лирика
