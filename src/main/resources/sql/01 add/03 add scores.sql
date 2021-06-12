@@ -760,15 +760,6 @@ VALUES
 (DEFAULT, 'Shaker', '1wqTACchYHajuJCWpVpqvjosln1AqpFiu', 1330),
 (DEFAULT, 'Tambourine', '1VUXWL3mKwlAn_9-PkDSNpoWjnCZtCU0X', 1330),
 (DEFAULT, 'Keyboard', '1dBpJiG_i1_PbB325lTD65YGrUDAWRCB7', 1330),
--- Синяя птица - Там, где клён шумит
-(DEFAULT, 'Full Score', '1DlBQ_uyczivHw4acT1r-QHi5N-9ahjnL', 1340),
-(DEFAULT, 'Voice 1, Voice 2.3', '1q9wYCmt18f_AWVQGcJcQzdJ1SRQY-2Qt', 1340),
-(DEFAULT, 'Voice 1', '1IbFXZBfW0NTRxbUSb51vykMGpjS70IXu', 1340),
-(DEFAULT, 'Voice 2.3', '1laKn7tT2slH7JLL8fg-xEhz8pkpA6JnD', 1340),
-(DEFAULT, 'Electric Guitar', '1B855tEqYeLDiXTOM7cYhrVzkSCN1a5JE', 1340),
-(DEFAULT, 'Bass Guitar', '1nY-q0y_cVX-nLgl0NlIbCqqBWWakbU5Z', 1340),
-(DEFAULT, 'Drum Set', '1K9iM-eatwv5AMLxT_sMl4G1p_jHOlxl4', 1340),
-(DEFAULT, 'Piano', '1pjjnaxWpufB1fcQ8ju6qZ58x3q002pIn', 1340),
 -- Слот - Круги на воде
 (DEFAULT, 'Full Score', '1-VBCNmrDg6_kCJ_t-AJ0m76n-kC4HtER', 1350),
 (DEFAULT, 'Voice 1, Voice 2', '1UDV8oynW89URXSPy3-rKi_rXvONpzwhM', 1350),
@@ -848,6 +839,15 @@ VALUES
 (DEFAULT, 'Electric Guitar 2', '1F9b_ZDCSfnxqs5bf467cV2CGC-xpRBal', 1430),
 (DEFAULT, 'Bass Guitar', '1rBDny1h3t4bYiWZ6tAkxuB0r802AJFML', 1430),
 (DEFAULT, 'Drum Set', '1Tyh-Ek-liKgLpG4jny8Uy4thaphCwAao', 1430),
+-- Синяя птица - Там, где клён шумит
+(DEFAULT, 'Full Score', '1DlBQ_uyczivHw4acT1r-QHi5N-9ahjnL', 1850),
+(DEFAULT, 'Voice 1, Voice 2.3', '1q9wYCmt18f_AWVQGcJcQzdJ1SRQY-2Qt', 1850),
+(DEFAULT, 'Voice 1', '1IbFXZBfW0NTRxbUSb51vykMGpjS70IXu', 1850),
+(DEFAULT, 'Voice 2.3', '1laKn7tT2slH7JLL8fg-xEhz8pkpA6JnD', 1850),
+(DEFAULT, 'Electric Guitar', '1B855tEqYeLDiXTOM7cYhrVzkSCN1a5JE', 1850),
+(DEFAULT, 'Bass Guitar', '1nY-q0y_cVX-nLgl0NlIbCqqBWWakbU5Z', 1850),
+(DEFAULT, 'Drum Set', '1K9iM-eatwv5AMLxT_sMl4G1p_jHOlxl4', 1850),
+(DEFAULT, 'Piano', '1pjjnaxWpufB1fcQ8ju6qZ58x3q002pIn', 1850),
 -- Михаил Круг - Владимирский централ
 (DEFAULT, 'Full Score', '1uh6c08RXaUL179UUn2_F1r-VBTJIIzYN', 1880),
 (DEFAULT, 'Voice 1, Voice 2, Voice 3', '1r2wRZiid1N6mFLD_y-3_-Qe7ILCapDA9', 1880),

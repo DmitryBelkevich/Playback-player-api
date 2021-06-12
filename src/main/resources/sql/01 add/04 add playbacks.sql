@@ -325,10 +325,6 @@ VALUES
 -- Сергей Тихановcкий & Kosmas - Стены рухнут
 (DEFAULT, 'original', '1yQxC65aHyLpe3VFChlru9opT1yZlQTXQ', 1330),
 (DEFAULT, '0', '1E-myP2M7zOkpOgp3mBgY1fA5TZYnHhbJ', 1330),
--- Синяя птица - Там, где клён шумит
-(DEFAULT, 'original', '1_vGMqVWwZvAT7sLJNpITKCBBcaaCkcKY', 1340),
-(DEFAULT, '0', '1wlHDu22rywGc5OvDFwmquO4Q24wooPQo', 1340),
-(DEFAULT, '-2', '1Cja_cMlr2gg-dFAOoEvbx1PPR_WP0JAq', 1340),
 -- Слот - Круги на воде
 (DEFAULT, 'original', '1YlSgh1QzHl7t272sqgZIZogWzbBhFgyF', 1350),
 (DEFAULT, '+1', '1608Rx2FTKM7Qpi5m1sjqykuBVZ5Vi3vg', 1350),
@@ -355,6 +351,10 @@ VALUES
 -- Чичерина - Ту-лу-ла
 (DEFAULT, 'original', '1zi9vRYg4WKaaRa54Svx6iJxDLF_6bCGb', 1430),
 (DEFAULT, '0', '1F_atD-LA7Z2feN19bmFUhrRrY-UYxMcB', 1430),
+-- Синяя птица - Там, где клён шумит
+(DEFAULT, 'original', '1_vGMqVWwZvAT7sLJNpITKCBBcaaCkcKY', 1850),
+(DEFAULT, '0', '1wlHDu22rywGc5OvDFwmquO4Q24wooPQo', 1850),
+(DEFAULT, '-2', '1Cja_cMlr2gg-dFAOoEvbx1PPR_WP0JAq', 1850),
 -- Михаил Круг - Владимирский централ
 (DEFAULT, 'original', '1HslSFP_52ExO-RQviYAI4RAz_6EpMjrU', 1880),
 (DEFAULT, '0', '1iBb-DCYBQoY4V_M26nA3j-ttMp8luCrA', 1880),

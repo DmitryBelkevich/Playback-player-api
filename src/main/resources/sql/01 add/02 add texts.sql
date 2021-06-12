@@ -239,8 +239,6 @@ VALUES
 (DEFAULT, '1BEVEH3tLqiBfc69HNHKrUF3WlwaqEvW0', 1240),
 -- Ненси - Чистый лист
 (DEFAULT, '1XDMKvweEBggsTkVWAI607DzFZvASw0gP', 1245),
--- Песняры - Белоруссия
-(DEFAULT, '1XQyMxTW-rgAPJtkpjTL8dNqDswETt796', 1247),
 -- Порнофильмы - Я так соскучился
 (DEFAULT, '1lL6BOSpselagLAFSTzCk4vLrVsfRAMBo', 1250),
 -- Сектор Газа - 30 лет
@@ -257,8 +255,6 @@ VALUES
 -- (DEFAULT, '', 1320),
 -- Сергей Тихановcкий & Kosmas - Стены рухнут
 -- (DEFAULT, '', 1330),
--- Синяя птица - Там, где клён шумит
-(DEFAULT, '1jU1OELMO1mB8-e40pxr9ibZ8DdPXGQIK', 1340),
 -- Сладкий сон - На белом покрывале января
 (DEFAULT, '1jCPrNwLhoo6PnG-hJaiO6gw_DZAuLKzD', 1345),
 -- Слот - Круги на воде
@@ -275,14 +271,18 @@ VALUES
 (DEFAULT, '1N1PvlAR-rBxVjmIza6ovDAUl9fsvKE9Z', 1400),
 -- Танцы Минус - Половинка
 (DEFAULT, '1E3piSXMJf4yDmDvCwpp15FUJFl17OVm4', 1410),
--- Татьяна Дасковская - Прекрасное далёко
-(DEFAULT, '163HW7ZpJBV5e54feoiwlDbQf4r1nptFz', 1420),
 -- Форум - Белая ночь
 (DEFAULT, '17zGCNTb9n00-nbaevsPSRnxTxkfhsh9_', 1425),
 -- Чичерина - Ту-лу-ла
 (DEFAULT, '1at3lbPUaaTtdt092O73_NhKK_5fUGHDv', 1430),
+-- Песняры - Белоруссия
+(DEFAULT, '1XQyMxTW-rgAPJtkpjTL8dNqDswETt796', 1830),
+-- Синяя птица - Там, где клён шумит
+(DEFAULT, '1jU1OELMO1mB8-e40pxr9ibZ8DdPXGQIK', 1850),
+-- Татьяна Дасковская - Прекрасное далёко
+(DEFAULT, '163HW7ZpJBV5e54feoiwlDbQf4r1nptFz', 1860),
 -- Ярослав Евдокимов - Фантазёр
-(DEFAULT, '1aVMCjQqYjtUh4lka4jdx-BNudi3LBRIR', 1440),
+(DEFAULT, '1aVMCjQqYjtUh4lka4jdx-BNudi3LBRIR', 1870),
 -- Михаил Круг - Владимирский централ
 (DEFAULT, '1hjEcHC-tYz1SkhoGzVn0xhnr7W_1GDM_', 1880),
 -- Михаил Круг - Кольщик
