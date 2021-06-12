@@ -245,8 +245,6 @@ VALUES
 -- (DEFAULT, '', 1320),
 -- Сергей Тихановcкий & Kosmas - Стены рухнут
 -- (DEFAULT, '', 1330),
--- Сладкий сон - На белом покрывале января
-(DEFAULT, '1jCPrNwLhoo6PnG-hJaiO6gw_DZAuLKzD', 1345),
 -- Слот - Круги на воде
 (DEFAULT, '1HeTPP8lo7ym9mSEEDoxS6PzipOlxspEA', 1350),
 -- Сплин - Выхода нет
@@ -261,12 +259,15 @@ VALUES
 (DEFAULT, '1N1PvlAR-rBxVjmIza6ovDAUl9fsvKE9Z', 1400),
 -- Танцы Минус - Половинка
 (DEFAULT, '1E3piSXMJf4yDmDvCwpp15FUJFl17OVm4', 1410),
--- Форум - Белая ночь
-(DEFAULT, '17zGCNTb9n00-nbaevsPSRnxTxkfhsh9_', 1425),
 -- Чичерина - Ту-лу-ла
 (DEFAULT, '1at3lbPUaaTtdt092O73_NhKK_5fUGHDv', 1430),
 
 -- Pop, Dance
+
+-- Сладкий сон - На белом покрывале января
+(DEFAULT, '1jCPrNwLhoo6PnG-hJaiO6gw_DZAuLKzD', 1740),
+-- Форум - Белая ночь
+(DEFAULT, '17zGCNTb9n00-nbaevsPSRnxTxkfhsh9_', 1745),
 
 -- Estrada
 
