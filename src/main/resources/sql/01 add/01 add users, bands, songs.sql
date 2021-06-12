@@ -22,63 +22,60 @@ VALUES (1, 'Hard'),
 
 INSERT INTO bands (id, title)
 VALUES
-    -- foreign
-    (5, 'Bon Jovi'),-- Rock, Punk
-    (15, 'Joan Osborne'),-- Rock, Punk
-    (25, 'Linkin Park'),-- Rock, Punk
-    (30, 'Metallica'),-- Metal
-    (35, 'Nirvana'),-- Rock, Punk
-    (37, 'Placebo'),-- Rock, Punk
-    (40, 'Radiohead'),-- Rock, Punk
-    (45, 'Rammstein'),-- Metal
-    (50, 'Reamonn'),-- Rock, Punk
-    (55, 'System of a Down'),-- Metal
-    (60, 'The Beatles'),-- Rock, Punk
-    (65, 'The Cranberries'),-- Rock, Punk
-    (70, 'The Offspring'),-- Rock, Punk
-    -- russian
-    (75, 'Animal ДжаZ'),-- Rock, Punk
-    (80, 'BRUTTO'),-- Rock, Punk
-    (82, 'DREZDEN'),-- Rock, Punk
-    (90, 'Lumen'),-- Rock, Punk
-    (95, 'N.R.M.'),-- Rock, Punk
-    (100, 'Агата Кристи'),-- Rock, Punk
-    (105, 'Аквариум'),-- Rock, Punk
-    (107, 'Алексин'),-- Rock, Punk
-    (115, 'Альянс'),-- Rock, Punk
-    (120, 'Ария'),-- Metal
-    (125, 'АукцЫон'),-- Rock, Punk
-    (130, 'Би-2'),-- Rock, Punk
-    (135, 'Валентин Стрыкало'),-- Rock, Punk
-    (137, 'Город 312'),-- Rock, Punk
-    (140, 'Гражданская оборона'),-- Rock, Punk
-    (145, 'ДДТ'),-- Rock, Punk
-    (150, 'Егор и Опизденевшие'),-- Rock, Punk
-    (155, 'Жуки'),-- Rock, Punk
-    (160, 'Звери'),-- Rock, Punk
-    (165, 'Земляне'),-- Rock, Punk
-    (170, 'Земфира'),-- Rock, Punk
-    (175, 'Кино'),-- Rock, Punk
-    (180, 'Кипелов'),-- Metal
-    (185, 'Король и Шут'),-- Rock, Punk
-    (190, 'Ленинград'),-- Rock, Punk
-    (195, 'Леприконсы'),-- Rock, Punk
-    (205, 'Ляпис Трубецкой'),-- Rock, Punk
-    (225, 'Мумий Тролль'),-- Rock, Punk
-    (230, 'Наутилус Помпилиус'),-- Rock, Punk
-    (240, 'Порнофильмы'),-- Rock, Punk
-    (245, 'Сектор Газа'),-- Rock, Punk
-    (250, 'Сергей Тихановcкий & Kosmas'),-- Rock, Punk
-    (260, 'Слот'),-- Metal
-    (263, 'Смысловые Галлюцинации'),-- Rock, Punk
-    (265, 'Сплин'),-- Rock, Punk
-    (275, 'Танцы Минус'),-- Rock, Punk
-    (285, 'Чичерина'),-- Rock, Punk
-    (287, 'Эпидемия'),-- Metal
-
     -- Metal
+    (30, 'Metallica'),
+    (45, 'Rammstein'),
+    (55, 'System of a Down'),
+    (120, 'Ария'),
+    (180, 'Кипелов'),
+    (260, 'Слот'),
+    (287, 'Эпидемия'),
 
     -- Rock, Punk
+    (5, 'Bon Jovi'),
+    (15, 'Joan Osborne'),
+    (25, 'Linkin Park'),
+    (35, 'Nirvana'),
+    (37, 'Placebo'),
+    (40, 'Radiohead'),
+    (50, 'Reamonn'),
+    (60, 'The Beatles'),
+    (65, 'The Cranberries'),
+    (70, 'The Offspring'),
+    (75, 'Animal ДжаZ'),
+    (80, 'BRUTTO'),
+    (82, 'DREZDEN'),
+    (90, 'Lumen'),
+    (95, 'N.R.M.'),
+    (100, 'Агата Кристи'),
+    (105, 'Аквариум'),
+    (107, 'Алексин'),
+    (115, 'Альянс'),
+    (125, 'АукцЫон'),
+    (130, 'Би-2'),
+    (135, 'Валентин Стрыкало'),
+    (137, 'Город 312'),
+    (140, 'Гражданская оборона'),
+    (145, 'ДДТ'),
+    (150, 'Егор и Опизденевшие'),
+    (155, 'Жуки'),
+    (160, 'Звери'),
+    (165, 'Земляне'),
+    (170, 'Земфира'),
+    (175, 'Кино'),
+    (185, 'Король и Шут'),
+    (190, 'Ленинград'),
+    (195, 'Леприконсы'),
+    (205, 'Ляпис Трубецкой'),
+    (225, 'Мумий Тролль'),
+    (230, 'Наутилус Помпилиус'),
+    (240, 'Порнофильмы'),
+    (245, 'Сектор Газа'),
+    (250, 'Сергей Тихановcкий & Kosmas'),
+    (263, 'Смысловые Галлюцинации'),
+    (265, 'Сплин'),
+    (275, 'Танцы Минус'),
+    (285, 'Чичерина'),
 
     -- Pop, Dance
     (290, 'Alice Merton'),
