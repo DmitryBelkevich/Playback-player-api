@@ -251,7 +251,7 @@ VALUES
 -- Танцы Минус - Половинка
 (DEFAULT, '1E3piSXMJf4yDmDvCwpp15FUJFl17OVm4', 1410),
 -- Чичерина - Ту-лу-ла
-(DEFAULT, '1at3lbPUaaTtdt092O73_NhKK_5fUGHDv', 1430),
+(DEFAULT, '1at3lbPUaaTtdt092O73_NhKK_5fUGHDv', 1650),
 
 -- Pop, Dance
 
