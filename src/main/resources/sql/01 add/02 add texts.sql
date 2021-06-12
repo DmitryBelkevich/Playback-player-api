@@ -1,29 +1,17 @@
 INSERT INTO texts (id, url, song_id)
 VALUES
--- Bon Jovi - It's My Life
--- (DEFAULT, '', 10),
--- Joan Osborne - One of Us
-(DEFAULT, '10lA-I8AoECCIA0rMZAxowMdgnEAqtIk-', 30),
--- Linkin Park - Numb
--- (DEFAULT, '', 50),
+-- Metal
+
 -- Metallica - No Leaf Clover
 -- (DEFAULT, '', 60),
 -- Metallica - Nothing Else Matters
 (DEFAULT, '1CI5x5mTeKZSMZA1eTtgXoiofChtVsqf2', 70),
 -- Metallica - The Unforgiven
 -- (DEFAULT, '', 80),
--- Nirvana - Smells Like Teen Spirit
-(DEFAULT, '1VRNtP7xjVVQZStlmwEOeQ1lk5e_NrOGj', 90),
--- Radiohead - Creep
-(DEFAULT, '1meCuIBWnawQwSBAk79cgnTxF9VvDqwsT', 100),
--- Radiohead - Karma Police
--- (DEFAULT, '', 110),
 -- Rammstein - Frühling in Paris
 -- (DEFAULT, '', 120),
 -- Rammstein - Mutter
 -- (DEFAULT, '', 130),
--- Reamonn - Supergirl
--- (DEFAULT, '', 140),
 -- System of a Down - Aerials
 (DEFAULT, '1ATCfsprwO6poFwFtURq49JXPPRen5V_8', 150),
 -- System of a Down - Chop Suey!
@@ -32,6 +20,35 @@ VALUES
 (DEFAULT, '17QY2dfSxTkUwyGcL9Ovrtqtsh7vrOay2', 170),
 -- System of a Down - Toxicity
 (DEFAULT, '1Vr2z7DHr02lC4lgD7lXaUA-M_wvBLsQz', 180),
+-- Ария - Беспечный ангел
+(DEFAULT, '1dEy512lg4zWJM4gXE9JwNBjhSNzXTUS_', 350),
+-- Ария - Закат
+-- (DEFAULT, '', 360),
+-- Ария - Осколок льда
+-- (DEFAULT, '', 370),
+-- Ария - Штиль
+(DEFAULT, '18lgs_Oj5jJpO0oZZuNFQhB62GyWNviBJ', 380),
+-- Кипелов - Я свободен!
+-- (DEFAULT, '', 780),
+-- Слот - Круги на воде
+(DEFAULT, '1HeTPP8lo7ym9mSEEDoxS6PzipOlxspEA', 1350),
+
+-- Rock, Punk
+
+-- Bon Jovi - It's My Life
+-- (DEFAULT, '', 10),
+-- Joan Osborne - One of Us
+(DEFAULT, '10lA-I8AoECCIA0rMZAxowMdgnEAqtIk-', 30),
+-- Linkin Park - Numb
+-- (DEFAULT, '', 50),
+-- Nirvana - Smells Like Teen Spirit
+(DEFAULT, '1VRNtP7xjVVQZStlmwEOeQ1lk5e_NrOGj', 90),
+-- Radiohead - Creep
+(DEFAULT, '1meCuIBWnawQwSBAk79cgnTxF9VvDqwsT', 100),
+-- Radiohead - Karma Police
+-- (DEFAULT, '', 110),
+-- Reamonn - Supergirl
+-- (DEFAULT, '', 140),
 -- The Beatles - Yesterday
 (DEFAULT, '1fZssjEMEoHsa1HD6Vh3f5HExWvzVY5b5', 190),
 -- The Cranberries - Zombie
@@ -60,14 +77,6 @@ VALUES
 (DEFAULT, '1vayh9CHsO46ZU3pSGBLVEA9MLP9axNxK', 325),
 -- Альянс - На заре
 (DEFAULT, '1qsxOUZ-vt8B-6oJhbfbg-EezKGF4lczq', 340),
--- Ария - Беспечный ангел
-(DEFAULT, '1dEy512lg4zWJM4gXE9JwNBjhSNzXTUS_', 350),
--- Ария - Закат
--- (DEFAULT, '', 360),
--- Ария - Осколок льда
--- (DEFAULT, '', 370),
--- Ария - Штиль
-(DEFAULT, '18lgs_Oj5jJpO0oZZuNFQhB62GyWNviBJ', 380),
 -- АукцЫон - Дорога
 -- (DEFAULT, '', 390),
 -- Би-2 - Варвара
@@ -137,8 +146,6 @@ VALUES
 (DEFAULT, '13NJw888shKdCpCETked68ufggVxyF6Vq', 760),
 -- Кино - Хочу перемен!
 -- (DEFAULT, '', 770),
--- Кипелов - Я свободен!
--- (DEFAULT, '', 780),
 -- Король и Шут - Воспоминание о былой любви
 (DEFAULT, '1jsXRPufNyzu45Rx3y3MBBFka1LFQ0aIR', 790),
 -- Король и Шут - Два вора и монета
@@ -231,8 +238,6 @@ VALUES
 -- (DEFAULT, '', 1320),
 -- Сергей Тихановcкий & Kosmas - Стены рухнут
 -- (DEFAULT, '', 1330),
--- Слот - Круги на воде
-(DEFAULT, '1HeTPP8lo7ym9mSEEDoxS6PzipOlxspEA', 1350),
 -- Сплин - Выхода нет
 (DEFAULT, '1PNCEsQaREvDUMvniS_yyAAJ8qd1uRH6N', 1360),
 -- Сплин - Линия жизни
@@ -247,10 +252,6 @@ VALUES
 (DEFAULT, '1E3piSXMJf4yDmDvCwpp15FUJFl17OVm4', 1410),
 -- Чичерина - Ту-лу-ла
 (DEFAULT, '1at3lbPUaaTtdt092O73_NhKK_5fUGHDv', 1430),
-
--- Metal
-
--- Rock, Punk
 
 -- Pop, Dance
 

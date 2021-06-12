@@ -2,10 +2,8 @@
 
 INSERT INTO playbacks (id, title, url, song_id)
 VALUES
--- Bon Jovi - It's My Life
-(DEFAULT, 'original', '1ZhV4e8LrelTti44CgBU3J0QcfP72izZ6', 10),
--- Joan Osborne - One of Us
-(DEFAULT, 'original', '1BvaaGEfJKr8jY1CIds1CV0rYyIXf6NtT', 30),
+-- Metal
+
 -- Metallica - No Leaf Clover
 (DEFAULT, '-1', '1i08sJpoHA8QAyPLth8Eaz5k65hNvu67O', 60),
 -- Metallica - Nothing Else Matters
@@ -14,23 +12,12 @@ VALUES
 (DEFAULT, '-2', '1QHfy1QncqXr6FZBRKOZyZ8PrUfzs4WjU', 70),
 -- Metallica - The Unforgiven
 (DEFAULT, '0', '16gWOZ3tC1uUoAUlwXnwxXpYqlMUdEska', 80),
--- Nirvana - Smells Like Teen Spirit
-(DEFAULT, 'original', '1rHdXtVO1bl8h0q95KHJX79ZfIycTw6NA', 90),
-(DEFAULT, '0', '1xXdCRRkrm2aPRK4PSfxGWkZenbWkh_cB', 90),
-(DEFAULT, '-2', '1kM7bWoYHoHk8ABEs-LCL8FrorpDxnHAh', 90),
--- Radiohead - Creep
-(DEFAULT, 'original', '1OLaqXsbL-nyeK0s504AZQFeDlRYCG71J', 100),
-(DEFAULT, '0', '1W_9NUHGjCcTmolR1ICFLSdj203PEFiWm', 100),
-(DEFAULT, '-2', '1OUj_SKgRBx49aFThmydbDc8fUa2TGg-m', 100),
--- Radiohead - Karma Police
-(DEFAULT, 'original', '1lXAKENCZ8QSPlPWl_6CYPZwFp7oiZqg8', 110),
 -- Rammstein - Frühling in Paris
 (DEFAULT, 'original', '1F5x2v6vP8QezTToi_HgKScbcb9MFxyHI', 120),
 (DEFAULT, '0', '1KWet8N_7qKMDeeu3G0cJ7YhjrYYVu2fB', 120),
 -- Rammstein - Mutter
 (DEFAULT, 'original', '1NRbqmyIe2BZDPloZXIU4kAPPvq7J76U1', 130),
 (DEFAULT, '0', '10YkcIZUL6a0N5TH5wZz_Y9zrWif8uHP2', 130),
--- Reamonn - Supergirl
 -- System of a Down - Aerials
 (DEFAULT, 'original', '1DWfMgW6cS6A78Dg8kl5mojszgMjLSklc', 150),
 (DEFAULT, '0', '1WQ_u0kNMXSbeWps3D8O2lvjzj1S-vUct', 150),
@@ -45,6 +32,40 @@ VALUES
 -- System of a Down - Toxicity
 (DEFAULT, 'original', '1KUHhVMY1YPFgKgjhBLKJXl7b5vn7_P1_', 180),
 (DEFAULT, '0', '1dJ8rhhJVd6wU4mrTiy48odM6JYnFuXuB', 180),
+-- Ария - Беспечный ангел
+(DEFAULT, '0', '15CCUu_Zg9IvQ2qTTlqfSg14OkK_qLrn1', 350),
+-- Ария - Закат
+(DEFAULT, '0', '15Fd6JhPlD94HgIzy1N2lvFo12o7a6WuM', 360),
+-- Ария - Осколок льда
+(DEFAULT, '0', '15MxbTaO4O9_6k7QjgUEcBSzu1uvoLXo4', 370),
+-- Ария - Штиль
+(DEFAULT, 'original', '1nzb51T6n7i0Qb0ci08TthKZRd-26Qs-X', 380),
+(DEFAULT, '0', '15N4Wlmle5IRLFC47-4ZMOgncQ7gCm3wO', 380),
+-- Кипелов - Я свободен!
+(DEFAULT, '0', '1-nGYWtzW5tFXT9W9ca-5V5DEmVPQhux9', 780),
+-- Слот - Круги на воде
+(DEFAULT, 'original', '1YlSgh1QzHl7t272sqgZIZogWzbBhFgyF', 1350),
+(DEFAULT, '+1', '1608Rx2FTKM7Qpi5m1sjqykuBVZ5Vi3vg', 1350),
+(DEFAULT, '0', '1UIBGxHCpQneDtNd5yXofr3PdGGUXIzun', 1350),
+(DEFAULT, '-2', '1jN7UFNqST3wwuzNOuk5ojOzZ_yYOBkV0', 1350),
+
+-- Rock, Punk
+
+-- Bon Jovi - It's My Life
+(DEFAULT, 'original', '1ZhV4e8LrelTti44CgBU3J0QcfP72izZ6', 10),
+-- Joan Osborne - One of Us
+(DEFAULT, 'original', '1BvaaGEfJKr8jY1CIds1CV0rYyIXf6NtT', 30),
+-- Nirvana - Smells Like Teen Spirit
+(DEFAULT, 'original', '1rHdXtVO1bl8h0q95KHJX79ZfIycTw6NA', 90),
+(DEFAULT, '0', '1xXdCRRkrm2aPRK4PSfxGWkZenbWkh_cB', 90),
+(DEFAULT, '-2', '1kM7bWoYHoHk8ABEs-LCL8FrorpDxnHAh', 90),
+-- Radiohead - Creep
+(DEFAULT, 'original', '1OLaqXsbL-nyeK0s504AZQFeDlRYCG71J', 100),
+(DEFAULT, '0', '1W_9NUHGjCcTmolR1ICFLSdj203PEFiWm', 100),
+(DEFAULT, '-2', '1OUj_SKgRBx49aFThmydbDc8fUa2TGg-m', 100),
+-- Radiohead - Karma Police
+(DEFAULT, 'original', '1lXAKENCZ8QSPlPWl_6CYPZwFp7oiZqg8', 110),
+-- Reamonn - Supergirl
 -- The Beatles - Yesterday
 (DEFAULT, 'original', '1ee2g11nNUiCMVF53zHSAXqnYII8ZdZvV', 190),
 (DEFAULT, '0', '1Vk_yY_pI03sMfM4y9zr27zQCBYbbIa8n', 190),
@@ -85,15 +106,6 @@ VALUES
 (DEFAULT, '0', '1ukd4mUa6X0r5jSkvdfw-6cSGIAQtDdoq', 340),
 (DEFAULT, '-2', '18ms3gtRdtk_gp3SJHzj1H8C4p0fqrh5e', 340),
 (DEFAULT, '-3', '1Tt3GKqXIGgqDCfD6lyElUnR6Px7K4v5l', 340),
--- Ария - Беспечный ангел
-(DEFAULT, '0', '15CCUu_Zg9IvQ2qTTlqfSg14OkK_qLrn1', 350),
--- Ария - Закат
-(DEFAULT, '0', '15Fd6JhPlD94HgIzy1N2lvFo12o7a6WuM', 360),
--- Ария - Осколок льда
-(DEFAULT, '0', '15MxbTaO4O9_6k7QjgUEcBSzu1uvoLXo4', 370),
--- Ария - Штиль
-(DEFAULT, 'original', '1nzb51T6n7i0Qb0ci08TthKZRd-26Qs-X', 380),
-(DEFAULT, '0', '15N4Wlmle5IRLFC47-4ZMOgncQ7gCm3wO', 380),
 -- АукцЫон - Дорога
 (DEFAULT, '0', '1xl9crJCQ64aaP5sEFrKrX25LdvCRX231', 390),
 -- Би-2 - Варвара
@@ -180,8 +192,6 @@ VALUES
 (DEFAULT, '0', '1hDYC0YLB7r1Q2xjl8pnuY4oZHnz7y3Gq', 760),
 -- Кино - Хочу перемен!
 (DEFAULT, '0', '1QI9KpuaKq8UNgue1M4eb1wdRNq3TC6tX', 770),
--- Кипелов - Я свободен!
-(DEFAULT, '0', '1-nGYWtzW5tFXT9W9ca-5V5DEmVPQhux9', 780),
 -- Король и Шут - Воспоминание о былой любви
 (DEFAULT, 'original', '1QxAgG3f1KArNxnkEmdGTUQSvKZYv9PwF', 790),
 (DEFAULT, '0', '1oJZDM10h_rIGFMdjV6vHg0Herrsb1a6I', 790),
@@ -304,11 +314,6 @@ VALUES
 -- Сергей Тихановcкий & Kosmas - Стены рухнут
 (DEFAULT, 'original', '1yQxC65aHyLpe3VFChlru9opT1yZlQTXQ', 1330),
 (DEFAULT, '0', '1E-myP2M7zOkpOgp3mBgY1fA5TZYnHhbJ', 1330),
--- Слот - Круги на воде
-(DEFAULT, 'original', '1YlSgh1QzHl7t272sqgZIZogWzbBhFgyF', 1350),
-(DEFAULT, '+1', '1608Rx2FTKM7Qpi5m1sjqykuBVZ5Vi3vg', 1350),
-(DEFAULT, '0', '1UIBGxHCpQneDtNd5yXofr3PdGGUXIzun', 1350),
-(DEFAULT, '-2', '1jN7UFNqST3wwuzNOuk5ojOzZ_yYOBkV0', 1350),
 -- Сплин - Выхода нет
 (DEFAULT, 'original', '1TFfR8esb__0DnsP8SMc02xvcfOKSGN3p', 1360),
 (DEFAULT, '0', '1agtSI6Guw2pyf0JF4BQ1OKpBAbrpsvPX', 1360),
@@ -328,10 +333,6 @@ VALUES
 -- Чичерина - Ту-лу-ла
 (DEFAULT, 'original', '1zi9vRYg4WKaaRa54Svx6iJxDLF_6bCGb', 1430),
 (DEFAULT, '0', '1F_atD-LA7Z2feN19bmFUhrRrY-UYxMcB', 1430),
-
--- Metal
-
--- Rock, Punk
 
 -- Pop, Dance
 

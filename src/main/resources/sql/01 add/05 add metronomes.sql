@@ -2,28 +2,18 @@
 
 INSERT INTO metronomes (id, title, numerator, denominator, tempo, song_id)
 VALUES
--- Bon Jovi - It's My Life
-(DEFAULT, null, 4, 4, 120, 10),
--- Joan Osborne - One of Us
-(DEFAULT, null, 2, 4, 88, 30),
--- Linkin Park - Numb
-(DEFAULT, null, 4, 4, 110, 50),
+-- Metal
+
 -- Metallica - No Leaf Clover
 (DEFAULT, null, 2, 4, 75, 60),
 -- Metallica - Nothing Else Matters
 (DEFAULT, null, 6, 8, 47, 70),
 -- Metallica - The Unforgiven
 (DEFAULT, null, 2, 4, 70, 80),
--- Nirvana - Smells Like Teen Spirit
-(DEFAULT, null, 2, 4, 117, 90),
--- Radiohead - Creep
-(DEFAULT, null, 4, 4, 95, 100),
--- Radiohead - Karma Police
 -- Rammstein - Frühling in Paris
 (DEFAULT, null, 4, 4, 128, 120),
 -- Rammstein - Mutter
 (DEFAULT, null, 4, 4, 58, 130),
--- Reamonn - Supergirl
 -- System of a Down - Aerials
 (DEFAULT, null, 4, 4, 80, 150),
 -- System of a Down - Chop Suey!
@@ -32,6 +22,33 @@ VALUES
 (DEFAULT, null, 6, 8, 75, 170),
 -- System of a Down - Toxicity
 (DEFAULT, null, 6, 8, 80, 180),
+-- Ария - Беспечный ангел
+(DEFAULT, null, 4, 4, 130, 350),
+-- Ария - Закат
+(DEFAULT, null, 4, 4, 130, 360),
+-- Ария - Осколок льда
+(DEFAULT, null, 4, 4, 71, 370),
+-- Ария - Штиль
+(DEFAULT, null, 12, 8, 68, 380),
+-- Кипелов - Я свободен!
+(DEFAULT, null, 4, 4, 70, 780),
+-- Слот - Круги на воде
+(DEFAULT, null, 4, 4, 71, 1350),
+
+-- Rock, Punk
+
+-- Bon Jovi - It's My Life
+(DEFAULT, null, 4, 4, 120, 10),
+-- Joan Osborne - One of Us
+(DEFAULT, null, 2, 4, 88, 30),
+-- Linkin Park - Numb
+(DEFAULT, null, 4, 4, 110, 50),
+-- Nirvana - Smells Like Teen Spirit
+(DEFAULT, null, 2, 4, 117, 90),
+-- Radiohead - Creep
+(DEFAULT, null, 4, 4, 95, 100),
+-- Radiohead - Karma Police
+-- Reamonn - Supergirl
 -- The Beatles - Yesterday
 (DEFAULT, null, 4, 4, 95, 190),
 -- The Cranberries - Zombie
@@ -58,14 +75,6 @@ VALUES
 (DEFAULT, null, 2, 4, 65, 320),
 -- Альянс - На заре
 (DEFAULT, null, 4, 4, 127, 340),
--- Ария - Беспечный ангел
-(DEFAULT, null, 4, 4, 130, 350),
--- Ария - Закат
-(DEFAULT, null, 4, 4, 130, 360),
--- Ария - Осколок льда
-(DEFAULT, null, 4, 4, 71, 370),
--- Ария - Штиль
-(DEFAULT, null, 12, 8, 68, 380),
 -- АукцЫон - Дорога
 (DEFAULT, null, 3, 4, 130, 390),
 -- Би-2 - Варвара
@@ -134,8 +143,6 @@ VALUES
 (DEFAULT, null, 2, 4, 87, 760),
 -- Кино - Хочу перемен!
 (DEFAULT, null, 4, 4, 130, 770),
--- Кипелов - Я свободен!
-(DEFAULT, null, 4, 4, 70, 780),
 -- Король и Шут - Воспоминание о былой любви
 (DEFAULT, null, 4, 4, 115, 790),
 -- Король и Шут - Два вора и монета
@@ -229,8 +236,6 @@ VALUES
 (DEFAULT, null, 6, 8, 69, 1320),
 -- Сергей Тихановcкий & Kosmas - Стены рухнут
 (DEFAULT, null, 6, 8, 69, 1330),
--- Слот - Круги на воде
-(DEFAULT, null, 4, 4, 71, 1350),
 -- Сплин - Выхода нет
 (DEFAULT, null, 4, 4, 86, 1360),
 -- Сплин - Линия жизни
@@ -245,10 +250,6 @@ VALUES
 (DEFAULT, null, 2, 4, 87, 1410),
 -- Чичерина - Ту-лу-ла
 (DEFAULT, null, 2, 4, 130, 1430),
-
--- Metal
-
--- Rock, Punk
 
 -- Pop, Dance
 

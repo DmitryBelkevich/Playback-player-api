@@ -2,9 +2,8 @@
 
 INSERT INTO scores (id, title, url, song_id)
 VALUES
--- Joan Osborne - One of Us
--- Linkin Park - Numb
-(DEFAULT, 'Electric Guitar 1, Electric Guitar 2', '1Wr-AVEMZTsA3UJjNakZm2ILS4o67creu', 50),
+-- Metal
+
 -- Metallica - Nothing Else Matters
 (DEFAULT, 'Full Score', '1k4BzIVlqFwtq3U8Q9siaVkqF2EREjLhb', 70),
 (DEFAULT, 'Voice 1, Voice 2, Voice 3', '10ElmX3VxueV3c9kDX1Chr1KClN0Updd6', 70),
@@ -21,24 +20,6 @@ VALUES
 (DEFAULT, 'Drum Set, Tambourine', '1WsbpdiBgGa75db1c7wO4xd03Hb9xe0UM', 70),
 (DEFAULT, 'Drum Set', '1MZ5fugr_OO2oP5hs1BUaELZhP-hIIYgP', 70),
 (DEFAULT, 'Tambourine', '1t0fjtCpmLCq_sjS9Pv0AJIvDN9tl0LH4', 70),
--- Nirvana - Smells Like Teen Spirit
-(DEFAULT, 'Full Score', '1VEkKrcNV5ml3q2A3Lb4bgSNlDcyWxp59', 90),
-(DEFAULT, 'Voice', '1SpOdr38l0AqSqXTiA5e8pQxH5puAntEr', 90),
-(DEFAULT, 'Electric Guitar 1, Electric Guitar 2', '15IB9wQICtwk-wgXKlNMO_h0g5x-sajjC', 90),
-(DEFAULT, 'Electric Guitar 1', '1ya_dBA9bmgOo_Lq-lblxLUmMcS1EBFus', 90),
-(DEFAULT, 'Electric Guitar 2', '13BeSqfsp1-UkMbk-yfmd31NUnpyu6DnT', 90),
-(DEFAULT, 'Bass Guitar', '1KxkRXcsxEVH1_cz9TXuv6tU5yVnbaqUC', 90),
-(DEFAULT, 'Drum Set', '1ODMHRGSVd-P298c2Hme0HO3DuE5ehL6D', 90),
--- Radiohead - Creep
-(DEFAULT, 'Full Score', '11844QanF2TncNvI8OpJCnX0zjHaTw89w', 100),
-(DEFAULT, 'Voice', '1tW9a0NMkMpmEfMABBx1BFZJMJyT5oUz9', 100),
-(DEFAULT, 'Electric Guitar 1, Electric Guitar 2, Electric Guitar 3', '1-6XxyMgBLYWJHAX0LOhtmc8LV8_RSkvZ', 100),
-(DEFAULT, 'Electric Guitar 1', '1mD_UwZHITOUAWQfUhj6sC1gAAcS8_CQt', 100),
-(DEFAULT, 'Electric Guitar 2', '1KX-LN21919RKmUAz5ai9WzzIYYw4RYW-', 100),
-(DEFAULT, 'Electric Guitar 3', '1-OPsSFYm_URwnc0u8nwPbUWmK4uy_WlP', 100),
-(DEFAULT, 'Bass Guitar', '1zihOQgvjW1BDt18hbLLDuadWq58zVCFI', 100),
-(DEFAULT, 'Drum Set', '1NiFaXNBryD-Zl31qmwYs1wqT-AJ__hJm', 100),
-(DEFAULT, 'Piano', '1RlHYLK3GGzF8RWOl2LMOVgpY_VSzqRls', 100),
 -- Rammstein - Frühling in Paris
 (DEFAULT, 'Full Score', '15uf0unM_w4h2IJebOwafIffASeuqN_Gv', 120),
 (DEFAULT, 'Voice', '172DHyakrRnnLm6lw-267eQklWmAVgCCB', 120),
@@ -64,7 +45,6 @@ VALUES
 (DEFAULT, 'Violin II', '1cpU8LV4b_dc8lPRApVLIhHSLCEnLzdbh', 130),
 (DEFAULT, 'Viola', '1TlUnPKJr15-4kdaBp_c4zjXotDbOYn6X', 130),
 (DEFAULT, 'Violoncello', '1hh0ftOmQwuryDKhY1Q2xAnc90IlAFn_4', 130),
--- Reamonn - Supergirl
 -- System of a Down - Aerials
 (DEFAULT, 'Full Score', '1Jjq-i3Llhn0kbZodKuUBqB-bQYBtvb--', 150),
 (DEFAULT, 'Voice 1, Voice 2, Voice 3', '1aMwEowjO4ScIHSx9iO_KT2SqLKIhukBd', 150),
@@ -118,6 +98,44 @@ VALUES
 (DEFAULT, 'Bass Guitar', '1ISP1sxmvdNTZSYqKdKC1U8I-RoISZE76', 180),
 (DEFAULT, 'Drum Set', '12HeDjeaxYTPfYBnVSYIIdfxbsJGLNPU2', 180),
 (DEFAULT, 'Piano', '1F1htEbazbjgES7GSVZAfbaqOrMo2PWtF', 180),
+-- Слот - Круги на воде
+(DEFAULT, 'Full Score', '1-VBCNmrDg6_kCJ_t-AJ0m76n-kC4HtER', 1350),
+(DEFAULT, 'Voice 1, Voice 2', '1UDV8oynW89URXSPy3-rKi_rXvONpzwhM', 1350),
+(DEFAULT, 'Voice 1', '1V7-mMRpMuz0N-SyKPMH0wkH6mkzSefaF', 1350),
+(DEFAULT, 'Voice 2', '1LSyB4oq3h1I6uMK9tPw1AhtcNNVzlY9H', 1350),
+(DEFAULT, 'Acoustic Guitar, Electric Guitar 1, Electric Guitar 2, Electric Guitar 3', '1VyLUfBEU6f8ZsOdYVfISCo99mGrN3sFN', 1350),
+(DEFAULT, 'Acoustic Guitar', '1ac1bHB81BGl8ajYp6RXjvP4ftfcCf3h3', 1350),
+(DEFAULT, 'Electric Guitar 1', '1rKl5qKoWkctHI092xNeUNHRVW12ruAS2', 1350),
+(DEFAULT, 'Electric Guitar 2', '1QcxZrDSB2Q5DuN_TDvfM7dZxh30uLFM9', 1350),
+(DEFAULT, 'Electric Guitar 3', '1jS_ejkBDzlIneI6SImZD1Ns5Nkl5mStq', 1350),
+(DEFAULT, '5-string Bass Guitar', '1AczV33ebgfAwXrwUw90tFZV2KAHNx98V', 1350),
+(DEFAULT, 'Drum Set', '1O71Qv4HxrTq184_dbOdKWW21-APOUwRM', 1350),
+(DEFAULT, 'Keyboard', '1sv3mZSyqhnJVYv2q8tNlC2ZCDdSCnFU1', 1350),
+
+-- Rock, Punk
+
+-- Joan Osborne - One of Us
+-- Linkin Park - Numb
+(DEFAULT, 'Electric Guitar 1, Electric Guitar 2', '1Wr-AVEMZTsA3UJjNakZm2ILS4o67creu', 50),
+-- Nirvana - Smells Like Teen Spirit
+(DEFAULT, 'Full Score', '1VEkKrcNV5ml3q2A3Lb4bgSNlDcyWxp59', 90),
+(DEFAULT, 'Voice', '1SpOdr38l0AqSqXTiA5e8pQxH5puAntEr', 90),
+(DEFAULT, 'Electric Guitar 1, Electric Guitar 2', '15IB9wQICtwk-wgXKlNMO_h0g5x-sajjC', 90),
+(DEFAULT, 'Electric Guitar 1', '1ya_dBA9bmgOo_Lq-lblxLUmMcS1EBFus', 90),
+(DEFAULT, 'Electric Guitar 2', '13BeSqfsp1-UkMbk-yfmd31NUnpyu6DnT', 90),
+(DEFAULT, 'Bass Guitar', '1KxkRXcsxEVH1_cz9TXuv6tU5yVnbaqUC', 90),
+(DEFAULT, 'Drum Set', '1ODMHRGSVd-P298c2Hme0HO3DuE5ehL6D', 90),
+-- Radiohead - Creep
+(DEFAULT, 'Full Score', '11844QanF2TncNvI8OpJCnX0zjHaTw89w', 100),
+(DEFAULT, 'Voice', '1tW9a0NMkMpmEfMABBx1BFZJMJyT5oUz9', 100),
+(DEFAULT, 'Electric Guitar 1, Electric Guitar 2, Electric Guitar 3', '1-6XxyMgBLYWJHAX0LOhtmc8LV8_RSkvZ', 100),
+(DEFAULT, 'Electric Guitar 1', '1mD_UwZHITOUAWQfUhj6sC1gAAcS8_CQt', 100),
+(DEFAULT, 'Electric Guitar 2', '1KX-LN21919RKmUAz5ai9WzzIYYw4RYW-', 100),
+(DEFAULT, 'Electric Guitar 3', '1-OPsSFYm_URwnc0u8nwPbUWmK4uy_WlP', 100),
+(DEFAULT, 'Bass Guitar', '1zihOQgvjW1BDt18hbLLDuadWq58zVCFI', 100),
+(DEFAULT, 'Drum Set', '1NiFaXNBryD-Zl31qmwYs1wqT-AJ__hJm', 100),
+(DEFAULT, 'Piano', '1RlHYLK3GGzF8RWOl2LMOVgpY_VSzqRls', 100),
+-- Reamonn - Supergirl
 -- The Beatles - Yesterday
 (DEFAULT, 'Full Score', '1yIticIrI1rBsYw-erWA_fBZctPAOCx_2', 190),
 (DEFAULT, 'Voice', '1nPaBdVI63L03KDIR7yUnf7EzdExIlptp', 190),
@@ -709,19 +727,6 @@ VALUES
 (DEFAULT, 'Shaker', '1wqTACchYHajuJCWpVpqvjosln1AqpFiu', 1330),
 (DEFAULT, 'Tambourine', '1VUXWL3mKwlAn_9-PkDSNpoWjnCZtCU0X', 1330),
 (DEFAULT, 'Keyboard', '1dBpJiG_i1_PbB325lTD65YGrUDAWRCB7', 1330),
--- Слот - Круги на воде
-(DEFAULT, 'Full Score', '1-VBCNmrDg6_kCJ_t-AJ0m76n-kC4HtER', 1350),
-(DEFAULT, 'Voice 1, Voice 2', '1UDV8oynW89URXSPy3-rKi_rXvONpzwhM', 1350),
-(DEFAULT, 'Voice 1', '1V7-mMRpMuz0N-SyKPMH0wkH6mkzSefaF', 1350),
-(DEFAULT, 'Voice 2', '1LSyB4oq3h1I6uMK9tPw1AhtcNNVzlY9H', 1350),
-(DEFAULT, 'Acoustic Guitar, Electric Guitar 1, Electric Guitar 2, Electric Guitar 3', '1VyLUfBEU6f8ZsOdYVfISCo99mGrN3sFN', 1350),
-(DEFAULT, 'Acoustic Guitar', '1ac1bHB81BGl8ajYp6RXjvP4ftfcCf3h3', 1350),
-(DEFAULT, 'Electric Guitar 1', '1rKl5qKoWkctHI092xNeUNHRVW12ruAS2', 1350),
-(DEFAULT, 'Electric Guitar 2', '1QcxZrDSB2Q5DuN_TDvfM7dZxh30uLFM9', 1350),
-(DEFAULT, 'Electric Guitar 3', '1jS_ejkBDzlIneI6SImZD1Ns5Nkl5mStq', 1350),
-(DEFAULT, '5-string Bass Guitar', '1AczV33ebgfAwXrwUw90tFZV2KAHNx98V', 1350),
-(DEFAULT, 'Drum Set', '1O71Qv4HxrTq184_dbOdKWW21-APOUwRM', 1350),
-(DEFAULT, 'Keyboard', '1sv3mZSyqhnJVYv2q8tNlC2ZCDdSCnFU1', 1350),
 -- Сплин - Выхода нет
 (DEFAULT, 'Full Score', '1kS_J_9htOqN_h_fpcXMlCBrjhE_u7n36', 1360),
 (DEFAULT, 'Voice 1, Voice 2', '1s_OHoJwXOciowOabvFMDpcvMtTvYUeCQ', 1360),
@@ -781,10 +786,6 @@ VALUES
 (DEFAULT, 'Electric Guitar 2', '1F9b_ZDCSfnxqs5bf467cV2CGC-xpRBal', 1430),
 (DEFAULT, 'Bass Guitar', '1rBDny1h3t4bYiWZ6tAkxuB0r802AJFML', 1430),
 (DEFAULT, 'Drum Set', '1Tyh-Ek-liKgLpG4jny8Uy4thaphCwAao', 1430),
-
--- Metal
-
--- Rock, Punk
 
 -- Pop, Dance
 
