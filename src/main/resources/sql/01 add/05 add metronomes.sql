@@ -257,6 +257,11 @@ VALUES
 (DEFAULT, null, 2, 4, 126, 1425),
 -- Чичерина - Ту-лу-ла
 (DEFAULT, null, 2, 4, 130, 1430),
+
+-- Pop, Dance
+
+-- Estrada
+
 -- Алла Пугачёва - Позови меня с собой
 (DEFAULT, null, 4, 4, 84, 1750),
 -- Любэ - Конь
@@ -271,15 +276,29 @@ VALUES
 (DEFAULT, null, 2, 4, 65, 1850),
 -- Татьяна Дасковская - Прекрасное далёко
 (DEFAULT, null, 4, 4, 100, 1860),
+
+-- Chanson
+
 -- Михаил Круг - Владимирский централ
 (DEFAULT, null, 4, 4, 132, 1880),
 -- Михаил Круг - Кольщик
 (DEFAULT, null, 4, 4, 64, 1900),
 -- Стас Михайлов - Всё для тебя
 (DEFAULT, null, 4, 4, 138, 1920),
+
+-- New school
+
 -- МУККА - ДЕВОЧКА С КАРЕ
 (DEFAULT, null, 4, 4, 150, 1960),
+
+-- SynthPop
+
 -- Eurythmics - Sweet Dreams (Are Made of This)
 (DEFAULT, null, 4, 4, 126, 1970),
+
+-- Blues
+
 -- Gary Moore - The Loner
 (DEFAULT, null, 6, 8, 55, 1985);
+
+-- Surf

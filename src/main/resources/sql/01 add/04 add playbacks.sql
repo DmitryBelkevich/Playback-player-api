@@ -341,6 +341,11 @@ VALUES
 -- Чичерина - Ту-лу-ла
 (DEFAULT, 'original', '1zi9vRYg4WKaaRa54Svx6iJxDLF_6bCGb', 1430),
 (DEFAULT, '0', '1F_atD-LA7Z2feN19bmFUhrRrY-UYxMcB', 1430),
+
+-- Pop, Dance
+
+-- Estrada
+
 -- Алла Пугачёва - Позови меня с собой
 (DEFAULT, 'original', '1Zjpe_x6UWTHkUssAu53MP-5sORdFCrFc', 1750),
 (DEFAULT, '0', '1u_nmmPVgOW7QmzwLxWK6SHmc3aPWZB82', 1750),
@@ -355,6 +360,9 @@ VALUES
 (DEFAULT, 'original', '1_vGMqVWwZvAT7sLJNpITKCBBcaaCkcKY', 1850),
 (DEFAULT, '0', '1wlHDu22rywGc5OvDFwmquO4Q24wooPQo', 1850),
 (DEFAULT, '-2', '1Cja_cMlr2gg-dFAOoEvbx1PPR_WP0JAq', 1850),
+
+-- Chanson
+
 -- Михаил Круг - Владимирский централ
 (DEFAULT, 'original', '1HslSFP_52ExO-RQviYAI4RAz_6EpMjrU', 1880),
 (DEFAULT, '0', '1iBb-DCYBQoY4V_M26nA3j-ttMp8luCrA', 1880),
@@ -367,12 +375,23 @@ VALUES
 (DEFAULT, 'original', '1uvuqFZgbi4Udv7OxQBV80ZVFLBfq854T', 1920),
 (DEFAULT, '0', '1V1IB0ytfO-tmITvw61H8HQfoJApl2t8S', 1920),
 (DEFAULT, '-2', '1MdgOIonLWyrrUr67zvOiTnEwdwJ8GGQt', 1920),
+
+-- New school
+
 -- МУККА - ДЕВОЧКА С КАРЕ
 (DEFAULT, 'original', '1r8qHmacix9KerOKNRxE3Lll0ks-orfVp', 1960),
 (DEFAULT, '0', '1lXW4sMNrEPN81f3I_HsaWL8AuwmfmWau', 1960),
 (DEFAULT, '-3', '1lXYOBYqm0QR2gzNBGgfoYPlkQUsQMOJv', 1960),
+
+-- SynthPop
+
 -- Eurythmics - Sweet Dreams (Are Made of This)
 (DEFAULT, 'original', '1WiC6XGzYRXTpMTtVS6qtJ0Iq6MUI9d1q', 1970),
+
+-- Blues
+
 -- Gary Moore - The Loner
 (DEFAULT, '0', '151ay9ovdknImnk0abkSHsUTeZgPGaQcY', 1985),
 (DEFAULT, '-2', '1sBewSCld-VR0houptU3zBfCI4dGKElyW', 1985);
+
+-- Surf

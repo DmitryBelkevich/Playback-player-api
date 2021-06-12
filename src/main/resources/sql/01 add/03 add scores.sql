@@ -801,6 +801,11 @@ VALUES
 (DEFAULT, 'Electric Guitar 2', '1F9b_ZDCSfnxqs5bf467cV2CGC-xpRBal', 1430),
 (DEFAULT, 'Bass Guitar', '1rBDny1h3t4bYiWZ6tAkxuB0r802AJFML', 1430),
 (DEFAULT, 'Drum Set', '1Tyh-Ek-liKgLpG4jny8Uy4thaphCwAao', 1430),
+
+-- Pop, Dance
+
+-- Estrada
+
 -- Алла Пугачёва - Позови меня с собой
 (DEFAULT, 'Full Score', '1RuRjfqkttDztcbvlhbMpm2qUqBdLmviT', 1750),
 (DEFAULT, 'Voice 1, Voice 2', '1vKs2DgyAdZv2h95r4wLYHhzSrqNINNPu', 1750),
@@ -848,6 +853,9 @@ VALUES
 (DEFAULT, 'Bass Guitar', '1nY-q0y_cVX-nLgl0NlIbCqqBWWakbU5Z', 1850),
 (DEFAULT, 'Drum Set', '1K9iM-eatwv5AMLxT_sMl4G1p_jHOlxl4', 1850),
 (DEFAULT, 'Piano', '1pjjnaxWpufB1fcQ8ju6qZ58x3q002pIn', 1850),
+
+-- Chanson
+
 -- Михаил Круг - Владимирский централ
 (DEFAULT, 'Full Score', '1uh6c08RXaUL179UUn2_F1r-VBTJIIzYN', 1880),
 (DEFAULT, 'Voice 1, Voice 2, Voice 3', '1r2wRZiid1N6mFLD_y-3_-Qe7ILCapDA9', 1880),
@@ -904,6 +912,9 @@ VALUES
 (DEFAULT, 'Violin', '1VSBW7dgG_Wpi0gbPOXlWQ_19Y7epcguf', 1920),
 (DEFAULT, 'Strings', '10N8ZNs-3P2dwjUmjiDzin3pnjPOu5FaS', 1920),
 (DEFAULT, 'Pad 2 (Warm)', '1j4fX6EXkUEw8274ACri5qopqiO5FnTiH', 1920),
+
+-- New school
+
 -- МУККА - ДЕВОЧКА С КАРЕ
 (DEFAULT, 'Full Score', '1N3Cpda-i9HS_nFTV4NcCsvwhOaWDu9iN', 1960),
 (DEFAULT, 'Voice 1, Voice 2', '1r8x-vlqyHYDNcbgTnU1oNcrJ6g0TRei1', 1960),
@@ -917,3 +928,9 @@ VALUES
 (DEFAULT, 'Lead 1 (Square)', '1WJtnrsgYaG5_oSfJ0mVN_S_WC_51Fiet', 1960),
 (DEFAULT, 'Synth Strings', '1GSeFMB6sAh9heFZlwCIRbfh9EcLEHGGs', 1960),
 (DEFAULT, 'FX 1 (Abduction)', '1n39a08XRoFgRDE_DyBJy-5AyiW8bxXPc', 1960);
+
+-- SynthPop
+
+-- Blues
+
+-- Surf

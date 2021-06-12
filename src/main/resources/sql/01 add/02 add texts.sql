@@ -265,6 +265,11 @@ VALUES
 (DEFAULT, '17zGCNTb9n00-nbaevsPSRnxTxkfhsh9_', 1425),
 -- Чичерина - Ту-лу-ла
 (DEFAULT, '1at3lbPUaaTtdt092O73_NhKK_5fUGHDv', 1430),
+
+-- Pop, Dance
+
+-- Estrada
+
 -- Алла Пугачёва - Позови меня с собой
 (DEFAULT, '1Cenp7Q9riOoakC0gpJC4AeIfW0-1d6Xp', 1750),
 -- Любэ - Конь
@@ -283,6 +288,9 @@ VALUES
 (DEFAULT, '163HW7ZpJBV5e54feoiwlDbQf4r1nptFz', 1860),
 -- Ярослав Евдокимов - Фантазёр
 (DEFAULT, '1aVMCjQqYjtUh4lka4jdx-BNudi3LBRIR', 1870),
+
+-- Chanson
+
 -- Михаил Круг - Владимирский централ
 (DEFAULT, '1hjEcHC-tYz1SkhoGzVn0xhnr7W_1GDM_', 1880),
 -- Михаил Круг - Кольщик
@@ -291,7 +299,17 @@ VALUES
 (DEFAULT, '115SIVb_I9hp3c0eddvavWoQG0W9tiYpQ', 1920),
 -- Стас Михайлов - Свеча
 (DEFAULT, '1IANgFVOF6AKg5vcRxnoy70qhL2qfywC-', 1930),
+
+-- New school
+
 -- МУККА - ДЕВОЧКА С КАРЕ
 (DEFAULT, '1P7kxdPdtxzSueUMbDZKm-COhjveUvjRt', 1960);
+
+-- SynthPop
+
 -- Eurythmics - Sweet Dreams (Are Made of This)
 -- (DEFAULT, '', 1970);
+
+-- Blues
+
+-- Surf
