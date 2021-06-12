@@ -184,10 +184,6 @@ VALUES
 -- Ленинград - Терминатор
 -- Леприконсы - Хали-Гали
 (DEFAULT, '12xaoXoOWWzVsseQLkDb4ifdSEGFocw-x', 950),
--- Любэ - Конь
-(DEFAULT, '1vy_07S_ePv5LXaxTCRzlYBqjLl98bOdS', 960),
--- Любэ - Позови меня тихо по имени
-(DEFAULT, '1box1lCMNJcxwZDNIBfDGJLK0xp9xOM3I', 965),
 -- Ляпис Трубецкой - Ау
 (DEFAULT, '1eKdLn6OS7gtWd5i-sXHIvIqS3KjNsbhG', 970),
 -- Ляпис Трубецкой - Воины света
@@ -271,6 +267,10 @@ VALUES
 (DEFAULT, '17zGCNTb9n00-nbaevsPSRnxTxkfhsh9_', 1425),
 -- Чичерина - Ту-лу-ла
 (DEFAULT, '1at3lbPUaaTtdt092O73_NhKK_5fUGHDv', 1430),
+-- Любэ - Конь
+(DEFAULT, '1vy_07S_ePv5LXaxTCRzlYBqjLl98bOdS', 1770),
+-- Любэ - Позови меня тихо по имени
+(DEFAULT, '1box1lCMNJcxwZDNIBfDGJLK0xp9xOM3I', 1780),
 -- Михаил Боярский - Зеленоглазое такси
 (DEFAULT, '1MWK5AlWW3yAKogbsQms8w1RMojxJAYYE', 1800),
 -- Михаил Боярский - Ланфрен-ланфра
