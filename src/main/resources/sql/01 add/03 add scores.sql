@@ -116,15 +116,15 @@ VALUES
 
 -- Joan Osborne - One of Us
 -- Linkin Park - Numb
-(DEFAULT, 'Electric Guitar 1, Electric Guitar 2', '1Wr-AVEMZTsA3UJjNakZm2ILS4o67creu', 51),
+(DEFAULT, 'Electric Guitar 1, Electric Guitar 2', '1Wr-AVEMZTsA3UJjNakZm2ILS4o67creu', 1020),
 -- Nirvana - Smells Like Teen Spirit
-(DEFAULT, 'Full Score', '1VEkKrcNV5ml3q2A3Lb4bgSNlDcyWxp59', 91),
-(DEFAULT, 'Voice', '1SpOdr38l0AqSqXTiA5e8pQxH5puAntEr', 91),
-(DEFAULT, 'Electric Guitar 1, Electric Guitar 2', '15IB9wQICtwk-wgXKlNMO_h0g5x-sajjC', 91),
-(DEFAULT, 'Electric Guitar 1', '1ya_dBA9bmgOo_Lq-lblxLUmMcS1EBFus', 91),
-(DEFAULT, 'Electric Guitar 2', '13BeSqfsp1-UkMbk-yfmd31NUnpyu6DnT', 91),
-(DEFAULT, 'Bass Guitar', '1KxkRXcsxEVH1_cz9TXuv6tU5yVnbaqUC', 91),
-(DEFAULT, 'Drum Set', '1ODMHRGSVd-P298c2Hme0HO3DuE5ehL6D', 91),
+(DEFAULT, 'Full Score', '1VEkKrcNV5ml3q2A3Lb4bgSNlDcyWxp59', 1030),
+(DEFAULT, 'Voice', '1SpOdr38l0AqSqXTiA5e8pQxH5puAntEr', 1030),
+(DEFAULT, 'Electric Guitar 1, Electric Guitar 2', '15IB9wQICtwk-wgXKlNMO_h0g5x-sajjC', 1030),
+(DEFAULT, 'Electric Guitar 1', '1ya_dBA9bmgOo_Lq-lblxLUmMcS1EBFus', 1030),
+(DEFAULT, 'Electric Guitar 2', '13BeSqfsp1-UkMbk-yfmd31NUnpyu6DnT', 1030),
+(DEFAULT, 'Bass Guitar', '1KxkRXcsxEVH1_cz9TXuv6tU5yVnbaqUC', 1030),
+(DEFAULT, 'Drum Set', '1ODMHRGSVd-P298c2Hme0HO3DuE5ehL6D', 1030),
 -- Radiohead - Creep
 (DEFAULT, 'Full Score', '11844QanF2TncNvI8OpJCnX0zjHaTw89w', 260),
 (DEFAULT, 'Voice', '1tW9a0NMkMpmEfMABBx1BFZJMJyT5oUz9', 260),
@@ -819,18 +819,18 @@ VALUES
 -- New school
 
 -- МУККА - ДЕВОЧКА С КАРЕ
-(DEFAULT, 'Full Score', '1N3Cpda-i9HS_nFTV4NcCsvwhOaWDu9iN', 11740),
-(DEFAULT, 'Voice 1, Voice 2', '1r8x-vlqyHYDNcbgTnU1oNcrJ6g0TRei1', 11740),
-(DEFAULT, 'Voice 1', '1ggySXYc36PRpJraU3pAd0S_exJm7yv3P', 11740),
-(DEFAULT, 'Voice 2', '11Cfo-EJhtFWBoLEK5Zoygvha671TpPGj', 11740),
-(DEFAULT, 'Electric Guitar', '1ApNbC9C4JbIWw2xC_uecpvTgCY38Y4gx', 11740),
-(DEFAULT, 'Bass Guitar', '13V-6he75jaoIpHxVcjyUIuvvduHbQOak', 11740),
-(DEFAULT, 'Drum Set', '1cjonXNTVMXwFUPyo2YNKgrFYDAfzLYk1', 11740),
-(DEFAULT, 'Cymbals', '1arThfSq2tKN65hTkuj3dHi-cton2Nk5W', 11740),
-(DEFAULT, 'Reverse Cymbals', '1Vr2D2RdX9Qay2-Ow_B8OUoK1pAjRTbn1', 11740),
-(DEFAULT, 'Lead 1 (Square)', '1WJtnrsgYaG5_oSfJ0mVN_S_WC_51Fiet', 11740),
-(DEFAULT, 'Synth Strings', '1GSeFMB6sAh9heFZlwCIRbfh9EcLEHGGs', 11740),
-(DEFAULT, 'FX 1 (Abduction)', '1n39a08XRoFgRDE_DyBJy-5AyiW8bxXPc', 11740),
+(DEFAULT, 'Full Score', '1N3Cpda-i9HS_nFTV4NcCsvwhOaWDu9iN', 6020),
+(DEFAULT, 'Voice 1, Voice 2', '1r8x-vlqyHYDNcbgTnU1oNcrJ6g0TRei1', 6020),
+(DEFAULT, 'Voice 1', '1ggySXYc36PRpJraU3pAd0S_exJm7yv3P', 6020),
+(DEFAULT, 'Voice 2', '11Cfo-EJhtFWBoLEK5Zoygvha671TpPGj', 6020),
+(DEFAULT, 'Electric Guitar', '1ApNbC9C4JbIWw2xC_uecpvTgCY38Y4gx', 6020),
+(DEFAULT, 'Bass Guitar', '13V-6he75jaoIpHxVcjyUIuvvduHbQOak', 6020),
+(DEFAULT, 'Drum Set', '1cjonXNTVMXwFUPyo2YNKgrFYDAfzLYk1', 6020),
+(DEFAULT, 'Cymbals', '1arThfSq2tKN65hTkuj3dHi-cton2Nk5W', 6020),
+(DEFAULT, 'Reverse Cymbals', '1Vr2D2RdX9Qay2-Ow_B8OUoK1pAjRTbn1', 6020),
+(DEFAULT, 'Lead 1 (Square)', '1WJtnrsgYaG5_oSfJ0mVN_S_WC_51Fiet', 6020),
+(DEFAULT, 'Synth Strings', '1GSeFMB6sAh9heFZlwCIRbfh9EcLEHGGs', 6020),
+(DEFAULT, 'FX 1 (Abduction)', '1n39a08XRoFgRDE_DyBJy-5AyiW8bxXPc', 6020),
 
 -- Estrada
 

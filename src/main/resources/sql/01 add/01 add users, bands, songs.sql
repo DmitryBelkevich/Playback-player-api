@@ -138,11 +138,11 @@ VALUES
     (200, 'Эпилог', 35, null),
 
     -- Rock, Punk
-    (210, 'It''s My Life', 40, 'Cm'),
-    (31, 'One of Us', 45, 'F#m'),
-    (51, 'Numb', 50, 'F#m'),
-    (91, 'Smells Like Teen Spirit', 55, 'Fm'),
-    (250, 'Every You Every Me', 60, null),
+    (1000, 'It''s My Life', 40, 'Cm'),
+    (1010, 'One of Us', 45, 'F#m'),
+    (1020, 'Numb', 50, 'F#m'),
+    (1030, 'Smells Like Teen Spirit', 55, 'Fm'),
+    (1040, 'Every You Every Me', 60, null),
     (260, 'Creep', 65, 'G'),
     (111, 'Karma Police', 65, null),
     (141, 'Supergirl', 70, null),
@@ -276,16 +276,16 @@ VALUES
     (1650, 'Ту-лу-ла', 285, 'C#m'),
 
     -- Blues
-    (11540, 'Parisienne Walkways', 290, null),
-    (11550, 'Still Got the Blues', 290, null),
-    (11560, 'The Loner', 290, 'Gm'),
-    (11570, 'The Prophet', 290, null),
+    (2000, 'Parisienne Walkways', 290, null),
+    (2010, 'Still Got the Blues', 290, null),
+    (2020, 'The Loner', 290, 'Gm'),
+    (2030, 'The Prophet', 290, null),
 
     -- Surf
-    (11580, 'Misirlou', 295, 'Em'),
+    (3000, 'Misirlou', 295, 'Em'),
 
     -- Pop, Dance
-    (11590, 'No Roots', 300, 'Bm'),
+    (4000, 'No Roots', 300, 'Bm'),
     (11600, 'This Love', 305, 'Cm'),
     (11610, 'Бьёт Бит', 310, 'Em'),
     (11620, 'Улыбайся', 310, 'Em'),
@@ -299,12 +299,12 @@ VALUES
     (11700, 'Белая ночь', 330, 'D#m'),
 
     -- SynthPop
-    (11710, 'Sweet Dreams (Are Made of This)', 335, 'Cm'),
+    (5000, 'Sweet Dreams (Are Made of This)', 335, 'Cm'),
 
     -- New school
-    (11720, 'Мама, я люблю', 340, null),
-    (11730, 'Твоему новому парню', 340, null),
-    (11740, 'ДЕВОЧКА С КАРЕ', 345, 'Cm'),
+    (6000, 'Мама, я люблю', 340, null),
+    (6010, 'Твоему новому парню', 340, null),
+    (6020, 'ДЕВОЧКА С КАРЕ', 345, 'Cm'),
 
     -- Estrada
     (11750, 'Позови меня с собой', 350, 'C#m'),

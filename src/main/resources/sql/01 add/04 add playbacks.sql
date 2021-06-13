@@ -52,13 +52,13 @@ VALUES
 -- Rock, Punk
 
 -- Bon Jovi - It's My Life
-(DEFAULT, 'original', '1ZhV4e8LrelTti44CgBU3J0QcfP72izZ6', 210),
+(DEFAULT, 'original', '1ZhV4e8LrelTti44CgBU3J0QcfP72izZ6', 1000),
 -- Joan Osborne - One of Us
-(DEFAULT, 'original', '1BvaaGEfJKr8jY1CIds1CV0rYyIXf6NtT', 31),
+(DEFAULT, 'original', '1BvaaGEfJKr8jY1CIds1CV0rYyIXf6NtT', 1010),
 -- Nirvana - Smells Like Teen Spirit
-(DEFAULT, 'original', '1rHdXtVO1bl8h0q95KHJX79ZfIycTw6NA', 91),
-(DEFAULT, '0', '1xXdCRRkrm2aPRK4PSfxGWkZenbWkh_cB', 91),
-(DEFAULT, '-2', '1kM7bWoYHoHk8ABEs-LCL8FrorpDxnHAh', 91),
+(DEFAULT, 'original', '1rHdXtVO1bl8h0q95KHJX79ZfIycTw6NA', 1030),
+(DEFAULT, '0', '1xXdCRRkrm2aPRK4PSfxGWkZenbWkh_cB', 1030),
+(DEFAULT, '-2', '1kM7bWoYHoHk8ABEs-LCL8FrorpDxnHAh', 1030),
 -- Radiohead - Creep
 (DEFAULT, 'original', '1OLaqXsbL-nyeK0s504AZQFeDlRYCG71J', 260),
 (DEFAULT, '0', '1W_9NUHGjCcTmolR1ICFLSdj203PEFiWm', 260),
@@ -337,15 +337,15 @@ VALUES
 -- Blues
 
 -- Gary Moore - The Loner
-(DEFAULT, '0', '151ay9ovdknImnk0abkSHsUTeZgPGaQcY', 11560),
-(DEFAULT, '-2', '1sBewSCld-VR0houptU3zBfCI4dGKElyW', 11560),
+(DEFAULT, '0', '151ay9ovdknImnk0abkSHsUTeZgPGaQcY', 2020),
+(DEFAULT, '-2', '1sBewSCld-VR0houptU3zBfCI4dGKElyW', 2020),
 
 -- Surf
 
 -- Pop, Dance
 
 -- Alice Merton - No Roots
-(DEFAULT, 'original', '1zKkmIf6LTAORRgXGtA4aairbtsy2LAbA', 11590),
+(DEFAULT, 'original', '1zKkmIf6LTAORRgXGtA4aairbtsy2LAbA', 4000),
 -- Maroon 5 - This Love
 (DEFAULT, 'original', '1LOXvoiv3hH_O8O3ikz4PIHfF7Wbol_nP', 11600),
 -- IOWA - Бьёт Бит
@@ -361,14 +361,14 @@ VALUES
 -- SynthPop
 
 -- Eurythmics - Sweet Dreams (Are Made of This)
-(DEFAULT, 'original', '1WiC6XGzYRXTpMTtVS6qtJ0Iq6MUI9d1q', 11710),
+(DEFAULT, 'original', '1WiC6XGzYRXTpMTtVS6qtJ0Iq6MUI9d1q', 5000),
 
 -- New school
 
 -- МУККА - ДЕВОЧКА С КАРЕ
-(DEFAULT, 'original', '1r8qHmacix9KerOKNRxE3Lll0ks-orfVp', 11740),
-(DEFAULT, '0', '1lXW4sMNrEPN81f3I_HsaWL8AuwmfmWau', 11740),
-(DEFAULT, '-3', '1lXYOBYqm0QR2gzNBGgfoYPlkQUsQMOJv', 11740),
+(DEFAULT, 'original', '1r8qHmacix9KerOKNRxE3Lll0ks-orfVp', 6020),
+(DEFAULT, '0', '1lXW4sMNrEPN81f3I_HsaWL8AuwmfmWau', 6020),
+(DEFAULT, '-3', '1lXYOBYqm0QR2gzNBGgfoYPlkQUsQMOJv', 6020),
 
 -- Estrada
 

@@ -38,13 +38,13 @@ VALUES
 -- Rock, Punk
 
 -- Bon Jovi - It's My Life
-(DEFAULT, null, 4, 4, 120, 210),
+(DEFAULT, null, 4, 4, 120, 1000),
 -- Joan Osborne - One of Us
-(DEFAULT, null, 2, 4, 88, 31),
+(DEFAULT, null, 2, 4, 88, 1010),
 -- Linkin Park - Numb
-(DEFAULT, null, 4, 4, 110, 51),
+(DEFAULT, null, 4, 4, 110, 1020),
 -- Nirvana - Smells Like Teen Spirit
-(DEFAULT, null, 2, 4, 117, 91),
+(DEFAULT, null, 2, 4, 117, 1030),
 -- Radiohead - Creep
 (DEFAULT, null, 4, 4, 95, 260),
 -- Radiohead - Karma Police
@@ -254,14 +254,14 @@ VALUES
 -- Blues
 
 -- Gary Moore - The Loner
-(DEFAULT, null, 6, 8, 55, 11560),
+(DEFAULT, null, 6, 8, 55, 2020),
 
 -- Surf
 
 -- Pop, Dance
 
 -- Alice Merton - No Roots
-(DEFAULT, null, 4, 4, 116, 11590),
+(DEFAULT, null, 4, 4, 116, 4000),
 -- Maroon 5 - This Love
 (DEFAULT, null, 4, 4, 95, 11600),
 -- IOWA - Бьёт Бит
@@ -276,12 +276,12 @@ VALUES
 -- SynthPop
 
 -- Eurythmics - Sweet Dreams (Are Made of This)
-(DEFAULT, null, 4, 4, 126, 11710),
+(DEFAULT, null, 4, 4, 126, 5000),
 
 -- New school
 
 -- МУККА - ДЕВОЧКА С КАРЕ
-(DEFAULT, null, 4, 4, 150, 11740),
+(DEFAULT, null, 4, 4, 150, 6020),
 
 -- Estrada
 

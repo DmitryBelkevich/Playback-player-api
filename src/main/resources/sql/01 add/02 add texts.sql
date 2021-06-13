@@ -36,13 +36,13 @@ VALUES
 -- Rock, Punk
 
 -- Bon Jovi - It's My Life
--- (DEFAULT, '', 210),
+-- (DEFAULT, '', 1000),
 -- Joan Osborne - One of Us
-(DEFAULT, '10lA-I8AoECCIA0rMZAxowMdgnEAqtIk-', 31),
+(DEFAULT, '10lA-I8AoECCIA0rMZAxowMdgnEAqtIk-', 1010),
 -- Linkin Park - Numb
--- (DEFAULT, '', 51),
+-- (DEFAULT, '', 1020),
 -- Nirvana - Smells Like Teen Spirit
-(DEFAULT, '1VRNtP7xjVVQZStlmwEOeQ1lk5e_NrOGj', 91),
+(DEFAULT, '1VRNtP7xjVVQZStlmwEOeQ1lk5e_NrOGj', 1030),
 -- Radiohead - Creep
 (DEFAULT, '1meCuIBWnawQwSBAk79cgnTxF9VvDqwsT', 260),
 -- Radiohead - Karma Police
@@ -260,7 +260,7 @@ VALUES
 -- Pop, Dance
 
 -- Alice Merton - No Roots
--- (DEFAULT, '', 11590),
+-- (DEFAULT, '', 4000),
 -- Maroon 5 - This Love
 -- (DEFAULT, '', 11600),
 -- IOWA - Бьёт Бит
@@ -281,12 +281,12 @@ VALUES
 -- SynthPop
 
 -- Eurythmics - Sweet Dreams (Are Made of This)
--- (DEFAULT, '', 11710),
+-- (DEFAULT, '', 5000),
 
 -- New school
 
 -- МУККА - ДЕВОЧКА С КАРЕ
-(DEFAULT, '1P7kxdPdtxzSueUMbDZKm-COhjveUvjRt', 11740),
+(DEFAULT, '1P7kxdPdtxzSueUMbDZKm-COhjveUvjRt', 6020),
 
 -- Estrada
 
