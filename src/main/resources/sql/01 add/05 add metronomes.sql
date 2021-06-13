@@ -50,19 +50,19 @@ VALUES
 -- Radiohead - Karma Police
 -- Reamonn - Supergirl
 -- The Beatles - Yesterday
-(DEFAULT, null, 4, 4, 95, 191),
+(DEFAULT, null, 4, 4, 95, 1080),
 -- The Cranberries - Zombie
-(DEFAULT, null, 4, 4, 80, 201),
+(DEFAULT, null, 4, 4, 80, 1090),
 -- The Offspring - Pretty Fly (for a White Guy)
-(DEFAULT, null, 4, 4, 143, 211),
+(DEFAULT, null, 4, 4, 143, 1100),
 -- The Offspring - Self Esteem
-(DEFAULT, null, 2, 4, 105, 220),
+(DEFAULT, null, 2, 4, 105, 1110),
 -- Animal ДжаZ - Три полоски
-(DEFAULT, null, 4, 4, 108, 230),
+(DEFAULT, null, 4, 4, 108, 1120),
 -- BRUTTO - 12 обезьян
-(DEFAULT, null, 4, 4, 128, 240),
+(DEFAULT, null, 4, 4, 128, 1130),
 -- Lumen - Гореть
-(DEFAULT, null, 4, 4, 67, 270),
+(DEFAULT, null, 4, 4, 67, 1150),
 -- N.R.M. - Лёгкія-лёгкія
 (DEFAULT, null, 4, 4, 132, 280),
 -- N.R.M. - Тры чарапахі

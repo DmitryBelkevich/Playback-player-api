@@ -67,23 +67,23 @@ VALUES
 (DEFAULT, 'original', '1lXAKENCZ8QSPlPWl_6CYPZwFp7oiZqg8', 1060),
 -- Reamonn - Supergirl
 -- The Beatles - Yesterday
-(DEFAULT, 'original', '1ee2g11nNUiCMVF53zHSAXqnYII8ZdZvV', 191),
-(DEFAULT, '0', '1Vk_yY_pI03sMfM4y9zr27zQCBYbbIa8n', 191),
+(DEFAULT, 'original', '1ee2g11nNUiCMVF53zHSAXqnYII8ZdZvV', 1080),
+(DEFAULT, '0', '1Vk_yY_pI03sMfM4y9zr27zQCBYbbIa8n', 1080),
 -- The Cranberries - Zombie
-(DEFAULT, 'original', '1udKRjlWsrX-lQTPMw0QJZSiQXN71oLxY', 201),
-(DEFAULT, '+3', '1RMpdc7kURzyTi8Hdwd5IxmQeKy2ITJ25', 201),
-(DEFAULT, '0', '1of0XLuibNVjWsQ-B8EnX1CTKQ84tSng9', 201),
-(DEFAULT, '-2', '14f1pEFoO6bLao6oiwBuXUFgi1u8UNEMc', 201),
+(DEFAULT, 'original', '1udKRjlWsrX-lQTPMw0QJZSiQXN71oLxY', 1090),
+(DEFAULT, '+3', '1RMpdc7kURzyTi8Hdwd5IxmQeKy2ITJ25', 1090),
+(DEFAULT, '0', '1of0XLuibNVjWsQ-B8EnX1CTKQ84tSng9', 1090),
+(DEFAULT, '-2', '14f1pEFoO6bLao6oiwBuXUFgi1u8UNEMc', 1090),
 -- Animal ДжаZ - Три полоски
-(DEFAULT, 'original', '11FHM4hHS6tqdStEO3nKC3-F-Cwr3RnAx', 230),
-(DEFAULT, '0', '1Pji3yNUq0P--uCwhIdQF_u-xypQV19R1', 230),
-(DEFAULT, '-2', '1x9hKCns3XUH6hv-ouGPk4_gwWO3U5DPZ', 230),
+(DEFAULT, 'original', '11FHM4hHS6tqdStEO3nKC3-F-Cwr3RnAx', 1120),
+(DEFAULT, '0', '1Pji3yNUq0P--uCwhIdQF_u-xypQV19R1', 1120),
+(DEFAULT, '-2', '1x9hKCns3XUH6hv-ouGPk4_gwWO3U5DPZ', 1120),
 -- BRUTTO - 12 обезьян
-(DEFAULT, 'original', '1VLFscNbxvL7AFgwMMHwef4DLHr2O6E_J', 240),
-(DEFAULT, '-2', '1z-UCRghp2dRWTHvEoSjw2JP_WfClAwd7', 240),
+(DEFAULT, 'original', '1VLFscNbxvL7AFgwMMHwef4DLHr2O6E_J', 1130),
+(DEFAULT, '-2', '1z-UCRghp2dRWTHvEoSjw2JP_WfClAwd7', 1130),
 -- Lumen - Гореть
-(DEFAULT, 'original', '1TAmlTGqDiej_IQsD85WydhcGeVeuIPJG', 270),
-(DEFAULT, '0', '1OOlkBsvKgUWx7jQ5mAcGPbsDZ6R1ZA4p', 270),
+(DEFAULT, 'original', '1TAmlTGqDiej_IQsD85WydhcGeVeuIPJG', 1150),
+(DEFAULT, '0', '1OOlkBsvKgUWx7jQ5mAcGPbsDZ6R1ZA4p', 1150),
 -- N.R.M. - Лёгкія-лёгкія
 (DEFAULT, 'original', '17C3G9lzZ_UFfrQVAux49mETYXLZLpk4g', 280),
 -- N.R.M. - Тры чарапахі

@@ -50,19 +50,19 @@ VALUES
 -- Reamonn - Supergirl
 -- (DEFAULT, '', 1070),
 -- The Beatles - Yesterday
-(DEFAULT, '1fZssjEMEoHsa1HD6Vh3f5HExWvzVY5b5', 191),
+(DEFAULT, '1fZssjEMEoHsa1HD6Vh3f5HExWvzVY5b5', 1080),
 -- The Cranberries - Zombie
-(DEFAULT, '1NJ7s2ssC_icXcYLGoTMBva_cGAOsIGEs', 201),
+(DEFAULT, '1NJ7s2ssC_icXcYLGoTMBva_cGAOsIGEs', 1090),
 -- The Offspring - Pretty Fly (for a White Guy)
-(DEFAULT, '1zU3iFvGLxKx27awXEsP6hAyx9o01Wijc', 211),
+(DEFAULT, '1zU3iFvGLxKx27awXEsP6hAyx9o01Wijc', 1100),
 -- The Offspring - Self Esteem
-(DEFAULT, '1JzXB9RCzN1qA-6N6jrEsRoXPncC18_np', 220),
+(DEFAULT, '1JzXB9RCzN1qA-6N6jrEsRoXPncC18_np', 1110),
 -- Animal ДжаZ - Три полоски
-(DEFAULT, '1pWTRd9J8w-o-R4ISAebN3vdfSwUazlb0', 230),
+(DEFAULT, '1pWTRd9J8w-o-R4ISAebN3vdfSwUazlb0', 1120),
 -- BRUTTO - 12 обезьян
-(DEFAULT, '13Vk7NRR0MD0aSoDhkBh8Ins8SMbR62a1', 240),
+(DEFAULT, '13Vk7NRR0MD0aSoDhkBh8Ins8SMbR62a1', 1130),
 -- Lumen - Гореть
-(DEFAULT, '1pSS1wqUWSIO6bKMJ1UhOpJza4bbVdRw4', 270),
+(DEFAULT, '1pSS1wqUWSIO6bKMJ1UhOpJza4bbVdRw4', 1150),
 -- N.R.M. - Лёгкія-лёгкія
 -- (DEFAULT, '', 280),
 -- N.R.M. - Тры чарапахі
