@@ -286,32 +286,32 @@ VALUES
 -- Наутилус Помпилиус - Скованные одной цепью
 -- Наутилус Помпилиус - Я хочу быть с тобой
 -- Порнофильмы - Я так соскучился
-(DEFAULT, 'original', '1Zw0YoRcOeNcRgs3pP5F_ZBucy-HTFSiY', 1460),
-(DEFAULT, '+5', '1iPywpXNMISizSnQwHArkWs24mLxWgiRP', 1460),
-(DEFAULT, '0', '1A4KobaGIB8L4flHV3NkNj30wO8pIkvJ8', 1460),
-(DEFAULT, '-2', '1NfAhqO1u0FS4BGOUuATLX9DsFHni_DZw', 1460),
+(DEFAULT, 'original', '1Zw0YoRcOeNcRgs3pP5F_ZBucy-HTFSiY', 2260),
+(DEFAULT, '+5', '1iPywpXNMISizSnQwHArkWs24mLxWgiRP', 2260),
+(DEFAULT, '0', '1A4KobaGIB8L4flHV3NkNj30wO8pIkvJ8', 2260),
+(DEFAULT, '-2', '1NfAhqO1u0FS4BGOUuATLX9DsFHni_DZw', 2260),
 -- Сектор Газа - 30 лет
-(DEFAULT, 'original', '1wIDn6ec4OlJ_D1er16Qf2Sk_lPLGsOdb', 1470),
-(DEFAULT, '0', '1jHSNKYNF_TbBwGtYDNpwUbWhuqwtmn94', 1470),
-(DEFAULT, '-1', '1Q3Wt0wmsiNO0ICcIKAa9SK3pQMEe4rCb', 1470),
-(DEFAULT, '-2', '1EV6mNddZ2nZeJnZEhzmPtIURjPDDIEnt', 1470),
+(DEFAULT, 'original', '1wIDn6ec4OlJ_D1er16Qf2Sk_lPLGsOdb', 2270),
+(DEFAULT, '0', '1jHSNKYNF_TbBwGtYDNpwUbWhuqwtmn94', 2270),
+(DEFAULT, '-1', '1Q3Wt0wmsiNO0ICcIKAa9SK3pQMEe4rCb', 2270),
+(DEFAULT, '-2', '1EV6mNddZ2nZeJnZEhzmPtIURjPDDIEnt', 2270),
 -- Сектор Газа - Демобилизация
-(DEFAULT, 'original', '1AOgo6z5PacmGOR_cEVkHImkrNHTP6uUf', 1490),
-(DEFAULT, '0', '1ClW4nvRODv7ved3D_RCfFkAphclT9z3l', 1490),
-(DEFAULT, '-2', '14bCHWbBhGuWc_Ei93qaCt71UILw_lOqL', 1490),
+(DEFAULT, 'original', '1AOgo6z5PacmGOR_cEVkHImkrNHTP6uUf', 2290),
+(DEFAULT, '0', '1ClW4nvRODv7ved3D_RCfFkAphclT9z3l', 2290),
+(DEFAULT, '-2', '14bCHWbBhGuWc_Ei93qaCt71UILw_lOqL', 2290),
 -- Сектор Газа - Лирика
-(DEFAULT, 'original', '1iOMjlNjamlp1ykLzpyAsMyKc_J1UClC8', 1500),
-(DEFAULT, '0', '1cHTkmOyK8J465YSLrkW17DrB-M9TiYQy', 1500),
-(DEFAULT, '-1', '1TKkDi3MdToOwIDbERVbUF7MQ2iNgsqR1', 1500),
-(DEFAULT, '-2', '1YyDsTxcXiKYlqZ6EJFguOZ_LxQ9vCsg0', 1500),
+(DEFAULT, 'original', '1iOMjlNjamlp1ykLzpyAsMyKc_J1UClC8', 2300),
+(DEFAULT, '0', '1cHTkmOyK8J465YSLrkW17DrB-M9TiYQy', 2300),
+(DEFAULT, '-1', '1TKkDi3MdToOwIDbERVbUF7MQ2iNgsqR1', 2300),
+(DEFAULT, '-2', '1YyDsTxcXiKYlqZ6EJFguOZ_LxQ9vCsg0', 2300),
 -- Сектор Газа - Пора домой
-(DEFAULT, 'original', '1HzP8J_N_ZH0AdHs3PQ3ISUcoPX_EpiNm', 1510),
-(DEFAULT, '0', '19PuzE6JjAp8vzkqqDaOif3YddNxeRoPX', 1510),
-(DEFAULT, '-2', '1YCgOA42e4nseyg2N5uUnifHjvtPGaKan', 1510),
+(DEFAULT, 'original', '1HzP8J_N_ZH0AdHs3PQ3ISUcoPX_EpiNm', 2310),
+(DEFAULT, '0', '19PuzE6JjAp8vzkqqDaOif3YddNxeRoPX', 2310),
+(DEFAULT, '-2', '1YCgOA42e4nseyg2N5uUnifHjvtPGaKan', 2310),
 -- Сектор Газа - Туман
-(DEFAULT, 'original', '1KmiuMyrSRQa7sg3SMAsKww4OcvavGBuX', 1520),
-(DEFAULT, '0', '1H2doovd6GE01_NliojJb26JhrFqRQB6q', 1520),
-(DEFAULT, '-2', '1r1pjuRsU03eK2dKB4V5D_ppO6uoX1tHP', 1520),
+(DEFAULT, 'original', '1KmiuMyrSRQa7sg3SMAsKww4OcvavGBuX', 2320),
+(DEFAULT, '0', '1H2doovd6GE01_NliojJb26JhrFqRQB6q', 2320),
+(DEFAULT, '-2', '1r1pjuRsU03eK2dKB4V5D_ppO6uoX1tHP', 2320),
 -- Сергей Тихановcкий & Kosmas - Разбуры турмы муры
 (DEFAULT, 'original', '1VEyAlIKFCcQ9jVc4cvkhuPHRXpPNygri', 1530),
 (DEFAULT, '0', '1E-myP2M7zOkpOgp3mBgY1fA5TZYnHhbJ', 1530),

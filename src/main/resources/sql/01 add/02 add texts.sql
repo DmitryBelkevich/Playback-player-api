@@ -223,17 +223,17 @@ VALUES
 (DEFAULT, '16zNVtGePNVZzwwA0tAncJcmZdFP7HPzJ', 2230),
 -- Наутилус Помпилиус - Я хочу быть с тобой
 -- Порнофильмы - Я так соскучился
-(DEFAULT, '1lL6BOSpselagLAFSTzCk4vLrVsfRAMBo', 1460),
+(DEFAULT, '1lL6BOSpselagLAFSTzCk4vLrVsfRAMBo', 2260),
 -- Сектор Газа - 30 лет
-(DEFAULT, '1VH1TAITlCzMJ5kYZXR8wfvEQ-0SmH5kK', 1470),
+(DEFAULT, '1VH1TAITlCzMJ5kYZXR8wfvEQ-0SmH5kK', 2270),
 -- Сектор Газа - Демобилизация
-(DEFAULT, '1YibK7hLxoRIZaFFBHWGL8XgmTFq00V4o', 1490),
+(DEFAULT, '1YibK7hLxoRIZaFFBHWGL8XgmTFq00V4o', 2290),
 -- Сектор Газа - Лирика
-(DEFAULT, '1tvKj2W1dfPK4F7NkDPkwONG3pkAIoMnk', 1500),
+(DEFAULT, '1tvKj2W1dfPK4F7NkDPkwONG3pkAIoMnk', 2300),
 -- Сектор Газа - Пора домой
-(DEFAULT, '18BIop-OrduXX3qPAVjtbVUmuInJ8R2RY', 1510),
+(DEFAULT, '18BIop-OrduXX3qPAVjtbVUmuInJ8R2RY', 2310),
 -- Сектор Газа - Туман
-(DEFAULT, '1dcEqgfBCl2ABVcwGlmTAs9lQFJSTpjnz', 1520),
+(DEFAULT, '1dcEqgfBCl2ABVcwGlmTAs9lQFJSTpjnz', 2320),
 -- Сергей Тихановcкий & Kosmas - Разбуры турмы муры
 -- (DEFAULT, '', 1530),
 -- Сергей Тихановcкий & Kosmas - Стены рухнут
