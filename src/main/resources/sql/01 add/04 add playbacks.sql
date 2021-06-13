@@ -48,11 +48,14 @@ VALUES
 (DEFAULT, '+1', '1608Rx2FTKM7Qpi5m1sjqykuBVZ5Vi3vg', 180),
 (DEFAULT, '0', '1UIBGxHCpQneDtNd5yXofr3PdGGUXIzun', 180),
 (DEFAULT, '-2', '1jN7UFNqST3wwuzNOuk5ojOzZ_yYOBkV0', 180),
+-- Эпидемия - Эпилог
+(DEFAULT, '0', '147Xo8CIYo7LaliGwBed_3YM1Gf8nqYhu', 200),
 
 -- Rock, Punk
 
 -- Bon Jovi - It's My Life
 (DEFAULT, 'original', '1ZhV4e8LrelTti44CgBU3J0QcfP72izZ6', 1000),
+(DEFAULT, '0', '14Bf5UOLpKrzymDmwqvF325vgkq0AnDNC', 1000),
 -- Joan Osborne - One of Us
 (DEFAULT, 'original', '1BvaaGEfJKr8jY1CIds1CV0rYyIXf6NtT', 1010),
 -- Nirvana - Smells Like Teen Spirit
@@ -117,6 +120,7 @@ VALUES
 (DEFAULT, '0', '15WeVD1P4z9tL_FsMxEYKlIfDUUNTZAk0', 410),
 -- Би-2 - Мой рок-н-ролл
 (DEFAULT, 'original', '1Arw7ZR1CwW42EYK083Zs3hGq22IMue-o', 420),
+(DEFAULT, '0', '14JuAi_bWoQ8LAV0Y_KOobf_1xKpvo6pO', 420),
 -- Би-2 - Полковнику никто не пишет
 (DEFAULT, 'original', '1jsIWOVrWu8uQw1zgOQWLV2MhiYPCRS_J', 430),
 (DEFAULT, '0', '1FDIHNKcE8FpI7BMjBuJQyxzpGv3pExn4', 430),
@@ -318,8 +322,10 @@ VALUES
 (DEFAULT, 'original', '1TFfR8esb__0DnsP8SMc02xvcfOKSGN3p', 1570),
 (DEFAULT, '0', '1agtSI6Guw2pyf0JF4BQ1OKpBAbrpsvPX', 1570),
 -- Сплин - Линия жизни
+(DEFAULT, 'original', '128sIsRKok-cf4jYYwS6CYWa9xUgLcE7D', 1580),
 (DEFAULT, '0', '1i1TE8CQ1qje46JPPSEMqNSncdKc6AoBQ', 1580),
 -- Сплин - Моё сердце
+(DEFAULT, 'original', '1AjPSkquyEKmU6iaZQGnejPAX1lk1p4pV', 1590),
 (DEFAULT, '0', '1ilBBPuLUa3pWWSdbr5s2C_wVpXH935aT', 1590),
 -- Сплин - Орбит без сахара
 (DEFAULT, 'original', '1W3RKtn2pNLYhXPX4x58ru3jUAZexr16l', 1600),
@@ -339,6 +345,8 @@ VALUES
 -- Gary Moore - The Loner
 (DEFAULT, '0', '151ay9ovdknImnk0abkSHsUTeZgPGaQcY', 2020),
 (DEFAULT, '-2', '1sBewSCld-VR0houptU3zBfCI4dGKElyW', 2020),
+-- Gary Moore - The Prophet
+(DEFAULT, '0', '13cGjZeyIf8-gVrl-XPb6zu82C0Zl0Jxl', 2030),
 
 -- Surf
 

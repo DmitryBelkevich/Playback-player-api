@@ -279,7 +279,7 @@ VALUES
     (2000, 'Parisienne Walkways', 290, null),
     (2010, 'Still Got the Blues', 290, null),
     (2020, 'The Loner', 290, 'Gm'),
-    (2030, 'The Prophet', 290, null),
+    (2030, 'The Prophet', 290, 'Gm'),
 
     -- Surf
     (3000, 'Misirlou', 295, 'Em'),
