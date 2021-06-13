@@ -276,13 +276,13 @@ VALUES
     (1650, 'Ту-лу-ла', 285, 'C#m'),
 
     -- Blues
-    (1975, 'Parisienne Walkways', 290, null),
-    (1980, 'Still Got the Blues', 290, null),
-    (1985, 'The Loner', 290, 'Gm'),
-    (1990, 'The Prophet', 290, null),
+    (11540, 'Parisienne Walkways', 290, null),
+    (11550, 'Still Got the Blues', 290, null),
+    (11560, 'The Loner', 290, 'Gm'),
+    (11570, 'The Prophet', 290, null),
 
     -- Surf
-    (2000, 'Misirlou', 295, 'Em'),
+    (11580, 'Misirlou', 295, 'Em'),
 
     -- Pop, Dance
     (11590, 'No Roots', 300, 'Bm'),

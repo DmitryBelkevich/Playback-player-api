@@ -337,8 +337,8 @@ VALUES
 -- Blues
 
 -- Gary Moore - The Loner
-(DEFAULT, '0', '151ay9ovdknImnk0abkSHsUTeZgPGaQcY', 1985),
-(DEFAULT, '-2', '1sBewSCld-VR0houptU3zBfCI4dGKElyW', 1985),
+(DEFAULT, '0', '151ay9ovdknImnk0abkSHsUTeZgPGaQcY', 11560),
+(DEFAULT, '-2', '1sBewSCld-VR0houptU3zBfCI4dGKElyW', 11560),
 
 -- Surf
 

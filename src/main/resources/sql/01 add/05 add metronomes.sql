@@ -254,7 +254,7 @@ VALUES
 -- Blues
 
 -- Gary Moore - The Loner
-(DEFAULT, null, 6, 8, 55, 1985),
+(DEFAULT, null, 6, 8, 55, 11560),
 
 -- Surf
 
