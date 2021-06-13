@@ -254,51 +254,51 @@ VALUES
 -- Blues
 
 -- Gary Moore - The Loner
-(DEFAULT, null, 6, 8, 55, 2020),
+(DEFAULT, null, 6, 8, 55, 3020),
 
 -- Surf
 
 -- Pop, Dance
 
 -- Alice Merton - No Roots
-(DEFAULT, null, 4, 4, 116, 4000),
+(DEFAULT, null, 4, 4, 116, 5000),
 -- Maroon 5 - This Love
-(DEFAULT, null, 4, 4, 95, 4010),
+(DEFAULT, null, 4, 4, 95, 5010),
 -- IOWA - Бьёт Бит
-(DEFAULT, null, 2, 4, 110, 4020),
+(DEFAULT, null, 2, 4, 110, 5020),
 -- IOWA - Улыбайся
-(DEFAULT, null, 4, 4, 130, 4030),
+(DEFAULT, null, 4, 4, 130, 5030),
 -- Ненси - Дым сигарет с ментолом
-(DEFAULT, null, 4, 4, 75, 4080),
+(DEFAULT, null, 4, 4, 75, 5080),
 -- Форум - Белая ночь
-(DEFAULT, null, 2, 4, 126, 4110),
+(DEFAULT, null, 2, 4, 126, 5110),
 
 -- SynthPop
 
 -- Eurythmics - Sweet Dreams (Are Made of This)
-(DEFAULT, null, 4, 4, 126, 5000),
+(DEFAULT, null, 4, 4, 126, 6000),
 
 -- New school
 
 -- МУККА - ДЕВОЧКА С КАРЕ
-(DEFAULT, null, 4, 4, 150, 6020),
+(DEFAULT, null, 4, 4, 150, 7020),
 
 -- Estrada
 
 -- Алла Пугачёва - Позови меня с собой
-(DEFAULT, null, 4, 4, 84, 7000),
+(DEFAULT, null, 4, 4, 84, 8000),
 -- Любэ - Конь
-(DEFAULT, null, 4, 4, 80, 7020),
+(DEFAULT, null, 4, 4, 80, 8020),
 -- Любэ - Позови меня тихо по имени
-(DEFAULT, null, 6, 8, 60, 7030),
+(DEFAULT, null, 6, 8, 60, 8030),
 -- Михаил Боярский - Зеленоглазое такси
-(DEFAULT, null, 4, 4, 104, 7050),
+(DEFAULT, null, 4, 4, 104, 8050),
 -- Песняры - Белоруссия
-(DEFAULT, null, 4, 4, 100, 7080),
+(DEFAULT, null, 4, 4, 100, 8080),
 -- Синяя птица - Там, где клён шумит
-(DEFAULT, null, 2, 4, 65, 7100),
+(DEFAULT, null, 2, 4, 65, 8100),
 -- Татьяна Дасковская - Прекрасное далёко
-(DEFAULT, null, 4, 4, 100, 7110),
+(DEFAULT, null, 4, 4, 100, 8110),
 
 -- Chanson
 

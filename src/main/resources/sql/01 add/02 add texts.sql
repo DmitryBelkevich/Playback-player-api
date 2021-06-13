@@ -260,54 +260,54 @@ VALUES
 -- Pop, Dance
 
 -- Alice Merton - No Roots
--- (DEFAULT, '', 4000),
+-- (DEFAULT, '', 5000),
 -- Maroon 5 - This Love
--- (DEFAULT, '', 4010),
+-- (DEFAULT, '', 5010),
 -- IOWA - Бьёт Бит
--- (DEFAULT, '', 4020),
+-- (DEFAULT, '', 5020),
 -- IOWA - Улыбайся
--- (DEFAULT, '', 4030),
+-- (DEFAULT, '', 5030),
 -- Ласковый май - Белые розы
-(DEFAULT, '1oSQC5SW2AFu7Q_xWGgGy-bhOPqNNPaI3', 4040),
+(DEFAULT, '1oSQC5SW2AFu7Q_xWGgGy-bhOPqNNPaI3', 5040),
 -- Ненси - Дым сигарет с ментолом
-(DEFAULT, '1BEVEH3tLqiBfc69HNHKrUF3WlwaqEvW0', 4080),
+(DEFAULT, '1BEVEH3tLqiBfc69HNHKrUF3WlwaqEvW0', 5080),
 -- Ненси - Чистый лист
-(DEFAULT, '1XDMKvweEBggsTkVWAI607DzFZvASw0gP', 4090),
+(DEFAULT, '1XDMKvweEBggsTkVWAI607DzFZvASw0gP', 5090),
 -- Сладкий сон - На белом покрывале января
-(DEFAULT, '1jCPrNwLhoo6PnG-hJaiO6gw_DZAuLKzD', 4100),
+(DEFAULT, '1jCPrNwLhoo6PnG-hJaiO6gw_DZAuLKzD', 5100),
 -- Форум - Белая ночь
-(DEFAULT, '17zGCNTb9n00-nbaevsPSRnxTxkfhsh9_', 4110),
+(DEFAULT, '17zGCNTb9n00-nbaevsPSRnxTxkfhsh9_', 5110),
 
 -- SynthPop
 
 -- Eurythmics - Sweet Dreams (Are Made of This)
--- (DEFAULT, '', 5000),
+-- (DEFAULT, '', 6000),
 
 -- New school
 
 -- МУККА - ДЕВОЧКА С КАРЕ
-(DEFAULT, '1P7kxdPdtxzSueUMbDZKm-COhjveUvjRt', 6020),
+(DEFAULT, '1P7kxdPdtxzSueUMbDZKm-COhjveUvjRt', 7020),
 
 -- Estrada
 
 -- Алла Пугачёва - Позови меня с собой
-(DEFAULT, '1Cenp7Q9riOoakC0gpJC4AeIfW0-1d6Xp', 7000),
+(DEFAULT, '1Cenp7Q9riOoakC0gpJC4AeIfW0-1d6Xp', 8000),
 -- Любэ - Конь
-(DEFAULT, '1vy_07S_ePv5LXaxTCRzlYBqjLl98bOdS', 7020),
+(DEFAULT, '1vy_07S_ePv5LXaxTCRzlYBqjLl98bOdS', 8020),
 -- Любэ - Позови меня тихо по имени
-(DEFAULT, '1box1lCMNJcxwZDNIBfDGJLK0xp9xOM3I', 7030),
+(DEFAULT, '1box1lCMNJcxwZDNIBfDGJLK0xp9xOM3I', 8030),
 -- Михаил Боярский - Зеленоглазое такси
-(DEFAULT, '1MWK5AlWW3yAKogbsQms8w1RMojxJAYYE', 7050),
+(DEFAULT, '1MWK5AlWW3yAKogbsQms8w1RMojxJAYYE', 8050),
 -- Михаил Боярский - Ланфрен-ланфра
-(DEFAULT, '1C9_ziHoyzqYDUhPbMxC4uYke8r8AqwB0', 7060),
+(DEFAULT, '1C9_ziHoyzqYDUhPbMxC4uYke8r8AqwB0', 8060),
 -- Песняры - Белоруссия
-(DEFAULT, '1XQyMxTW-rgAPJtkpjTL8dNqDswETt796', 7080),
+(DEFAULT, '1XQyMxTW-rgAPJtkpjTL8dNqDswETt796', 8080),
 -- Синяя птица - Там, где клён шумит
-(DEFAULT, '1jU1OELMO1mB8-e40pxr9ibZ8DdPXGQIK', 7100),
+(DEFAULT, '1jU1OELMO1mB8-e40pxr9ibZ8DdPXGQIK', 8100),
 -- Татьяна Дасковская - Прекрасное далёко
-(DEFAULT, '163HW7ZpJBV5e54feoiwlDbQf4r1nptFz', 7110),
+(DEFAULT, '163HW7ZpJBV5e54feoiwlDbQf4r1nptFz', 8110),
 -- Ярослав Евдокимов - Фантазёр
-(DEFAULT, '1aVMCjQqYjtUh4lka4jdx-BNudi3LBRIR', 7120),
+(DEFAULT, '1aVMCjQqYjtUh4lka4jdx-BNudi3LBRIR', 8120),
 
 -- Chanson
 

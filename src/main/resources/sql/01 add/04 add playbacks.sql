@@ -343,57 +343,57 @@ VALUES
 -- Blues
 
 -- Gary Moore - The Loner
-(DEFAULT, '0', '151ay9ovdknImnk0abkSHsUTeZgPGaQcY', 2020),
-(DEFAULT, '-2', '1sBewSCld-VR0houptU3zBfCI4dGKElyW', 2020),
+(DEFAULT, '0', '151ay9ovdknImnk0abkSHsUTeZgPGaQcY', 3020),
+(DEFAULT, '-2', '1sBewSCld-VR0houptU3zBfCI4dGKElyW', 3020),
 -- Gary Moore - The Prophet
-(DEFAULT, '0', '13cGjZeyIf8-gVrl-XPb6zu82C0Zl0Jxl', 2030),
+(DEFAULT, '0', '13cGjZeyIf8-gVrl-XPb6zu82C0Zl0Jxl', 3030),
 
 -- Surf
 
 -- Pop, Dance
 
 -- Alice Merton - No Roots
-(DEFAULT, 'original', '1zKkmIf6LTAORRgXGtA4aairbtsy2LAbA', 4000),
+(DEFAULT, 'original', '1zKkmIf6LTAORRgXGtA4aairbtsy2LAbA', 5000),
 -- Maroon 5 - This Love
-(DEFAULT, 'original', '1LOXvoiv3hH_O8O3ikz4PIHfF7Wbol_nP', 4010),
+(DEFAULT, 'original', '1LOXvoiv3hH_O8O3ikz4PIHfF7Wbol_nP', 5010),
 -- IOWA - Бьёт Бит
-(DEFAULT, 'original', '19VjudtXPbzOn8CdYPAG2lzJkK-b7YQMN', 4020),
+(DEFAULT, 'original', '19VjudtXPbzOn8CdYPAG2lzJkK-b7YQMN', 5020),
 -- IOWA - Улыбайся
-(DEFAULT, 'original', '1dywI3h9zxdslzF4bgaa_j8fiUqh6d9wa', 4030),
+(DEFAULT, 'original', '1dywI3h9zxdslzF4bgaa_j8fiUqh6d9wa', 5030),
 -- Ненси - Дым сигарет с ментолом
-(DEFAULT, 'original', '1G0fC6XaLmrkDzavWQWe1fMlzJkqwx_Rd', 4080),
-(DEFAULT, '0', '1MHdB7Y5aPqVAgyMraKeTBHkQ5F8QnYge', 4080),
+(DEFAULT, 'original', '1G0fC6XaLmrkDzavWQWe1fMlzJkqwx_Rd', 5080),
+(DEFAULT, '0', '1MHdB7Y5aPqVAgyMraKeTBHkQ5F8QnYge', 5080),
 -- Форум - Белая ночь
-(DEFAULT, 'original', '1zg5DdDr4uwVi2RsZsG94Aj7V0Vb_btPY', 4110),
+(DEFAULT, 'original', '1zg5DdDr4uwVi2RsZsG94Aj7V0Vb_btPY', 5110),
 
 -- SynthPop
 
 -- Eurythmics - Sweet Dreams (Are Made of This)
-(DEFAULT, 'original', '1WiC6XGzYRXTpMTtVS6qtJ0Iq6MUI9d1q', 5000),
+(DEFAULT, 'original', '1WiC6XGzYRXTpMTtVS6qtJ0Iq6MUI9d1q', 6000),
 
 -- New school
 
 -- МУККА - ДЕВОЧКА С КАРЕ
-(DEFAULT, 'original', '1r8qHmacix9KerOKNRxE3Lll0ks-orfVp', 6020),
-(DEFAULT, '0', '1lXW4sMNrEPN81f3I_HsaWL8AuwmfmWau', 6020),
-(DEFAULT, '-3', '1lXYOBYqm0QR2gzNBGgfoYPlkQUsQMOJv', 6020),
+(DEFAULT, 'original', '1r8qHmacix9KerOKNRxE3Lll0ks-orfVp', 7020),
+(DEFAULT, '0', '1lXW4sMNrEPN81f3I_HsaWL8AuwmfmWau', 7020),
+(DEFAULT, '-3', '1lXYOBYqm0QR2gzNBGgfoYPlkQUsQMOJv', 7020),
 
 -- Estrada
 
 -- Алла Пугачёва - Позови меня с собой
-(DEFAULT, 'original', '1Zjpe_x6UWTHkUssAu53MP-5sORdFCrFc', 7000),
-(DEFAULT, '0', '1u_nmmPVgOW7QmzwLxWK6SHmc3aPWZB82', 7000),
+(DEFAULT, 'original', '1Zjpe_x6UWTHkUssAu53MP-5sORdFCrFc', 8000),
+(DEFAULT, '0', '1u_nmmPVgOW7QmzwLxWK6SHmc3aPWZB82', 8000),
 -- Любэ - Конь
-(DEFAULT, 'original', '1gdEaL0CGCfCpIQYjoGrEuF57020mnmkS', 7020),
+(DEFAULT, 'original', '1gdEaL0CGCfCpIQYjoGrEuF58020mnmkS', 8020),
 -- Любэ - Позови меня тихо по имени
-(DEFAULT, 'original', '1e9FkKo4ws0-OwjaUZhEZZNvb1cepK6Um', 7030),
+(DEFAULT, 'original', '1e9FkKo4ws0-OwjaUZhEZZNvb1cepK6Um', 8030),
 -- Михаил Боярский - Зеленоглазое такси
-(DEFAULT, 'original', '1TJEQsSf_fhbmfCv9nc82Sxh0P9zSqNmB', 7050),
-(DEFAULT, '0', '1kQHGP2fELW804Z_kJTprPrUmwbORDMS8', 7050),
+(DEFAULT, 'original', '1TJEQsSf_fhbmfCv9nc82Sxh0P9zSqNmB', 8050),
+(DEFAULT, '0', '1kQHGP2fELW804Z_kJTprPrUmwbORDMS8', 8050),
 -- Синяя птица - Там, где клён шумит
-(DEFAULT, 'original', '1_vGMqVWwZvAT7sLJNpITKCBBcaaCkcKY', 7100),
-(DEFAULT, '0', '1wlHDu22rywGc5OvDFwmquO4Q24wooPQo', 7100),
-(DEFAULT, '-2', '1Cja_cMlr2gg-dFAOoEvbx1PPR_WP0JAq', 7100),
+(DEFAULT, 'original', '1_vGMqVWwZvAT7sLJNpITKCBBcaaCkcKY', 8100),
+(DEFAULT, '0', '1wlHDu22rywGc5OvDFwmquO4Q24wooPQo', 8100),
+(DEFAULT, '-2', '1Cja_cMlr2gg-dFAOoEvbx1PPR_WP0JAq', 8100),
 
 -- Chanson
 
