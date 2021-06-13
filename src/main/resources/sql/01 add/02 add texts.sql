@@ -253,6 +253,10 @@ VALUES
 -- Чичерина - Ту-лу-ла
 (DEFAULT, '1at3lbPUaaTtdt092O73_NhKK_5fUGHDv', 1650),
 
+-- Blues
+
+-- Surf
+
 -- Pop, Dance
 
 -- Alice Merton - No Roots
@@ -273,6 +277,11 @@ VALUES
 (DEFAULT, '1jCPrNwLhoo6PnG-hJaiO6gw_DZAuLKzD', 1740),
 -- Форум - Белая ночь
 (DEFAULT, '17zGCNTb9n00-nbaevsPSRnxTxkfhsh9_', 1745),
+
+-- SynthPop
+
+-- Eurythmics - Sweet Dreams (Are Made of This)
+-- (DEFAULT, '', 1970),
 
 -- Estrada
 
@@ -310,12 +319,3 @@ VALUES
 
 -- МУККА - ДЕВОЧКА С КАРЕ
 (DEFAULT, '1P7kxdPdtxzSueUMbDZKm-COhjveUvjRt', 1960);
-
--- SynthPop
-
--- Eurythmics - Sweet Dreams (Are Made of This)
--- (DEFAULT, '', 1970);
-
--- Blues
-
--- Surf

@@ -9,13 +9,13 @@ VALUES (1, 'Hard'),
 -- INSERT INTO genres (id, title)
 -- VALUES (1, 'Metal'),
 --        (2, 'Rock, Punk'),
---        (3, 'Pop, Dance'),
---        (4, 'Estrada'),
---        (5, 'Chanson'),
---        (6, 'New school'),
---        (7, 'SynthPop'),
---        (8, 'Blues'),
---        (9, 'Surf');
+--        (3, 'Blues'),
+--        (4, 'Surf'),
+--        (5, 'Pop, Dance'),
+--        (6, 'SynthPop'),
+--        (7, 'New school'),
+--        (8, 'Estrada'),
+--        (9, 'Chanson');
 
 -- bands
 
@@ -76,6 +76,12 @@ VALUES
     (280, 'Танцы Минус'),
     (285, 'Чичерина'),
 
+    -- Blues
+    (395, 'Gary Moore'),
+
+    -- Surf
+    (400, 'Dick Dale, The Del Tones'),
+
     -- Pop, Dance
     (290, 'Alice Merton'),
     (300, 'Maroon 5'),
@@ -84,6 +90,9 @@ VALUES
     (320, 'Ненси'),
     (325, 'Сладкий сон'),
     (330, 'Форум'),
+
+    -- SynthPop
+    (390, 'Eurythmics'),
 
     -- Estrada
     (335, 'Алла Пугачёва'),
@@ -100,16 +109,7 @@ VALUES
 
     -- New school
     (380, 'Anacondaz'),
-    (385, 'МУККА'),
-
-    -- SynthPop
-    (390, 'Eurythmics'),
-
-    -- Blues
-    (395, 'Gary Moore'),
-
-    -- Surf
-    (400, 'Dick Dale, The Del Tones');
+    (385, 'МУККА');
 
 -- songs
 
@@ -275,6 +275,15 @@ VALUES
        (1640, 'Жара', 285, null),
        (1650, 'Ту-лу-ла', 285, 'C#m'),
 
+       -- Blues
+       (1975, 'Parisienne Walkways', 395, null),
+       (1980, 'Still Got the Blues', 395, null),
+       (1985, 'The Loner', 395, 'Gm'),
+       (1990, 'The Prophet', 395, null),
+
+       -- Surf
+       (2000, 'Misirlou', 400, null),
+
        -- Pop, Dance
        (1660, 'No Roots', 290, 'Bm'),
        (1670, 'This Love', 300, 'Cm'),
@@ -288,6 +297,9 @@ VALUES
        (1735, 'Чистый лист', 320, null),
        (1740, 'На белом покрывале января', 325, null),
        (1745, 'Белая ночь', 330, 'D#m'),
+
+       -- SynthPop
+       (1970, 'Sweet Dreams (Are Made of This)', 390, 'Cm'),
 
        -- Estrada
        (1750, 'Позови меня с собой', 335, 'C#m'),
@@ -315,16 +327,4 @@ VALUES
        -- New school
        (1940, 'Мама, я люблю', 380, null),
        (1950, 'Твоему новому парню', 380, null),
-       (1960, 'ДЕВОЧКА С КАРЕ', 385, 'Cm'),
-
-       -- SynthPop
-       (1970, 'Sweet Dreams (Are Made of This)', 390, 'Cm'),
-
-       -- Blues
-       (1975, 'Parisienne Walkways', 395, null),
-       (1980, 'Still Got the Blues', 395, null),
-       (1985, 'The Loner', 395, 'Gm'),
-       (1990, 'The Prophet', 395, null),
-
-       -- Surf
-       (2000, 'Misirlou', 400, null);
+       (1960, 'ДЕВОЧКА С КАРЕ', 385, 'Cm');

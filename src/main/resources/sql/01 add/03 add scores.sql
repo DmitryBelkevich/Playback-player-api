@@ -787,6 +787,10 @@ VALUES
 (DEFAULT, 'Bass Guitar', '1rBDny1h3t4bYiWZ6tAkxuB0r802AJFML', 1650),
 (DEFAULT, 'Drum Set', '1Tyh-Ek-liKgLpG4jny8Uy4thaphCwAao', 1650),
 
+-- Blues
+
+-- Surf
+
 -- Pop, Dance
 
 -- Ненси - Дым сигарет с ментолом
@@ -809,6 +813,8 @@ VALUES
 (DEFAULT, 'Bass Guitar', '1Fv7gD0vcNoCTtgmnx76ZwqLYgGjoDxwd', 1745),
 (DEFAULT, 'Drum Set', '1Tptw2yyCJYpphI9PzcpPDyVwxW0PYFRH', 1745),
 (DEFAULT, 'FX 3 (Crystal), FX 4 (Atmosphere), Pad 6 (Metallic), Pad 2 (Warm), Synth Bass, Lead 8 (Bass + Lead)', '1jguvwlE7-Bn3vofaP8mLXDrTQFkOZHq7', 1745),
+
+-- SynthPop
 
 -- Estrada
 
@@ -934,9 +940,3 @@ VALUES
 (DEFAULT, 'Lead 1 (Square)', '1WJtnrsgYaG5_oSfJ0mVN_S_WC_51Fiet', 1960),
 (DEFAULT, 'Synth Strings', '1GSeFMB6sAh9heFZlwCIRbfh9EcLEHGGs', 1960),
 (DEFAULT, 'FX 1 (Abduction)', '1n39a08XRoFgRDE_DyBJy-5AyiW8bxXPc', 1960);
-
--- SynthPop
-
--- Blues
-
--- Surf

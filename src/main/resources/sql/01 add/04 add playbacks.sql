@@ -334,6 +334,14 @@ VALUES
 (DEFAULT, 'original', '1zi9vRYg4WKaaRa54Svx6iJxDLF_6bCGb', 1650),
 (DEFAULT, '0', '1F_atD-LA7Z2feN19bmFUhrRrY-UYxMcB', 1650),
 
+-- Blues
+
+-- Gary Moore - The Loner
+(DEFAULT, '0', '151ay9ovdknImnk0abkSHsUTeZgPGaQcY', 1985),
+(DEFAULT, '-2', '1sBewSCld-VR0houptU3zBfCI4dGKElyW', 1985),
+
+-- Surf
+
 -- Pop, Dance
 
 -- Alice Merton - No Roots
@@ -349,6 +357,11 @@ VALUES
 (DEFAULT, '0', '1MHdB7Y5aPqVAgyMraKeTBHkQ5F8QnYge', 1730),
 -- Форум - Белая ночь
 (DEFAULT, 'original', '1zg5DdDr4uwVi2RsZsG94Aj7V0Vb_btPY', 1745),
+
+-- SynthPop
+
+-- Eurythmics - Sweet Dreams (Are Made of This)
+(DEFAULT, 'original', '1WiC6XGzYRXTpMTtVS6qtJ0Iq6MUI9d1q', 1970),
 
 -- Estrada
 
@@ -387,17 +400,4 @@ VALUES
 -- МУККА - ДЕВОЧКА С КАРЕ
 (DEFAULT, 'original', '1r8qHmacix9KerOKNRxE3Lll0ks-orfVp', 1960),
 (DEFAULT, '0', '1lXW4sMNrEPN81f3I_HsaWL8AuwmfmWau', 1960),
-(DEFAULT, '-3', '1lXYOBYqm0QR2gzNBGgfoYPlkQUsQMOJv', 1960),
-
--- SynthPop
-
--- Eurythmics - Sweet Dreams (Are Made of This)
-(DEFAULT, 'original', '1WiC6XGzYRXTpMTtVS6qtJ0Iq6MUI9d1q', 1970),
-
--- Blues
-
--- Gary Moore - The Loner
-(DEFAULT, '0', '151ay9ovdknImnk0abkSHsUTeZgPGaQcY', 1985),
-(DEFAULT, '-2', '1sBewSCld-VR0houptU3zBfCI4dGKElyW', 1985);
-
--- Surf
+(DEFAULT, '-3', '1lXYOBYqm0QR2gzNBGgfoYPlkQUsQMOJv', 1960);

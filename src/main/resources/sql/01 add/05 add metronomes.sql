@@ -251,6 +251,13 @@ VALUES
 -- Чичерина - Ту-лу-ла
 (DEFAULT, null, 2, 4, 130, 1650),
 
+-- Blues
+
+-- Gary Moore - The Loner
+(DEFAULT, null, 6, 8, 55, 1985),
+
+-- Surf
+
 -- Pop, Dance
 
 -- Alice Merton - No Roots
@@ -265,6 +272,9 @@ VALUES
 (DEFAULT, null, 4, 4, 75, 1730),
 -- Форум - Белая ночь
 (DEFAULT, null, 2, 4, 126, 1745),
+
+-- Eurythmics - Sweet Dreams (Are Made of This)
+(DEFAULT, null, 4, 4, 126, 1970),
 
 -- Estrada
 
@@ -295,16 +305,6 @@ VALUES
 -- New school
 
 -- МУККА - ДЕВОЧКА С КАРЕ
-(DEFAULT, null, 4, 4, 150, 1960),
+(DEFAULT, null, 4, 4, 150, 1960);
 
 -- SynthPop
-
--- Eurythmics - Sweet Dreams (Are Made of This)
-(DEFAULT, null, 4, 4, 126, 1970),
-
--- Blues
-
--- Gary Moore - The Loner
-(DEFAULT, null, 6, 8, 55, 1985);
-
--- Surf
