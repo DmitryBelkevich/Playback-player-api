@@ -261,27 +261,27 @@ VALUES
 -- Pop, Dance
 
 -- Alice Merton - No Roots
-(DEFAULT, null, 4, 4, 116, 1660),
+(DEFAULT, null, 4, 4, 116, 11590),
 -- Maroon 5 - This Love
-(DEFAULT, null, 4, 4, 95, 1670),
+(DEFAULT, null, 4, 4, 95, 11600),
 -- IOWA - Бьёт Бит
-(DEFAULT, null, 2, 4, 110, 1680),
+(DEFAULT, null, 2, 4, 110, 11610),
 -- IOWA - Улыбайся
-(DEFAULT, null, 4, 4, 130, 1690),
+(DEFAULT, null, 4, 4, 130, 11620),
 -- Ненси - Дым сигарет с ментолом
-(DEFAULT, null, 4, 4, 75, 1730),
+(DEFAULT, null, 4, 4, 75, 111600),
 -- Форум - Белая ночь
-(DEFAULT, null, 2, 4, 126, 1745),
+(DEFAULT, null, 2, 4, 126, 111630),
 
 -- SynthPop
 
 -- Eurythmics - Sweet Dreams (Are Made of This)
-(DEFAULT, null, 4, 4, 126, 11710),
+(DEFAULT, null, 4, 4, 126, 111640),
 
 -- New school
 
 -- МУККА - ДЕВОЧКА С КАРЕ
-(DEFAULT, null, 4, 4, 150, 11740),
+(DEFAULT, null, 4, 4, 150, 1111620),
 
 -- Estrada
 

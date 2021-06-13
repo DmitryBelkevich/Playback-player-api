@@ -129,7 +129,7 @@ VALUES
 -- Кино - Группа крови
 -- (DEFAULT, '', 700),
 -- Кино - Звезда по имени Солнце
-(DEFAULT, '1690Q0jyq325Iv0Evbc1b-jeFCBdtOWmk', 710),
+(DEFAULT, '11620Q0jyq325Iv0Evbc1b-jeFCBdtOWmk', 710),
 -- Кино - Когда твоя девушка больна
 (DEFAULT, '1fPhNq-8JedX1_2mBTjztYsaIDBQqvYgA', 720),
 -- Кино - Кончится лето
@@ -260,33 +260,33 @@ VALUES
 -- Pop, Dance
 
 -- Alice Merton - No Roots
--- (DEFAULT, '', 1660),
+-- (DEFAULT, '', 11590),
 -- Maroon 5 - This Love
--- (DEFAULT, '', 1670),
+-- (DEFAULT, '', 11600),
 -- IOWA - Бьёт Бит
--- (DEFAULT, '', 1680),
+-- (DEFAULT, '', 11610),
 -- IOWA - Улыбайся
--- (DEFAULT, '', 1690),
+-- (DEFAULT, '', 11620),
 -- Ласковый май - Белые розы
-(DEFAULT, '1oSQC5SW2AFu7Q_xWGgGy-bhOPqNNPaI3', 1700),
+(DEFAULT, '1oSQC5SW2AFu7Q_xWGgGy-bhOPqNNPaI3', 11630),
 -- Ненси - Дым сигарет с ментолом
-(DEFAULT, '1BEVEH3tLqiBfc69HNHKrUF3WlwaqEvW0', 1730),
+(DEFAULT, '1BEVEH3tLqiBfc69HNHKrUF3WlwaqEvW0', 111600),
 -- Ненси - Чистый лист
-(DEFAULT, '1XDMKvweEBggsTkVWAI607DzFZvASw0gP', 1735),
+(DEFAULT, '1XDMKvweEBggsTkVWAI607DzFZvASw0gP', 111610),
 -- Сладкий сон - На белом покрывале января
-(DEFAULT, '1jCPrNwLhoo6PnG-hJaiO6gw_DZAuLKzD', 1740),
+(DEFAULT, '1jCPrNwLhoo6PnG-hJaiO6gw_DZAuLKzD', 111620),
 -- Форум - Белая ночь
-(DEFAULT, '17zGCNTb9n00-nbaevsPSRnxTxkfhsh9_', 1745),
+(DEFAULT, '17zGCNTb9n00-nbaevsPSRnxTxkfhsh9_', 111630),
 
 -- SynthPop
 
 -- Eurythmics - Sweet Dreams (Are Made of This)
--- (DEFAULT, '', 11710),
+-- (DEFAULT, '', 111640),
 
 -- New school
 
 -- МУККА - ДЕВОЧКА С КАРЕ
-(DEFAULT, '1P7kxdPdtxzSueUMbDZKm-COhjveUvjRt', 11740),
+(DEFAULT, '1P7kxdPdtxzSueUMbDZKm-COhjveUvjRt', 1111620),
 
 -- Estrada
 

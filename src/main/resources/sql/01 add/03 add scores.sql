@@ -794,43 +794,43 @@ VALUES
 -- Pop, Dance
 
 -- Ненси - Дым сигарет с ментолом
-(DEFAULT, 'Full Score', '1N4_ujdoWMgdngCZuE0K9M-sGxs5QePVa', 1730),
-(DEFAULT, 'Voice 1, Voice 2, Voice 3, Voice 4', '1k1fSgWZjsqD4Iz5Ugr3vaJIy2atQyWRd', 1730),
-(DEFAULT, 'Voice 1', '11VHrHzrowUqoU4ZS0tx6U5SBIHGwn80Y', 1730),
-(DEFAULT, 'Voice 2', '1zXOzEwVXA-3Lj-Q9XgcTRzaD8OGhLzxf', 1730),
-(DEFAULT, 'Voice 3', '1wHIw_l6LVBGdQtRYgZqc5a8nS5WleOnD', 1730),
-(DEFAULT, 'Voice 4', '1xrLyjMfB0xUTpXfig5kDWrmm4lx1TA37', 1730),
-(DEFAULT, 'Electric Guitar', '12oB-dfilkt0Vp3_rgjVOa2EXKPd_lEhW', 1730),
-(DEFAULT, 'Bass Guitar', '1FYD0eR1mcvMlplkY6OrVRBFaHo9RysUu', 1730),
-(DEFAULT, 'Drum Set', '1LMu1_WTcvr5Gr_6rZstfgctbVnRRsYYS', 1730),
-(DEFAULT, 'Piano', '17xmhbcjtgQXYUtuPMx9hoahNx4qtQxGl', 1730),
-(DEFAULT, 'Strings', '1EHPr0Tsabi3ku7ErD8g5rdzog3fI9GiG', 1730),
-(DEFAULT, 'FX 1 (Abduction)', '1h4DgOxxZ9PW-arx7_FZEiI8lbecgdIpb', 1730),
+(DEFAULT, 'Full Score', '1N4_ujdoWMgdngCZuE0K9M-sGxs5QePVa', 111600),
+(DEFAULT, 'Voice 1, Voice 2, Voice 3, Voice 4', '1k1fSgWZjsqD4Iz5Ugr3vaJIy2atQyWRd', 111600),
+(DEFAULT, 'Voice 1', '11VHrHzrowUqoU4ZS0tx6U5SBIHGwn80Y', 111600),
+(DEFAULT, 'Voice 2', '1zXOzEwVXA-3Lj-Q9XgcTRzaD8OGhLzxf', 111600),
+(DEFAULT, 'Voice 3', '1wHIw_l6LVBGdQtRYgZqc5a8nS5WleOnD', 111600),
+(DEFAULT, 'Voice 4', '1xrLyjMfB0xUTpXfig5kDWrmm4lx1TA37', 111600),
+(DEFAULT, 'Electric Guitar', '12oB-dfilkt0Vp3_rgjVOa2EXKPd_lEhW', 111600),
+(DEFAULT, 'Bass Guitar', '1FYD0eR1mcvMlplkY6OrVRBFaHo9RysUu', 111600),
+(DEFAULT, 'Drum Set', '1LMu1_WTcvr5Gr_6rZstfgctbVnRRsYYS', 111600),
+(DEFAULT, 'Piano', '17xmhbcjtgQXYUtuPMx9hoahNx4qtQxGl', 111600),
+(DEFAULT, 'Strings', '1EHPr0Tsabi3ku7ErD8g5rdzog3fI9GiG', 111600),
+(DEFAULT, 'FX 1 (Abduction)', '1h4DgOxxZ9PW-arx7_FZEiI8lbecgdIpb', 111600),
 -- Форум - Белая ночь
-(DEFAULT, 'Full Score', '1vdqQlS7fYFl8GuNulj8u3LJ_8Ffhvquy', 1745),
-(DEFAULT, 'Voice', '1Ycs6Sym5vYRNeuaUyKun1SXQFgeRPkzS', 1745),
-(DEFAULT, 'Electric Guitar', '1FErZwtkXvbZRCpJObRb-dyNNJjyvHPOO', 1745),
-(DEFAULT, 'Bass Guitar', '1Fv7gD0vcNoCTtgmnx76ZwqLYgGjoDxwd', 1745),
-(DEFAULT, 'Drum Set', '1Tptw2yyCJYpphI9PzcpPDyVwxW0PYFRH', 1745),
-(DEFAULT, 'FX 3 (Crystal), FX 4 (Atmosphere), Pad 6 (Metallic), Pad 2 (Warm), Synth Bass, Lead 8 (Bass + Lead)', '1jguvwlE7-Bn3vofaP8mLXDrTQFkOZHq7', 1745),
+(DEFAULT, 'Full Score', '1vdqQlS7fYFl8GuNulj8u3LJ_8Ffhvquy', 111630),
+(DEFAULT, 'Voice', '1Ycs6Sym5vYRNeuaUyKun1SXQFgeRPkzS', 111630),
+(DEFAULT, 'Electric Guitar', '1FErZwtkXvbZRCpJObRb-dyNNJjyvHPOO', 111630),
+(DEFAULT, 'Bass Guitar', '1Fv7gD0vcNoCTtgmnx76ZwqLYgGjoDxwd', 111630),
+(DEFAULT, 'Drum Set', '1Tptw2yyCJYpphI9PzcpPDyVwxW0PYFRH', 111630),
+(DEFAULT, 'FX 3 (Crystal), FX 4 (Atmosphere), Pad 6 (Metallic), Pad 2 (Warm), Synth Bass, Lead 8 (Bass + Lead)', '1jguvwlE7-Bn3vofaP8mLXDrTQFkOZHq7', 111630),
 
 -- SynthPop
 
 -- New school
 
 -- МУККА - ДЕВОЧКА С КАРЕ
-(DEFAULT, 'Full Score', '1N3Cpda-i9HS_nFTV4NcCsvwhOaWDu9iN', 11740),
-(DEFAULT, 'Voice 1, Voice 2', '1r8x-vlqyHYDNcbgTnU1oNcrJ6g0TRei1', 11740),
-(DEFAULT, 'Voice 1', '1ggySXYc36PRpJraU3pAd0S_exJm7yv3P', 11740),
-(DEFAULT, 'Voice 2', '11Cfo-EJhtFWBoLEK5Zoygvha671TpPGj', 11740),
-(DEFAULT, 'Electric Guitar', '1ApNbC9C4JbIWw2xC_uecpvTgCY38Y4gx', 11740),
-(DEFAULT, 'Bass Guitar', '13V-6he75jaoIpHxVcjyUIuvvduHbQOak', 11740),
-(DEFAULT, 'Drum Set', '1cjonXNTVMXwFUPyo2YNKgrFYDAfzLYk1', 11740),
-(DEFAULT, 'Cymbals', '1arThfSq2tKN65hTkuj3dHi-cton2Nk5W', 11740),
-(DEFAULT, 'Reverse Cymbals', '1Vr2D2RdX9Qay2-Ow_B8OUoK1pAjRTbn1', 11740),
-(DEFAULT, 'Lead 1 (Square)', '1WJtnrsgYaG5_oSfJ0mVN_S_WC_51Fiet', 11740),
-(DEFAULT, 'Synth Strings', '1GSeFMB6sAh9heFZlwCIRbfh9EcLEHGGs', 11740),
-(DEFAULT, 'FX 1 (Abduction)', '1n39a08XRoFgRDE_DyBJy-5AyiW8bxXPc', 11740),
+(DEFAULT, 'Full Score', '1N3Cpda-i9HS_nFTV4NcCsvwhOaWDu9iN', 1111620),
+(DEFAULT, 'Voice 1, Voice 2', '1r8x-vlqyHYDNcbgTnU1oNcrJ6g0TRei1', 1111620),
+(DEFAULT, 'Voice 1', '1ggySXYc36PRpJraU3pAd0S_exJm7yv3P', 1111620),
+(DEFAULT, 'Voice 2', '11Cfo-EJhtFWBoLEK5Zoygvha671TpPGj', 1111620),
+(DEFAULT, 'Electric Guitar', '1ApNbC9C4JbIWw2xC_uecpvTgCY38Y4gx', 1111620),
+(DEFAULT, 'Bass Guitar', '13V-6he75jaoIpHxVcjyUIuvvduHbQOak', 1111620),
+(DEFAULT, 'Drum Set', '1cjonXNTVMXwFUPyo2YNKgrFYDAfzLYk1', 1111620),
+(DEFAULT, 'Cymbals', '1arThfSq2tKN65hTkuj3dHi-cton2Nk5W', 1111620),
+(DEFAULT, 'Reverse Cymbals', '1Vr2D2RdX9Qay2-Ow_B8OUoK1pAjRTbn1', 1111620),
+(DEFAULT, 'Lead 1 (Square)', '1WJtnrsgYaG5_oSfJ0mVN_S_WC_51Fiet', 1111620),
+(DEFAULT, 'Synth Strings', '1GSeFMB6sAh9heFZlwCIRbfh9EcLEHGGs', 1111620),
+(DEFAULT, 'FX 1 (Abduction)', '1n39a08XRoFgRDE_DyBJy-5AyiW8bxXPc', 1111620),
 
 -- Estrada
 
