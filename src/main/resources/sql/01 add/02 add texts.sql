@@ -281,33 +281,33 @@ VALUES
 -- SynthPop
 
 -- Eurythmics - Sweet Dreams (Are Made of This)
--- (DEFAULT, '', 1970),
+-- (DEFAULT, '', 11710),
 
 -- New school
 
 -- МУККА - ДЕВОЧКА С КАРЕ
-(DEFAULT, '1P7kxdPdtxzSueUMbDZKm-COhjveUvjRt', 1960),
+(DEFAULT, '1P7kxdPdtxzSueUMbDZKm-COhjveUvjRt', 11740),
 
 -- Estrada
 
 -- Алла Пугачёва - Позови меня с собой
-(DEFAULT, '1Cenp7Q9riOoakC0gpJC4AeIfW0-1d6Xp', 1750),
+(DEFAULT, '1Cenp7Q9riOoakC0gpJC4AeIfW0-1d6Xp', 11750),
 -- Любэ - Конь
-(DEFAULT, '1vy_07S_ePv5LXaxTCRzlYBqjLl98bOdS', 1770),
+(DEFAULT, '1vy_07S_ePv5LXaxTCRzlYBqjLl98bOdS', 11770),
 -- Любэ - Позови меня тихо по имени
-(DEFAULT, '1box1lCMNJcxwZDNIBfDGJLK0xp9xOM3I', 1780),
+(DEFAULT, '1box1lCMNJcxwZDNIBfDGJLK0xp9xOM3I', 11780),
 -- Михаил Боярский - Зеленоглазое такси
-(DEFAULT, '1MWK5AlWW3yAKogbsQms8w1RMojxJAYYE', 1800),
+(DEFAULT, '1MWK5AlWW3yAKogbsQms8w1RMojxJAYYE', 11800),
 -- Михаил Боярский - Ланфрен-ланфра
-(DEFAULT, '1C9_ziHoyzqYDUhPbMxC4uYke8r8AqwB0', 1810),
+(DEFAULT, '1C9_ziHoyzqYDUhPbMxC4uYke8r8AqwB0', 11810),
 -- Песняры - Белоруссия
-(DEFAULT, '1XQyMxTW-rgAPJtkpjTL8dNqDswETt796', 1830),
+(DEFAULT, '1XQyMxTW-rgAPJtkpjTL8dNqDswETt796', 11830),
 -- Синяя птица - Там, где клён шумит
-(DEFAULT, '1jU1OELMO1mB8-e40pxr9ibZ8DdPXGQIK', 1850),
+(DEFAULT, '1jU1OELMO1mB8-e40pxr9ibZ8DdPXGQIK', 11850),
 -- Татьяна Дасковская - Прекрасное далёко
-(DEFAULT, '163HW7ZpJBV5e54feoiwlDbQf4r1nptFz', 1860),
+(DEFAULT, '163HW7ZpJBV5e54feoiwlDbQf4r1nptFz', 11860),
 -- Ярослав Евдокимов - Фантазёр
-(DEFAULT, '1aVMCjQqYjtUh4lka4jdx-BNudi3LBRIR', 1870),
+(DEFAULT, '1aVMCjQqYjtUh4lka4jdx-BNudi3LBRIR', 11870),
 
 -- Chanson
 

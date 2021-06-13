@@ -276,29 +276,29 @@ VALUES
 -- SynthPop
 
 -- Eurythmics - Sweet Dreams (Are Made of This)
-(DEFAULT, null, 4, 4, 126, 1970),
+(DEFAULT, null, 4, 4, 126, 11710),
 
 -- New school
 
 -- МУККА - ДЕВОЧКА С КАРЕ
-(DEFAULT, null, 4, 4, 150, 1960),
+(DEFAULT, null, 4, 4, 150, 11740),
 
 -- Estrada
 
 -- Алла Пугачёва - Позови меня с собой
-(DEFAULT, null, 4, 4, 84, 1750),
+(DEFAULT, null, 4, 4, 84, 11750),
 -- Любэ - Конь
-(DEFAULT, null, 4, 4, 80, 1770),
+(DEFAULT, null, 4, 4, 80, 11770),
 -- Любэ - Позови меня тихо по имени
-(DEFAULT, null, 6, 8, 60, 1780),
+(DEFAULT, null, 6, 8, 60, 11780),
 -- Михаил Боярский - Зеленоглазое такси
-(DEFAULT, null, 4, 4, 104, 1800),
+(DEFAULT, null, 4, 4, 104, 11800),
 -- Песняры - Белоруссия
-(DEFAULT, null, 4, 4, 100, 1830),
+(DEFAULT, null, 4, 4, 100, 11830),
 -- Синяя птица - Там, где клён шумит
-(DEFAULT, null, 2, 4, 65, 1850),
+(DEFAULT, null, 2, 4, 65, 11850),
 -- Татьяна Дасковская - Прекрасное далёко
-(DEFAULT, null, 4, 4, 100, 1860),
+(DEFAULT, null, 4, 4, 100, 11860),
 
 -- Chanson
 

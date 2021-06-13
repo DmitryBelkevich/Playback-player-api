@@ -361,31 +361,31 @@ VALUES
 -- SynthPop
 
 -- Eurythmics - Sweet Dreams (Are Made of This)
-(DEFAULT, 'original', '1WiC6XGzYRXTpMTtVS6qtJ0Iq6MUI9d1q', 1970),
+(DEFAULT, 'original', '1WiC6XGzYRXTpMTtVS6qtJ0Iq6MUI9d1q', 11710),
 
 -- New school
 
 -- МУККА - ДЕВОЧКА С КАРЕ
-(DEFAULT, 'original', '1r8qHmacix9KerOKNRxE3Lll0ks-orfVp', 1960),
-(DEFAULT, '0', '1lXW4sMNrEPN81f3I_HsaWL8AuwmfmWau', 1960),
-(DEFAULT, '-3', '1lXYOBYqm0QR2gzNBGgfoYPlkQUsQMOJv', 1960),
+(DEFAULT, 'original', '1r8qHmacix9KerOKNRxE3Lll0ks-orfVp', 11740),
+(DEFAULT, '0', '1lXW4sMNrEPN81f3I_HsaWL8AuwmfmWau', 11740),
+(DEFAULT, '-3', '1lXYOBYqm0QR2gzNBGgfoYPlkQUsQMOJv', 11740),
 
 -- Estrada
 
 -- Алла Пугачёва - Позови меня с собой
-(DEFAULT, 'original', '1Zjpe_x6UWTHkUssAu53MP-5sORdFCrFc', 1750),
-(DEFAULT, '0', '1u_nmmPVgOW7QmzwLxWK6SHmc3aPWZB82', 1750),
+(DEFAULT, 'original', '1Zjpe_x6UWTHkUssAu53MP-5sORdFCrFc', 11750),
+(DEFAULT, '0', '1u_nmmPVgOW7QmzwLxWK6SHmc3aPWZB82', 11750),
 -- Любэ - Конь
-(DEFAULT, 'original', '1gdEaL0CGCfCpIQYjoGrEuF57020mnmkS', 1770),
+(DEFAULT, 'original', '1gdEaL0CGCfCpIQYjoGrEuF57020mnmkS', 11770),
 -- Любэ - Позови меня тихо по имени
-(DEFAULT, 'original', '1e9FkKo4ws0-OwjaUZhEZZNvb1cepK6Um', 1780),
+(DEFAULT, 'original', '1e9FkKo4ws0-OwjaUZhEZZNvb1cepK6Um', 11780),
 -- Михаил Боярский - Зеленоглазое такси
-(DEFAULT, 'original', '1TJEQsSf_fhbmfCv9nc82Sxh0P9zSqNmB', 1800),
-(DEFAULT, '0', '1kQHGP2fELW804Z_kJTprPrUmwbORDMS8', 1800),
+(DEFAULT, 'original', '1TJEQsSf_fhbmfCv9nc82Sxh0P9zSqNmB', 11800),
+(DEFAULT, '0', '1kQHGP2fELW804Z_kJTprPrUmwbORDMS8', 11800),
 -- Синяя птица - Там, где клён шумит
-(DEFAULT, 'original', '1_vGMqVWwZvAT7sLJNpITKCBBcaaCkcKY', 1850),
-(DEFAULT, '0', '1wlHDu22rywGc5OvDFwmquO4Q24wooPQo', 1850),
-(DEFAULT, '-2', '1Cja_cMlr2gg-dFAOoEvbx1PPR_WP0JAq', 1850),
+(DEFAULT, 'original', '1_vGMqVWwZvAT7sLJNpITKCBBcaaCkcKY', 11850),
+(DEFAULT, '0', '1wlHDu22rywGc5OvDFwmquO4Q24wooPQo', 11850),
+(DEFAULT, '-2', '1Cja_cMlr2gg-dFAOoEvbx1PPR_WP0JAq', 11850),
 
 -- Chanson
 
