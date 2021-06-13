@@ -68,29 +68,29 @@ VALUES
 -- N.R.M. - Тры чарапахі
 -- (DEFAULT, '', 1170),
 -- Агата Кристи - Как на войне
-(DEFAULT, '1RyOu58rkrFU4jGd1iUja4pjevEnoVzUf', 300),
+(DEFAULT, '1RyOu58rkrFU4jGd1iUja4pjevEnoVzUf', 1180),
 -- Агата Кристи - Никогда
-(DEFAULT, '1kxnvn2IoxMf8tG4brhGg3xtfSeNVMb-l', 310),
+(DEFAULT, '1kxnvn2IoxMf8tG4brhGg3xtfSeNVMb-l', 1190),
 -- Аквариум - Город золотой
-(DEFAULT, '1ioMOPIKqppfNx_tNX67ONu1lUGCHq1th', 320),
+(DEFAULT, '1ioMOPIKqppfNx_tNX67ONu1lUGCHq1th', 1200),
 -- Алексин - Малолетние шалавы
-(DEFAULT, '1vayh9CHsO46ZU3pSGBLVEA9MLP9axNxK', 325),
+(DEFAULT, '1vayh9CHsO46ZU3pSGBLVEA9MLP9axNxK', 1210),
 -- Альянс - На заре
-(DEFAULT, '1qsxOUZ-vt8B-6oJhbfbg-EezKGF4lczq', 340),
+(DEFAULT, '1qsxOUZ-vt8B-6oJhbfbg-EezKGF4lczq', 1220),
 -- АукцЫон - Дорога
--- (DEFAULT, '', 390),
+-- (DEFAULT, '', 1230),
 -- Би-2 - Варвара
-(DEFAULT, '1DfMY_2rw12iALZZIXj2l-Ue0c9I7UFAr', 400),
+(DEFAULT, '1DfMY_2rw12iALZZIXj2l-Ue0c9I7UFAr', 1240),
 -- Би-2 - Компромисс
--- (DEFAULT, '', 410),
+-- (DEFAULT, '', 1250),
 -- Би-2 - Мой рок-н-ролл
--- (DEFAULT, '', 420),
+-- (DEFAULT, '', 1260),
 -- Би-2 - Полковнику никто не пишет
-(DEFAULT, '1LlOHnnq-wIJewkeKhE-BV3E53LDGkXtA', 430),
+(DEFAULT, '1LlOHnnq-wIJewkeKhE-BV3E53LDGkXtA', 1270),
 -- Би-2 - Серебро
--- (DEFAULT, '', 440),
+-- (DEFAULT, '', 1280),
 -- Валентин Стрыкало - Наше лето
-(DEFAULT, '1QswkDz8eZfFXHIgSetji7mDjvxafqNMe', 450),
+(DEFAULT, '1QswkDz8eZfFXHIgSetji7mDjvxafqNMe', 1290),
 -- Город 312 - Останусь
 (DEFAULT, '12IlYKTH1UU6WgYTVlH1bMsZSloz7YOL8', 455),
 -- Гражданская оборона - Всё идёт по плану

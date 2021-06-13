@@ -93,44 +93,44 @@ VALUES
 (DEFAULT, 'original', '1H7jiqp_ThTuJGsGMonkrBvBajD4ujQKj', 1170),
 (DEFAULT, '-2', '1qh1gezTgkSEkkL36HPIjrAJAFDEBE84M', 1170),
 -- Агата Кристи - Как на войне
-(DEFAULT, 'original', '1yfNtoBHW9lveJNCAoDdH3Hj5rW_v6ZbB', 300),
-(DEFAULT, '0', '1JZdpTjJJGW6lFcUF8m8px3f2ry_IOpSC', 300),
-(DEFAULT, '-2', '19W1-SPlJytjM7u5HO21PHIstZYrAXbGd', 300),
+(DEFAULT, 'original', '1yfNtoBHW9lveJNCAoDdH3Hj5rW_v6ZbB', 1180),
+(DEFAULT, '0', '1JZdpTjJJGW6lFcUF8m8px3f2ry_IOpSC', 1180),
+(DEFAULT, '-2', '19W1-SPlJytjM7u5HO21PHIstZYrAXbGd', 1180),
 -- Агата Кристи - Никогда
-(DEFAULT, 'original', '1UQW9aBdBCpTnLoVMNxZpqyeRU91jiw0v', 310),
-(DEFAULT, '0', '1terxHMtjZUFx1sxeynCpE3NwdWTRoGw7', 310),
-(DEFAULT, '-2', '1wfmeUruVcHNRGKM9ViNzr8HJuCmVcXJs', 310),
+(DEFAULT, 'original', '1UQW9aBdBCpTnLoVMNxZpqyeRU91jiw0v', 1190),
+(DEFAULT, '0', '1terxHMtjZUFx1sxeynCpE3NwdWTRoGw7', 1190),
+(DEFAULT, '-2', '1wfmeUruVcHNRGKM9ViNzr8HJuCmVcXJs', 1190),
 -- Аквариум - Город золотой
-(DEFAULT, 'original', '1SJOhp6-EYnR0NeEAWTXGnLGecDyS5L0D', 320),
-(DEFAULT, '0', '1Y1Z8L9_N7Er8ma3xd_AJ3YGiuNle1kY5', 320),
-(DEFAULT, '-2', '1_91wLHOLYrLFEXs7waRC-ixYzoxgjy8X', 320),
+(DEFAULT, 'original', '1SJOhp6-EYnR0NeEAWTXGnLGecDyS5L0D', 1200),
+(DEFAULT, '0', '1Y1Z8L9_N7Er8ma3xd_AJ3YGiuNle1kY5', 1200),
+(DEFAULT, '-2', '1_91wLHOLYrLFEXs7waRC-ixYzoxgjy8X', 1200),
 -- Альянс - На заре
-(DEFAULT, 'original', '16ggNNQ-pwjX5AOGOGkgvpvvSt-bIIW7h', 340),
-(DEFAULT, '0', '1ukd4mUa6X0r5jSkvdfw-6cSGIAQtDdoq', 340),
-(DEFAULT, '-2', '18ms3gtRdtk_gp3SJHzj1H8C4p0fqrh5e', 340),
-(DEFAULT, '-3', '1Tt3GKqXIGgqDCfD6lyElUnR6Px7K4v5l', 340),
+(DEFAULT, 'original', '16ggNNQ-pwjX5AOGOGkgvpvvSt-bIIW7h', 1220),
+(DEFAULT, '0', '1ukd4mUa6X0r5jSkvdfw-6cSGIAQtDdoq', 1220),
+(DEFAULT, '-2', '18ms3gtRdtk_gp3SJHzj1H8C4p0fqrh5e', 1220),
+(DEFAULT, '-3', '1Tt3GKqXIGgqDCfD6lyElUnR6Px7K4v5l', 1220),
 -- АукцЫон - Дорога
-(DEFAULT, '0', '1xl9crJCQ64aaP5sEFrKrX25LdvCRX231', 390),
+(DEFAULT, '0', '1xl9crJCQ64aaP5sEFrKrX25LdvCRX231', 1230),
 -- Би-2 - Варвара
-(DEFAULT, 'original', '1_KPpISEs09R8_qKFfg0IzhgRXvrumdoC', 400),
-(DEFAULT, '0', '11-oGLE6TPevLuVjf0Nbu8_DFDhTmXnh0', 400),
-(DEFAULT, '-2', '1NWYsosP8jPLQOzyB3KscW89WRfaWJH-9', 400),
+(DEFAULT, 'original', '1_KPpISEs09R8_qKFfg0IzhgRXvrumdoC', 1240),
+(DEFAULT, '0', '11-oGLE6TPevLuVjf0Nbu8_DFDhTmXnh0', 1240),
+(DEFAULT, '-2', '1NWYsosP8jPLQOzyB3KscW89WRfaWJH-9', 1240),
 -- Би-2 - Компромисс
-(DEFAULT, 'original', '1IgM7YTqyob7Qje_1jfukRep1WTX4reFl', 410),
-(DEFAULT, '0', '15WeVD1P4z9tL_FsMxEYKlIfDUUNTZAk0', 410),
+(DEFAULT, 'original', '1IgM7YTqyob7Qje_1jfukRep1WTX4reFl', 1250),
+(DEFAULT, '0', '15WeVD1P4z9tL_FsMxEYKlIfDUUNTZAk0', 1250),
 -- Би-2 - Мой рок-н-ролл
-(DEFAULT, 'original', '1Arw7ZR1CwW42EYK083Zs3hGq22IMue-o', 420),
-(DEFAULT, '0', '14JuAi_bWoQ8LAV0Y_KOobf_1xKpvo6pO', 420),
+(DEFAULT, 'original', '1Arw7ZR1CwW42EYK083Zs3hGq22IMue-o', 1260),
+(DEFAULT, '0', '14JuAi_bWoQ8LAV0Y_KOobf_1xKpvo6pO', 1260),
 -- Би-2 - Полковнику никто не пишет
-(DEFAULT, 'original', '1jsIWOVrWu8uQw1zgOQWLV2MhiYPCRS_J', 430),
-(DEFAULT, '0', '1FDIHNKcE8FpI7BMjBuJQyxzpGv3pExn4', 430),
+(DEFAULT, 'original', '1jsIWOVrWu8uQw1zgOQWLV2MhiYPCRS_J', 1270),
+(DEFAULT, '0', '1FDIHNKcE8FpI7BMjBuJQyxzpGv3pExn4', 1270),
 -- Би-2 - Серебро
-(DEFAULT, '0', '1Ac_cL6FNXlYjTcHUxis6ruoaY_wT80JJ', 440),
+(DEFAULT, '0', '1Ac_cL6FNXlYjTcHUxis6ruoaY_wT80JJ', 1280),
 -- Валентин Стрыкало - Наше лето
-(DEFAULT, 'original', '11EgRxJwhiEixT0Ucsx94ND0ENLpIJOZ9', 450),
-(DEFAULT, '+3', '1sxCjEUXgeFZucHx0a7g2ZYyDAsTqAWLM', 450),
-(DEFAULT, '0', '19V5F2fYUZkSX42Rc35xFPe-IAGB72_EE', 450),
-(DEFAULT, '-2', '1_pok6JtLQb7apnORc6zTP_MvfHIej9SU', 450),
+(DEFAULT, 'original', '11EgRxJwhiEixT0Ucsx94ND0ENLpIJOZ9', 1290),
+(DEFAULT, '+3', '1sxCjEUXgeFZucHx0a7g2ZYyDAsTqAWLM', 1290),
+(DEFAULT, '0', '19V5F2fYUZkSX42Rc35xFPe-IAGB72_EE', 1290),
+(DEFAULT, '-2', '1_pok6JtLQb7apnORc6zTP_MvfHIej9SU', 1290),
 -- Гражданская оборона - Всё идёт по плану
 -- Гражданская оборона - Всё как у людей
 -- Гражданская оборона - Зоопарк
