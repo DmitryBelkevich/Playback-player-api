@@ -400,4 +400,4 @@ VALUES
 -- Стас Михайлов - Всё для тебя
 (DEFAULT, 'original', '1uvuqFZgbi4Udv7OxQBV80ZVFLBfq854T', 11920),
 (DEFAULT, '0', '1V1IB0ytfO-tmITvw61H8HQfoJApl2t8S', 11920),
-(DEFAULT, '-2', '1MdgOIonLWyrrUr67zvOiTnEwdwJ8GGQt', 1920);
+(DEFAULT, '-2', '1MdgOIonLWyrrUr67zvOiTnEwdwJ8GGQt', 11920);

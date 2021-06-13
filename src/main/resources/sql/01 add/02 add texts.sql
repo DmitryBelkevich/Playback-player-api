@@ -318,4 +318,4 @@ VALUES
 -- Стас Михайлов - Всё для тебя
 (DEFAULT, '115SIVb_I9hp3c0eddvavWoQG0W9tiYpQ', 11920),
 -- Стас Михайлов - Свеча
-(DEFAULT, '1IANgFVOF6AKg5vcRxnoy70qhL2qfywC-', 1930);
+(DEFAULT, '1IANgFVOF6AKg5vcRxnoy70qhL2qfywC-', 11930);
