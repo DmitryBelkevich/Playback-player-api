@@ -178,38 +178,38 @@ VALUES
 -- (DEFAULT, '', 930),
 -- Ленинград - Терминатор
 -- Леприконсы - Хали-Гали
-(DEFAULT, '12xaoXoOWWzVsseQLkDb4ifdSEGFocw-x', 1180),
+(DEFAULT, '12xaoXoOWWzVsseQLkDb4ifdSEGFocw-x', 1980),
 -- Ляпис Трубецкой - Ау
-(DEFAULT, '1eKdLn6OS7gtWd5i-sXHIvIqS3KjNsbhG', 1190),
+(DEFAULT, '1eKdLn6OS7gtWd5i-sXHIvIqS3KjNsbhG', 1990),
 -- Ляпис Трубецкой - Воины света
--- (DEFAULT, '', 1200),
+-- (DEFAULT, '', 2000),
 -- Ляпис Трубецкой - В платье белом
-(DEFAULT, '1Ar433wQqH0cWsVSG7uxgaWLJXTA8Yu2f', 1210),
+(DEFAULT, '1Ar433wQqH0cWsVSG7uxgaWLJXTA8Yu2f', 2010),
 -- Ляпис Трубецкой - Грай
-(DEFAULT, '1k0MvridMbFhgQ5vqriWfMol-zR505772', 1220),
+(DEFAULT, '1k0MvridMbFhgQ5vqriWfMol-zR505772', 2020),
 -- Ляпис Трубецкой - Евпатория
-(DEFAULT, '1Ot5bo28jB0I-lG7EhCE0RRDO-ldrMjTH', 1230),
+(DEFAULT, '1Ot5bo28jB0I-lG7EhCE0RRDO-ldrMjTH', 2030),
 -- Ляпис Трубецкой - Капитал
-(DEFAULT, '10DO8XBy4mWEQYzs-Qevk97iAzIWOafh8', 1240),
+(DEFAULT, '10DO8XBy4mWEQYzs-Qevk97iAzIWOafh8', 2040),
 -- Ляпис Трубецкой - Манифест
-(DEFAULT, '1EStGmBL6WImHv0nr53gkLaY8EKuIy-Ol', 1250),
+(DEFAULT, '1EStGmBL6WImHv0nr53gkLaY8EKuIy-Ol', 2050),
 -- Ляпис Трубецкой - Не быць скотам!
--- (DEFAULT, '', 1260),
+-- (DEFAULT, '', 2060),
 -- Ляпис Трубецкой - Belarus Freedom
--- (DEFAULT, '', 1270),
+-- (DEFAULT, '', 2070),
 -- Ляпис Трубецкой - Огоньки
-(DEFAULT, '12ylxk_rIRqfPfdCf2fzt1PgGrKhFgzAK', 1280),
+(DEFAULT, '12ylxk_rIRqfPfdCf2fzt1PgGrKhFgzAK', 2080),
 -- Ляпис Трубецкой - Паренёк под следствием
-(DEFAULT, '1xfFoATCysKI4PFRI7mE0UR3y2EDbq0oS', 1290),
+(DEFAULT, '1xfFoATCysKI4PFRI7mE0UR3y2EDbq0oS', 2090),
 -- Ляпис Трубецкой - Сочи
--- (DEFAULT, '', 1300),
+-- (DEFAULT, '', 2100),
 -- Ляпис Трубецкой - Танцуй
-(DEFAULT, '129SCr_IPCDKmHB7kP3aAwUZt1IymQDjE', 1310),
+(DEFAULT, '129SCr_IPCDKmHB7kP3aAwUZt1IymQDjE', 2110),
 -- Ляпис Трубецкой - Шут
-(DEFAULT, '1QO5Ds4nPhpplLcIaUUDssABBw4Scf95t', 1320),
+(DEFAULT, '1QO5Ds4nPhpplLcIaUUDssABBw4Scf95t', 2120),
 -- Ляпис Трубецкой - Яблони
 -- Ляпис Трубецкой - Я верю
-(DEFAULT, '1cRWUgp0kLuD1gycmz6EPDGfzCB3AeNg_', 1340),
+(DEFAULT, '1cRWUgp0kLuD1gycmz6EPDGfzCB3AeNg_', 2140),
 -- Мумий Тролль - Владивосток 2000
 (DEFAULT, '1Lp4x49dw1LFzzct_gLN8WFVtvG1eEDLv', 1350),
 -- Мумий Тролль - Медведица

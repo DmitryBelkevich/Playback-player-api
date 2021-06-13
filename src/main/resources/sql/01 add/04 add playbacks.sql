@@ -235,45 +235,45 @@ VALUES
 (DEFAULT, '0', '1LOnxBYpYtcoja0RdESC9xufAG64NNo40', 930),
 -- Ленинград - Терминатор
 -- Леприконсы - Хали-Гали
-(DEFAULT, '-2', '12RUbq0rDW1qhWrGkBSPeocxVq163m8xL', 1180),
+(DEFAULT, '-2', '12RUbq0rDW1qhWrGkBSPeocxVq163m8xL', 1980),
 -- Ляпис Трубецкой - Ау
-(DEFAULT, '0', '1w6zwBojmXn3OVL7gNft3QEqHkVPh-lG9', 1190),
+(DEFAULT, '0', '1w6zwBojmXn3OVL7gNft3QEqHkVPh-lG9', 1990),
 -- Ляпис Трубецкой - Воины света
-(DEFAULT, 'original', '1XCrCRLugOStGdUkn8fp_-7_ExGQhR26H', 1200),
-(DEFAULT, '-2', '16DvdFQu1brxhXkJpUUD-ohQaM9nX_2X5', 1200),
+(DEFAULT, 'original', '1XCrCRLugOStGdUkn8fp_-7_ExGQhR26H', 2000),
+(DEFAULT, '-2', '16DvdFQu1brxhXkJpUUD-ohQaM9nX_2X5', 2000),
 -- Ляпис Трубецкой - В платье белом
-(DEFAULT, '-2', '1eZQwihWm2xW-tKuqrpH2x_2qcAhdglm1', 1210),
+(DEFAULT, '-2', '1eZQwihWm2xW-tKuqrpH2x_2qcAhdglm1', 2010),
 -- Ляпис Трубецкой - Грай
-(DEFAULT, 'original', '1Xycelip9Uav7ZwpJ7o6i4xZhTHSmByvz', 1220),
-(DEFAULT, '0', '1cERqWvAlQLx1xqcKIppf6Ftfuvdhjv8X', 1220),
-(DEFAULT, '-2', '1G983EivCCvsce-ax1V7TLQWRSVtoeLEC', 1220),
+(DEFAULT, 'original', '1Xycelip9Uav7ZwpJ7o6i4xZhTHSmByvz', 2020),
+(DEFAULT, '0', '1cERqWvAlQLx1xqcKIppf6Ftfuvdhjv8X', 2020),
+(DEFAULT, '-2', '1G983EivCCvsce-ax1V7TLQWRSVtoeLEC', 2020),
 -- Ляпис Трубецкой - Евпатория
-(DEFAULT, '-2', '1qCZ3P_Z3de39NgmTKwDJuqG5QM2qp_86', 1230),
+(DEFAULT, '-2', '1qCZ3P_Z3de39NgmTKwDJuqG5QM2qp_86', 2030),
 -- Ляпис Трубецкой - Капитал
-(DEFAULT, 'original', '1IuRBaCdhtyEMe8G4Su0GrlFHFlgR-th1', 1240),
-(DEFAULT, '0', '1RevqZU15nwqcDvyUxQsIQPx5TGMYWMZf', 1240),
+(DEFAULT, 'original', '1IuRBaCdhtyEMe8G4Su0GrlFHFlgR-th1', 2040),
+(DEFAULT, '0', '1RevqZU15nwqcDvyUxQsIQPx5TGMYWMZf', 2040),
 -- Ляпис Трубецкой - Манифест
-(DEFAULT, 'original', '1S3UunphRtnHia7WLnBW-X_yrC8aMkbSJ', 1250),
-(DEFAULT, '0', '1b-t0aXIamfFcKGEHGvhQ5oZKNj0nxZiT', 1250),
+(DEFAULT, 'original', '1S3UunphRtnHia7WLnBW-X_yrC8aMkbSJ', 2050),
+(DEFAULT, '0', '1b-t0aXIamfFcKGEHGvhQ5oZKNj0nxZiT', 2050),
 -- Ляпис Трубецкой - Не быць скотам!
-(DEFAULT, 'original', '1rqg5XSxEbhDHnLhOgr8lUSZlFmppKqAk', 1260),
+(DEFAULT, 'original', '1rqg5XSxEbhDHnLhOgr8lUSZlFmppKqAk', 2060),
 -- Ляпис Трубецкой - Belarus Freedom
-(DEFAULT, 'original', '1kX6ECO39N49fBFBmrlZoOfyT7UeTm2Dx', 1270),
+(DEFAULT, 'original', '1kX6ECO39N49fBFBmrlZoOfyT7UeTm2Dx', 2070),
 -- Ляпис Трубецкой - Огоньки
-(DEFAULT, '0', '17zGUoMypAzM8O-R1s1_jZy3fTjRFvFwq', 1280),
+(DEFAULT, '0', '17zGUoMypAzM8O-R1s1_jZy3fTjRFvFwq', 2080),
 -- Ляпис Трубецкой - Паренёк под следствием
 -- Ляпис Трубецкой - Сочи
-(DEFAULT, '0', '1Jy3OI-UAmh77i51bf7E_kGk055S1a5JJ', 1300),
+(DEFAULT, '0', '1Jy3OI-UAmh77i51bf7E_kGk055S1a5JJ', 2100),
 -- Ляпис Трубецкой - Танцуй
-(DEFAULT, '0', '1smYkPrjJig_y-ozvJ0edmLizmyjFoiNa', 1310),
+(DEFAULT, '0', '1smYkPrjJig_y-ozvJ0edmLizmyjFoiNa', 2110),
 -- Ляпис Трубецкой - Шут
-(DEFAULT, '-2', '1ZYFVpydRIlHJDfVCKjDmSV4lOahAlX4A', 1320),
+(DEFAULT, '-2', '1ZYFVpydRIlHJDfVCKjDmSV4lOahAlX4A', 2120),
 -- Ляпис Трубецкой - Яблони
 -- Ляпис Трубецкой - Я верю
-(DEFAULT, 'original', '1YAQLe1erw3zsXEzsFBgkXj6PcJnTfiNa', 1340),
-(DEFAULT, '0', '1vA7BqvJJk4pStzV2skYssS9aJDkUJEic', 1340),
-(DEFAULT, '-1', '1ODKjDfe4UqcNT6l1fLe9GX8E8WGPJE_G', 1340),
-(DEFAULT, '-2', '13I2CTCJ3QZkf-Zk7RaFcl-4ojE4gyR43', 1340),
+(DEFAULT, 'original', '1YAQLe1erw3zsXEzsFBgkXj6PcJnTfiNa', 2140),
+(DEFAULT, '0', '1vA7BqvJJk4pStzV2skYssS9aJDkUJEic', 2140),
+(DEFAULT, '-1', '1ODKjDfe4UqcNT6l1fLe9GX8E8WGPJE_G', 2140),
+(DEFAULT, '-2', '13I2CTCJ3QZkf-Zk7RaFcl-4ojE4gyR43', 2140),
 -- Мумий Тролль - Владивосток 2000
 (DEFAULT, '0', '1XLMZNAxiQKvaufDAXmf5hMtMB0lNCoh0', 1350),
 -- Мумий Тролль - Медведица
