@@ -223,6 +223,8 @@ VALUES
 (DEFAULT, '1QQJOpryy3Ql1Q-ohD79cFfLNx-OStbsL', 2220),
 -- Наутилус Помпилиус - Скованные одной цепью
 (DEFAULT, '16zNVtGePNVZzwwA0tAncJcmZdFP7HPzJ', 2230),
+-- Наутилус Помпилиус - Чёрные птицы
+(DEFAULT, '1t59tt8JO4WuKtDV0ByF3_lmqjEptfloK', 2240),
 -- Наутилус Помпилиус - Я хочу быть с тобой
 (DEFAULT, '1E02LHvaWLLtgYsaFdBY9QczgbNs7X2Qy', 2250),
 -- Порнофильмы - Я так соскучился
