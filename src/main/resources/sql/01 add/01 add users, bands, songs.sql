@@ -77,10 +77,10 @@ VALUES
     (285, 'Чичерина'),
 
     -- Blues
-    (395, 'Gary Moore'),
+    (287, 'Gary Moore'),
 
     -- Surf
-    (400, 'Dick Dale, The Del Tones'),
+    (288, 'Dick Dale, The Del Tones'),
 
     -- Pop, Dance
     (290, 'Alice Merton'),
@@ -276,13 +276,13 @@ VALUES
        (1650, 'Ту-лу-ла', 285, 'C#m'),
 
        -- Blues
-       (1975, 'Parisienne Walkways', 395, null),
-       (1980, 'Still Got the Blues', 395, null),
-       (1985, 'The Loner', 395, 'Gm'),
-       (1990, 'The Prophet', 395, null),
+       (1975, 'Parisienne Walkways', 287, null),
+       (1980, 'Still Got the Blues', 287, null),
+       (1985, 'The Loner', 287, 'Gm'),
+       (1990, 'The Prophet', 287, null),
 
        -- Surf
-       (2000, 'Misirlou', 400, null),
+       (2000, 'Misirlou', 288, null),
 
        -- Pop, Dance
        (1660, 'No Roots', 290, 'Bm'),
