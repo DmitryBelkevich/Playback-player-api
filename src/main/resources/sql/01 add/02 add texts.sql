@@ -211,16 +211,16 @@ VALUES
 -- Ляпис Трубецкой - Я верю
 (DEFAULT, '1cRWUgp0kLuD1gycmz6EPDGfzCB3AeNg_', 2140),
 -- Мумий Тролль - Владивосток 2000
-(DEFAULT, '1Lp4x49dw1LFzzct_gLN8WFVtvG1eEDLv', 1350),
+(DEFAULT, '1Lp4x49dw1LFzzct_gLN8WFVtvG1eEDLv', 2150),
 -- Мумий Тролль - Медведица
--- (DEFAULT, '', 1360),
+-- (DEFAULT, '', 2160),
 -- Наутилус Помпилиус - Дыхание
 -- Наутилус Помпилиус - Крылья
 -- Наутилус Помпилиус - Последнее письмо
--- (DEFAULT, '', 1410),
+-- (DEFAULT, '', 2210),
 -- Наутилус Помпилиус - Прогулки по воде
 -- Наутилус Помпилиус - Скованные одной цепью
-(DEFAULT, '16zNVtGePNVZzwwA0tAncJcmZdFP7HPzJ', 1430),
+(DEFAULT, '16zNVtGePNVZzwwA0tAncJcmZdFP7HPzJ', 2230),
 -- Наутилус Помпилиус - Я хочу быть с тобой
 -- Порнофильмы - Я так соскучился
 (DEFAULT, '1lL6BOSpselagLAFSTzCk4vLrVsfRAMBo', 1460),
