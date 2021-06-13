@@ -216,12 +216,15 @@ VALUES
 -- (DEFAULT, '', 2160),
 -- Наутилус Помпилиус - Дыхание
 -- Наутилус Помпилиус - Крылья
+(DEFAULT, '1ePNwJkARW-e8oqHK25iQ68CJyo7Pmfuw', 2180),
 -- Наутилус Помпилиус - Последнее письмо
--- (DEFAULT, '', 2210),
+(DEFAULT, '18j0ywECQmsubBfPBWf3zW9X88SlkR3hL', 2210),
 -- Наутилус Помпилиус - Прогулки по воде
+(DEFAULT, '1QQJOpryy3Ql1Q-ohD79cFfLNx-OStbsL', 2220),
 -- Наутилус Помпилиус - Скованные одной цепью
 (DEFAULT, '16zNVtGePNVZzwwA0tAncJcmZdFP7HPzJ', 2230),
 -- Наутилус Помпилиус - Я хочу быть с тобой
+(DEFAULT, '1E02LHvaWLLtgYsaFdBY9QczgbNs7X2Qy', 2250),
 -- Порнофильмы - Я так соскучился
 (DEFAULT, '1lL6BOSpselagLAFSTzCk4vLrVsfRAMBo', 2260),
 -- Сектор Газа - 30 лет
@@ -296,6 +299,8 @@ VALUES
 (DEFAULT, '1vy_07S_ePv5LXaxTCRzlYBqjLl98bOdS', 8020),
 -- Любэ - Позови меня тихо по имени
 (DEFAULT, '1box1lCMNJcxwZDNIBfDGJLK0xp9xOM3I', 8030),
+-- Михаил Боярский - Всё пройдёт
+(DEFAULT, '1ipmmMbkZcfbmgVN5m4yrxP-GK6LRZMeB', 8045),
 -- Михаил Боярский - Зеленоглазое такси
 (DEFAULT, '1MWK5AlWW3yAKogbsQms8w1RMojxJAYYE', 8050),
 -- Михаил Боярский - Ланфрен-ланфра
