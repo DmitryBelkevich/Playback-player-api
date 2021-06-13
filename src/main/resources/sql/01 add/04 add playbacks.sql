@@ -373,31 +373,31 @@ VALUES
 -- Estrada
 
 -- Алла Пугачёва - Позови меня с собой
-(DEFAULT, 'original', '1Zjpe_x6UWTHkUssAu53MP-5sORdFCrFc', 11750),
-(DEFAULT, '0', '1u_nmmPVgOW7QmzwLxWK6SHmc3aPWZB82', 11750),
+(DEFAULT, 'original', '1Zjpe_x6UWTHkUssAu53MP-5sORdFCrFc', 7000),
+(DEFAULT, '0', '1u_nmmPVgOW7QmzwLxWK6SHmc3aPWZB82', 7000),
 -- Любэ - Конь
-(DEFAULT, 'original', '1gdEaL0CGCfCpIQYjoGrEuF57020mnmkS', 11770),
+(DEFAULT, 'original', '1gdEaL0CGCfCpIQYjoGrEuF57020mnmkS', 7020),
 -- Любэ - Позови меня тихо по имени
-(DEFAULT, 'original', '1e9FkKo4ws0-OwjaUZhEZZNvb1cepK6Um', 11780),
+(DEFAULT, 'original', '1e9FkKo4ws0-OwjaUZhEZZNvb1cepK6Um', 7030),
 -- Михаил Боярский - Зеленоглазое такси
-(DEFAULT, 'original', '1TJEQsSf_fhbmfCv9nc82Sxh0P9zSqNmB', 11800),
-(DEFAULT, '0', '1kQHGP2fELW804Z_kJTprPrUmwbORDMS8', 11800),
+(DEFAULT, 'original', '1TJEQsSf_fhbmfCv9nc82Sxh0P9zSqNmB', 7050),
+(DEFAULT, '0', '1kQHGP2fELW804Z_kJTprPrUmwbORDMS8', 7050),
 -- Синяя птица - Там, где клён шумит
-(DEFAULT, 'original', '1_vGMqVWwZvAT7sLJNpITKCBBcaaCkcKY', 11850),
-(DEFAULT, '0', '1wlHDu22rywGc5OvDFwmquO4Q24wooPQo', 11850),
-(DEFAULT, '-2', '1Cja_cMlr2gg-dFAOoEvbx1PPR_WP0JAq', 11850),
+(DEFAULT, 'original', '1_vGMqVWwZvAT7sLJNpITKCBBcaaCkcKY', 7100),
+(DEFAULT, '0', '1wlHDu22rywGc5OvDFwmquO4Q24wooPQo', 7100),
+(DEFAULT, '-2', '1Cja_cMlr2gg-dFAOoEvbx1PPR_WP0JAq', 7100),
 
 -- Chanson
 
 -- Михаил Круг - Владимирский централ
-(DEFAULT, 'original', '1HslSFP_52ExO-RQviYAI4RAz_6EpMjrU', 11880),
-(DEFAULT, '0', '1iBb-DCYBQoY4V_M26nA3j-ttMp8luCrA', 11880),
+(DEFAULT, 'original', '1HslSFP_52ExO-RQviYAI4RAz_6EpMjrU', 8000),
+(DEFAULT, '0', '1iBb-DCYBQoY4V_M26nA3j-ttMp8luCrA', 8000),
 -- Михаил Круг - Кольщик
-(DEFAULT, 'original', '1fvlhRCo7p4Kt10cFsgbny-6VcfObirVE', 11900),
-(DEFAULT, '0', '1TPTH2RYljlUMr9H8HZ5n9odSlc-V-EWJ', 11900),
-(DEFAULT, '-1', '1DI9nYJRYzHbWrIe0KRzq5b0_n2yqGc9L', 11900),
-(DEFAULT, '-2', '1ME3K80tqVIo1paB_G1WC1LR5On93gKzg', 11900),
+(DEFAULT, 'original', '1fvlhRCo7p4Kt10cFsgbny-6VcfObirVE', 8020),
+(DEFAULT, '0', '1TPTH2RYljlUMr9H8HZ5n9odSlc-V-EWJ', 8020),
+(DEFAULT, '-1', '1DI9nYJRYzHbWrIe0KRzq5b0_n2yqGc9L', 8020),
+(DEFAULT, '-2', '1ME3K80tqVIo1paB_G1WC1LR5On93gKzg', 8020),
 -- Стас Михайлов - Всё для тебя
-(DEFAULT, 'original', '1uvuqFZgbi4Udv7OxQBV80ZVFLBfq854T', 11920),
-(DEFAULT, '0', '1V1IB0ytfO-tmITvw61H8HQfoJApl2t8S', 11920),
-(DEFAULT, '-2', '1MdgOIonLWyrrUr67zvOiTnEwdwJ8GGQt', 11920);
+(DEFAULT, 'original', '1uvuqFZgbi4Udv7OxQBV80ZVFLBfq854T', 8040),
+(DEFAULT, '0', '1V1IB0ytfO-tmITvw61H8HQfoJApl2t8S', 8040),
+(DEFAULT, '-2', '1MdgOIonLWyrrUr67zvOiTnEwdwJ8GGQt', 8040);

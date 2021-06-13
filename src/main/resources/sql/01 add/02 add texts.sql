@@ -291,31 +291,31 @@ VALUES
 -- Estrada
 
 -- Алла Пугачёва - Позови меня с собой
-(DEFAULT, '1Cenp7Q9riOoakC0gpJC4AeIfW0-1d6Xp', 11750),
+(DEFAULT, '1Cenp7Q9riOoakC0gpJC4AeIfW0-1d6Xp', 7000),
 -- Любэ - Конь
-(DEFAULT, '1vy_07S_ePv5LXaxTCRzlYBqjLl98bOdS', 11770),
+(DEFAULT, '1vy_07S_ePv5LXaxTCRzlYBqjLl98bOdS', 7020),
 -- Любэ - Позови меня тихо по имени
-(DEFAULT, '1box1lCMNJcxwZDNIBfDGJLK0xp9xOM3I', 11780),
+(DEFAULT, '1box1lCMNJcxwZDNIBfDGJLK0xp9xOM3I', 7030),
 -- Михаил Боярский - Зеленоглазое такси
-(DEFAULT, '1MWK5AlWW3yAKogbsQms8w1RMojxJAYYE', 11800),
+(DEFAULT, '1MWK5AlWW3yAKogbsQms8w1RMojxJAYYE', 7050),
 -- Михаил Боярский - Ланфрен-ланфра
-(DEFAULT, '1C9_ziHoyzqYDUhPbMxC4uYke8r8AqwB0', 11810),
+(DEFAULT, '1C9_ziHoyzqYDUhPbMxC4uYke8r8AqwB0', 7060),
 -- Песняры - Белоруссия
-(DEFAULT, '1XQyMxTW-rgAPJtkpjTL8dNqDswETt796', 11830),
+(DEFAULT, '1XQyMxTW-rgAPJtkpjTL8dNqDswETt796', 7080),
 -- Синяя птица - Там, где клён шумит
-(DEFAULT, '1jU1OELMO1mB8-e40pxr9ibZ8DdPXGQIK', 11850),
+(DEFAULT, '1jU1OELMO1mB8-e40pxr9ibZ8DdPXGQIK', 7100),
 -- Татьяна Дасковская - Прекрасное далёко
-(DEFAULT, '163HW7ZpJBV5e54feoiwlDbQf4r1nptFz', 11860),
+(DEFAULT, '163HW7ZpJBV5e54feoiwlDbQf4r1nptFz', 7110),
 -- Ярослав Евдокимов - Фантазёр
-(DEFAULT, '1aVMCjQqYjtUh4lka4jdx-BNudi3LBRIR', 11870),
+(DEFAULT, '1aVMCjQqYjtUh4lka4jdx-BNudi3LBRIR', 7120),
 
 -- Chanson
 
 -- Михаил Круг - Владимирский централ
-(DEFAULT, '1hjEcHC-tYz1SkhoGzVn0xhnr7W_1GDM_', 11880),
+(DEFAULT, '1hjEcHC-tYz1SkhoGzVn0xhnr7W_1GDM_', 8000),
 -- Михаил Круг - Кольщик
-(DEFAULT, '1jNVE9F_7iBaSbyn1pCzMnHGdrX1hQOtJ', 11900),
+(DEFAULT, '1jNVE9F_7iBaSbyn1pCzMnHGdrX1hQOtJ', 8020),
 -- Стас Михайлов - Всё для тебя
-(DEFAULT, '115SIVb_I9hp3c0eddvavWoQG0W9tiYpQ', 11920),
+(DEFAULT, '115SIVb_I9hp3c0eddvavWoQG0W9tiYpQ', 8040),
 -- Стас Михайлов - Свеча
-(DEFAULT, '1IANgFVOF6AKg5vcRxnoy70qhL2qfywC-', 11930);
+(DEFAULT, '1IANgFVOF6AKg5vcRxnoy70qhL2qfywC-', 8050);
