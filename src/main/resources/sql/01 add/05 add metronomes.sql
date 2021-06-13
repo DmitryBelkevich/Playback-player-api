@@ -273,8 +273,15 @@ VALUES
 -- Форум - Белая ночь
 (DEFAULT, null, 2, 4, 126, 1745),
 
+-- SynthPop
+
 -- Eurythmics - Sweet Dreams (Are Made of This)
 (DEFAULT, null, 4, 4, 126, 1970),
+
+-- New school
+
+-- МУККА - ДЕВОЧКА С КАРЕ
+(DEFAULT, null, 4, 4, 150, 1960),
 
 -- Estrada
 
@@ -300,11 +307,4 @@ VALUES
 -- Михаил Круг - Кольщик
 (DEFAULT, null, 4, 4, 64, 1900),
 -- Стас Михайлов - Всё для тебя
-(DEFAULT, null, 4, 4, 138, 1920),
-
--- New school
-
--- МУККА - ДЕВОЧКА С КАРЕ
-(DEFAULT, null, 4, 4, 150, 1960);
-
--- SynthPop
+(DEFAULT, null, 4, 4, 138, 1920);

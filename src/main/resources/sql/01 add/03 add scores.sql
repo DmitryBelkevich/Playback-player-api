@@ -816,6 +816,22 @@ VALUES
 
 -- SynthPop
 
+-- New school
+
+-- МУККА - ДЕВОЧКА С КАРЕ
+(DEFAULT, 'Full Score', '1N3Cpda-i9HS_nFTV4NcCsvwhOaWDu9iN', 1960),
+(DEFAULT, 'Voice 1, Voice 2', '1r8x-vlqyHYDNcbgTnU1oNcrJ6g0TRei1', 1960),
+(DEFAULT, 'Voice 1', '1ggySXYc36PRpJraU3pAd0S_exJm7yv3P', 1960),
+(DEFAULT, 'Voice 2', '11Cfo-EJhtFWBoLEK5Zoygvha671TpPGj', 1960),
+(DEFAULT, 'Electric Guitar', '1ApNbC9C4JbIWw2xC_uecpvTgCY38Y4gx', 1960),
+(DEFAULT, 'Bass Guitar', '13V-6he75jaoIpHxVcjyUIuvvduHbQOak', 1960),
+(DEFAULT, 'Drum Set', '1cjonXNTVMXwFUPyo2YNKgrFYDAfzLYk1', 1960),
+(DEFAULT, 'Cymbals', '1arThfSq2tKN65hTkuj3dHi-cton2Nk5W', 1960),
+(DEFAULT, 'Reverse Cymbals', '1Vr2D2RdX9Qay2-Ow_B8OUoK1pAjRTbn1', 1960),
+(DEFAULT, 'Lead 1 (Square)', '1WJtnrsgYaG5_oSfJ0mVN_S_WC_51Fiet', 1960),
+(DEFAULT, 'Synth Strings', '1GSeFMB6sAh9heFZlwCIRbfh9EcLEHGGs', 1960),
+(DEFAULT, 'FX 1 (Abduction)', '1n39a08XRoFgRDE_DyBJy-5AyiW8bxXPc', 1960),
+
 -- Estrada
 
 -- Алла Пугачёва - Позови меня с собой
@@ -923,20 +939,4 @@ VALUES
 (DEFAULT, 'Electric Organ', '1Yuxoe0BRzlIBuy7jBIp8bDY28XypHxIi', 1920),
 (DEFAULT, 'Violin', '1VSBW7dgG_Wpi0gbPOXlWQ_19Y7epcguf', 1920),
 (DEFAULT, 'Strings', '10N8ZNs-3P2dwjUmjiDzin3pnjPOu5FaS', 1920),
-(DEFAULT, 'Pad 2 (Warm)', '1j4fX6EXkUEw8274ACri5qopqiO5FnTiH', 1920),
-
--- New school
-
--- МУККА - ДЕВОЧКА С КАРЕ
-(DEFAULT, 'Full Score', '1N3Cpda-i9HS_nFTV4NcCsvwhOaWDu9iN', 1960),
-(DEFAULT, 'Voice 1, Voice 2', '1r8x-vlqyHYDNcbgTnU1oNcrJ6g0TRei1', 1960),
-(DEFAULT, 'Voice 1', '1ggySXYc36PRpJraU3pAd0S_exJm7yv3P', 1960),
-(DEFAULT, 'Voice 2', '11Cfo-EJhtFWBoLEK5Zoygvha671TpPGj', 1960),
-(DEFAULT, 'Electric Guitar', '1ApNbC9C4JbIWw2xC_uecpvTgCY38Y4gx', 1960),
-(DEFAULT, 'Bass Guitar', '13V-6he75jaoIpHxVcjyUIuvvduHbQOak', 1960),
-(DEFAULT, 'Drum Set', '1cjonXNTVMXwFUPyo2YNKgrFYDAfzLYk1', 1960),
-(DEFAULT, 'Cymbals', '1arThfSq2tKN65hTkuj3dHi-cton2Nk5W', 1960),
-(DEFAULT, 'Reverse Cymbals', '1Vr2D2RdX9Qay2-Ow_B8OUoK1pAjRTbn1', 1960),
-(DEFAULT, 'Lead 1 (Square)', '1WJtnrsgYaG5_oSfJ0mVN_S_WC_51Fiet', 1960),
-(DEFAULT, 'Synth Strings', '1GSeFMB6sAh9heFZlwCIRbfh9EcLEHGGs', 1960),
-(DEFAULT, 'FX 1 (Abduction)', '1n39a08XRoFgRDE_DyBJy-5AyiW8bxXPc', 1960);
+(DEFAULT, 'Pad 2 (Warm)', '1j4fX6EXkUEw8274ACri5qopqiO5FnTiH', 1920);

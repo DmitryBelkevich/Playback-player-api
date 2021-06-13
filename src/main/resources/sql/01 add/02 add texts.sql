@@ -283,6 +283,11 @@ VALUES
 -- Eurythmics - Sweet Dreams (Are Made of This)
 -- (DEFAULT, '', 1970),
 
+-- New school
+
+-- МУККА - ДЕВОЧКА С КАРЕ
+(DEFAULT, '1P7kxdPdtxzSueUMbDZKm-COhjveUvjRt', 1960),
+
 -- Estrada
 
 -- Алла Пугачёва - Позови меня с собой
@@ -313,9 +318,4 @@ VALUES
 -- Стас Михайлов - Всё для тебя
 (DEFAULT, '115SIVb_I9hp3c0eddvavWoQG0W9tiYpQ', 1920),
 -- Стас Михайлов - Свеча
-(DEFAULT, '1IANgFVOF6AKg5vcRxnoy70qhL2qfywC-', 1930),
-
--- New school
-
--- МУККА - ДЕВОЧКА С КАРЕ
-(DEFAULT, '1P7kxdPdtxzSueUMbDZKm-COhjveUvjRt', 1960);
+(DEFAULT, '1IANgFVOF6AKg5vcRxnoy70qhL2qfywC-', 1930);
