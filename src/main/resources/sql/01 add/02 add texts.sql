@@ -64,9 +64,9 @@ VALUES
 -- Lumen - Гореть
 (DEFAULT, '1pSS1wqUWSIO6bKMJ1UhOpJza4bbVdRw4', 1150),
 -- N.R.M. - Лёгкія-лёгкія
--- (DEFAULT, '', 280),
+-- (DEFAULT, '', 1160),
 -- N.R.M. - Тры чарапахі
--- (DEFAULT, '', 290),
+-- (DEFAULT, '', 1170),
 -- Агата Кристи - Как на войне
 (DEFAULT, '1RyOu58rkrFU4jGd1iUja4pjevEnoVzUf', 300),
 -- Агата Кристи - Никогда

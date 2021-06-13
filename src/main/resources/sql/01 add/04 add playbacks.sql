@@ -88,10 +88,10 @@ VALUES
 (DEFAULT, 'original', '1TAmlTGqDiej_IQsD85WydhcGeVeuIPJG', 1150),
 (DEFAULT, '0', '1OOlkBsvKgUWx7jQ5mAcGPbsDZ6R1ZA4p', 1150),
 -- N.R.M. - Лёгкія-лёгкія
-(DEFAULT, 'original', '17C3G9lzZ_UFfrQVAux49mETYXLZLpk4g', 280),
+(DEFAULT, 'original', '17C3G9lzZ_UFfrQVAux49mETYXLZLpk4g', 1160),
 -- N.R.M. - Тры чарапахі
-(DEFAULT, 'original', '1H7jiqp_ThTuJGsGMonkrBvBajD4ujQKj', 290),
-(DEFAULT, '-2', '1qh1gezTgkSEkkL36HPIjrAJAFDEBE84M', 290),
+(DEFAULT, 'original', '1H7jiqp_ThTuJGsGMonkrBvBajD4ujQKj', 1170),
+(DEFAULT, '-2', '1qh1gezTgkSEkkL36HPIjrAJAFDEBE84M', 1170),
 -- Агата Кристи - Как на войне
 (DEFAULT, 'original', '1yfNtoBHW9lveJNCAoDdH3Hj5rW_v6ZbB', 300),
 (DEFAULT, '0', '1JZdpTjJJGW6lFcUF8m8px3f2ry_IOpSC', 300),
