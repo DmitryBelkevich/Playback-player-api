@@ -353,22 +353,22 @@ VALUES
 -- IOWA - Улыбайся
 (DEFAULT, 'original', '1dywI3h9zxdslzF4bgaa_j8fiUqh6d9wa', 11620),
 -- Ненси - Дым сигарет с ментолом
-(DEFAULT, 'original', '1G0fC6XaLmrkDzavWQWe1fMlzJkqwx_Rd', 111600),
-(DEFAULT, '0', '1MHdB7Y5aPqVAgyMraKeTBHkQ5F8QnYge', 111600),
+(DEFAULT, 'original', '1G0fC6XaLmrkDzavWQWe1fMlzJkqwx_Rd', 11670),
+(DEFAULT, '0', '1MHdB7Y5aPqVAgyMraKeTBHkQ5F8QnYge', 11670),
 -- Форум - Белая ночь
-(DEFAULT, 'original', '1zg5DdDr4uwVi2RsZsG94Aj7V0Vb_btPY', 111630),
+(DEFAULT, 'original', '1zg5DdDr4uwVi2RsZsG94Aj7V0Vb_btPY', 11700),
 
 -- SynthPop
 
 -- Eurythmics - Sweet Dreams (Are Made of This)
-(DEFAULT, 'original', '1WiC6XGzYRXTpMTtVS6qtJ0Iq6MUI9d1q', 111640),
+(DEFAULT, 'original', '1WiC6XGzYRXTpMTtVS6qtJ0Iq6MUI9d1q', 11710),
 
 -- New school
 
 -- МУККА - ДЕВОЧКА С КАРЕ
-(DEFAULT, 'original', '1r8qHmacix9KerOKNRxE3Lll0ks-orfVp', 1111620),
-(DEFAULT, '0', '1lXW4sMNrEPN81f3I_HsaWL8AuwmfmWau', 1111620),
-(DEFAULT, '-3', '1lXYOBYqm0QR2gzNBGgfoYPlkQUsQMOJv', 1111620),
+(DEFAULT, 'original', '1r8qHmacix9KerOKNRxE3Lll0ks-orfVp', 11740),
+(DEFAULT, '0', '1lXW4sMNrEPN81f3I_HsaWL8AuwmfmWau', 11740),
+(DEFAULT, '-3', '1lXYOBYqm0QR2gzNBGgfoYPlkQUsQMOJv', 11740),
 
 -- Estrada
 

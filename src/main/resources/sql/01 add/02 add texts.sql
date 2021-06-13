@@ -270,23 +270,23 @@ VALUES
 -- Ласковый май - Белые розы
 (DEFAULT, '1oSQC5SW2AFu7Q_xWGgGy-bhOPqNNPaI3', 11630),
 -- Ненси - Дым сигарет с ментолом
-(DEFAULT, '1BEVEH3tLqiBfc69HNHKrUF3WlwaqEvW0', 111600),
+(DEFAULT, '1BEVEH3tLqiBfc69HNHKrUF3WlwaqEvW0', 11670),
 -- Ненси - Чистый лист
-(DEFAULT, '1XDMKvweEBggsTkVWAI607DzFZvASw0gP', 111610),
+(DEFAULT, '1XDMKvweEBggsTkVWAI607DzFZvASw0gP', 11680),
 -- Сладкий сон - На белом покрывале января
-(DEFAULT, '1jCPrNwLhoo6PnG-hJaiO6gw_DZAuLKzD', 111620),
+(DEFAULT, '1jCPrNwLhoo6PnG-hJaiO6gw_DZAuLKzD', 11690),
 -- Форум - Белая ночь
-(DEFAULT, '17zGCNTb9n00-nbaevsPSRnxTxkfhsh9_', 111630),
+(DEFAULT, '17zGCNTb9n00-nbaevsPSRnxTxkfhsh9_', 11700),
 
 -- SynthPop
 
 -- Eurythmics - Sweet Dreams (Are Made of This)
--- (DEFAULT, '', 111640),
+-- (DEFAULT, '', 11710),
 
 -- New school
 
 -- МУККА - ДЕВОЧКА С КАРЕ
-(DEFAULT, '1P7kxdPdtxzSueUMbDZKm-COhjveUvjRt', 1111620),
+(DEFAULT, '1P7kxdPdtxzSueUMbDZKm-COhjveUvjRt', 11740),
 
 -- Estrada
 

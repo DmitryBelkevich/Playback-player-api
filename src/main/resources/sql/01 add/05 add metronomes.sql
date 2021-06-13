@@ -269,19 +269,19 @@ VALUES
 -- IOWA - Улыбайся
 (DEFAULT, null, 4, 4, 130, 11620),
 -- Ненси - Дым сигарет с ментолом
-(DEFAULT, null, 4, 4, 75, 111600),
+(DEFAULT, null, 4, 4, 75, 11670),
 -- Форум - Белая ночь
-(DEFAULT, null, 2, 4, 126, 111630),
+(DEFAULT, null, 2, 4, 126, 11700),
 
 -- SynthPop
 
 -- Eurythmics - Sweet Dreams (Are Made of This)
-(DEFAULT, null, 4, 4, 126, 111640),
+(DEFAULT, null, 4, 4, 126, 11710),
 
 -- New school
 
 -- МУККА - ДЕВОЧКА С КАРЕ
-(DEFAULT, null, 4, 4, 150, 1111620),
+(DEFAULT, null, 4, 4, 150, 11740),
 
 -- Estrada
 
