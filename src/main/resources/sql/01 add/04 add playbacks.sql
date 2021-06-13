@@ -60,11 +60,11 @@ VALUES
 (DEFAULT, '0', '1xXdCRRkrm2aPRK4PSfxGWkZenbWkh_cB', 1030),
 (DEFAULT, '-2', '1kM7bWoYHoHk8ABEs-LCL8FrorpDxnHAh', 1030),
 -- Radiohead - Creep
-(DEFAULT, 'original', '1OLaqXsbL-nyeK0s504AZQFeDlRYCG71J', 260),
-(DEFAULT, '0', '1W_9NUHGjCcTmolR1ICFLSdj203PEFiWm', 260),
-(DEFAULT, '-2', '1OUj_SKgRBx49aFThmydbDc8fUa2TGg-m', 260),
+(DEFAULT, 'original', '1OLaqXsbL-nyeK0s504AZQFeDlRYCG71J', 1050),
+(DEFAULT, '0', '1W_9NUHGjCcTmolR1ICFLSdj203PEFiWm', 1050),
+(DEFAULT, '-2', '1OUj_SKgRBx49aFThmydbDc8fUa2TGg-m', 1050),
 -- Radiohead - Karma Police
-(DEFAULT, 'original', '1lXAKENCZ8QSPlPWl_6CYPZwFp7oiZqg8', 111),
+(DEFAULT, 'original', '1lXAKENCZ8QSPlPWl_6CYPZwFp7oiZqg8', 1060),
 -- Reamonn - Supergirl
 -- The Beatles - Yesterday
 (DEFAULT, 'original', '1ee2g11nNUiCMVF53zHSAXqnYII8ZdZvV', 191),

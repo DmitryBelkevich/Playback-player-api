@@ -44,11 +44,11 @@ VALUES
 -- Nirvana - Smells Like Teen Spirit
 (DEFAULT, '1VRNtP7xjVVQZStlmwEOeQ1lk5e_NrOGj', 1030),
 -- Radiohead - Creep
-(DEFAULT, '1meCuIBWnawQwSBAk79cgnTxF9VvDqwsT', 260),
+(DEFAULT, '1meCuIBWnawQwSBAk79cgnTxF9VvDqwsT', 1050),
 -- Radiohead - Karma Police
--- (DEFAULT, '', 111),
+-- (DEFAULT, '', 1060),
 -- Reamonn - Supergirl
--- (DEFAULT, '', 141),
+-- (DEFAULT, '', 1070),
 -- The Beatles - Yesterday
 (DEFAULT, '1fZssjEMEoHsa1HD6Vh3f5HExWvzVY5b5', 191),
 -- The Cranberries - Zombie
