@@ -263,15 +263,15 @@ VALUES
 -- Alice Merton - No Roots
 (DEFAULT, null, 4, 4, 116, 4000),
 -- Maroon 5 - This Love
-(DEFAULT, null, 4, 4, 95, 11600),
+(DEFAULT, null, 4, 4, 95, 4010),
 -- IOWA - Бьёт Бит
-(DEFAULT, null, 2, 4, 110, 11610),
+(DEFAULT, null, 2, 4, 110, 4020),
 -- IOWA - Улыбайся
-(DEFAULT, null, 4, 4, 130, 11620),
+(DEFAULT, null, 4, 4, 130, 4030),
 -- Ненси - Дым сигарет с ментолом
-(DEFAULT, null, 4, 4, 75, 11670),
+(DEFAULT, null, 4, 4, 75, 4080),
 -- Форум - Белая ночь
-(DEFAULT, null, 2, 4, 126, 11700),
+(DEFAULT, null, 2, 4, 126, 4110),
 
 -- SynthPop
 

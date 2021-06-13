@@ -347,16 +347,16 @@ VALUES
 -- Alice Merton - No Roots
 (DEFAULT, 'original', '1zKkmIf6LTAORRgXGtA4aairbtsy2LAbA', 4000),
 -- Maroon 5 - This Love
-(DEFAULT, 'original', '1LOXvoiv3hH_O8O3ikz4PIHfF7Wbol_nP', 11600),
+(DEFAULT, 'original', '1LOXvoiv3hH_O8O3ikz4PIHfF7Wbol_nP', 4010),
 -- IOWA - Бьёт Бит
-(DEFAULT, 'original', '19VjudtXPbzOn8CdYPAG2lzJkK-b7YQMN', 11610),
+(DEFAULT, 'original', '19VjudtXPbzOn8CdYPAG2lzJkK-b7YQMN', 4020),
 -- IOWA - Улыбайся
-(DEFAULT, 'original', '1dywI3h9zxdslzF4bgaa_j8fiUqh6d9wa', 11620),
+(DEFAULT, 'original', '1dywI3h9zxdslzF4bgaa_j8fiUqh6d9wa', 4030),
 -- Ненси - Дым сигарет с ментолом
-(DEFAULT, 'original', '1G0fC6XaLmrkDzavWQWe1fMlzJkqwx_Rd', 11670),
-(DEFAULT, '0', '1MHdB7Y5aPqVAgyMraKeTBHkQ5F8QnYge', 11670),
+(DEFAULT, 'original', '1G0fC6XaLmrkDzavWQWe1fMlzJkqwx_Rd', 4080),
+(DEFAULT, '0', '1MHdB7Y5aPqVAgyMraKeTBHkQ5F8QnYge', 4080),
 -- Форум - Белая ночь
-(DEFAULT, 'original', '1zg5DdDr4uwVi2RsZsG94Aj7V0Vb_btPY', 11700),
+(DEFAULT, 'original', '1zg5DdDr4uwVi2RsZsG94Aj7V0Vb_btPY', 4110),
 
 -- SynthPop
 

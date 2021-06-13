@@ -794,25 +794,25 @@ VALUES
 -- Pop, Dance
 
 -- Ненси - Дым сигарет с ментолом
-(DEFAULT, 'Full Score', '1N4_ujdoWMgdngCZuE0K9M-sGxs5QePVa', 11670),
-(DEFAULT, 'Voice 1, Voice 2, Voice 3, Voice 4', '1k1fSgWZjsqD4Iz5Ugr3vaJIy2atQyWRd', 11670),
-(DEFAULT, 'Voice 1', '11VHrHzrowUqoU4ZS0tx6U5SBIHGwn80Y', 11670),
-(DEFAULT, 'Voice 2', '1zXOzEwVXA-3Lj-Q9XgcTRzaD8OGhLzxf', 11670),
-(DEFAULT, 'Voice 3', '1wHIw_l6LVBGdQtRYgZqc5a8nS5WleOnD', 11670),
-(DEFAULT, 'Voice 4', '1xrLyjMfB0xUTpXfig5kDWrmm4lx1TA37', 11670),
-(DEFAULT, 'Electric Guitar', '12oB-dfilkt0Vp3_rgjVOa2EXKPd_lEhW', 11670),
-(DEFAULT, 'Bass Guitar', '1FYD0eR1mcvMlplkY6OrVRBFaHo9RysUu', 11670),
-(DEFAULT, 'Drum Set', '1LMu1_WTcvr5Gr_6rZstfgctbVnRRsYYS', 11670),
-(DEFAULT, 'Piano', '17xmhbcjtgQXYUtuPMx9hoahNx4qtQxGl', 11670),
-(DEFAULT, 'Strings', '1EHPr0Tsabi3ku7ErD8g5rdzog3fI9GiG', 11670),
-(DEFAULT, 'FX 1 (Abduction)', '1h4DgOxxZ9PW-arx7_FZEiI8lbecgdIpb', 11670),
+(DEFAULT, 'Full Score', '1N4_ujdoWMgdngCZuE0K9M-sGxs5QePVa', 4080),
+(DEFAULT, 'Voice 1, Voice 2, Voice 3, Voice 4', '1k1fSgWZjsqD4Iz5Ugr3vaJIy2atQyWRd', 4080),
+(DEFAULT, 'Voice 1', '11VHrHzrowUqoU4ZS0tx6U5SBIHGwn80Y', 4080),
+(DEFAULT, 'Voice 2', '1zXOzEwVXA-3Lj-Q9XgcTRzaD8OGhLzxf', 4080),
+(DEFAULT, 'Voice 3', '1wHIw_l6LVBGdQtRYgZqc5a8nS5WleOnD', 4080),
+(DEFAULT, 'Voice 4', '1xrLyjMfB0xUTpXfig5kDWrmm4lx1TA37', 4080),
+(DEFAULT, 'Electric Guitar', '12oB-dfilkt0Vp3_rgjVOa2EXKPd_lEhW', 4080),
+(DEFAULT, 'Bass Guitar', '1FYD0eR1mcvMlplkY6OrVRBFaHo9RysUu', 4080),
+(DEFAULT, 'Drum Set', '1LMu1_WTcvr5Gr_6rZstfgctbVnRRsYYS', 4080),
+(DEFAULT, 'Piano', '17xmhbcjtgQXYUtuPMx9hoahNx4qtQxGl', 4080),
+(DEFAULT, 'Strings', '1EHPr0Tsabi3ku7ErD8g5rdzog3fI9GiG', 4080),
+(DEFAULT, 'FX 1 (Abduction)', '1h4DgOxxZ9PW-arx7_FZEiI8lbecgdIpb', 4080),
 -- Форум - Белая ночь
-(DEFAULT, 'Full Score', '1vdqQlS7fYFl8GuNulj8u3LJ_8Ffhvquy', 11700),
-(DEFAULT, 'Voice', '1Ycs6Sym5vYRNeuaUyKun1SXQFgeRPkzS', 11700),
-(DEFAULT, 'Electric Guitar', '1FErZwtkXvbZRCpJObRb-dyNNJjyvHPOO', 11700),
-(DEFAULT, 'Bass Guitar', '1Fv7gD0vcNoCTtgmnx76ZwqLYgGjoDxwd', 11700),
-(DEFAULT, 'Drum Set', '1Tptw2yyCJYpphI9PzcpPDyVwxW0PYFRH', 11700),
-(DEFAULT, 'FX 3 (Crystal), FX 4 (Atmosphere), Pad 6 (Metallic), Pad 2 (Warm), Synth Bass, Lead 8 (Bass + Lead)', '1jguvwlE7-Bn3vofaP8mLXDrTQFkOZHq7', 11700),
+(DEFAULT, 'Full Score', '1vdqQlS7fYFl8GuNulj8u3LJ_8Ffhvquy', 4110),
+(DEFAULT, 'Voice', '1Ycs6Sym5vYRNeuaUyKun1SXQFgeRPkzS', 4110),
+(DEFAULT, 'Electric Guitar', '1FErZwtkXvbZRCpJObRb-dyNNJjyvHPOO', 4110),
+(DEFAULT, 'Bass Guitar', '1Fv7gD0vcNoCTtgmnx76ZwqLYgGjoDxwd', 4110),
+(DEFAULT, 'Drum Set', '1Tptw2yyCJYpphI9PzcpPDyVwxW0PYFRH', 4110),
+(DEFAULT, 'FX 3 (Crystal), FX 4 (Atmosphere), Pad 6 (Metallic), Pad 2 (Warm), Synth Bass, Lead 8 (Bass + Lead)', '1jguvwlE7-Bn3vofaP8mLXDrTQFkOZHq7', 4110),
 
 -- SynthPop
 

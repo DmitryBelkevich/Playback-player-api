@@ -129,7 +129,7 @@ VALUES
 -- Кино - Группа крови
 -- (DEFAULT, '', 700),
 -- Кино - Звезда по имени Солнце
-(DEFAULT, '11620Q0jyq325Iv0Evbc1b-jeFCBdtOWmk', 710),
+(DEFAULT, '1690Q0jyq325Iv0Evbc1b-jeFCBdtOWmk', 710),
 -- Кино - Когда твоя девушка больна
 (DEFAULT, '1fPhNq-8JedX1_2mBTjztYsaIDBQqvYgA', 720),
 -- Кино - Кончится лето
@@ -262,21 +262,21 @@ VALUES
 -- Alice Merton - No Roots
 -- (DEFAULT, '', 4000),
 -- Maroon 5 - This Love
--- (DEFAULT, '', 11600),
+-- (DEFAULT, '', 4010),
 -- IOWA - Бьёт Бит
--- (DEFAULT, '', 11610),
+-- (DEFAULT, '', 4020),
 -- IOWA - Улыбайся
--- (DEFAULT, '', 11620),
+-- (DEFAULT, '', 4030),
 -- Ласковый май - Белые розы
-(DEFAULT, '1oSQC5SW2AFu7Q_xWGgGy-bhOPqNNPaI3', 11630),
+(DEFAULT, '1oSQC5SW2AFu7Q_xWGgGy-bhOPqNNPaI3', 4040),
 -- Ненси - Дым сигарет с ментолом
-(DEFAULT, '1BEVEH3tLqiBfc69HNHKrUF3WlwaqEvW0', 11670),
+(DEFAULT, '1BEVEH3tLqiBfc69HNHKrUF3WlwaqEvW0', 4080),
 -- Ненси - Чистый лист
-(DEFAULT, '1XDMKvweEBggsTkVWAI607DzFZvASw0gP', 11680),
+(DEFAULT, '1XDMKvweEBggsTkVWAI607DzFZvASw0gP', 4090),
 -- Сладкий сон - На белом покрывале января
-(DEFAULT, '1jCPrNwLhoo6PnG-hJaiO6gw_DZAuLKzD', 11690),
+(DEFAULT, '1jCPrNwLhoo6PnG-hJaiO6gw_DZAuLKzD', 4100),
 -- Форум - Белая ночь
-(DEFAULT, '17zGCNTb9n00-nbaevsPSRnxTxkfhsh9_', 11700),
+(DEFAULT, '17zGCNTb9n00-nbaevsPSRnxTxkfhsh9_', 4110),
 
 -- SynthPop
 
