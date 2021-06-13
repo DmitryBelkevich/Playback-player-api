@@ -17,26 +17,26 @@ VALUES
 -- System of a Down - Chop Suey!
 (DEFAULT, '1gKDBLRqf4fkymtkPNcMbDSxrW18D5Sep', 70),
 -- System of a Down - Lonely Day
-(DEFAULT, '17QY2dfSxTkUwyGcL9Ovrtqtsh7vrOay2', 90),
+(DEFAULT, '17QY2dfSxTkUwyGcL9Ovrtqtsh7vrOay2', 80),
 -- System of a Down - Toxicity
-(DEFAULT, '1Vr2z7DHr02lC4lgD7lXaUA-M_wvBLsQz', 100),
+(DEFAULT, '1Vr2z7DHr02lC4lgD7lXaUA-M_wvBLsQz', 90),
 -- Ария - Беспечный ангел
-(DEFAULT, '1dEy512lg4zWJM4gXE9JwNBjhSNzXTUS_', 110),
+(DEFAULT, '1dEy512lg4zWJM4gXE9JwNBjhSNzXTUS_', 100),
 -- Ария - Закат
--- (DEFAULT, '', 120),
+-- (DEFAULT, '', 110),
 -- Ария - Осколок льда
--- (DEFAULT, '', 130),
+-- (DEFAULT, '', 120),
 -- Ария - Штиль
-(DEFAULT, '18lgs_Oj5jJpO0oZZuNFQhB62GyWNviBJ', 170),
+(DEFAULT, '18lgs_Oj5jJpO0oZZuNFQhB62GyWNviBJ', 160),
 -- Кипелов - Я свободен!
--- (DEFAULT, '', 180),
+-- (DEFAULT, '', 170),
 -- Слот - Круги на воде
-(DEFAULT, '1HeTPP8lo7ym9mSEEDoxS6PzipOlxspEA', 190),
+(DEFAULT, '1HeTPP8lo7ym9mSEEDoxS6PzipOlxspEA', 180),
 
 -- Rock, Punk
 
 -- Bon Jovi - It's My Life
--- (DEFAULT, '', 11),
+-- (DEFAULT, '', 210),
 -- Joan Osborne - One of Us
 (DEFAULT, '10lA-I8AoECCIA0rMZAxowMdgnEAqtIk-', 31),
 -- Linkin Park - Numb

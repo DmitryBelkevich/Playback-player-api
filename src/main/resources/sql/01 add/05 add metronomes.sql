@@ -19,26 +19,26 @@ VALUES
 -- System of a Down - Chop Suey!
 (DEFAULT, null, 4, 4, 130, 70),
 -- System of a Down - Lonely Day
-(DEFAULT, null, 6, 8, 75, 90),
+(DEFAULT, null, 6, 8, 75, 80),
 -- System of a Down - Toxicity
-(DEFAULT, null, 6, 8, 80, 100),
+(DEFAULT, null, 6, 8, 80, 90),
 -- Ария - Беспечный ангел
-(DEFAULT, null, 4, 4, 130, 110),
+(DEFAULT, null, 4, 4, 130, 100),
 -- Ария - Закат
-(DEFAULT, null, 4, 4, 130, 120),
+(DEFAULT, null, 4, 4, 130, 110),
 -- Ария - Осколок льда
-(DEFAULT, null, 4, 4, 71, 130),
+(DEFAULT, null, 4, 4, 71, 120),
 -- Ария - Штиль
-(DEFAULT, null, 12, 8, 68, 170),
+(DEFAULT, null, 12, 8, 68, 160),
 -- Кипелов - Я свободен!
-(DEFAULT, null, 4, 4, 70, 180),
+(DEFAULT, null, 4, 4, 70, 170),
 -- Слот - Круги на воде
-(DEFAULT, null, 4, 4, 71, 190),
+(DEFAULT, null, 4, 4, 71, 180),
 
 -- Rock, Punk
 
 -- Bon Jovi - It's My Life
-(DEFAULT, null, 4, 4, 120, 11),
+(DEFAULT, null, 4, 4, 120, 210),
 -- Joan Osborne - One of Us
 (DEFAULT, null, 2, 4, 88, 31),
 -- Linkin Park - Numb

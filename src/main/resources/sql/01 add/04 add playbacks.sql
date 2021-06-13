@@ -25,34 +25,34 @@ VALUES
 (DEFAULT, 'original', '1qcpfX-NRo5QzizHiAP6Q3SW03bNjMCDK', 70),
 (DEFAULT, '0', '1Ho5yrqs9xuQUbcfSRfiOf7ynw2ei9oZ6', 70),
 -- System of a Down - Lonely Day
-(DEFAULT, 'original', '1rnxYbhBrkCZOG1Tu7SikQkrxGdwaIcf9', 90),
-(DEFAULT, '+1', '1wzUBon2eJ1oehWyMAR2eHHiFQKSym9O3', 90),
-(DEFAULT, '0', '1glzjln_270Xp6GWuJMuI3BAqRF8BrnB9', 90),
-(DEFAULT, '-1', '11EBdzM8S6m5YHxwvDoSY6noMW3Sj0JFq', 90),
+(DEFAULT, 'original', '1rnxYbhBrkCZOG1Tu7SikQkrxGdwaIcf9', 80),
+(DEFAULT, '+1', '1wzUBon2eJ1oehWyMAR2eHHiFQKSym9O3', 80),
+(DEFAULT, '0', '1glzjln_270Xp6GWuJMuI3BAqRF8BrnB9', 80),
+(DEFAULT, '-1', '11EBdzM8S6m5YHxwvDoSY6noMW3Sj0JFq', 80),
 -- System of a Down - Toxicity
-(DEFAULT, 'original', '1KUHhVMY1YPFgKgjhBLKJXl7b5vn7_P1_', 100),
-(DEFAULT, '0', '1dJ8rhhJVd6wU4mrTiy48odM6JYnFuXuB', 100),
+(DEFAULT, 'original', '1KUHhVMY1YPFgKgjhBLKJXl7b5vn7_P1_', 90),
+(DEFAULT, '0', '1dJ8rhhJVd6wU4mrTiy48odM6JYnFuXuB', 90),
 -- Ария - Беспечный ангел
-(DEFAULT, '0', '15CCUu_Zg9IvQ2qTTlqfSg14OkK_qLrn1', 110),
+(DEFAULT, '0', '15CCUu_Zg9IvQ2qTTlqfSg14OkK_qLrn1', 100),
 -- Ария - Закат
-(DEFAULT, '0', '15Fd6JhPlD94HgIzy1N2lvFo12o7a6WuM', 120),
+(DEFAULT, '0', '15Fd6JhPlD94HgIzy1N2lvFo12o7a6WuM', 110),
 -- Ария - Осколок льда
-(DEFAULT, '0', '15MxbTaO4O9_6k7QjgUEcBSzu1uvoLXo4', 130),
+(DEFAULT, '0', '15MxbTaO4O9_6k7QjgUEcBSzu1uvoLXo4', 120),
 -- Ария - Штиль
-(DEFAULT, 'original', '1nzb51T6n7i0Qb0ci08TthKZRd-26Qs-X', 170),
-(DEFAULT, '0', '15N4Wlmle5IRLFC47-4ZMOgncQ7gCm3wO', 170),
+(DEFAULT, 'original', '1nzb51T6n7i0Qb0ci08TthKZRd-26Qs-X', 160),
+(DEFAULT, '0', '15N4Wlmle5IRLFC47-4ZMOgncQ7gCm3wO', 160),
 -- Кипелов - Я свободен!
-(DEFAULT, '0', '1-nGYWtzW5tFXT9W9ca-5V5DEmVPQhux9', 180),
+(DEFAULT, '0', '1-nGYWtzW5tFXT9W9ca-5V5DEmVPQhux9', 170),
 -- Слот - Круги на воде
-(DEFAULT, 'original', '1YlSgh1QzHl7t272sqgZIZogWzbBhFgyF', 190),
-(DEFAULT, '+1', '1608Rx2FTKM7Qpi5m1sjqykuBVZ5Vi3vg', 190),
-(DEFAULT, '0', '1UIBGxHCpQneDtNd5yXofr3PdGGUXIzun', 190),
-(DEFAULT, '-2', '1jN7UFNqST3wwuzNOuk5ojOzZ_yYOBkV0', 190),
+(DEFAULT, 'original', '1YlSgh1QzHl7t272sqgZIZogWzbBhFgyF', 180),
+(DEFAULT, '+1', '1608Rx2FTKM7Qpi5m1sjqykuBVZ5Vi3vg', 180),
+(DEFAULT, '0', '1UIBGxHCpQneDtNd5yXofr3PdGGUXIzun', 180),
+(DEFAULT, '-2', '1jN7UFNqST3wwuzNOuk5ojOzZ_yYOBkV0', 180),
 
 -- Rock, Punk
 
 -- Bon Jovi - It's My Life
-(DEFAULT, 'original', '1ZhV4e8LrelTti44CgBU3J0QcfP72izZ6', 11),
+(DEFAULT, 'original', '1ZhV4e8LrelTti44CgBU3J0QcfP72izZ6', 210),
 -- Joan Osborne - One of Us
 (DEFAULT, 'original', '1BvaaGEfJKr8jY1CIds1CV0rYyIXf6NtT', 31),
 -- Nirvana - Smells Like Teen Spirit
