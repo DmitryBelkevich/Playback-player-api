@@ -312,10 +312,10 @@ VALUES
 -- Chanson
 
 -- Михаил Круг - Владимирский централ
-(DEFAULT, '1hjEcHC-tYz1SkhoGzVn0xhnr7W_1GDM_', 8000),
+(DEFAULT, '1hjEcHC-tYz1SkhoGzVn0xhnr7W_1GDM_', 9000),
 -- Михаил Круг - Кольщик
-(DEFAULT, '1jNVE9F_7iBaSbyn1pCzMnHGdrX1hQOtJ', 8020),
+(DEFAULT, '1jNVE9F_7iBaSbyn1pCzMnHGdrX1hQOtJ', 9020),
 -- Стас Михайлов - Всё для тебя
-(DEFAULT, '115SIVb_I9hp3c0eddvavWoQG0W9tiYpQ', 8040),
+(DEFAULT, '115SIVb_I9hp3c0eddvavWoQG0W9tiYpQ', 9040),
 -- Стас Михайлов - Свеча
-(DEFAULT, '1IANgFVOF6AKg5vcRxnoy70qhL2qfywC-', 8050);
+(DEFAULT, '1IANgFVOF6AKg5vcRxnoy70qhL2qfywC-', 9050);
