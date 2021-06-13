@@ -313,32 +313,32 @@ VALUES
 (DEFAULT, '0', '1H2doovd6GE01_NliojJb26JhrFqRQB6q', 2320),
 (DEFAULT, '-2', '1r1pjuRsU03eK2dKB4V5D_ppO6uoX1tHP', 2320),
 -- Сергей Тихановcкий & Kosmas - Разбуры турмы муры
-(DEFAULT, 'original', '1VEyAlIKFCcQ9jVc4cvkhuPHRXpPNygri', 1530),
-(DEFAULT, '0', '1E-myP2M7zOkpOgp3mBgY1fA5TZYnHhbJ', 1530),
+(DEFAULT, 'original', '1VEyAlIKFCcQ9jVc4cvkhuPHRXpPNygri', 2330),
+(DEFAULT, '0', '1E-myP2M7zOkpOgp3mBgY1fA5TZYnHhbJ', 2330),
 -- Сергей Тихановcкий & Kosmas - Стены рухнут
-(DEFAULT, 'original', '1yQxC65aHyLpe3VFChlru9opT1yZlQTXQ', 1540),
-(DEFAULT, '0', '1E-myP2M7zOkpOgp3mBgY1fA5TZYnHhbJ', 1540),
+(DEFAULT, 'original', '1yQxC65aHyLpe3VFChlru9opT1yZlQTXQ', 2340),
+(DEFAULT, '0', '1E-myP2M7zOkpOgp3mBgY1fA5TZYnHhbJ', 2340),
 -- Сплин - Выхода нет
-(DEFAULT, 'original', '1TFfR8esb__0DnsP8SMc02xvcfOKSGN3p', 1570),
-(DEFAULT, '0', '1agtSI6Guw2pyf0JF4BQ1OKpBAbrpsvPX', 1570),
+(DEFAULT, 'original', '1TFfR8esb__0DnsP8SMc02xvcfOKSGN3p', 2370),
+(DEFAULT, '0', '1agtSI6Guw2pyf0JF4BQ1OKpBAbrpsvPX', 2370),
 -- Сплин - Линия жизни
-(DEFAULT, 'original', '128sIsRKok-cf4jYYwS6CYWa9xUgLcE7D', 1580),
-(DEFAULT, '0', '1i1TE8CQ1qje46JPPSEMqNSncdKc6AoBQ', 1580),
+(DEFAULT, 'original', '128sIsRKok-cf4jYYwS6CYWa9xUgLcE7D', 2380),
+(DEFAULT, '0', '1i1TE8CQ1qje46JPPSEMqNSncdKc6AoBQ', 2380),
 -- Сплин - Моё сердце
-(DEFAULT, 'original', '1AjPSkquyEKmU6iaZQGnejPAX1lk1p4pV', 1590),
-(DEFAULT, '0', '1ilBBPuLUa3pWWSdbr5s2C_wVpXH935aT', 1590),
+(DEFAULT, 'original', '1AjPSkquyEKmU6iaZQGnejPAX1lk1p4pV', 2390),
+(DEFAULT, '0', '1ilBBPuLUa3pWWSdbr5s2C_wVpXH935aT', 2390),
 -- Сплин - Орбит без сахара
-(DEFAULT, 'original', '1W3RKtn2pNLYhXPX4x58ru3jUAZexr16l', 1600),
-(DEFAULT, '0', '1EUMB6U7BOAEQhl5ualx3trWbCPSuQqe4', 1600),
+(DEFAULT, 'original', '1W3RKtn2pNLYhXPX4x58ru3jUAZexr16l', 2400),
+(DEFAULT, '0', '1EUMB6U7BOAEQhl5ualx3trWbCPSuQqe4', 2400),
 -- Сплин - Романс
-(DEFAULT, 'original', '1IGAxFyBv9-cwbQgyYWEtUUQTw6MzfOHT', 1610),
-(DEFAULT, '0', '1y03jkJpseyax1_B20hx_IOigTSiWzFd4', 1610),
+(DEFAULT, 'original', '1IGAxFyBv9-cwbQgyYWEtUUQTw6MzfOHT', 2410),
+(DEFAULT, '0', '1y03jkJpseyax1_B20hx_IOigTSiWzFd4', 2410),
 -- Танцы Минус - Половинка
-(DEFAULT, 'original', '1_D-H2wiH2j0WosnHXETXsZKkV2-pr_fL', 1630),
-(DEFAULT, '0', '1AIrDfhM2YtBisszdHB4NXn2HKQLpTOaC', 1630),
+(DEFAULT, 'original', '1_D-H2wiH2j0WosnHXETXsZKkV2-pr_fL', 2430),
+(DEFAULT, '0', '1AIrDfhM2YtBisszdHB4NXn2HKQLpTOaC', 2430),
 -- Чичерина - Ту-лу-ла
-(DEFAULT, 'original', '1zi9vRYg4WKaaRa54Svx6iJxDLF_6bCGb', 1650),
-(DEFAULT, '0', '1F_atD-LA7Z2feN19bmFUhrRrY-UYxMcB', 1650),
+(DEFAULT, 'original', '1zi9vRYg4WKaaRa54Svx6iJxDLF_6bCGb', 2450),
+(DEFAULT, '0', '1F_atD-LA7Z2feN19bmFUhrRrY-UYxMcB', 2450),
 
 -- Blues
 

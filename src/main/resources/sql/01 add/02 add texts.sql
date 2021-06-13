@@ -235,23 +235,23 @@ VALUES
 -- Сектор Газа - Туман
 (DEFAULT, '1dcEqgfBCl2ABVcwGlmTAs9lQFJSTpjnz', 2320),
 -- Сергей Тихановcкий & Kosmas - Разбуры турмы муры
--- (DEFAULT, '', 1530),
+-- (DEFAULT, '', 2330),
 -- Сергей Тихановcкий & Kosmas - Стены рухнут
--- (DEFAULT, '', 1540),
+-- (DEFAULT, '', 2340),
 -- Сплин - Выхода нет
-(DEFAULT, '1PNCEsQaREvDUMvniS_yyAAJ8qd1uRH6N', 1570),
+(DEFAULT, '1PNCEsQaREvDUMvniS_yyAAJ8qd1uRH6N', 2370),
 -- Сплин - Линия жизни
--- (DEFAULT, '', 1580),
+-- (DEFAULT, '', 2380),
 -- Сплин - Моё сердце
-(DEFAULT, '163PcnIjeCoxGIXZk6fMi1q6KOcnVS3w3', 1590),
+(DEFAULT, '163PcnIjeCoxGIXZk6fMi1q6KOcnVS3w3', 2390),
 -- Сплин - Орбит без сахара
-(DEFAULT, '1DRx51rkYx4Ou_-SH8KqUIRXf247qJPH8', 1600),
+(DEFAULT, '1DRx51rkYx4Ou_-SH8KqUIRXf247qJPH8', 2400),
 -- Сплин - Романс
-(DEFAULT, '1N1PvlAR-rBxVjmIza6ovDAUl9fsvKE9Z', 1610),
+(DEFAULT, '1N1PvlAR-rBxVjmIza6ovDAUl9fsvKE9Z', 2410),
 -- Танцы Минус - Половинка
-(DEFAULT, '1E3piSXMJf4yDmDvCwpp15FUJFl17OVm4', 1630),
+(DEFAULT, '1E3piSXMJf4yDmDvCwpp15FUJFl17OVm4', 2430),
 -- Чичерина - Ту-лу-ла
-(DEFAULT, '1at3lbPUaaTtdt092O73_NhKK_5fUGHDv', 1650),
+(DEFAULT, '1at3lbPUaaTtdt092O73_NhKK_5fUGHDv', 2450),
 
 -- Blues
 
