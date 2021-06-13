@@ -215,6 +215,7 @@ VALUES
 -- Мумий Тролль - Медведица
 -- (DEFAULT, '', 2160),
 -- Наутилус Помпилиус - Дыхание
+(DEFAULT, '1TmmHwl5C8_-wxhaTZJO6S1mJSxqTolCU', 2170),
 -- Наутилус Помпилиус - Крылья
 (DEFAULT, '1ePNwJkARW-e8oqHK25iQ68CJyo7Pmfuw', 2180),
 -- Наутилус Помпилиус - Последнее письмо
