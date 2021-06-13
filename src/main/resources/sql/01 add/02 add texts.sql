@@ -121,7 +121,7 @@ VALUES
 -- Звери - Районы-кварталы
 -- (DEFAULT, '', 660),
 -- Земляне - Трава у дома
-(DEFAULT, '1vtsCxcGLj6-O51ZjNEuMKt7TZw-GmjOK', 670),
+(DEFAULT, '1vtsCxcGLj6-O51ZjNEuMKt7TZw-GmjOK', 1570),
 -- Земфира - Искала
 -- (DEFAULT, '', 680),
 -- Земфира - Хочешь?

@@ -162,9 +162,9 @@ VALUES
 -- Звери - Районы-кварталы
 (DEFAULT, '0', '12EllXngEV88TfxNQgmn3cuJDBdiwQHwm', 660),
 -- Земляне - Трава у дома
-(DEFAULT, 'original', '1ZGDLEl-5bydc6tu1AXs7OfEzSi4lQTrh', 670),
-(DEFAULT, '0', '1WglpwE3om9EdHmVf_Bi-F9qeptk2JGEJ', 670),
-(DEFAULT, '-2', '1Di8hWcrqGjcJfHUj_SeOknyBVKd1Wcrr', 670),
+(DEFAULT, 'original', '1ZGDLEl-5bydc6tu1AXs7OfEzSi4lQTrh', 1570),
+(DEFAULT, '0', '1WglpwE3om9EdHmVf_Bi-F9qeptk2JGEJ', 1570),
+(DEFAULT, '-2', '1Di8hWcrqGjcJfHUj_SeOknyBVKd1Wcrr', 1570),
 -- Земфира - Искала
 (DEFAULT, 'original', '1IwQYmddIakZvif0C5RizE1Zo95-dbd8d', 680),
 (DEFAULT, '0', '1rtUGlU78DUi6Q9VSmEgOTQe5X2bEZElH', 680),
