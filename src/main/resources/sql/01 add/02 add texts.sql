@@ -211,9 +211,9 @@ VALUES
 -- Ляпис Трубецкой - Я верю
 (DEFAULT, '1cRWUgp0kLuD1gycmz6EPDGfzCB3AeNg_', 1110),
 -- Мумий Тролль - Владивосток 2000
-(DEFAULT, '1Lp4x49dw1LFzzct_gLN8WFVtvG1eEDLv', 1160),
+(DEFAULT, '1Lp4x49dw1LFzzct_gLN8WFVtvG1eEDLv', 1350),
 -- Мумий Тролль - Медведица
--- (DEFAULT, '', 1170),
+-- (DEFAULT, '', 1360),
 -- Наутилус Помпилиус - Дыхание
 -- Наутилус Помпилиус - Крылья
 -- Наутилус Помпилиус - Последнее письмо
