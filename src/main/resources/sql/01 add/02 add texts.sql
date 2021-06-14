@@ -290,7 +290,7 @@ VALUES
 -- SynthPop
 
 -- Eurythmics - Sweet Dreams (Are Made of This)
--- (DEFAULT, '', 6000),
+(DEFAULT, '1tkGcrsY8riGIiYC0-JZPQeVWvPCrZsCV', 6000),
 
 -- New school
 
