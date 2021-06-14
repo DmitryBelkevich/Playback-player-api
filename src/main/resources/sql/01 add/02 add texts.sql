@@ -145,33 +145,33 @@ VALUES
 -- Кино - Пачка сигарет
 (DEFAULT, '13NJw888shKdCpCETked68ufggVxyF6Vq', 1700),
 -- Кино - Хочу перемен!
--- (DEFAULT, '', 770),
+-- (DEFAULT, '', 1710),
 -- Король и Шут - Воспоминание о былой любви
-(DEFAULT, '1jsXRPufNyzu45Rx3y3MBBFka1LFQ0aIR', 790),
+(DEFAULT, '1jsXRPufNyzu45Rx3y3MBBFka1LFQ0aIR', 1720),
 -- Король и Шут - Два вора и монета
-(DEFAULT, '10vIdFb5RUWn6lmTLBOvTLSLSt3KOdv29', 800),
+(DEFAULT, '10vIdFb5RUWn6lmTLBOvTLSLSt3KOdv29', 1730),
 -- Король и Шут - Два монаха в одну ночь
-(DEFAULT, '1I0MBK0Uti5hIxeRLRPCpArwfxzlGaPiH', 810),
+(DEFAULT, '1I0MBK0Uti5hIxeRLRPCpArwfxzlGaPiH', 1740),
 -- Король и Шут - Дурак и молния
--- (DEFAULT, '', 820),
+-- (DEFAULT, '', 1750),
 -- Король и Шут - Ели мясо мужики
--- (DEFAULT, '', 830),
+-- (DEFAULT, '', 1760),
 -- Король и Шут - Жаль, нет ружья!
-(DEFAULT, '11CauXLbzrP3MuE5vIckNJA2bFNtnoRhs', 840),
+(DEFAULT, '11CauXLbzrP3MuE5vIckNJA2bFNtnoRhs', 1770),
 -- Король и Шут - Камнем по голове
-(DEFAULT, '1AcMMUVVFsj5Ec7IqyMzEBl7I3TpzqPjC', 850),
+(DEFAULT, '1AcMMUVVFsj5Ec7IqyMzEBl7I3TpzqPjC', 1780),
 -- Король и Шут - Кукла колдуна
--- (DEFAULT, '', 860),
+-- (DEFAULT, '', 1790),
 -- Король и Шут - Лесник
--- (DEFAULT, '', 870),
+-- (DEFAULT, '', 1800),
 -- Король и Шут - Мёртвый Анархист
-(DEFAULT, '1J-4JkTNl-2QxLoTT6twWLzuOhfFoo9lS', 880),
+(DEFAULT, '1J-4JkTNl-2QxLoTT6twWLzuOhfFoo9lS', 1810),
 -- Король и Шут - Наблюдатель
-(DEFAULT, '15K64bOm9D7AOHf6RqOuCb4kT2-vPMvff', 890),
+(DEFAULT, '15K64bOm9D7AOHf6RqOuCb4kT2-vPMvff', 1820),
 -- Король и Шут - Проклятый старый дом
-(DEFAULT, '1RuJJGH48mhyJU9Hn8v66jKxYR6hR5ZJU', 900),
+(DEFAULT, '1RuJJGH48mhyJU9Hn8v66jKxYR6hR5ZJU', 1830),
 -- Король и Шут - Прыгну со скалы
--- (DEFAULT, '', 910),
+-- (DEFAULT, '', 1840),
 -- Ленинград - WWW
 -- (DEFAULT, '', 1950),
 -- Ленинград - В Питере - пить

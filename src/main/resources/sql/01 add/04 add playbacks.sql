@@ -195,40 +195,40 @@ VALUES
 (DEFAULT, 'original', '1F9-DUIZBjRMPoqHfhNKfpCC0zjqTaCWS', 1700),
 (DEFAULT, '0', '1hDYC0YLB7r1Q2xjl8pnuY4oZHnz7y3Gq', 1700),
 -- Кино - Хочу перемен!
-(DEFAULT, '0', '1QI9KpuaKq8UNgue1M4eb1wdRNq3TC6tX', 770),
+(DEFAULT, '0', '1QI9KpuaKq8UNgue1M4eb1wdRNq3TC6tX', 1710),
 -- Король и Шут - Воспоминание о былой любви
-(DEFAULT, 'original', '1QxAgG3f1KArNxnkEmdGTUQSvKZYv9PwF', 790),
-(DEFAULT, '0', '1oJZDM10h_rIGFMdjV6vHg0Herrsb1a6I', 790),
+(DEFAULT, 'original', '1QxAgG3f1KArNxnkEmdGTUQSvKZYv9PwF', 1720),
+(DEFAULT, '0', '1oJZDM10h_rIGFMdjV6vHg0Herrsb1a6I', 1720),
 -- Король и Шут - Два вора и монета
 -- Король и Шут - Два монаха в одну ночь
 -- Король и Шут - Дурак и молния
-(DEFAULT, 'original', '1a4DgfuiaB-irTmAmn-iW64kgBlaUgseG', 820),
-(DEFAULT, '0', '1UAruekfzB-YRM95vrMMWYKZIM_zH1s0l', 820),
-(DEFAULT, '-2', '1nI773EMyqZYIWOhVS93FQG58Uz3FW7wO', 820),
+(DEFAULT, 'original', '1a4DgfuiaB-irTmAmn-iW64kgBlaUgseG', 1750),
+(DEFAULT, '0', '1UAruekfzB-YRM95vrMMWYKZIM_zH1s0l', 1750),
+(DEFAULT, '-2', '1nI773EMyqZYIWOhVS93FQG58Uz3FW7wO', 1750),
 -- Король и Шут - Ели мясо мужики
-(DEFAULT, 'original', '1C1Ne1uam2icG1LvQ1SO0Tq9AiJLlZcSi', 830),
-(DEFAULT, '0', '1EMEWMpNYldH4q_GTEtIm_-YL9gV3CHT1', 830),
-(DEFAULT, '-2', '1399mJhc-_y2vkzH6eG9BeZi73G5KWwhb', 830),
+(DEFAULT, 'original', '1C1Ne1uam2icG1LvQ1SO0Tq9AiJLlZcSi', 1760),
+(DEFAULT, '0', '1EMEWMpNYldH4q_GTEtIm_-YL9gV3CHT1', 1760),
+(DEFAULT, '-2', '1399mJhc-_y2vkzH6eG9BeZi73G5KWwhb', 1760),
 -- Король и Шут - Жаль, нет ружья!
-(DEFAULT, 'original', '1NvzZg9oaFODT-xkG3FXqV92ZCFkrrq85', 840),
-(DEFAULT, '0', '1WiuXcOgrtxxPs0PdF-FQYAe089MoPWwX', 840),
+(DEFAULT, 'original', '1NvzZg9oaFODT-xkG3FXqV92ZCFkrrq85', 1770),
+(DEFAULT, '0', '1WiuXcOgrtxxPs0PdF-FQYAe089MoPWwX', 1770),
 -- Король и Шут - Камнем по голове
-(DEFAULT, '0', '14ZREIU6Rt6Z10oimQ4S3iPBMvxQyRTgE', 850),
-(DEFAULT, '-1', '1NDpE_bbxck-TG8z-jymLNRrrRCv7y-NQ', 850),
-(DEFAULT, '-2', '1vuKM0mZe9E-pTLIMJrx0RstUQG_Ea-x2', 850),
+(DEFAULT, '0', '14ZREIU6Rt6Z10oimQ4S3iPBMvxQyRTgE', 1780),
+(DEFAULT, '-1', '1NDpE_bbxck-TG8z-jymLNRrrRCv7y-NQ', 1780),
+(DEFAULT, '-2', '1vuKM0mZe9E-pTLIMJrx0RstUQG_Ea-x2', 1780),
 -- Король и Шут - Кукла колдуна
-(DEFAULT, '0', '1o1p9742SmxLNb4L-IpuOHsupZWNbz4ik', 860),
+(DEFAULT, '0', '1o1p9742SmxLNb4L-IpuOHsupZWNbz4ik', 1790),
 -- Король и Шут - Лесник
-(DEFAULT, 'original', '1Q-1rGHNMcSIAkaOgHu7r5kGW5u6AlAzp', 870),
-(DEFAULT, '0', '1G4jZvYLAaO11N3wcuwF9JyZ7zf8eztrp', 870),
+(DEFAULT, 'original', '1Q-1rGHNMcSIAkaOgHu7r5kGW5u6AlAzp', 1800),
+(DEFAULT, '0', '1G4jZvYLAaO11N3wcuwF9JyZ7zf8eztrp', 1800),
 -- Король и Шут - Мёртвый Анархист
-(DEFAULT, 'original', '1_a5-6MuaDVE3cDtsgncZL32lQ8jc0Eon', 880),
-(DEFAULT, '0', '1d1nelo5N_ijF_UNnsLJ-zijCIbgKqA1R', 880),
+(DEFAULT, 'original', '1_a5-6MuaDVE3cDtsgncZL32lQ8jc0Eon', 1810),
+(DEFAULT, '0', '1d1nelo5N_ijF_UNnsLJ-zijCIbgKqA1R', 1810),
 -- Король и Шут - Наблюдатель
 -- Король и Шут - Проклятый старый дом
-(DEFAULT, '0', '1Bg6KTKs9ud6eWUADoGe9Bc5e40TQSdmS', 900),
+(DEFAULT, '0', '1Bg6KTKs9ud6eWUADoGe9Bc5e40TQSdmS', 1830),
 -- Король и Шут - Прыгну со скалы
-(DEFAULT, '0', '172JHGchXTyn5ITHU7141BUX4DGXYkPRU', 910),
+(DEFAULT, '0', '172JHGchXTyn5ITHU7141BUX4DGXYkPRU', 1840),
 -- Ленинград - WWW
 (DEFAULT, '0', '1JN9LUaUCwH5kLnVEMI8OxuDcRQPOTpeG', 1950),
 -- Ленинград - В Питере - пить
