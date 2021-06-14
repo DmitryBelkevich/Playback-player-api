@@ -142,7 +142,7 @@ VALUES
 -- Кино - Кукушка
 -- (DEFAULT, '', 1670),
 -- Кино - Мама, мы все тяжело больны
--- (DEFAULT, '', 1680),
+(DEFAULT, '1Inotmz4qf8pZUw3gTH-DKmV5r0tHDpLD', 1680),
 -- Кино - Муравейник
 (DEFAULT, '1MIm6Kpw-gugEOabe8x80aVvQOCCf3Jx0', 1690),
 -- Кино - Пачка сигарет
