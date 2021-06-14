@@ -180,6 +180,7 @@ VALUES
 -- Ленинград - В Питере - пить
 -- (DEFAULT, '', 1960),
 -- Ленинград - Терминатор
+(DEFAULT, '1T42UUqP0NH5KIpOGzXFu6k9V954D1ehj', 1970),
 -- Леприконсы - Хали-Гали
 (DEFAULT, '12xaoXoOWWzVsseQLkDb4ifdSEGFocw-x', 1980),
 -- Ляпис Трубецкой - Ау
