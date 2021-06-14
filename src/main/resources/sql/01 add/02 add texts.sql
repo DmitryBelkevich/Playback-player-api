@@ -216,7 +216,7 @@ VALUES
 -- Мумий Тролль - Владивосток 2000
 (DEFAULT, '1Lp4x49dw1LFzzct_gLN8WFVtvG1eEDLv', 2150),
 -- Мумий Тролль - Медведица
--- (DEFAULT, '', 2160),
+(DEFAULT, '1_ebk3N2izTSCvMpjVuEVIARaUmlzzH44', 2160),
 -- Наутилус Помпилиус - Дыхание
 (DEFAULT, '1TmmHwl5C8_-wxhaTZJO6S1mJSxqTolCU', 2170),
 -- Наутилус Помпилиус - Крылья
