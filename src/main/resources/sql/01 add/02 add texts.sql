@@ -127,23 +127,23 @@ VALUES
 -- Земфира - Хочешь?
 -- (DEFAULT, '', 1610),
 -- Кино - Группа крови
--- (DEFAULT, '', 700),
+-- (DEFAULT, '', 1620),
 -- Кино - Звезда по имени Солнце
-(DEFAULT, '1690Q0jyq325Iv0Evbc1b-jeFCBdtOWmk', 710),
+(DEFAULT, '1690Q0jyq325Iv0Evbc1b-jeFCBdtOWmk', 1630),
 -- Кино - Когда твоя девушка больна
-(DEFAULT, '1fPhNq-8JedX1_2mBTjztYsaIDBQqvYgA', 720),
+(DEFAULT, '1fPhNq-8JedX1_2mBTjztYsaIDBQqvYgA', 1640),
 -- Кино - Кончится лето
--- (DEFAULT, '', 730),
+-- (DEFAULT, '', 1650),
 -- Кино - Красно-жёлтые дни
-(DEFAULT, '1Z0_C6xvMIFr7AtjMQTy8thnQ2z0JJ-rz', 735),
+(DEFAULT, '1Z0_C6xvMIFr7AtjMQTy8thnQ2z0JJ-rz', 1660),
 -- Кино - Кукушка
--- (DEFAULT, '', 740),
+-- (DEFAULT, '', 1670),
 -- Кино - Мама, мы все тяжело больны
--- (DEFAULT, '', 750),
+-- (DEFAULT, '', 1680),
 -- Кино - Муравейник
-(DEFAULT, '1MIm6Kpw-gugEOabe8x80aVvQOCCf3Jx0', 755),
+(DEFAULT, '1MIm6Kpw-gugEOabe8x80aVvQOCCf3Jx0', 1690),
 -- Кино - Пачка сигарет
-(DEFAULT, '13NJw888shKdCpCETked68ufggVxyF6Vq', 760),
+(DEFAULT, '13NJw888shKdCpCETked68ufggVxyF6Vq', 1700),
 -- Кино - Хочу перемен!
 -- (DEFAULT, '', 770),
 -- Король и Шут - Воспоминание о былой любви
@@ -173,9 +173,9 @@ VALUES
 -- Король и Шут - Прыгну со скалы
 -- (DEFAULT, '', 910),
 -- Ленинград - WWW
--- (DEFAULT, '', 1650),
+-- (DEFAULT, '', 1950),
 -- Ленинград - В Питере - пить
--- (DEFAULT, '', 1660),
+-- (DEFAULT, '', 1960),
 -- Ленинград - Терминатор
 -- Леприконсы - Хали-Гали
 (DEFAULT, '12xaoXoOWWzVsseQLkDb4ifdSEGFocw-x', 1980),

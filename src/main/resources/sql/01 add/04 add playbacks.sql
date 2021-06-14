@@ -172,28 +172,28 @@ VALUES
 (DEFAULT, 'original', '1hUeCZyXx2oYFleIKv2lv8uXZqLTzMWWo', 1610),
 (DEFAULT, '0', '11DUG108OSOQkiohemd76bmV3pEfPxXc_', 1610),
 -- Кино - Группа крови
-(DEFAULT, 'original', '1rec_Lhy2xayDlfKl4Qvre9CU3jhe0yIZ', 700),
-(DEFAULT, '0', '1MyYxABh1_8ceYhLzfPQVPGuukBwf2tji', 700),
+(DEFAULT, 'original', '1rec_Lhy2xayDlfKl4Qvre9CU3jhe0yIZ', 1620),
+(DEFAULT, '0', '1MyYxABh1_8ceYhLzfPQVPGuukBwf2tji', 1620),
 -- Кино - Звезда по имени Солнце
-(DEFAULT, '0', '1lreTbqRzxPyA22Zj2LaG10oFQ6kqTQl4', 710),
+(DEFAULT, '0', '1lreTbqRzxPyA22Zj2LaG10oFQ6kqTQl4', 1630),
 -- Кино - Когда твоя девушка больна
-(DEFAULT, 'original', '1PL1WbqB4qNgzbIY6T55vj0_F-HOuS7oK', 720),
-(DEFAULT, '0', '1UaZXutLoJ5_d43fXLqoAVfT3g-X0ozcW', 720),
+(DEFAULT, 'original', '1PL1WbqB4qNgzbIY6T55vj0_F-HOuS7oK', 1640),
+(DEFAULT, '0', '1UaZXutLoJ5_d43fXLqoAVfT3g-X0ozcW', 1640),
 -- Кино - Кончится лето
-(DEFAULT, 'original', '1gczdEsO-j0r4ypiUcdPc-Vt3gcIt_0P0', 730),
-(DEFAULT, '0', '16ivCYOYCE7z7hPx3AIXH2qosw_AnsN5J', 730),
+(DEFAULT, 'original', '1gczdEsO-j0r4ypiUcdPc-Vt3gcIt_0P0', 1650),
+(DEFAULT, '0', '16ivCYOYCE7z7hPx3AIXH2qosw_AnsN5J', 1650),
 -- Кино - Красно-жёлтые дни
-(DEFAULT, '0', '1X62kdj63Mtmdm3w7Xt0NfblQRToXeVct', 735),
+(DEFAULT, '0', '1X62kdj63Mtmdm3w7Xt0NfblQRToXeVct', 1660),
 -- Кино - Кукушка
-(DEFAULT, '0', '1DmneUQCqStU_u28YdCEiRujhmfDHX93V', 740),
+(DEFAULT, '0', '1DmneUQCqStU_u28YdCEiRujhmfDHX93V', 1670),
 -- Кино - Мама, мы все тяжело больны
-(DEFAULT, '0', '1VCs2WGEhHQ885SpxqGOEYJqgFjRcQ7VX', 750),
+(DEFAULT, '0', '1VCs2WGEhHQ885SpxqGOEYJqgFjRcQ7VX', 1680),
 -- Кино - Муравейник
-(DEFAULT, 'original', '1ZxbX0X5MkHC13SaJgb5sqdOFEK17AY1B', 755),
-(DEFAULT, '0', '1MjRsAaC0rFBG2WxLbZJdYCmdodPlMDz4', 755),
+(DEFAULT, 'original', '1ZxbX0X5MkHC13SaJgb5sqdOFEK17AY1B', 1690),
+(DEFAULT, '0', '1MjRsAaC0rFBG2WxLbZJdYCmdodPlMDz4', 1690),
 -- Кино - Пачка сигарет
-(DEFAULT, 'original', '1F9-DUIZBjRMPoqHfhNKfpCC0zjqTaCWS', 760),
-(DEFAULT, '0', '1hDYC0YLB7r1Q2xjl8pnuY4oZHnz7y3Gq', 760),
+(DEFAULT, 'original', '1F9-DUIZBjRMPoqHfhNKfpCC0zjqTaCWS', 1700),
+(DEFAULT, '0', '1hDYC0YLB7r1Q2xjl8pnuY4oZHnz7y3Gq', 1700),
 -- Кино - Хочу перемен!
 (DEFAULT, '0', '1QI9KpuaKq8UNgue1M4eb1wdRNq3TC6tX', 770),
 -- Король и Шут - Воспоминание о былой любви
@@ -230,9 +230,9 @@ VALUES
 -- Король и Шут - Прыгну со скалы
 (DEFAULT, '0', '172JHGchXTyn5ITHU7141BUX4DGXYkPRU', 910),
 -- Ленинград - WWW
-(DEFAULT, '0', '1JN9LUaUCwH5kLnVEMI8OxuDcRQPOTpeG', 1650),
+(DEFAULT, '0', '1JN9LUaUCwH5kLnVEMI8OxuDcRQPOTpeG', 1950),
 -- Ленинград - В Питере - пить
-(DEFAULT, '0', '1LOnxBYpYtcoja0RdESC9xufAG64NNo40', 1660),
+(DEFAULT, '0', '1LOnxBYpYtcoja0RdESC9xufAG64NNo40', 1960),
 -- Ленинград - Терминатор
 -- Леприконсы - Хали-Гали
 (DEFAULT, '-2', '12RUbq0rDW1qhWrGkBSPeocxVq163m8xL', 1980),
