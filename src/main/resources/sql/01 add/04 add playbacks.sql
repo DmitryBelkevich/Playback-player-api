@@ -230,9 +230,9 @@ VALUES
 -- Король и Шут - Прыгну со скалы
 (DEFAULT, '0', '172JHGchXTyn5ITHU7141BUX4DGXYkPRU', 910),
 -- Ленинград - WWW
-(DEFAULT, '0', '1JN9LUaUCwH5kLnVEMI8OxuDcRQPOTpeG', 920),
+(DEFAULT, '0', '1JN9LUaUCwH5kLnVEMI8OxuDcRQPOTpeG', 1650),
 -- Ленинград - В Питере - пить
-(DEFAULT, '0', '1LOnxBYpYtcoja0RdESC9xufAG64NNo40', 930),
+(DEFAULT, '0', '1LOnxBYpYtcoja0RdESC9xufAG64NNo40', 1660),
 -- Ленинград - Терминатор
 -- Леприконсы - Хали-Гали
 (DEFAULT, '-2', '12RUbq0rDW1qhWrGkBSPeocxVq163m8xL', 1980),
