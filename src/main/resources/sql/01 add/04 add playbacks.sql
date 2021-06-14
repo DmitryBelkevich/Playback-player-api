@@ -152,15 +152,15 @@ VALUES
 -- Егор и Опизденевшие - Про мишутку (Песенка для Янки)
 -- Жуки - Батарейка
 -- Звери - Всё, что касается
-(DEFAULT, 'original', '1b6_DTGyFiJjRB1IZACaS88mEKEYuIi8B', 620),
-(DEFAULT, '0', '1AHZ0DVs7gu13uxD5eLOPgOAb-DoURQB6', 620),
+(DEFAULT, 'original', '1b6_DTGyFiJjRB1IZACaS88mEKEYuIi8B', 1520),
+(DEFAULT, '0', '1AHZ0DVs7gu13uxD5eLOPgOAb-DoURQB6', 1520),
 -- Звери - До скорой встречи
-(DEFAULT, '-2', '1M3MUN38uasKCxibqRYDOpUHJe5ytnOiQ', 630),
+(DEFAULT, '-2', '1M3MUN38uasKCxibqRYDOpUHJe5ytnOiQ', 1530),
 -- Звери - Напитки покрепче
-(DEFAULT, '-2', '1RTU0fMYNYn1oiN1becC8XlKOovw4DM1G', 640),
+(DEFAULT, '-2', '1RTU0fMYNYn1oiN1becC8XlKOovw4DM1G', 1540),
 -- Звери - Просто такая сильная любовь
 -- Звери - Районы-кварталы
-(DEFAULT, '0', '12EllXngEV88TfxNQgmn3cuJDBdiwQHwm', 660),
+(DEFAULT, '0', '12EllXngEV88TfxNQgmn3cuJDBdiwQHwm', 1560),
 -- Земляне - Трава у дома
 (DEFAULT, 'original', '1ZGDLEl-5bydc6tu1AXs7OfEzSi4lQTrh', 1570),
 (DEFAULT, '0', '1WglpwE3om9EdHmVf_Bi-F9qeptk2JGEJ', 1570),
