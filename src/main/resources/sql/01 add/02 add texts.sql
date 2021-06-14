@@ -111,6 +111,9 @@ VALUES
 -- Егор и Опизденевшие - Про дурачка
 -- Егор и Опизденевшие - Про мишутку (Песенка для Янки)
 -- Жуки - Батарейка
+(DEFAULT, '1TKtizqny1attrlvs48HOV0wb3TOFE7e7', 1500),
+-- Жуки - Влечение
+(DEFAULT, '17yPm2f_jdDxi4QBJUBWD_J3w8RLR7rQg', 1510),
 -- Звери - Всё, что касается
 (DEFAULT, '19NGoSabee3NtZiTFr0CaT91y6nXa6FKY', 1520),
 -- Звери - До скорой встречи
