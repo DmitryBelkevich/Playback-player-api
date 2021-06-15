@@ -392,6 +392,16 @@ VALUES
 (DEFAULT, 'Drum Set, Handclap', '1X_pl_YQ_nFlBj4fqhYfRQmZ9XTTDYB0N', 1660),
 (DEFAULT, 'Drum Set', '1RI5p5oMOxo9he-mk9odQCz3eQQk--NoD', 1660),
 (DEFAULT, 'Handclap', '16UYglgq2FRgZWu5AzYKozeAwjuLzeUnS', 1660),
+-- Кино - Мама, мы все тяжело больны
+(DEFAULT, 'Full Score', '1dn2-WBL3y0b2-WVix0I5awD5vBeRAZ9w', 1680),
+(DEFAULT, 'Voice', '1VkVfivyxtlZZpGpbf1zzomR898AB-02w', 1680),
+(DEFAULT, 'Acoustic Guitar, Electric Guitar 1, Electric Guitar 2', '1UDjejHauMusjmv1UtBo_RhgiqY1lu8HY', 1680),
+(DEFAULT, 'Acoustic Guitar', '1XFA3d-AzpFeA2rSfEsCqNRG2t-pmd9sk', 1680),
+(DEFAULT, 'Electric Guitar 1', '1Aj2RsDJgpcWxKciCiyRy7iXzHH_p1ce6', 1680),
+(DEFAULT, 'Electric Guitar 2', '1rHuUhrV9NLvseKwqKWfEnKPlGCLFUMnA', 1680),
+(DEFAULT, 'Bass Guitar', '1fxGooEnbm_7C4OmQ5ZyofaWjziaLrZE_', 1680),
+(DEFAULT, 'Drum Set', '141aIoLz__noqD99ixNwhdSAmHHjZxLyE', 1680),
+(DEFAULT, 'Synth Strings', '1cFSSO18zw3P8zXhX1-pjj7DJqlE5zAeM', 1680),
 -- Кино - Муравейник
 (DEFAULT, 'Full Score', '1XNRGEzFUHoBs4N9qZQaYyfjdzvg8gghd', 1690),
 (DEFAULT, 'Voice', '1v3ncQWU-9AO0ljhBsQcewwo3hjqLw_72', 1690),
