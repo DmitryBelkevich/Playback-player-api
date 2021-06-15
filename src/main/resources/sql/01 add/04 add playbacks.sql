@@ -188,7 +188,7 @@ VALUES
 (DEFAULT, '0', '1DmneUQCqStU_u28YdCEiRujhmfDHX93V', 1670),
 -- Кино - Мама, мы все тяжело больны
 (DEFAULT, 'original', '1g8u6rdmBrRiiEf421NctYxsi7wXDjcBK', 1680),
-(DEFAULT, '0', '1VCs2WGEhHQ885SpxqGOEYJqgFjRcQ7VX', 1680),
+(DEFAULT, '0', '13ErqBTubwAIJgKTEQidqeA8gIjXPF6UX', 1680),
 -- Кино - Муравейник
 (DEFAULT, 'original', '1ZxbX0X5MkHC13SaJgb5sqdOFEK17AY1B', 1690),
 (DEFAULT, '0', '1MjRsAaC0rFBG2WxLbZJdYCmdodPlMDz4', 1690),
