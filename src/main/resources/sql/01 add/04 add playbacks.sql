@@ -185,6 +185,7 @@ VALUES
 -- Кино - Красно-жёлтые дни
 (DEFAULT, '0', '1X62kdj63Mtmdm3w7Xt0NfblQRToXeVct', 1660),
 -- Кино - Кукушка
+(DEFAULT, 'original', '1OpqCCpWOMneqCsyqdoYt8mlnOsrpwQbl', 1670),
 (DEFAULT, '0', '1DmneUQCqStU_u28YdCEiRujhmfDHX93V', 1670),
 -- Кино - Мама, мы все тяжело больны
 (DEFAULT, 'original', '1g8u6rdmBrRiiEf421NctYxsi7wXDjcBK', 1680),
