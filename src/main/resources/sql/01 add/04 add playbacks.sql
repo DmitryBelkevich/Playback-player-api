@@ -400,8 +400,8 @@ VALUES
 -- Chanson
 
 -- Михаил Круг - Владимирский централ
-(DEFAULT, 'original', '1HslSFP_52ExO-RQviYAI4RAz_6EpMjrU', 9000),
-(DEFAULT, '0', '1iBb-DCYBQoY4V_M26nA3j-ttMp8luCrA', 9000),
+(DEFAULT, 'original', '1HslSFP_52ExO-RQviYAI4RAz_6EpMjrU', 9005),
+(DEFAULT, '0', '1iBb-DCYBQoY4V_M26nA3j-ttMp8luCrA', 9005),
 -- Михаил Круг - Кольщик
 (DEFAULT, 'original', '1fvlhRCo7p4Kt10cFsgbny-6VcfObirVE', 9020),
 (DEFAULT, '0', '1TPTH2RYljlUMr9H8HZ5n9odSlc-V-EWJ', 9020),

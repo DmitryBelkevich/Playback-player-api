@@ -131,6 +131,8 @@ VALUES
 -- (DEFAULT, '', 1580),
 -- Земфира - Хочешь?
 -- (DEFAULT, '', 1610),
+-- Кино - Апрель
+(DEFAULT, '1HHz8UC_uBHa5SLStkHVRXiyMf-dLPLWa', 1615),
 -- Кино - Группа крови
 -- (DEFAULT, '', 1620),
 -- Кино - Звезда по имени Солнце
@@ -325,8 +327,10 @@ VALUES
 
 -- Chanson
 
+-- Белый орёл - Потому что нельзя быть красивой такой
+(DEFAULT, '1GzrekqLQFnarRY_664-SBukOt7M5xg05', 9000),
 -- Михаил Круг - Владимирский централ
-(DEFAULT, '1hjEcHC-tYz1SkhoGzVn0xhnr7W_1GDM_', 9000),
+(DEFAULT, '1hjEcHC-tYz1SkhoGzVn0xhnr7W_1GDM_', 9005),
 -- Михаил Круг - Кольщик
 (DEFAULT, '1jNVE9F_7iBaSbyn1pCzMnHGdrX1hQOtJ', 9020),
 -- Стас Михайлов - Всё для тебя
