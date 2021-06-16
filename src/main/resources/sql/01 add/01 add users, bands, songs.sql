@@ -22,6 +22,7 @@ VALUES (1, 'Hard'),
 INSERT INTO bands (id, title)
 VALUES
     -- Metal
+    (3, 'Buckethead'),
     (5, 'Metallica'),
     (10, 'Rammstein'),
     (15, 'System of a Down'),
@@ -118,6 +119,7 @@ VALUES
 INSERT INTO songs (id, title, band_id, key_signature)
 VALUES
     -- Metal
+    (5, 'Soothsayer', 3, null),
     (10, 'No Leaf Clover', 5, 'Ebm'),
     (20, 'Nothing Else Matters', 5, 'Em'),
     (30, 'The Unforgiven', 5, 'Am'),
@@ -155,6 +157,7 @@ VALUES
     (1120, 'Три полоски', 90, 'Dm'),
     (1130, '12 обезьян', 95, 'Gm'),
     (1140, 'Эдельвейс', 100, null),
+    (1145, 'Sid & Nancy', 105, null),
     (1150, 'Гореть', 105, 'Gm'),
     (1160, 'Лёгкія-лёгкія', 110, 'Dm'),
     (1170, 'Тры чарапахі', 110, 'C'),
