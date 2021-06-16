@@ -296,7 +296,7 @@ VALUES
 -- New school
 
 -- МУККА - ДЕВОЧКА С КАРЕ
-(DEFAULT, '1P7kxdPdtxzSueUMbDZKm-COhjveUvjRt', 7020),
+(DEFAULT, '1P7kxdPdtxzSueUMbDZKm-COhjveUvjRt', 7040),
 
 -- Estrada
 

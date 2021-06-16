@@ -829,18 +829,18 @@ VALUES
 -- New school
 
 -- МУККА - ДЕВОЧКА С КАРЕ
-(DEFAULT, 'Full Score', '1N3Cpda-i9HS_nFTV4NcCsvwhOaWDu9iN', 7020),
-(DEFAULT, 'Voice 1, Voice 2', '1r8x-vlqyHYDNcbgTnU1oNcrJ6g0TRei1', 7020),
-(DEFAULT, 'Voice 1', '1ggySXYc36PRpJraU3pAd0S_exJm7yv3P', 7020),
-(DEFAULT, 'Voice 2', '11Cfo-EJhtFWBoLEK5Zoygvha671TpPGj', 7020),
-(DEFAULT, 'Electric Guitar', '1ApNbC9C4JbIWw2xC_uecpvTgCY38Y4gx', 7020),
-(DEFAULT, 'Bass Guitar', '13V-6he75jaoIpHxVcjyUIuvvduHbQOak', 7020),
-(DEFAULT, 'Drum Set', '1cjonXNTVMXwFUPyo2YNKgrFYDAfzLYk1', 7020),
-(DEFAULT, 'Cymbals', '1arThfSq2tKN65hTkuj3dHi-cton2Nk5W', 7020),
-(DEFAULT, 'Reverse Cymbals', '1Vr2D2RdX9Qay2-Ow_B8OUoK1pAjRTbn1', 7020),
-(DEFAULT, 'Lead 1 (Square)', '1WJtnrsgYaG5_oSfJ0mVN_S_WC_51Fiet', 7020),
-(DEFAULT, 'Synth Strings', '1GSeFMB6sAh9heFZlwCIRbfh9EcLEHGGs', 7020),
-(DEFAULT, 'FX 1 (Abduction)', '1n39a08XRoFgRDE_DyBJy-5AyiW8bxXPc', 7020),
+(DEFAULT, 'Full Score', '1N3Cpda-i9HS_nFTV4NcCsvwhOaWDu9iN', 7040),
+(DEFAULT, 'Voice 1, Voice 2', '1r8x-vlqyHYDNcbgTnU1oNcrJ6g0TRei1', 7040),
+(DEFAULT, 'Voice 1', '1ggySXYc36PRpJraU3pAd0S_exJm7yv3P', 7040),
+(DEFAULT, 'Voice 2', '11Cfo-EJhtFWBoLEK5Zoygvha671TpPGj', 7040),
+(DEFAULT, 'Electric Guitar', '1ApNbC9C4JbIWw2xC_uecpvTgCY38Y4gx', 7040),
+(DEFAULT, 'Bass Guitar', '13V-6he75jaoIpHxVcjyUIuvvduHbQOak', 7040),
+(DEFAULT, 'Drum Set', '1cjonXNTVMXwFUPyo2YNKgrFYDAfzLYk1', 7040),
+(DEFAULT, 'Cymbals', '1arThfSq2tKN65hTkuj3dHi-cton2Nk5W', 7040),
+(DEFAULT, 'Reverse Cymbals', '1Vr2D2RdX9Qay2-Ow_B8OUoK1pAjRTbn1', 7040),
+(DEFAULT, 'Lead 1 (Square)', '1WJtnrsgYaG5_oSfJ0mVN_S_WC_51Fiet', 7040),
+(DEFAULT, 'Synth Strings', '1GSeFMB6sAh9heFZlwCIRbfh9EcLEHGGs', 7040),
+(DEFAULT, 'FX 1 (Abduction)', '1n39a08XRoFgRDE_DyBJy-5AyiW8bxXPc', 7040),
 
 -- Estrada
 
