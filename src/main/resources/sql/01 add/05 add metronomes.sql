@@ -262,6 +262,8 @@ VALUES
 
 -- Alice Merton - No Roots
 (DEFAULT, null, 4, 4, 116, 5000),
+-- Leonard Cohen - Hallelujah
+(DEFAULT, null, 6, 8, 56, 5005),
 -- Maroon 5 - This Love
 (DEFAULT, null, 4, 4, 95, 5010),
 -- IOWA - Бьёт Бит

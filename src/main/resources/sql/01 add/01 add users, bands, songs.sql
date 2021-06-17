@@ -15,7 +15,8 @@ VALUES (1, 'Hard'),
 --        (6, 'SynthPop'),
 --        (7, 'New school'),
 --        (8, 'Estrada'),
---        (9, 'Chanson');
+--        (9, 'Chanson'),
+--        (10, 'Musical');
 
 -- bands
 
@@ -324,7 +325,7 @@ VALUES
 
     -- Pop, Dance
     (5000, 'No Roots', 300, 'Bm'),
-    (5005, 'Hallelujah', 303, null),
+    (5005, 'Hallelujah', 303, 'C'),
     (5010, 'This Love', 305, 'Cm'),
     (5020, 'Бьёт Бит', 310, 'Em'),
     (5030, 'Улыбайся', 310, 'Em'),
