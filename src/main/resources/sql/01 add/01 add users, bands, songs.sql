@@ -85,6 +85,7 @@ VALUES
 
     -- Pop, Dance
     (300, 'Alice Merton'),
+    (303, 'Leonard Cohen'),
     (305, 'Maroon 5'),
     (310, 'IOWA'),
     (313, 'БумБокс'),
@@ -323,6 +324,7 @@ VALUES
 
     -- Pop, Dance
     (5000, 'No Roots', 300, 'Bm'),
+    (5005, 'Hallelujah', 303, null),
     (5010, 'This Love', 305, 'Cm'),
     (5020, 'Бьёт Бит', 310, 'Em'),
     (5030, 'Улыбайся', 310, 'Em'),
