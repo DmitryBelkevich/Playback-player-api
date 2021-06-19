@@ -145,8 +145,8 @@ VALUES
 -- ДДТ - Просвистела
 -- ДДТ - Что такое осень
 (DEFAULT, 'original', '1G-2pWpl6W2YVgW6xpWuAlu5Yq5S1XRkn', 1460),
-(DEFAULT, '0', '1oFX2FUWsAN2hxKFdChZYRlDtf4Ot2zwk', 1460),
-(DEFAULT, '-2', '1wLhVHa3MtA65rVNcUzJA2eylSwow3KlW', 1460),
+(DEFAULT, '0', '1_8G0AShZ7dYktcmTfbtil0mkFUXVNyNN', 1460),
+(DEFAULT, '-2', '1nUBcSynGy45bSQn7gtSNl7IeXvF99NA8', 1460),
 -- ДДТ - Это всё…
 -- Егор и Опизденевшие - Про дурачка
 -- Егор и Опизденевшие - Про мишутку (Песенка для Янки)
