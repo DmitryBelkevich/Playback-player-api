@@ -358,6 +358,7 @@ VALUES
 (DEFAULT, 'original', '1zKkmIf6LTAORRgXGtA4aairbtsy2LAbA', 5000),
 -- Leonard Cohen - Hallelujah
 (DEFAULT, 'original', '1XoY9XZjol6z05KwGiS79xE5Pn4mNlV_b', 5005),
+(DEFAULT, '0', '12mMjDsF_uhSpYGujwkACGlvbRI85q8TR', 5005),
 -- Maroon 5 - This Love
 (DEFAULT, 'original', '1LOXvoiv3hH_O8O3ikz4PIHfF7Wbol_nP', 5010),
 -- IOWA - Бьёт Бит
