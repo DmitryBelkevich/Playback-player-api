@@ -60,8 +60,8 @@ VALUES
 (DEFAULT, 'original', '1BvaaGEfJKr8jY1CIds1CV0rYyIXf6NtT', 1010),
 -- Nirvana - Smells Like Teen Spirit
 (DEFAULT, 'original', '1rHdXtVO1bl8h0q95KHJX79ZfIycTw6NA', 1030),
-(DEFAULT, '0', '1xXdCRRkrm2aPRK4PSfxGWkZenbWkh_cB', 1030),
-(DEFAULT, '-2', '1kM7bWoYHoHk8ABEs-LCL8FrorpDxnHAh', 1030),
+(DEFAULT, '0', '1wrqYOLd-c9k-DNV2I_lvAlLn6pLCYr47', 1030),
+(DEFAULT, '-2', '1SVz_Rsdx7nT-F0obRe5fN06gjGZXSFza', 1030),
 -- Radiohead - Creep
 (DEFAULT, 'original', '1OLaqXsbL-nyeK0s504AZQFeDlRYCG71J', 1050),
 (DEFAULT, '0', '1W_9NUHGjCcTmolR1ICFLSdj203PEFiWm', 1050),
