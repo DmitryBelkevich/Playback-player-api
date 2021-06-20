@@ -175,6 +175,7 @@ VALUES
 (DEFAULT, 'original', '1rec_Lhy2xayDlfKl4Qvre9CU3jhe0yIZ', 1620),
 (DEFAULT, '0', '1MyYxABh1_8ceYhLzfPQVPGuukBwf2tji', 1620),
 -- Кино - Звезда по имени Солнце
+(DEFAULT, 'original', '1SCP-67pJwwi1009kkrvwRvp-jbq3bQEA', 1630),
 (DEFAULT, '0', '13gwQuMTc0hGk8f0I3Sc9pstE-5BtFez8', 1630),
 -- Кино - Когда твоя девушка больна
 (DEFAULT, 'original', '1PL1WbqB4qNgzbIY6T55vj0_F-HOuS7oK', 1640),
