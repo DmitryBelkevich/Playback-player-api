@@ -29,7 +29,7 @@ VALUES
 -- Ария - Свобода
 -- (DEFAULT, '', 130),
 -- Ария - Там высоко
--- (DEFAULT, '', 140),
+(DEFAULT, '192h-TOqwMSW5IktB_fiSlfjEdRE3_G0E', 140),
 -- Ария - Улица роз
 -- (DEFAULT, '', 150),
 -- Ария - Штиль
