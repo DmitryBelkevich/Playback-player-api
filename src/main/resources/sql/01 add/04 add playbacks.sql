@@ -184,6 +184,7 @@ VALUES
 (DEFAULT, 'original', '1gczdEsO-j0r4ypiUcdPc-Vt3gcIt_0P0', 1650),
 (DEFAULT, '0', '16ivCYOYCE7z7hPx3AIXH2qosw_AnsN5J', 1650),
 -- Кино - Красно-жёлтые дни
+(DEFAULT, 'original', '1EzhuIWKMrFLpBP0QltpoCeJPTD7f44sf', 1660),
 (DEFAULT, '0', '1X62kdj63Mtmdm3w7Xt0NfblQRToXeVct', 1660),
 -- Кино - Кукушка
 (DEFAULT, 'original', '1OpqCCpWOMneqCsyqdoYt8mlnOsrpwQbl', 1670),
