@@ -249,8 +249,8 @@ VALUES
 (DEFAULT, '-2', '1eZQwihWm2xW-tKuqrpH2x_2qcAhdglm1', 2010),
 -- Ляпис Трубецкой - Грай
 (DEFAULT, 'original', '1Xycelip9Uav7ZwpJ7o6i4xZhTHSmByvz', 2020),
-(DEFAULT, '0', '1cERqWvAlQLx1xqcKIppf6Ftfuvdhjv8X', 2020),
-(DEFAULT, '-2', '1G983EivCCvsce-ax1V7TLQWRSVtoeLEC', 2020),
+(DEFAULT, '0', '1L1Sc81nIx7_RtCMqFymStmFAtIMi3_51', 2020),
+(DEFAULT, '-2', '1ippOa2A0BwaqKZFo7mcfSwEaOBv7fIF0', 2020),
 -- Ляпис Трубецкой - Евпатория
 (DEFAULT, '-2', '1qCZ3P_Z3de39NgmTKwDJuqG5QM2qp_86', 2030),
 -- Ляпис Трубецкой - Капитал
