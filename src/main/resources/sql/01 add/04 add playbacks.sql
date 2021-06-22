@@ -244,7 +244,8 @@ VALUES
 (DEFAULT, '0', '1w6zwBojmXn3OVL7gNft3QEqHkVPh-lG9', 1990),
 -- Ляпис Трубецкой - Воины света
 (DEFAULT, 'original', '1XCrCRLugOStGdUkn8fp_-7_ExGQhR26H', 2000),
-(DEFAULT, '-2', '16DvdFQu1brxhXkJpUUD-ohQaM9nX_2X5', 2000),
+(DEFAULT, '0', '1Pu_yIqVIU934VFYVTmGvmouguJP6SWKw', 2000),
+(DEFAULT, '-2', '1K_N1qE9lSbDZ2InGI7mByIc9EYv0pMt2', 2000),
 -- Ляпис Трубецкой - В платье белом
 (DEFAULT, '-2', '1eZQwihWm2xW-tKuqrpH2x_2qcAhdglm1', 2010),
 -- Ляпис Трубецкой - Грай

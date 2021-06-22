@@ -196,7 +196,7 @@ VALUES
 -- Ляпис Трубецкой - Ау
 (DEFAULT, '1eKdLn6OS7gtWd5i-sXHIvIqS3KjNsbhG', 1990),
 -- Ляпис Трубецкой - Воины света
--- (DEFAULT, '', 2000),
+(DEFAULT, '1EYqp0h9Lc2zhQ1tNqzXYNvMW7B86CBtA', 2000),
 -- Ляпис Трубецкой - В платье белом
 (DEFAULT, '1Ar433wQqH0cWsVSG7uxgaWLJXTA8Yu2f', 2010),
 -- Ляпис Трубецкой - Грай
