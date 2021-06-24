@@ -42,7 +42,7 @@ VALUES
 -- Rock, Punk
 
 -- Bon Jovi - It's My Life
--- (DEFAULT, '', 1000),
+(DEFAULT, '1rmQSzOiMDMRFch4lYse9tSmrN98zuuAr', 1000),
 -- Joan Osborne - One of Us
 (DEFAULT, '10lA-I8AoECCIA0rMZAxowMdgnEAqtIk-', 1010),
 -- Linkin Park - Numb
