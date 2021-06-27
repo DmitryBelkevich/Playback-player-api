@@ -353,7 +353,8 @@ VALUES
 (DEFAULT, '-2', '1sBewSCld-VR0houptU3zBfCI4dGKElyW', 3020),
 -- Gary Moore - The Prophet
 (DEFAULT, 'original', '1oh8XmPfYiAnqwhV8Q7BLE5eE9RBDx7qo', 3030),
-(DEFAULT, '0', '13cGjZeyIf8-gVrl-XPb6zu82C0Zl0Jxl', 3030),
+(DEFAULT, '0', '1BFSNZ0fS_Kcu3XdJ3vXrFmpNPWZW63Ih', 3030),
+(DEFAULT, '-2', '1WTjatXaw2YA0X80j_Y4w-gBbI8bjXwkx', 3030),
 
 -- Surf
 
