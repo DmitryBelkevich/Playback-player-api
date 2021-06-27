@@ -348,9 +348,11 @@ VALUES
 -- Blues
 
 -- Gary Moore - The Loner
+(DEFAULT, 'original', '1sa7MrV2q_lFLrM4fr7D4s2hOEniZLevZ', 3020),
 (DEFAULT, '0', '151ay9ovdknImnk0abkSHsUTeZgPGaQcY', 3020),
 (DEFAULT, '-2', '1sBewSCld-VR0houptU3zBfCI4dGKElyW', 3020),
 -- Gary Moore - The Prophet
+(DEFAULT, 'original', '1oh8XmPfYiAnqwhV8Q7BLE5eE9RBDx7qo', 3030),
 (DEFAULT, '0', '13cGjZeyIf8-gVrl-XPb6zu82C0Zl0Jxl', 3030),
 
 -- Surf
