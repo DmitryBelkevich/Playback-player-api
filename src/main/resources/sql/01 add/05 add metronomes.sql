@@ -255,6 +255,8 @@ VALUES
 
 -- Gary Moore - The Loner
 (DEFAULT, null, 6, 8, 55, 3020),
+-- Gary Moore - The Prophet
+(DEFAULT, null, 12, 8, 53, 3030),
 
 -- Surf
 
