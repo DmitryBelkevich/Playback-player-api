@@ -814,6 +814,16 @@ VALUES
 
 -- Blues
 
+-- Gary Moore - The Loner
+-- Gary Moore - The Prophet
+(DEFAULT, 'Full Score', '1UC8pQwil5vIx80v6q2j13MgD1GZwe4Ml', 3030),
+(DEFAULT, 'Electric Guitar', '1lO_3DsdNGveXNSKuAGoqDG-3miCujtz4', 3030),
+(DEFAULT, 'Bass Guitar', '1dt-EnWpwmXCc_M9Uh8VBaH0zIiDh-LVK', 3030),
+(DEFAULT, 'Drum Set', '1SFxVr1rx9iHJbjNhFt58KFFOcIgRcbrI', 3030),
+(DEFAULT, 'Electric Organ, Strings', '1pIIHW-drMFBUsZ1U_POp3VLdSCifK7uj', 3030),
+(DEFAULT, 'Electric Organ', '1WXdDujmOGtvtqmAolfVtNn-hvvbxcocV', 3030),
+(DEFAULT, 'Strings', '1c3LtTyxEQgu8o-PV8SJ_bS51CuDAx6Ho', 3030),
+
 -- Surf
 
 -- Pop, Dance
