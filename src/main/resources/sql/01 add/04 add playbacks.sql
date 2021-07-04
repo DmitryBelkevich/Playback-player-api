@@ -390,7 +390,7 @@ VALUES
 
 -- МУККА - ДЕВОЧКА С КАРЕ
 (DEFAULT, 'original', '1r8qHmacix9KerOKNRxE3Lll0ks-orfVp', 7040),
-(DEFAULT, '0', '15D2I9ZGwP5wmSxZWtxHWBcTSw0a-XsD-', 7040),
+(DEFAULT, '0', '13pjGNURoeYFb9NP6TtBpgpUj--IJAagq', 7040),
 (DEFAULT, '-3', '1zgjKH7agagCp5pYV0qOQl9WdxBwu70e-', 7040),
 
 -- Estrada
