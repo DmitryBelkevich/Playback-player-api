@@ -33,7 +33,9 @@ VALUES
 (DEFAULT, 'original', '1KUHhVMY1YPFgKgjhBLKJXl7b5vn7_P1_', 90),
 (DEFAULT, '0', '1dJ8rhhJVd6wU4mrTiy48odM6JYnFuXuB', 90),
 -- Ария - Беспечный ангел
-(DEFAULT, '0', '15CCUu_Zg9IvQ2qTTlqfSg14OkK_qLrn1', 100),
+(DEFAULT, 'original', '1kg1a0A46M7FfLPkdZ3xfPA2aIkU0K0ov', 100),
+(DEFAULT, '+1', '1tijdBkkiRhBvK1nvrAe12K9_xPE5a-wI', 100),
+(DEFAULT, '0', '1lGE87lMC0pZqnJnYwTN4meiBrSHWcgPO', 100),
 -- Ария - Закат
 (DEFAULT, '0', '15Fd6JhPlD94HgIzy1N2lvFo12o7a6WuM', 110),
 -- Ария - Осколок льда

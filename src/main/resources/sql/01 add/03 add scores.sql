@@ -98,6 +98,18 @@ VALUES
 (DEFAULT, 'Bass Guitar', '1ISP1sxmvdNTZSYqKdKC1U8I-RoISZE76', 90),
 (DEFAULT, 'Drum Set', '12HeDjeaxYTPfYBnVSYIIdfxbsJGLNPU2', 90),
 (DEFAULT, 'Piano', '1F1htEbazbjgES7GSVZAfbaqOrMo2PWtF', 90),
+-- Ария - Беспечный ангел
+(DEFAULT, 'Full Score', '1KK62RDRGxji1i3NyUp2Z0zDvxAbKRarR', 100),
+(DEFAULT, 'Voice 1, Voice 2', '1xR2Xf5WS97IpdJlHapR_bUrQ8wtDkeVU', 100),
+(DEFAULT, 'Voice 1', '1YJOamp1Io9tBGH0eBN0jIT0LM6g3Cdu5', 100),
+(DEFAULT, 'Voice 2', '1UFf0BRTPJzbmlgVR-G5KGJ0c41vyLg9M', 100),
+(DEFAULT, 'Acoustic Guitar, Electric Guitar 1, Electric Guitar 2', '1pB_sbW-iSbvT8CLqKutKwxFmO0ePwUYd', 100),
+(DEFAULT, 'Acoustic Guitar', '17EySM9Hl3wDja0p_3jdv0wOphu6MEZCH', 100),
+(DEFAULT, 'Electric Guitar 1', '1b7-0i949cDYGVlaI39kkW0ic1c5MRIxx', 100),
+(DEFAULT, 'Electric Guitar 2', '1gxNF1QkmNZh938ouUSstr6mullG2iqDo', 100),
+(DEFAULT, 'Bass Guitar', '1apqeMWnzJj58GCeDkCHTPFR0bovmTol1', 100),
+(DEFAULT, 'Drum Set', '1zM7os8WX7YdlbrR1U1T4_uFU2EYdqUNf', 100),
+(DEFAULT, 'Strings', '1ZzGUkprg_iB9rIoA59A6ShSicPH-3P5q', 100),
 -- Слот - Круги на воде
 (DEFAULT, 'Full Score', '1-VBCNmrDg6_kCJ_t-AJ0m76n-kC4HtER', 180),
 (DEFAULT, 'Voice 1, Voice 2', '1UDV8oynW89URXSPy3-rKi_rXvONpzwhM', 180),

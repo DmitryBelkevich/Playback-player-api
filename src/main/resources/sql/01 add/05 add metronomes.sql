@@ -23,7 +23,7 @@ VALUES
 -- System of a Down - Toxicity
 (DEFAULT, null, 6, 8, 80, 90),
 -- Ария - Беспечный ангел
-(DEFAULT, null, 4, 4, 130, 100),
+(DEFAULT, null, 2, 4, 65, 100),
 -- Ария - Закат
 (DEFAULT, null, 4, 4, 130, 110),
 -- Ария - Осколок льда
