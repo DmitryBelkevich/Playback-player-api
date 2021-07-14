@@ -110,6 +110,18 @@ VALUES
 (DEFAULT, 'Bass Guitar', '1apqeMWnzJj58GCeDkCHTPFR0bovmTol1', 100),
 (DEFAULT, 'Drum Set', '1zM7os8WX7YdlbrR1U1T4_uFU2EYdqUNf', 100),
 (DEFAULT, 'Strings', '1ZzGUkprg_iB9rIoA59A6ShSicPH-3P5q', 100),
+-- Ария - Штиль
+(DEFAULT, 'Full Score', '17VuQ64ddsrTNGZ1zJOVFM7g-8SNwMima', 160),
+(DEFAULT, 'Voice', '1M2k1YCmY0jb4-L-2i68kboNxh6ELaFYd', 160),
+(DEFAULT, 'Acoustic Guitar', '1pgdM76CWCTUBY1LJc7Yl1eCDvcd4uSS4', 160),
+(DEFAULT, 'Electric Guitar 1', '1kXWzQwonX3RNkFF7leyZ0GtMjMVJrmjm', 160),
+(DEFAULT, 'Electric Guitar 2', '1heIj-VHOU-csvV-BK2wggNvgbhoAOPvM', 160),
+(DEFAULT, 'Bass Guitar', '1oZgS_jPoMc0L61V_gOKSqs4Bqm-e7gZQ', 160),
+(DEFAULT, 'Drum Set', '1t32GnpyIUcdM2lOnNMOwbS9S6o2bizVd', 160),
+(DEFAULT, 'Timpani', '12nP_cBJjyEmuQid5ny5u6nMJfjmxwasT', 160),
+(DEFAULT, 'Choir', '1mLZUInGabTeJp7yu3kpF3cpylPI2-4mK', 160),
+(DEFAULT, 'Organ', '1GzMs3gp9OzNbP4UgCDH3Rwf5jVIHp_Se', 160),
+(DEFAULT, 'Strings', '1BIloJZ2a6NsL5L-3YuDMw6dlChKxXAXY', 160),
 -- Слот - Круги на воде
 (DEFAULT, 'Full Score', '1-VBCNmrDg6_kCJ_t-AJ0m76n-kC4HtER', 180),
 (DEFAULT, 'Voice 1, Voice 2', '1UDV8oynW89URXSPy3-rKi_rXvONpzwhM', 180),
