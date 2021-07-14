@@ -42,7 +42,8 @@ VALUES
 (DEFAULT, '0', '15MxbTaO4O9_6k7QjgUEcBSzu1uvoLXo4', 120),
 -- Ария - Штиль
 (DEFAULT, 'original', '1nzb51T6n7i0Qb0ci08TthKZRd-26Qs-X', 160),
-(DEFAULT, '0', '15N4Wlmle5IRLFC47-4ZMOgncQ7gCm3wO', 160),
+(DEFAULT, '0', '1QkPNKlTAYclfMLPZTZER1tJp41qgy0iQ', 160),
+(DEFAULT, '-2', '1nA_Ym6aR2umi7Stn41Q4IhgQC8LzOZIw', 160),
 -- Кипелов - Я свободен!
 (DEFAULT, '0', '1-nGYWtzW5tFXT9W9ca-5V5DEmVPQhux9', 170),
 -- Слот - Круги на воде
