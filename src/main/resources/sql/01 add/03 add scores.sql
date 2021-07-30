@@ -629,6 +629,7 @@ VALUES
 (DEFAULT, 'Soprano Recorder', '1dLAbApG7dc180giDbxZFher7J675Wfpw', 2020),
 (DEFAULT, 'Accordion', '1Q-_7DutpMsv8cOaf2-Rv6cIk-DUXaQei', 2020),
 (DEFAULT, 'Synth Strings', '1gO9gFnVodFugzn-dQhYy2nIle6v0PiqB', 2020),
+-- Ляпис Трубецкой - Золотая антилопа
 -- Ляпис Трубецкой - Капитал
 (DEFAULT, 'Full Score', '1KadXCz0ML1wBlidIetxkhPpN9thu19Vn', 2040),
 (DEFAULT, 'Voice', '1sYgd4UNE9ZPucXIrwjyR1OU4-hoGuvRy', 2040),
