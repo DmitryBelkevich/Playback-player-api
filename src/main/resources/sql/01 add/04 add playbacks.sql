@@ -259,6 +259,8 @@ VALUES
 (DEFAULT, '-2', '1ippOa2A0BwaqKZFo7mcfSwEaOBv7fIF0', 2020),
 -- Ляпис Трубецкой - Евпатория
 (DEFAULT, '-2', '1qCZ3P_Z3de39NgmTKwDJuqG5QM2qp_86', 2030),
+-- Ляпис Трубецкой - Золотая антилопа
+(DEFAULT, 'original', '13m6F5Lm7szwYFcsTZs59stzeFI4a54hl', 2035),
 -- Ляпис Трубецкой - Капитал
 (DEFAULT, 'original', '1IuRBaCdhtyEMe8G4Su0GrlFHFlgR-th1', 2040),
 (DEFAULT, '0', '1RevqZU15nwqcDvyUxQsIQPx5TGMYWMZf', 2040),
