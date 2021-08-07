@@ -300,6 +300,17 @@ VALUES
 (DEFAULT, 'Synth Brass', '1dzMAfWNlmC9zqEbVLTOy-JADYzJFzdtl', 1290),
 (DEFAULT, 'Crotales', '1k-y4m8qHqNTcwxyphiHroeYutDHEFfgy', 1290),
 (DEFAULT, 'Synth Strings', '1_8-CDYutuM1CQkZl_QXCCCe6gQ4PzOcj', 1290),
+-- ДДТ - Просвистела
+(DEFAULT, 'Full Score', '1SDETVYTG_nsl76Xu7YHBRWJuPOwqoXhJ', 1450),
+(DEFAULT, 'Voice 1, Voice 2', '1U0i6M-vXf2T_SrFrt15823l7Vu4aoJy5', 1450),
+(DEFAULT, 'Voice 1', '1VrnIZhrytUm7NWUTDLSJVR07_KwYrHzm', 1450),
+(DEFAULT, 'Voice 2', '1Z5UeDKc6i8bzdglDps-9SczFqPRsDQ-l', 1450),
+(DEFAULT, 'Acoustic Guitar, Electric Guitar', '1qc6YIcUHCYYR3iQFQWziTe5oh9v8Bgis', 1450),
+(DEFAULT, 'Acoustic Guitar', '15SE_n1SJzVwdQu3DtL-DbXNFB8TZTTYW', 1450),
+(DEFAULT, 'Electric Guitar', '1gxi23RHvT0dKS_Ks7HVqJJnKaXv2Tzks', 1450),
+(DEFAULT, 'Bass Guitar', '1nJmndAY_-C3rLtCfd6ZP1jdLSndOUhPC', 1450),
+(DEFAULT, 'Drum Set', '17yF1YxJtv3mM4Cb8cITSNlufzG9goj6W', 1450),
+(DEFAULT, 'Strings', '14adyeB9of22Jj4Fs1RWm9x0_mO4PhX3F', 1450),
 -- ДДТ - Что такое осень
 (DEFAULT, 'Full Score', '1xr4PTmHuJEmXh6Jr_tNJV5im-UsBd8Zz', 1460),
 (DEFAULT, 'Voice 1, Voice 2, Voice 3', '1uJHDQTlFl48i_jRkqWsfH8w1CMsLJeNi', 1460),
