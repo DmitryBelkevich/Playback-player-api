@@ -5,7 +5,7 @@ VALUES
 -- Metal
 
 -- Metallica - No Leaf Clover
-(DEFAULT, '-1', '1i08sJpoHA8QAyPLth8Eaz5k65hNvu67O', 10),
+(DEFAULT, '-1', '15ZJXxyyhHvVJrQWPASItfP8duCqMwMEp', 10),
 -- Metallica - Nothing Else Matters
 (DEFAULT, 'original', '1OjohWhLORpbmPUv80SprjowrqNNb7lV9', 20),
 (DEFAULT, '0', '1tO0tvkpeORa06OX7wzhkkeHp1skCy7GR', 20),
