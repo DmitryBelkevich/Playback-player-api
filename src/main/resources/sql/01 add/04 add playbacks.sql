@@ -86,7 +86,7 @@ VALUES
 (DEFAULT, '-2', '1x9hKCns3XUH6hv-ouGPk4_gwWO3U5DPZ', 1120),
 -- BRUTTO - 12 обезьян
 (DEFAULT, 'original', '1VLFscNbxvL7AFgwMMHwef4DLHr2O6E_J', 1130),
-(DEFAULT, '-2', '1z-UCRghp2dRWTHvEoSjw2JP_WfClAwd7', 1130),
+(DEFAULT, '-2', '1shRpIIQeov8Zm-hGe5-5Cge1V7JxpOBM', 1130),
 -- Lumen - Гореть
 (DEFAULT, 'original', '1TAmlTGqDiej_IQsD85WydhcGeVeuIPJG', 1150),
 (DEFAULT, '0', '1OOlkBsvKgUWx7jQ5mAcGPbsDZ6R1ZA4p', 1150),
@@ -94,11 +94,11 @@ VALUES
 (DEFAULT, 'original', '17C3G9lzZ_UFfrQVAux49mETYXLZLpk4g', 1160),
 -- N.R.M. - Тры чарапахі
 (DEFAULT, 'original', '1H7jiqp_ThTuJGsGMonkrBvBajD4ujQKj', 1170),
-(DEFAULT, '-2', '1qh1gezTgkSEkkL36HPIjrAJAFDEBE84M', 1170),
+(DEFAULT, '-2', '1GNxYAsdQ5qxEYvAnko-eXQqgERPKyGhO', 1170),
 -- Агата Кристи - Как на войне
 (DEFAULT, 'original', '1yfNtoBHW9lveJNCAoDdH3Hj5rW_v6ZbB', 1180),
-(DEFAULT, '0', '1JZdpTjJJGW6lFcUF8m8px3f2ry_IOpSC', 1180),
-(DEFAULT, '-2', '19W1-SPlJytjM7u5HO21PHIstZYrAXbGd', 1180),
+(DEFAULT, '0', '1UfxYuH8OSXaYKyv98e2vUN9uhPBvu6GN', 1180),
+(DEFAULT, '-2', '1u9jkhJQEH-TXrqijuBQ4ylvsY0q-q09r', 1180),
 -- Агата Кристи - Никогда
 (DEFAULT, 'original', '1UQW9aBdBCpTnLoVMNxZpqyeRU91jiw0v', 1190),
 (DEFAULT, '0', '1terxHMtjZUFx1sxeynCpE3NwdWTRoGw7', 1190),
