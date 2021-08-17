@@ -126,29 +126,29 @@ VALUES
 -- Звери - Всё, что касается
 (DEFAULT, '19NGoSabee3NtZiTFr0CaT91y6nXa6FKY', 1520),
 -- Звери - До скорой встречи
--- (DEFAULT, '', 1530),
+(DEFAULT, '1J-AHzYiWS0G_7zuVffw8t63E2XPUqh3Q', 1530),
 -- Звери - Напитки покрепче
--- (DEFAULT, '', 1540),
+(DEFAULT, '1FI681oJFxjsv0uZzIigdrgUnOp6PqeM0', 1540),
 -- Звери - Просто такая сильная любовь
 (DEFAULT, '1OGXYOJ00UY7Jlx2CWxGaz0qup2LgReLk', 1550),
 -- Звери - Районы-кварталы
--- (DEFAULT, '', 1560),
+(DEFAULT, '1keeXiCwUoSGw8nPDXyfT9vDk8b_X64OY', 1560),
 -- Земляне - Трава у дома
 (DEFAULT, '1vtsCxcGLj6-O51ZjNEuMKt7TZw-GmjOK', 1570),
 -- Земфира - Искала
--- (DEFAULT, '', 1580),
+(DEFAULT, '1z8xEijfI02snc0XswS0OhIc1eo_o5NtE', 1580),
 -- Земфира - Хочешь?
--- (DEFAULT, '', 1610),
+(DEFAULT, '1bcbbuXPDC-U4wf7lG66kQK_IaSwziPQF', 1610),
 -- Кино - Апрель
 (DEFAULT, '1HHz8UC_uBHa5SLStkHVRXiyMf-dLPLWa', 1615),
 -- Кино - Группа крови
--- (DEFAULT, '', 1620),
+(DEFAULT, '1gOLd3b9qG83qNNQ7PfgD1JhhbYrI4XaF', 1620),
 -- Кино - Звезда по имени Солнце
 (DEFAULT, '1690Q0jyq325Iv0Evbc1b-jeFCBdtOWmk', 1630),
 -- Кино - Когда твоя девушка больна
 (DEFAULT, '1fPhNq-8JedX1_2mBTjztYsaIDBQqvYgA', 1640),
 -- Кино - Кончится лето
--- (DEFAULT, '', 1650),
+(DEFAULT, '1xsBhwR4OuE-0HcW_NbTE7zcZhw0d_Gf8', 1650),
 -- Кино - Красно-жёлтые дни
 (DEFAULT, '1Z0_C6xvMIFr7AtjMQTy8thnQ2z0JJ-rz', 1660),
 -- Кино - Кукушка
@@ -160,7 +160,7 @@ VALUES
 -- Кино - Пачка сигарет
 (DEFAULT, '13NJw888shKdCpCETked68ufggVxyF6Vq', 1700),
 -- Кино - Хочу перемен!
--- (DEFAULT, '', 1710),
+(DEFAULT, '1JNSUBsY0IoO_LuePzPH-jp6XPvfu-c7x', 1710),
 -- Король и Шут - Воспоминание о былой любви
 (DEFAULT, '1jsXRPufNyzu45Rx3y3MBBFka1LFQ0aIR', 1720),
 -- Король и Шут - Два вора и монета
@@ -188,11 +188,13 @@ VALUES
 -- Король и Шут - Прыгну со скалы
 -- (DEFAULT, '', 1840),
 -- Ленинград - WWW
--- (DEFAULT, '', 1950),
+(DEFAULT, '1emC5skvQkzwZVA7JZczQfcQ97KducDcH', 1950),
 -- Ленинград - В Питере - пить
--- (DEFAULT, '', 1960),
+(DEFAULT, '1rj6W1j4B7D0d6HdfIrdqBvfH58fc74bd', 1960),
 -- Ленинград - Терминатор
 (DEFAULT, '1T42UUqP0NH5KIpOGzXFu6k9V954D1ehj', 1970),
+-- Ленинград - Экспонат
+(DEFAULT, '1uD309rKsVyMTDc6kRD5KvlfPek2T6umv', 1973),
 -- Леприконсы - Хали-Гали
 (DEFAULT, '12xaoXoOWWzVsseQLkDb4ifdSEGFocw-x', 1980),
 -- Ляпис Трубецкой - Ау
@@ -231,7 +233,7 @@ VALUES
 -- Мумий Тролль - Владивосток 2000
 (DEFAULT, '1Lp4x49dw1LFzzct_gLN8WFVtvG1eEDLv', 2150),
 -- Мумий Тролль - Медведица
-(DEFAULT, '1_ebk3N2izTSCvMpjVuEVIARaUmlzzH44', 2160),
+(DEFAULT, '1TYYPM6pAWxga9QzmeM2qOTQ3mtJx9QNR', 2160),
 -- Наутилус Помпилиус - Дыхание
 (DEFAULT, '1TmmHwl5C8_-wxhaTZJO6S1mJSxqTolCU', 2170),
 -- Наутилус Помпилиус - Крылья

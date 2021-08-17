@@ -116,8 +116,8 @@ VALUES
 (DEFAULT, '0', '1xl9crJCQ64aaP5sEFrKrX25LdvCRX231', 1230),
 -- Би-2 - Варвара
 (DEFAULT, 'original', '1_KPpISEs09R8_qKFfg0IzhgRXvrumdoC', 1240),
-(DEFAULT, '0', '11-oGLE6TPevLuVjf0Nbu8_DFDhTmXnh0', 1240),
-(DEFAULT, '-2', '1NWYsosP8jPLQOzyB3KscW89WRfaWJH-9', 1240),
+(DEFAULT, '0', '1-NybgaPah-Yz4Lyhx-3FaDStTJsCNDu0', 1240),
+(DEFAULT, '-2', '1BDPUnm2h93i2A3ZOfHX8dcTfxOUWcsDY', 1240),
 -- Би-2 - Компромисс
 (DEFAULT, 'original', '1IgM7YTqyob7Qje_1jfukRep1WTX4reFl', 1250),
 (DEFAULT, '0', '15WeVD1P4z9tL_FsMxEYKlIfDUUNTZAk0', 1250),
@@ -126,7 +126,7 @@ VALUES
 (DEFAULT, '0', '14JuAi_bWoQ8LAV0Y_KOobf_1xKpvo6pO', 1260),
 -- Би-2 - Полковнику никто не пишет
 (DEFAULT, 'original', '1jsIWOVrWu8uQw1zgOQWLV2MhiYPCRS_J', 1270),
-(DEFAULT, '0', '1FDIHNKcE8FpI7BMjBuJQyxzpGv3pExn4', 1270),
+(DEFAULT, '0', '19TUkBiSXZU2JQw9_70Vopn4ot82gkByW', 1270),
 -- Би-2 - Серебро
 (DEFAULT, '0', '1Ac_cL6FNXlYjTcHUxis6ruoaY_wT80JJ', 1280),
 -- Валентин Стрыкало - Наше лето
@@ -179,22 +179,22 @@ VALUES
 (DEFAULT, '0', '11DUG108OSOQkiohemd76bmV3pEfPxXc_', 1610),
 -- Кино - Группа крови
 (DEFAULT, 'original', '1rec_Lhy2xayDlfKl4Qvre9CU3jhe0yIZ', 1620),
-(DEFAULT, '0', '1MyYxABh1_8ceYhLzfPQVPGuukBwf2tji', 1620),
+(DEFAULT, '0', '1XXvEDjGghhvkKJvUob7zVajcZB7IT2h5', 1620),
 -- Кино - Звезда по имени Солнце
 (DEFAULT, 'original', '1SCP-67pJwwi1009kkrvwRvp-jbq3bQEA', 1630),
-(DEFAULT, '0', '13gwQuMTc0hGk8f0I3Sc9pstE-5BtFez8', 1630),
+(DEFAULT, '0', '1_l80Ch4Bsn7wlVzS019lmXw8isUe-NQV', 1630),
 -- Кино - Когда твоя девушка больна
 (DEFAULT, 'original', '1PL1WbqB4qNgzbIY6T55vj0_F-HOuS7oK', 1640),
 (DEFAULT, '0', '1UaZXutLoJ5_d43fXLqoAVfT3g-X0ozcW', 1640),
 -- Кино - Кончится лето
 (DEFAULT, 'original', '1gczdEsO-j0r4ypiUcdPc-Vt3gcIt_0P0', 1650),
-(DEFAULT, '0', '16ivCYOYCE7z7hPx3AIXH2qosw_AnsN5J', 1650),
+(DEFAULT, '0', '1YHOekP4l_4DwHl2B_ZeC7waCp_AANBgL', 1650),
 -- Кино - Красно-жёлтые дни
 (DEFAULT, 'original', '1EzhuIWKMrFLpBP0QltpoCeJPTD7f44sf', 1660),
 (DEFAULT, '0', '1X62kdj63Mtmdm3w7Xt0NfblQRToXeVct', 1660),
 -- Кино - Кукушка
 (DEFAULT, 'original', '1OpqCCpWOMneqCsyqdoYt8mlnOsrpwQbl', 1670),
-(DEFAULT, '0', '1DmneUQCqStU_u28YdCEiRujhmfDHX93V', 1670),
+(DEFAULT, '0', '1eSYZpxrG3DvqixIPcmJfjbPqHHfaMkF2', 1670),
 -- Кино - Мама, мы все тяжело больны
 (DEFAULT, 'original', '1g8u6rdmBrRiiEf421NctYxsi7wXDjcBK', 1680),
 (DEFAULT, '0', '13ErqBTubwAIJgKTEQidqeA8gIjXPF6UX', 1680),
@@ -205,7 +205,7 @@ VALUES
 (DEFAULT, 'original', '1F9-DUIZBjRMPoqHfhNKfpCC0zjqTaCWS', 1700),
 (DEFAULT, '0', '1hDYC0YLB7r1Q2xjl8pnuY4oZHnz7y3Gq', 1700),
 -- Кино - Хочу перемен!
-(DEFAULT, '0', '1QI9KpuaKq8UNgue1M4eb1wdRNq3TC6tX', 1710),
+(DEFAULT, '0', '1VYkH_8TKtzUAQVAfUb-oO9NQE6HE67ms', 1710),
 -- Король и Шут - Воспоминание о былой любви
 (DEFAULT, 'original', '1QxAgG3f1KArNxnkEmdGTUQSvKZYv9PwF', 1720),
 (DEFAULT, '0', '1oJZDM10h_rIGFMdjV6vHg0Herrsb1a6I', 1720),
@@ -217,8 +217,8 @@ VALUES
 (DEFAULT, '-2', '1nI773EMyqZYIWOhVS93FQG58Uz3FW7wO', 1750),
 -- Король и Шут - Ели мясо мужики
 (DEFAULT, 'original', '1C1Ne1uam2icG1LvQ1SO0Tq9AiJLlZcSi', 1760),
-(DEFAULT, '0', '1EMEWMpNYldH4q_GTEtIm_-YL9gV3CHT1', 1760),
-(DEFAULT, '-2', '1399mJhc-_y2vkzH6eG9BeZi73G5KWwhb', 1760),
+(DEFAULT, '0', '1P_ugoebeldH0HRYpM5yBfbbrJ-paREEs', 1760),
+(DEFAULT, '-2', '1hJEhMaf1T8Dhul97Tfl69HV6Bnln3Ag2', 1760),
 -- Король и Шут - Жаль, нет ружья!
 (DEFAULT, 'original', '1NvzZg9oaFODT-xkG3FXqV92ZCFkrrq85', 1770),
 (DEFAULT, '0', '1WiuXcOgrtxxPs0PdF-FQYAe089MoPWwX', 1770),
@@ -227,7 +227,7 @@ VALUES
 (DEFAULT, '-1', '1NDpE_bbxck-TG8z-jymLNRrrRCv7y-NQ', 1780),
 (DEFAULT, '-2', '1vuKM0mZe9E-pTLIMJrx0RstUQG_Ea-x2', 1780),
 -- Король и Шут - Кукла колдуна
-(DEFAULT, '0', '1o1p9742SmxLNb4L-IpuOHsupZWNbz4ik', 1790),
+(DEFAULT, '0', '1dSge22IUEBGKjpyayXqwFfm_mlfX8xb7', 1790),
 -- Король и Шут - Лесник
 (DEFAULT, 'original', '1Q-1rGHNMcSIAkaOgHu7r5kGW5u6AlAzp', 1800),
 (DEFAULT, '0', '1G4jZvYLAaO11N3wcuwF9JyZ7zf8eztrp', 1800),
@@ -238,22 +238,22 @@ VALUES
 -- Король и Шут - Проклятый старый дом
 (DEFAULT, '0', '1Bg6KTKs9ud6eWUADoGe9Bc5e40TQSdmS', 1830),
 -- Король и Шут - Прыгну со скалы
-(DEFAULT, '0', '172JHGchXTyn5ITHU7141BUX4DGXYkPRU', 1840),
+(DEFAULT, '0', '1dveKeOYxfdoB7pTsMDFB8VLCtWjLSNWz', 1840),
 -- Ленинград - WWW
-(DEFAULT, '0', '1JN9LUaUCwH5kLnVEMI8OxuDcRQPOTpeG', 1950),
+(DEFAULT, '0', '1UBGwyFRDB5bEvmpVaqsLMAx8z2xasE9L', 1950),
 -- Ленинград - В Питере - пить
-(DEFAULT, '0', '1LOnxBYpYtcoja0RdESC9xufAG64NNo40', 1960),
+(DEFAULT, '0', '1yMy6F9cN6D4YTiizvIbXtAp8VqtU_q4s', 1960),
 -- Ленинград - Терминатор
 -- Леприконсы - Хали-Гали
 (DEFAULT, '-2', '12RUbq0rDW1qhWrGkBSPeocxVq163m8xL', 1980),
 -- Ляпис Трубецкой - Ау
-(DEFAULT, '0', '1w6zwBojmXn3OVL7gNft3QEqHkVPh-lG9', 1990),
+(DEFAULT, '0', '1aV5XhGD-j4IyUKBxG_fPWccCjTPUAzb1', 1990),
 -- Ляпис Трубецкой - Воины света
 (DEFAULT, 'original', '1XCrCRLugOStGdUkn8fp_-7_ExGQhR26H', 2000),
 (DEFAULT, '0', '1Pu_yIqVIU934VFYVTmGvmouguJP6SWKw', 2000),
 (DEFAULT, '-2', '1K_N1qE9lSbDZ2InGI7mByIc9EYv0pMt2', 2000),
 -- Ляпис Трубецкой - В платье белом
-(DEFAULT, '-2', '1eZQwihWm2xW-tKuqrpH2x_2qcAhdglm1', 2010),
+(DEFAULT, '-2', '1shyIqjK_t99GUsHTZHQv9-CswgfTArqf', 2010),
 -- Ляпис Трубецкой - Грай
 (DEFAULT, 'original', '1Xycelip9Uav7ZwpJ7o6i4xZhTHSmByvz', 2020),
 (DEFAULT, '0', '1L1Sc81nIx7_RtCMqFymStmFAtIMi3_51', 2020),
@@ -273,14 +273,14 @@ VALUES
 -- Ляпис Трубецкой - Belarus Freedom
 (DEFAULT, 'original', '1kX6ECO39N49fBFBmrlZoOfyT7UeTm2Dx', 2070),
 -- Ляпис Трубецкой - Огоньки
-(DEFAULT, '0', '17zGUoMypAzM8O-R1s1_jZy3fTjRFvFwq', 2080),
+(DEFAULT, '0', '1-RfzgYRTCo8N2FikanhO95Hzep--o2a0', 2080),
 -- Ляпис Трубецкой - Паренёк под следствием
 -- Ляпис Трубецкой - Сочи
-(DEFAULT, '0', '1Jy3OI-UAmh77i51bf7E_kGk055S1a5JJ', 2100),
+(DEFAULT, '0', '1V_nvf-PLdQlWUgz4C5egStoxJDw34gN5', 2100),
 -- Ляпис Трубецкой - Танцуй
-(DEFAULT, '0', '1smYkPrjJig_y-ozvJ0edmLizmyjFoiNa', 2110),
+(DEFAULT, '0', '1ZYAKQbI32p1N3rZSm5tvEJNChWX82DBu', 2110),
 -- Ляпис Трубецкой - Шут
-(DEFAULT, '-2', '1ZYFVpydRIlHJDfVCKjDmSV4lOahAlX4A', 2120),
+(DEFAULT, '-2', '1SdzfFWxfffgUQhYkrJEwcmv7DA58DbaB', 2120),
 -- Ляпис Трубецкой - Яблони
 -- Ляпис Трубецкой - Я верю
 (DEFAULT, 'original', '1YAQLe1erw3zsXEzsFBgkXj6PcJnTfiNa', 2140),
