@@ -5,7 +5,7 @@ VALUES
 -- Metal
 
 -- Metallica - No Leaf Clover
-(DEFAULT, null, 2, 4, 75, 10),
+(DEFAULT, null, 2, 4, 76, 10),
 -- Metallica - Nothing Else Matters
 (DEFAULT, null, 6, 8, 47, 20),
 -- Metallica - The Unforgiven

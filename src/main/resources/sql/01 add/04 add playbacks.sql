@@ -109,9 +109,9 @@ VALUES
 (DEFAULT, '-2', '1_91wLHOLYrLFEXs7waRC-ixYzoxgjy8X', 1200),
 -- Альянс - На заре
 (DEFAULT, 'original', '16ggNNQ-pwjX5AOGOGkgvpvvSt-bIIW7h', 1220),
-(DEFAULT, '0', '1ukd4mUa6X0r5jSkvdfw-6cSGIAQtDdoq', 1220),
-(DEFAULT, '-2', '18ms3gtRdtk_gp3SJHzj1H8C4p0fqrh5e', 1220),
-(DEFAULT, '-3', '1Tt3GKqXIGgqDCfD6lyElUnR6Px7K4v5l', 1220),
+(DEFAULT, '0', '1DNfIkofmGbaQ84thpLKsfz8viqPhtHr8', 1220),
+(DEFAULT, '-2', '1niqpaRJ3pYOzuoZgzh3lwxtPkEL2VB1P', 1220),
+(DEFAULT, '-3', '1VDkMZWx4L2vlsEsUCn7iaVmtabcv7FEF', 1220),
 -- АукцЫон - Дорога
 (DEFAULT, '0', '1xl9crJCQ64aaP5sEFrKrX25LdvCRX231', 1230),
 -- Би-2 - Варвара
@@ -131,9 +131,9 @@ VALUES
 (DEFAULT, '0', '1Ac_cL6FNXlYjTcHUxis6ruoaY_wT80JJ', 1280),
 -- Валентин Стрыкало - Наше лето
 (DEFAULT, 'original', '11EgRxJwhiEixT0Ucsx94ND0ENLpIJOZ9', 1290),
-(DEFAULT, '+3', '1sxCjEUXgeFZucHx0a7g2ZYyDAsTqAWLM', 1290),
-(DEFAULT, '0', '19V5F2fYUZkSX42Rc35xFPe-IAGB72_EE', 1290),
-(DEFAULT, '-2', '1_pok6JtLQb7apnORc6zTP_MvfHIej9SU', 1290),
+(DEFAULT, '+3', '1AvK6pwjpO0bKenFXYJvsigBLEtzMBrld', 1290),
+(DEFAULT, '0', '1mDX8paUIhySkfkB2INyzWcb4LklvNVif', 1290),
+(DEFAULT, '-2', '10GM8ziYhCytr7mB8G_agovrndBy_bmzH', 1290),
 -- Гражданская оборона - Всё идёт по плану
 -- Гражданская оборона - Всё как у людей
 -- Гражданская оборона - Зоопарк
