@@ -262,6 +262,7 @@ VALUES
 (DEFAULT, '-2', '1qCZ3P_Z3de39NgmTKwDJuqG5QM2qp_86', 2030),
 -- Ляпис Трубецкой - Золотая антилопа
 (DEFAULT, 'original', '13m6F5Lm7szwYFcsTZs59stzeFI4a54hl', 2035),
+(DEFAULT, '0', '1MIdv-PonHmL7EkHAI59b-TnJsmxhchju', 2035),
 -- Ляпис Трубецкой - Капитал
 (DEFAULT, 'original', '1IuRBaCdhtyEMe8G4Su0GrlFHFlgR-th1', 2040),
 (DEFAULT, '0', '1RevqZU15nwqcDvyUxQsIQPx5TGMYWMZf', 2040),
@@ -412,7 +413,7 @@ VALUES
 (DEFAULT, 'original', '1e9FkKo4ws0-OwjaUZhEZZNvb1cepK6Um', 8030),
 -- Михаил Боярский - Зеленоглазое такси
 (DEFAULT, 'original', '1TJEQsSf_fhbmfCv9nc82Sxh0P9zSqNmB', 8050),
-(DEFAULT, '0', '1kQHGP2fELW804Z_kJTprPrUmwbORDMS8', 8050),
+(DEFAULT, '0', '1cUhT0b5b-4cvI2MXy6RPyW01vwDSNFP-', 8050),
 -- Синяя птица - Там, где клён шумит
 (DEFAULT, 'original', '1_vGMqVWwZvAT7sLJNpITKCBBcaaCkcKY', 8100),
 (DEFAULT, '0', '1wlHDu22rywGc5OvDFwmquO4Q24wooPQo', 8100),
@@ -422,7 +423,7 @@ VALUES
 
 -- Михаил Круг - Владимирский централ
 (DEFAULT, 'original', '1HslSFP_52ExO-RQviYAI4RAz_6EpMjrU', 9005),
-(DEFAULT, '0', '1iBb-DCYBQoY4V_M26nA3j-ttMp8luCrA', 9005),
+(DEFAULT, '0', '1IOcmb0YSJS-BAlAlEFvKk5KRlpit2Dqe', 9005),
 -- Михаил Круг - Кольщик
 (DEFAULT, 'original', '1fvlhRCo7p4Kt10cFsgbny-6VcfObirVE', 9020),
 (DEFAULT, '0', '1TPTH2RYljlUMr9H8HZ5n9odSlc-V-EWJ', 9020),
@@ -430,5 +431,5 @@ VALUES
 (DEFAULT, '-2', '1ME3K80tqVIo1paB_G1WC1LR5On93gKzg', 9020),
 -- Стас Михайлов - Всё для тебя
 (DEFAULT, 'original', '1uvuqFZgbi4Udv7OxQBV80ZVFLBfq854T', 9040),
-(DEFAULT, '0', '1V1IB0ytfO-tmITvw61H8HQfoJApl2t8S', 9040),
-(DEFAULT, '-2', '1MdgOIonLWyrrUr67zvOiTnEwdwJ8GGQt', 9040);
+(DEFAULT, '0', '1nXI_KD5SNsbFm09njgkp777aQvoLWNxl', 9040),
+(DEFAULT, '-2', '1DIqne4uWHMJoNyYJ-ZXxpnWFjhLFFqPR', 9040);
