@@ -243,6 +243,8 @@ VALUES
 (DEFAULT, '0', '1UBGwyFRDB5bEvmpVaqsLMAx8z2xasE9L', 1950),
 -- Ленинград - В Питере - пить
 (DEFAULT, '0', '1yMy6F9cN6D4YTiizvIbXtAp8VqtU_q4s', 1960),
+-- Ленинград - Мне бы в небо
+-- Ленинград - Свобода
 -- Ленинград - Терминатор
 -- Леприконсы - Хали-Гали
 (DEFAULT, '-2', '12RUbq0rDW1qhWrGkBSPeocxVq163m8xL', 1980),

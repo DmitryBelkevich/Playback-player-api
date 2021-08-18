@@ -191,6 +191,10 @@ VALUES
 (DEFAULT, '1emC5skvQkzwZVA7JZczQfcQ97KducDcH', 1950),
 -- Ленинград - В Питере - пить
 (DEFAULT, '1rj6W1j4B7D0d6HdfIrdqBvfH58fc74bd', 1960),
+-- Ленинград - Мне бы в небо
+(DEFAULT, '1Eu4cN5yhW2AzEDguETkjSfL4P8yWsS0O', 1965),
+-- Ленинград - Свобода
+(DEFAULT, '1GH9dXhRqORRN2TxfkODvFDuGsHMD_xNr', 1967),
 -- Ленинград - Терминатор
 (DEFAULT, '1T42UUqP0NH5KIpOGzXFu6k9V954D1ehj', 1970),
 -- Ленинград - Экспонат
@@ -274,6 +278,8 @@ VALUES
 (DEFAULT, '1DRx51rkYx4Ou_-SH8KqUIRXf247qJPH8', 2400),
 -- Сплин - Романс
 (DEFAULT, '1N1PvlAR-rBxVjmIza6ovDAUl9fsvKE9Z', 2410),
+-- Танцы Минус - Город
+(DEFAULT, '1zxNFT61SBQ-LbGohL1f7JlBOODpt2t_C', 2420),
 -- Танцы Минус - Половинка
 (DEFAULT, '1E3piSXMJf4yDmDvCwpp15FUJFl17OVm4', 2430),
 -- Чичерина - Ту-лу-ла
