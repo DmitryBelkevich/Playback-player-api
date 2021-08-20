@@ -358,6 +358,17 @@ VALUES
 (DEFAULT, 'Lead 1 (Square)', '1PkgjMHMUKKTg4u5EJdfoqKgeJ0fSVhua', 1570),
 (DEFAULT, 'FX 8 (Sci-fi)', '1A3xr-iFk681Xh-DrkVmUi-zYrSLQt56Q', 1570),
 (DEFAULT, 'FX 4 (Atmosphere)', '1mWs-5V4bYwRzSQh7g-IBBJM4IbYOvIsQ', 1570),
+-- Земфира - Искала
+(DEFAULT, 'Full Score', '1goD3vsRQPkkfNE3iX_rbugad8-tMvqzU', 1580),
+(DEFAULT, 'Voice', '16QQH5eCsIJiVRlnhbu5FEE4sbUDTv05L', 1580),
+(DEFAULT, 'Electric Guitar', '1ps2E_phGQMJze8zDX5oeJLj3zcGylPOF', 1580),
+(DEFAULT, 'Bass Guitar', '1bufOLx3zVos-d3Q-YscaLjh20Ld-zRYc', 1580),
+(DEFAULT, 'Drum Set', '1_y3bT_-vNcKpqkTcnTOaRZ95WG-WLc5-', 1580),
+(DEFAULT, 'Viola 1.2, Pizzicato, FX 3 (Crystal), Lead 3 (Calliope)', '1YfTILoCieXy6WybwbR0yfbDj6YzmpOeg', 1580),
+(DEFAULT, 'Viola 1.2', '1uRJrxAp-6naVy3sU8QGLPAznLkynJyql', 1580),
+(DEFAULT, 'Pizzicato', '1_gGbUgQKRU02fiLHXQL8XkP5pZhHAt4W', 1580),
+(DEFAULT, 'FX 3 (Crystal)', '17_Vgq04YmkREvDhHZZPpANeX6neh-vDu', 1580),
+(DEFAULT, 'Lead 3 (Calliope)', '1O2w3_MvzAPlTGqQlHQZnjQa0cYsONd6q', 1580),
 -- Кино - Группа крови
 (DEFAULT, 'Full Score', '14Duh-aajA36ytTr9sKm2JBdviu4yla1Y', 1620),
 (DEFAULT, 'Voice', '1Phlv8GTLuqlgP8Kx4YP39hWyw6U0rLep', 1620),

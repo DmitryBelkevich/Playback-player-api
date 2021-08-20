@@ -25,7 +25,7 @@ VALUES
 -- Ария - Закат
 -- (DEFAULT, '', 110),
 -- Ария - Осколок льда
--- (DEFAULT, '', 120),
+(DEFAULT, '1dwlw_1sYJeFaJZSOk71tpi682478Yrjj', 120),
 -- Ария - Свобода
 -- (DEFAULT, '', 130),
 -- Ария - Там высоко
@@ -35,7 +35,7 @@ VALUES
 -- Ария - Штиль
 (DEFAULT, '18lgs_Oj5jJpO0oZZuNFQhB62GyWNviBJ', 160),
 -- Кипелов - Я свободен!
--- (DEFAULT, '', 170),
+(DEFAULT, '1E7QaWVx4x55oqeCe1Z_plTXdvpmqUQoy', 170),
 -- Слот - Круги на воде
 (DEFAULT, '1HeTPP8lo7ym9mSEEDoxS6PzipOlxspEA', 180),
 
@@ -92,11 +92,11 @@ VALUES
 -- Би-2 - Компромисс
 -- (DEFAULT, '', 1250),
 -- Би-2 - Мой рок-н-ролл
--- (DEFAULT, '', 1260),
+(DEFAULT, '1RMu11qZtHiJNPQeb5B92MO99I1AsnYSz', 1260),
 -- Би-2 - Полковнику никто не пишет
 (DEFAULT, '1LlOHnnq-wIJewkeKhE-BV3E53LDGkXtA', 1270),
 -- Би-2 - Серебро
--- (DEFAULT, '', 1280),
+(DEFAULT, '11bE-Ed4yoAotsuMYcvOetB8Op7ugcw66', 1280),
 -- Валентин Стрыкало - Наше лето
 (DEFAULT, '1QswkDz8eZfFXHIgSetji7mDjvxafqNMe', 1290),
 -- Город 312 - Останусь
@@ -237,7 +237,7 @@ VALUES
 -- Мумий Тролль - Владивосток 2000
 (DEFAULT, '1Lp4x49dw1LFzzct_gLN8WFVtvG1eEDLv', 2150),
 -- Мумий Тролль - Медведица
-(DEFAULT, '1TYYPM6pAWxga9QzmeM2qOTQ3mtJx9QNR', 2160),
+(DEFAULT, '1_ebk3N2izTSCvMpjVuEVIARaUmlzzH44', 2160),
 -- Наутилус Помпилиус - Дыхание
 (DEFAULT, '1TmmHwl5C8_-wxhaTZJO6S1mJSxqTolCU', 2170),
 -- Наутилус Помпилиус - Крылья
