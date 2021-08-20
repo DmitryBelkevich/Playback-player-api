@@ -173,7 +173,7 @@ VALUES
 (DEFAULT, '-2', '1Di8hWcrqGjcJfHUj_SeOknyBVKd1Wcrr', 1570),
 -- Земфира - Искала
 (DEFAULT, 'original', '1IwQYmddIakZvif0C5RizE1Zo95-dbd8d', 1580),
-(DEFAULT, '0', '1rtUGlU78DUi6Q9VSmEgOTQe5X2bEZElH', 1580),
+(DEFAULT, '0', '14GihNTNJIx01Wk2IZyw3R0Elg5hbOgfe', 1580),
 -- Земфира - Хочешь?
 (DEFAULT, 'original', '1hUeCZyXx2oYFleIKv2lv8uXZqLTzMWWo', 1610),
 (DEFAULT, '0', '11DUG108OSOQkiohemd76bmV3pEfPxXc_', 1610),
