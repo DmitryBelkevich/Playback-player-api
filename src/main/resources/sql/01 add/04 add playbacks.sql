@@ -176,7 +176,7 @@ VALUES
 (DEFAULT, '0', '14GihNTNJIx01Wk2IZyw3R0Elg5hbOgfe', 1580),
 -- Земфира - Хочешь?
 (DEFAULT, 'original', '1hUeCZyXx2oYFleIKv2lv8uXZqLTzMWWo', 1610),
-(DEFAULT, '0', '11DUG108OSOQkiohemd76bmV3pEfPxXc_', 1610),
+(DEFAULT, '0', '1Y0nAcZx1XLNkmvGeucgVaS_kUp6nfmBA', 1610),
 -- Кино - Группа крови
 (DEFAULT, 'original', '1rec_Lhy2xayDlfKl4Qvre9CU3jhe0yIZ', 1620),
 (DEFAULT, '0', '1XXvEDjGghhvkKJvUob7zVajcZB7IT2h5', 1620),

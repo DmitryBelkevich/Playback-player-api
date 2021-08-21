@@ -303,6 +303,10 @@ VALUES
 -- (DEFAULT, '', 5030),
 -- Ласковый май - Белые розы
 (DEFAULT, '1oSQC5SW2AFu7Q_xWGgGy-bhOPqNNPaI3', 5040),
+-- Мальбэк ft. Сюзанна - Гипнозы
+(DEFAULT, '1MRGD7vokK32YGKQf9PVDop7ePG2gG_RY', 5075),
+-- Мальбэк ft. Сюзанна - Равнодушие
+(DEFAULT, '1PIO3Cguf8LwEL32YlwHjUOzbW45BOkD0', 5077),
 -- Ненси - Дым сигарет с ментолом
 (DEFAULT, '1BEVEH3tLqiBfc69HNHKrUF3WlwaqEvW0', 5080),
 -- Ненси - Чистый лист
