@@ -293,7 +293,7 @@ VALUES
 -- Мумий Тролль - Владивосток 2000
 (DEFAULT, '0', '1XLMZNAxiQKvaufDAXmf5hMtMB0lNCoh0', 2150),
 -- Мумий Тролль - Медведица
-(DEFAULT, '0', '125olCwlUYIUOMzUbZyGDt92H8Oe7Dimi', 2160),
+(DEFAULT, '0', '1TYYPM6pAWxga9QzmeM2qOTQ3mtJx9QNR', 2160),
 -- Наутилус Помпилиус - Дыхание
 -- Наутилус Помпилиус - Крылья
 -- Наутилус Помпилиус - Последнее письмо
