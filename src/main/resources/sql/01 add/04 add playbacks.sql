@@ -175,7 +175,7 @@ VALUES
 (DEFAULT, 'original', '1IwQYmddIakZvif0C5RizE1Zo95-dbd8d', 1580),
 (DEFAULT, '0', '14GihNTNJIx01Wk2IZyw3R0Elg5hbOgfe', 1580),
 -- Земфира - Хочешь?
-(DEFAULT, 'original', '1hUeCZyXx2oYFleIKv2lv8uXZqLTzMWWo', 1610),
+(DEFAULT, 'original', '1BWN4N8DKuPpNvblRWlt532Bi15t5MPtj', 1610),
 (DEFAULT, '0', '1Y0nAcZx1XLNkmvGeucgVaS_kUp6nfmBA', 1610),
 -- Кино - Группа крови
 (DEFAULT, 'original', '1rec_Lhy2xayDlfKl4Qvre9CU3jhe0yIZ', 1620),
@@ -270,7 +270,7 @@ VALUES
 (DEFAULT, '0', '1RevqZU15nwqcDvyUxQsIQPx5TGMYWMZf', 2040),
 -- Ляпис Трубецкой - Манифест
 (DEFAULT, 'original', '1S3UunphRtnHia7WLnBW-X_yrC8aMkbSJ', 2050),
-(DEFAULT, '0', '1b-t0aXIamfFcKGEHGvhQ5oZKNj0nxZiT', 2050),
+(DEFAULT, '0', '1sc1b7VrxTpGeJopsltiZm6UEIxLMWEvF', 2050),
 -- Ляпис Трубецкой - Не быць скотам!
 (DEFAULT, 'original', '1rqg5XSxEbhDHnLhOgr8lUSZlFmppKqAk', 2060),
 -- Ляпис Трубецкой - Belarus Freedom
