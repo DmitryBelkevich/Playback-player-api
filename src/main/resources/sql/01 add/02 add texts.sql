@@ -202,7 +202,7 @@ VALUES
 -- Леприконсы - Хали-Гали
 (DEFAULT, '12xaoXoOWWzVsseQLkDb4ifdSEGFocw-x', 1980),
 -- Ляпис Трубецкой - Ау
-(DEFAULT, '1eKdLn6OS7gtWd5i-sXHIvIqS3KjNsbhG', 1990),
+(DEFAULT, '1eKdLn6OS7gtWd5i-sXHIvIqS3KjNsbhG', 1995),
 -- Ляпис Трубецкой - Воины света
 (DEFAULT, '1EYqp0h9Lc2zhQ1tNqzXYNvMW7B86CBtA', 2000),
 -- Ляпис Трубецкой - В платье белом

@@ -249,7 +249,7 @@ VALUES
 -- Леприконсы - Хали-Гали
 (DEFAULT, '-2', '12RUbq0rDW1qhWrGkBSPeocxVq163m8xL', 1980),
 -- Ляпис Трубецкой - Ау
-(DEFAULT, '0', '1aV5XhGD-j4IyUKBxG_fPWccCjTPUAzb1', 1990),
+(DEFAULT, '0', '1aV5XhGD-j4IyUKBxG_fPWccCjTPUAzb1', 1995),
 -- Ляпис Трубецкой - Воины света
 (DEFAULT, 'original', '1XCrCRLugOStGdUkn8fp_-7_ExGQhR26H', 2000),
 (DEFAULT, '0', '1Pu_yIqVIU934VFYVTmGvmouguJP6SWKw', 2000),
