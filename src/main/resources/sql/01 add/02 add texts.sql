@@ -160,7 +160,7 @@ VALUES
 -- Кино - Пачка сигарет
 (DEFAULT, '13NJw888shKdCpCETked68ufggVxyF6Vq', 1700),
 -- Кино - Хочу перемен!
-(DEFAULT, '1JNSUBsY0IoO_LuePzPH-jp6XPvfu-c7x', 1710),
+(DEFAULT, '1JNSUBsY0IoO_LuePzPH-jp6XPvfu-c7x', 1718),
 -- Король и Шут - Воспоминание о былой любви
 (DEFAULT, '1jsXRPufNyzu45Rx3y3MBBFka1LFQ0aIR', 1720),
 -- Король и Шут - Два вора и монета
