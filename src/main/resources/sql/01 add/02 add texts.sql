@@ -111,12 +111,15 @@ VALUES
 -- Гражданская оборона - Про дурачка
 -- ДДТ - В последнюю осень
 -- (DEFAULT, '', 1400),
+-- ДДТ - Метель
+(DEFAULT, '15P6CuvbKkrHYI4lxpneFOqHIvCSMGzon', 1430),
 -- ДДТ - Осенняя
 -- ДДТ - Просвистела
 (DEFAULT, '1T6eecr4B4ybNRod3x6QXL8CFhLtfTSjR', 1450),
 -- ДДТ - Что такое осень
 (DEFAULT, '1bNemBk0c7_XenKj1Nx3SNbcDyexNAsAD', 1460),
 -- ДДТ - Это всё…
+(DEFAULT, '1zucOOACfo-44KS3OwYB2CvlIHuFHKsfM', 1470),
 -- Егор и Опизденевшие - Про дурачка
 -- Егор и Опизденевшие - Про мишутку (Песенка для Янки)
 -- Жуки - Батарейка

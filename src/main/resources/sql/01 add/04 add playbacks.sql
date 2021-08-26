@@ -147,7 +147,7 @@ VALUES
 -- ДДТ - Осенняя
 -- ДДТ - Просвистела
 (DEFAULT, 'original', '1wKbPsMWCR-gNhKCIEFUa23D_vgFJ_bWQ', 1450),
-(DEFAULT, '0', '1VpxPTAg5SaUABcUdKNsE1M84mWekirqZ', 1450),
+(DEFAULT, '0', '1QAiKKesI3PLnxzV1_8WJmAZ9-C3TFkuV', 1450),
 -- ДДТ - Что такое осень
 (DEFAULT, 'original', '1G-2pWpl6W2YVgW6xpWuAlu5Yq5S1XRkn', 1460),
 (DEFAULT, '0', '1_8G0AShZ7dYktcmTfbtil0mkFUXVNyNN', 1460),
