@@ -337,6 +337,18 @@ VALUES
 (DEFAULT, 'Piano, Strings', '1Gbz_iYhCB7GTIvIAl3FrOwwqZpprm30u', 1520),
 (DEFAULT, 'Piano', '1LQ1dO5rwkfhyicxtzQ7sS1bR-zEibnoL', 1520),
 (DEFAULT, 'Strings', '1ia12cibwa8FnxKpJbElNmjPnxN6zRFVf', 1520),
+-- Звери - Просто такая сильная любовь
+(DEFAULT, 'Full Score', '1ipCVCCWoWisUOatk-ZkOV3VvjLuULqbk', 1550),
+(DEFAULT, 'Voice 1, Voice 2', '1syyVYgxQLkuzUrnm00efslAcqsrBmqxt', 1550),
+(DEFAULT, 'Voice 1', '1i17LedDItERR_xZx0mBi2RhNgux_B4lc', 1550),
+(DEFAULT, 'Voice 2', '1Xi-gdnS6tlyajIDKRCehWM7iZxn08Scr', 1550),
+(DEFAULT, 'Acoustic Guitar, Electric Guitar 1, Electric Guitar 2', '1pXtTK4ndHEqcYylCl29O54fltslApUEy', 1550),
+(DEFAULT, 'Acoustic Guitar', '1ucFqelV2PVhR5Y4PvmwIgm_pUbXJnNC1', 1550),
+(DEFAULT, 'Electric Guitar 1', '1yiJy-9v8htR5Jbx7fOVGxz5AjcNogdjW', 1550),
+(DEFAULT, 'Electric Guitar 2', '1bQ_Y9UuBoO8FvM2vnhPcA0QLqsugM6x5', 1550),
+(DEFAULT, 'Bass Guitar', '1jk9U12oYm7rZcCRakDx_diBk5wI_dZ8C', 1550),
+(DEFAULT, 'Drum Set', '1PPhXcpukUkxE8ylvpgyVCYXN6t56OGK6', 1550),
+(DEFAULT, 'Electric Organ', '1JOVwRPChq0uwIp3dMNpg33KDhcNzQNYP', 1550),
 -- Земляне - Трава у дома
 (DEFAULT, 'Full Score', '1ThFDzdBqTweaHJFfx2NVYVCJqp0PNuBZ', 1570),
 (DEFAULT, 'Voice 1, Voice 2, Voice 3', '11YrftUQkfCtl3PfNXHTAf9GeSl-5FLbx', 1570),

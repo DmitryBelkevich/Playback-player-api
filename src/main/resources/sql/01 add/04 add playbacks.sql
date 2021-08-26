@@ -165,6 +165,7 @@ VALUES
 (DEFAULT, '-2', '1RTU0fMYNYn1oiN1becC8XlKOovw4DM1G', 1540),
 -- Звери - Просто такая сильная любовь
 (DEFAULT, 'original', '1cetiTwl2v4MGh_vpmLuBVkdC77n76DI-', 1550),
+(DEFAULT, '0', '1CCj72LUVPZWozPXuWJCYU0eRZUJsWyZE', 1550),
 -- Звери - Районы-кварталы
 (DEFAULT, '0', '12EllXngEV88TfxNQgmn3cuJDBdiwQHwm', 1560),
 -- Земляне - Трава у дома
