@@ -211,9 +211,9 @@ VALUES
 (DEFAULT, 'Strings', '15zk4M_a9ddplQ2xQYAlyMTKwTy7SCZFR', 1120),
 (DEFAULT, 'Piano', '1kIniguMjBGQSKhL5fERuLCucci575Pcr', 1120),
 -- BRUTTO - 12 обезьян
-(DEFAULT, 'Full Score', '13gudceQ0P8kYsWzniyVFrmPDOqmITuHl', 1130),
-(DEFAULT, 'Voice 1, Voice 2, Voice 3', '1ZibPn4XT_sEbwvT_hec2eQycFCb6_czu', 1130),
-(DEFAULT, 'Voice 1', '1QHehl7Tbn7hyLwhKPkDkD3-QlOvITXv_', 1130),
+(DEFAULT, 'Full Score', '1C2ih-O3XVUGjyFS9_NeeqPA1jsvgd4Ys', 1130),
+(DEFAULT, 'Voice 1, Voice 2, Voice 3', '1niYAkr5zP-RGMfXBCtTjR0szlOxpLpOh', 1130),
+(DEFAULT, 'Voice 1', '1KerjGbofq-00MVLY-ekyvfxM0opwHNC2', 1130),
 (DEFAULT, 'Voice 2', '17D9D43qoYqAICo0BbsSCdoCX0tPVC2Sn', 1130),
 (DEFAULT, 'Voice 3', '18Xvc3T_k32SSrQwGX7Wd5EdUx0mS4DUa', 1130),
 (DEFAULT, 'Acoustic Guitar 1, Acoustic Guitar 2', '1vJRgbFWXDCIdUljbHqojafKO4JukgvqU', 1130),
