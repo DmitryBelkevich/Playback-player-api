@@ -204,6 +204,8 @@ VALUES
 (DEFAULT, '1uD309rKsVyMTDc6kRD5KvlfPek2T6umv', 1973),
 -- Леприконсы - Хали-Гали
 (DEFAULT, '12xaoXoOWWzVsseQLkDb4ifdSEGFocw-x', 1980),
+-- Ляпис Трубецкой - Belarus Freedom
+-- (DEFAULT, '', 1985),
 -- Ляпис Трубецкой - Ау
 (DEFAULT, '1eKdLn6OS7gtWd5i-sXHIvIqS3KjNsbhG', 1995),
 -- Ляпис Трубецкой - Воины света
@@ -222,8 +224,6 @@ VALUES
 (DEFAULT, '1EStGmBL6WImHv0nr53gkLaY8EKuIy-Ol', 2050),
 -- Ляпис Трубецкой - Не быць скотам!
 -- (DEFAULT, '', 2060),
--- Ляпис Трубецкой - Belarus Freedom
--- (DEFAULT, '', 2070),
 -- Ляпис Трубецкой - Огоньки
 (DEFAULT, '12ylxk_rIRqfPfdCf2fzt1PgGrKhFgzAK', 2080),
 -- Ляпис Трубецкой - Паренёк под следствием

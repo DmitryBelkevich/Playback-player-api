@@ -249,6 +249,8 @@ VALUES
 -- Ленинград - Терминатор
 -- Леприконсы - Хали-Гали
 (DEFAULT, '-2', '12RUbq0rDW1qhWrGkBSPeocxVq163m8xL', 1980),
+-- Ляпис Трубецкой - Belarus Freedom
+(DEFAULT, 'original', '1kX6ECO39N49fBFBmrlZoOfyT7UeTm2Dx', 1985),
 -- Ляпис Трубецкой - Ау
 (DEFAULT, '0', '1aV5XhGD-j4IyUKBxG_fPWccCjTPUAzb1', 1995),
 -- Ляпис Трубецкой - Воины света
@@ -274,8 +276,6 @@ VALUES
 (DEFAULT, '0', '1sc1b7VrxTpGeJopsltiZm6UEIxLMWEvF', 2050),
 -- Ляпис Трубецкой - Не быць скотам!
 (DEFAULT, 'original', '1rqg5XSxEbhDHnLhOgr8lUSZlFmppKqAk', 2060),
--- Ляпис Трубецкой - Belarus Freedom
-(DEFAULT, 'original', '1kX6ECO39N49fBFBmrlZoOfyT7UeTm2Dx', 2070),
 -- Ляпис Трубецкой - Огоньки
 (DEFAULT, '0', '1-RfzgYRTCo8N2FikanhO95Hzep--o2a0', 2080),
 -- Ляпис Трубецкой - Паренёк под следствием
