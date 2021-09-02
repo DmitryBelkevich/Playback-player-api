@@ -20,18 +20,18 @@ VALUES
 (DEFAULT, '0', '10YkcIZUL6a0N5TH5wZz_Y9zrWif8uHP2', 50),
 -- System of a Down - Aerials
 (DEFAULT, 'original', '1DWfMgW6cS6A78Dg8kl5mojszgMjLSklc', 60),
-(DEFAULT, '0', '1WQ_u0kNMXSbeWps3D8O2lvjzj1S-vUct', 60),
+(DEFAULT, '0', '1IoWvG9PDdyiQs0tmNaw9be1JcAROx06n', 60),
 -- System of a Down - Chop Suey!
 (DEFAULT, 'original', '1qcpfX-NRo5QzizHiAP6Q3SW03bNjMCDK', 70),
-(DEFAULT, '0', '1Ho5yrqs9xuQUbcfSRfiOf7ynw2ei9oZ6', 70),
+(DEFAULT, '0', '1nxOAUZdcHYVJ4z4Gc-9KmMysonJ_z6dN', 70),
 -- System of a Down - Lonely Day
 (DEFAULT, 'original', '1rnxYbhBrkCZOG1Tu7SikQkrxGdwaIcf9', 80),
-(DEFAULT, '+1', '1wzUBon2eJ1oehWyMAR2eHHiFQKSym9O3', 80),
-(DEFAULT, '0', '1glzjln_270Xp6GWuJMuI3BAqRF8BrnB9', 80),
-(DEFAULT, '-1', '11EBdzM8S6m5YHxwvDoSY6noMW3Sj0JFq', 80),
+(DEFAULT, '+1', '1D2LwHZoFw6H__mYOYQhJsl-v7_XL5CgW', 80),
+(DEFAULT, '0', '1Ax0rwe-z6hggYN8QhDGSfk9sT4x-X-NC', 80),
+(DEFAULT, '-1', '1QlMj-cfojOqtCuOZmIlQfaVo4G5-kvU7', 80),
 -- System of a Down - Toxicity
 (DEFAULT, 'original', '1KUHhVMY1YPFgKgjhBLKJXl7b5vn7_P1_', 90),
-(DEFAULT, '0', '1dJ8rhhJVd6wU4mrTiy48odM6JYnFuXuB', 90),
+(DEFAULT, '0', '1DkRMX4hCzMpgt-8Ot7MlyYz61dWX5YH3', 90),
 -- Ария - Беспечный ангел
 (DEFAULT, 'original', '1kg1a0A46M7FfLPkdZ3xfPA2aIkU0K0ov', 100),
 (DEFAULT, '+1', '1tijdBkkiRhBvK1nvrAe12K9_xPE5a-wI', 100),
