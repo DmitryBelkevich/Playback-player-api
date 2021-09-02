@@ -663,6 +663,17 @@ VALUES
 (DEFAULT, 'Soprano Recorder', '1dLAbApG7dc180giDbxZFher7J675Wfpw', 2020),
 (DEFAULT, 'Accordion', '1Q-_7DutpMsv8cOaf2-Rv6cIk-DUXaQei', 2020),
 (DEFAULT, 'Synth Strings', '1gO9gFnVodFugzn-dQhYy2nIle6v0PiqB', 2020),
+-- Ляпис Трубецкой - Евпатория
+(DEFAULT, 'Full Score', '1JrBtEQRPJmMjZ3vfpmnu6ilbLsvthwr-', 2030),
+(DEFAULT, 'Voice', '1YS-roKc7KkP8W3zHLz15yYavndFYu0_h', 2030),
+(DEFAULT, 'Electric Guitar 1, Electric Guitar 2, Electric Guitar 3', '1sgo_N0jXfKVSwyv-lj_Qwou0glnPeYXH', 2030),
+(DEFAULT, 'Electric Guitar 1', '1oe13lBTLEnXJvHBg6U8ZF8N3M0yCDEYR', 2030),
+(DEFAULT, 'Electric Guitar 2', '1h6MJRQ44f__MXPNmvWqBTKsUHCWGakCr', 2030),
+(DEFAULT, 'Electric Guitar 3', '1lWxWQbG_zIFdHuy07CLC2GEbzFL0qibu', 2030),
+(DEFAULT, 'Bass Guitar', '1EiIZeHTW82XxkHoq-J8MwnZOJVXh2U96', 2030),
+(DEFAULT, 'Drum Set', '1LYebufQZMDaYvXeAr2MptPI1Q6SlpDpa', 2030),
+(DEFAULT, 'Trumpet in Bb', '1X2X57sKlhRHDDa7bQFu3-tO4FKfSotZU', 2030),
+-- Ляпис Трубецкой - Евпатория (remake)
 -- Ляпис Трубецкой - Золотая антилопа
 (DEFAULT, 'Full Score', '156cHexckcOeebB57O_QyIQyvro6g0XIc', 2035),
 (DEFAULT, 'Voice 1, Voice 2, Voice 3, Voice 4', '1xTb3jmIYVWDpXo1rHEPPUGWL-9Ga02eM', 2035),

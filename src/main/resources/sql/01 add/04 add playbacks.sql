@@ -264,7 +264,11 @@ VALUES
 (DEFAULT, '0', '1L1Sc81nIx7_RtCMqFymStmFAtIMi3_51', 2020),
 (DEFAULT, '-2', '1ippOa2A0BwaqKZFo7mcfSwEaOBv7fIF0', 2020),
 -- Ляпис Трубецкой - Евпатория
-(DEFAULT, '-2', '1qCZ3P_Z3de39NgmTKwDJuqG5QM2qp_86', 2030),
+(DEFAULT, 'original', '1iERGZKyPPU-fatuxswXkp2GZFFwagLYR', 2030),
+(DEFAULT, '0', '1V_ilEBCOlpWcvttTsCoZqtfM33M7CD_J', 2030),
+(DEFAULT, '-2', '1aCPv0rkU3vwCuQObFGtXjjCUwDv7k1sy', 2030),
+-- Ляпис Трубецкой - Евпатория (remake)
+(DEFAULT, 'original', '1L1_THLRwLAjcuMC1ImiHDCdGIOVz68FA', 2031),
 -- Ляпис Трубецкой - Золотая антилопа
 (DEFAULT, 'original', '13m6F5Lm7szwYFcsTZs59stzeFI4a54hl', 2035),
 (DEFAULT, '0', '1MIdv-PonHmL7EkHAI59b-TnJsmxhchju', 2035),
