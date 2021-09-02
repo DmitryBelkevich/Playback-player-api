@@ -332,6 +332,8 @@ VALUES
 
 -- МУККА - ДЕВОЧКА С КАРЕ
 (DEFAULT, '1P7kxdPdtxzSueUMbDZKm-COhjveUvjRt', 7040),
+-- Пошлая Молли - Нон стоп
+(DEFAULT, '1A_kLCUGpgUwruIRy0YzxCJm_WWsJ93uF', 7060),
 
 -- Estrada
 
