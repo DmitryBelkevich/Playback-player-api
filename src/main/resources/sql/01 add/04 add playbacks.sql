@@ -45,12 +45,12 @@ VALUES
 (DEFAULT, '+2', '193aNPwfwC4RGLQcIb7EV9quKBXEKfjar', 160),
 (DEFAULT, '0', '1QkPNKlTAYclfMLPZTZER1tJp41qgy0iQ', 160),
 -- Кипелов - Я свободен!
-(DEFAULT, '0', '1-nGYWtzW5tFXT9W9ca-5V5DEmVPQhux9', 170),
+(DEFAULT, '0', '1Vpvpg7njDtDdH-AbdRt9FD6ldq6giHe4', 170),
 -- Слот - Круги на воде
 (DEFAULT, 'original', '1YlSgh1QzHl7t272sqgZIZogWzbBhFgyF', 180),
-(DEFAULT, '+1', '1608Rx2FTKM7Qpi5m1sjqykuBVZ5Vi3vg', 180),
-(DEFAULT, '0', '1UIBGxHCpQneDtNd5yXofr3PdGGUXIzun', 180),
-(DEFAULT, '-2', '1jN7UFNqST3wwuzNOuk5ojOzZ_yYOBkV0', 180),
+(DEFAULT, '+1', '1zm4DItjrNXzme9cqTUiY9BeOccdThdyO', 180),
+(DEFAULT, '0', '1WxlOt8Y6HT5sC2BVke0nYLMr0ZtxGCj0', 180),
+(DEFAULT, '-2', '1msD9K3PYAOzLC3XlEdtL3STnbxT7l86R', 180),
 -- Эпидемия - Эпилог
 (DEFAULT, '0', '147Xo8CIYo7LaliGwBed_3YM1Gf8nqYhu', 200),
 
@@ -276,7 +276,7 @@ VALUES
 (DEFAULT, '0', '1MIdv-PonHmL7EkHAI59b-TnJsmxhchju', 2035),
 -- Ляпис Трубецкой - Капитал
 (DEFAULT, 'original', '1IuRBaCdhtyEMe8G4Su0GrlFHFlgR-th1', 2040),
-(DEFAULT, '0', '1RevqZU15nwqcDvyUxQsIQPx5TGMYWMZf', 2040),
+(DEFAULT, '0', '1wfvO6pXXnmUifzY4MU-ypK6y4lB4uo3N', 2040),
 -- Ляпис Трубецкой - Манифест
 (DEFAULT, 'original', '1S3UunphRtnHia7WLnBW-X_yrC8aMkbSJ', 2050),
 (DEFAULT, '0', '1sc1b7VrxTpGeJopsltiZm6UEIxLMWEvF', 2050),
@@ -333,8 +333,8 @@ VALUES
 (DEFAULT, '-2', '1YCgOA42e4nseyg2N5uUnifHjvtPGaKan', 2310),
 -- Сектор Газа - Туман
 (DEFAULT, 'original', '1KmiuMyrSRQa7sg3SMAsKww4OcvavGBuX', 2320),
-(DEFAULT, '0', '1H2doovd6GE01_NliojJb26JhrFqRQB6q', 2320),
-(DEFAULT, '-2', '1r1pjuRsU03eK2dKB4V5D_ppO6uoX1tHP', 2320),
+(DEFAULT, '0', '1bdpyuCKN9v7NA1qb0pUL9y6o0uwJRHlX', 2320),
+(DEFAULT, '-2', '1NImzIcFMkKKZx6YtInCaGb2cbbYnrlFy', 2320),
 -- Сергей Тихановcкий & Kosmas - Разбуры турмы муры
 (DEFAULT, 'original', '1VEyAlIKFCcQ9jVc4cvkhuPHRXpPNygri', 2330),
 (DEFAULT, '0', '1E-myP2M7zOkpOgp3mBgY1fA5TZYnHhbJ', 2330),
