@@ -269,6 +269,8 @@ VALUES
 (DEFAULT, '-2', '1aCPv0rkU3vwCuQObFGtXjjCUwDv7k1sy', 2030),
 -- Ляпис Трубецкой - Евпатория (remake)
 (DEFAULT, 'original', '1L1_THLRwLAjcuMC1ImiHDCdGIOVz68FA', 2031),
+(DEFAULT, '0', '1ebDKv8icv7koVohTZYEoKJPFSCzVFxWD', 2031),
+(DEFAULT, '-2', '1UQagsR4NP2So-vHWpuE6X2Qq_6Of-_VG', 2031),
 -- Ляпис Трубецкой - Золотая антилопа
 (DEFAULT, 'original', '13m6F5Lm7szwYFcsTZs59stzeFI4a54hl', 2035),
 (DEFAULT, '0', '1MIdv-PonHmL7EkHAI59b-TnJsmxhchju', 2035),
