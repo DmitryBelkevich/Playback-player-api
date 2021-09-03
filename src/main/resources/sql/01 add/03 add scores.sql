@@ -526,8 +526,8 @@ VALUES
 (DEFAULT, 'Bass Guitar', '1LfatSaEeUrD6oGMeUYbcs4YzhBJEF9Bh', 1730),
 (DEFAULT, 'Drum Set', '1zG5rej9E2XRU8e4EgmKE_21EJHnY-o4d', 1730),
 -- Король и Шут - Два монаха в одну ночь
-(DEFAULT, 'Full Score', '1vvnG-70Crz49HtUU6Kv1A_yD7UGXGnL-', 1740),
-(DEFAULT, 'Voice', '1xvCEFWnZDNDxI7Q8ychULpmkUVGLtlxQ', 1740),
+(DEFAULT, 'Full Score', '1x7OK619MpzT-e5keu789UiMpW1DDlWAR', 1740),
+(DEFAULT, 'Voice', '1y7WmtGkyz8qnDojLAIUsrblw9XcI9ng_', 1740),
 (DEFAULT, 'Acoustic Guitar, Electric Guitar 1, Electric Guitar 2', '1gk0EwCNj365SekRJyqY6AJyJGz44xGvO', 1740),
 (DEFAULT, 'Acoustic Guitar', '1OIkQZkuzJamdTPvJNThjAYC26t5b6Xyo', 1740),
 (DEFAULT, 'Electric Guitar 1', '1NQ0nV7x5XuEv8ubTJfouMYLuNcb3FdfA', 1740),
