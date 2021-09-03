@@ -212,6 +212,9 @@ VALUES
 (DEFAULT, '0', '1oJZDM10h_rIGFMdjV6vHg0Herrsb1a6I', 1720),
 -- Король и Шут - Два вора и монета
 -- Король и Шут - Два монаха в одну ночь
+(DEFAULT, 'original', '1FMAXuvkQIVjnxs7Odx36rkCVMzgFrQar', 1740),
+(DEFAULT, '0', '1q88fQxtAgVz3kilmCZgZnDvJcKw4-Jnr', 1740),
+(DEFAULT, '-2', '1U3baEUmixSURmDZzGpOOgufDDSH4W_Vw', 1740),
 -- Король и Шут - Дурак и молния
 (DEFAULT, 'original', '1a4DgfuiaB-irTmAmn-iW64kgBlaUgseG', 1750),
 (DEFAULT, '0', '1UAruekfzB-YRM95vrMMWYKZIM_zH1s0l', 1750),
