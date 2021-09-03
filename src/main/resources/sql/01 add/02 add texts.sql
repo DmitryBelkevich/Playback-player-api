@@ -173,7 +173,7 @@ VALUES
 -- Король и Шут - Дурак и молния
 -- (DEFAULT, '', 1750),
 -- Король и Шут - Ели мясо мужики
--- (DEFAULT, '', 1760),
+(DEFAULT, '1Hg_Ub0dr22rV03fBMO-R3E5ZKWSbhsm8', 1760),
 -- Король и Шут - Жаль, нет ружья!
 (DEFAULT, '11CauXLbzrP3MuE5vIckNJA2bFNtnoRhs', 1770),
 -- Король и Шут - Камнем по голове
