@@ -637,6 +637,14 @@ VALUES
 (DEFAULT, 'Bass Guitar', '118m2gT122AzbBr2EGqDGUuxkc74tdffZ', 1830),
 (DEFAULT, 'Drum Set', '1jP-1xla0P6-F5AYFL8Hcv3vVvp4VQNpD', 1830),
 (DEFAULT, 'Violin', '1LklOt91sRC68l1KDir_1VNjYUJYznKbF', 1830),
+-- Сергей Шнуров - Привет Морриконе
+(DEFAULT, 'Full Score', '1x_hhSKB9ezu58IK6WZHHb8p6teyWu-w4', 1974),
+(DEFAULT, 'Piano', '1Mbl0l57CsedSROIKHPhro-hl3EgIVTO5', 1974),
+(DEFAULT, 'Bass Guitar', '1Ivkd53pappoGkzObWQDQzaCb6IwUje13', 1974),
+(DEFAULT, 'Drum Set', '11TdCh7V1AIMxHxxk7_dFmQBSrX2RHppC', 1974),
+(DEFAULT, 'Trumpet in Bb', '1m_y1cuHz3pGMhFlg637z8lUIRojpwox-', 1974),
+(DEFAULT, 'Strings', '12fe3TiM6Lx48BaKj1WuwDwoJg6u3YA3_', 1974),
+(DEFAULT, 'Violin', '1JGQYbdzbMz3fuRHEUoCt6ObpMBQbyaC4', 1974),
 -- Ляпис Трубецкой - Воины света
 (DEFAULT, 'Full Score', '1XhcRp9eenRHp00_vvUbb5HTINczbUQX1', 2000),
 (DEFAULT, 'Voice 1, Voice 2, Voice 3.4', '1I1Ric-7JLjyZZTDkL4NSp4XE1mJQMXGF', 2000),

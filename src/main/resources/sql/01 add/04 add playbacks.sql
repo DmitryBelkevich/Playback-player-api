@@ -250,6 +250,8 @@ VALUES
 -- Ленинград - Мне бы в небо
 -- Ленинград - Свобода
 -- Ленинград - Терминатор
+-- Сергей Шнуров - Привет Морриконе
+(DEFAULT, 'original', '1KEQcC9VQBO1-BIQzrJmtuAmKLU2VDfoF', 1974),
 -- Леприконсы - Хали-Гали
 (DEFAULT, '-2', '12RUbq0rDW1qhWrGkBSPeocxVq163m8xL', 1980),
 -- Ляпис Трубецкой - Belarus Freedom
