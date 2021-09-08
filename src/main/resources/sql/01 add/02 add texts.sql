@@ -236,6 +236,8 @@ VALUES
 (DEFAULT, '129SCr_IPCDKmHB7kP3aAwUZt1IymQDjE', 2110),
 -- Ляпис Трубецкой - Шут
 (DEFAULT, '1QO5Ds4nPhpplLcIaUUDssABBw4Scf95t', 2120),
+-- Ляпис Трубецкой - Юность
+(DEFAULT, '1Hds-niNUK9n73ihdXx4YcafktQ3tOQsR', 2125),
 -- Ляпис Трубецкой - Яблони
 -- Ляпис Трубецкой - Я верю
 (DEFAULT, '1cRWUgp0kLuD1gycmz6EPDGfzCB3AeNg_', 2140),

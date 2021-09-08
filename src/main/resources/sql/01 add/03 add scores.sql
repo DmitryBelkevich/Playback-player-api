@@ -745,6 +745,7 @@ VALUES
 (DEFAULT, 'Trumpet in Bb 2', '1v8EiMLh-SDr-cqUiywhOiTUQGhadGBp4', 2060),
 (DEFAULT, 'Trombone', '1X1nTQT-Di-mLR2YmLYvVb06OG_5Wk8s9', 2060),
 -- Ляпис Трубецкой - Паренёк под следствием
+-- Ляпис Трубецкой - Юность
 -- Ляпис Трубецкой - Я верю
 (DEFAULT, 'Full Score', '1RTusBXllNqrxx8IHWj_Orlyj_KXQUrJ6', 2140),
 (DEFAULT, 'Voice 1, Voice 2, Voice 3', '1csiIi0wThzW-xwEyTPGADG-OLLJef2ji', 2140),
