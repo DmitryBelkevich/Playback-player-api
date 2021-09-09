@@ -746,6 +746,17 @@ VALUES
 (DEFAULT, 'Trombone', '1X1nTQT-Di-mLR2YmLYvVb06OG_5Wk8s9', 2060),
 -- Ляпис Трубецкой - Паренёк под следствием
 -- Ляпис Трубецкой - Юность
+(DEFAULT, 'Full Score', '1uTi4PJAgS80w_4zbEqTWM4LfCK_cmobr', 2125),
+(DEFAULT, 'Voice', '1iVpjg1m9cHkF706gZ95FNxiONu9jt0g9', 2125),
+(DEFAULT, 'Electric Guitar 1, Electric Guitar 2', '18NGTT2VX4dv95Frfa0MJ5nC05ks2SWeB', 2125),
+(DEFAULT, 'Electric Guitar 1', '1eoaQ8SHRG4rKETtr0sPuAMrbQRMcP07t', 2125),
+(DEFAULT, 'Electric Guitar 2', '15O4tkbVgQAzDgGxqbvL9ALNnJlxDtAh_', 2125),
+(DEFAULT, 'Bass Guitar', '1n3sZfoJHYi5lVcGegGLMD36SWvs0Qemy', 2125),
+(DEFAULT, 'Drum Set', '1rvg33KcAsDcdje4TIv1FlyudmqsgHMmG', 2125),
+(DEFAULT, 'Trumpet in Bb, FX 4 (Atmosphere), Lead 1 (Square)', '1d1W7_3FZynM6c19RA060enMh5KRgXONp', 2125),
+(DEFAULT, 'Trumpet in Bb', '1Zl0ufmoYUc3v65bqnzb4wnVEbvDsHyPh', 2125),
+(DEFAULT, 'FX 4 (Atmosphere)', '1YjRXhghxavWblSjfj-PhpzikWDumXkS9', 2125),
+(DEFAULT, 'Lead 1 (Square)', '1VUNEiUkRTFW92r-uNfjFq0RRoBvJdjVq', 2125),
 -- Ляпис Трубецкой - Я верю
 (DEFAULT, 'Full Score', '1RTusBXllNqrxx8IHWj_Orlyj_KXQUrJ6', 2140),
 (DEFAULT, 'Voice 1, Voice 2, Voice 3', '1csiIi0wThzW-xwEyTPGADG-OLLJef2ji', 2140),
