@@ -298,6 +298,7 @@ VALUES
 (DEFAULT, '-2', '1SdzfFWxfffgUQhYkrJEwcmv7DA58DbaB', 2120),
 -- Ляпис Трубецкой - Юность
 (DEFAULT, 'original', '1M2vKk5gKFbtj1mtBkTv529pkmRftPN7R', 2125),
+(DEFAULT, '0', '1KSwkV3IP8hiBbBezbOHmomAWPgZ-RUul', 2125),
 -- Ляпис Трубецкой - Яблони
 -- Ляпис Трубецкой - Я верю
 (DEFAULT, 'original', '1YAQLe1erw3zsXEzsFBgkXj6PcJnTfiNa', 2140),
