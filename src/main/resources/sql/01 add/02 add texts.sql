@@ -179,7 +179,7 @@ VALUES
 -- Король и Шут - Камнем по голове
 (DEFAULT, '1AcMMUVVFsj5Ec7IqyMzEBl7I3TpzqPjC', 1780),
 -- Король и Шут - Кукла колдуна
--- (DEFAULT, '', 1790),
+(DEFAULT, '1GW2V5hCYLxFRPtD7ue10aHCgsCsR3zoF', 1790),
 -- Король и Шут - Лесник
 -- (DEFAULT, '', 1800),
 -- Король и Шут - Мёртвый Анархист

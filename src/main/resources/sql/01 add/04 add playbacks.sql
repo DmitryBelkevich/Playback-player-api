@@ -231,7 +231,9 @@ VALUES
 (DEFAULT, '-1', '1NDpE_bbxck-TG8z-jymLNRrrRCv7y-NQ', 1780),
 (DEFAULT, '-2', '1vuKM0mZe9E-pTLIMJrx0RstUQG_Ea-x2', 1780),
 -- Король и Шут - Кукла колдуна
-(DEFAULT, '0', '1dSge22IUEBGKjpyayXqwFfm_mlfX8xb7', 1790),
+(DEFAULT, 'original', '1EKbTgfTx13wT-X7CGfKga63Xr1BDvZdn', 1790),
+(DEFAULT, '0', '1g-jm9usUFnXQoDVgJnFJFRNsEzdoAc9l', 1790),
+(DEFAULT, '-2', '1zbKgUOjJMNAHytdcPXp_wPq-PT8DbtRR', 1790),
 -- Король и Шут - Лесник
 (DEFAULT, 'original', '1Q-1rGHNMcSIAkaOgHu7r5kGW5u6AlAzp', 1800),
 (DEFAULT, '0', '1G4jZvYLAaO11N3wcuwF9JyZ7zf8eztrp', 1800),
