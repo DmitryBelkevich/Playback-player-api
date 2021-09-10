@@ -300,6 +300,7 @@ VALUES
 (DEFAULT, 'Synth Brass', '1dzMAfWNlmC9zqEbVLTOy-JADYzJFzdtl', 1290),
 (DEFAULT, 'Crotales', '1k-y4m8qHqNTcwxyphiHroeYutDHEFfgy', 1290),
 (DEFAULT, 'Synth Strings', '1_8-CDYutuM1CQkZl_QXCCCe6gQ4PzOcj', 1290),
+-- Гражданская оборона - Про дурачка
 -- ДДТ - Просвистела
 (DEFAULT, 'Full Score', '1SDETVYTG_nsl76Xu7YHBRWJuPOwqoXhJ', 1450),
 (DEFAULT, 'Voice 1, Voice 2', '1U0i6M-vXf2T_SrFrt15823l7Vu4aoJy5', 1450),
