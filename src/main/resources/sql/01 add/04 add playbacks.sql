@@ -143,7 +143,7 @@ VALUES
 -- Гражданская оборона - Нечего терять
 -- Гражданская оборона - Про дурачка
 (DEFAULT, 'original', '1fwdo_l2n4sQHQ2aFPNuDTnEX-zmEpn1L', 1380),
-(DEFAULT, '0', '1UAQsKwQV1rrW6DH43fXLhFfX2X--heHH', 1380),
+(DEFAULT, '0', '1qD0pyQfyBdcT9xjg-yfDj1c-8jtjHibA', 1380),
 -- Егор и Опизденевшие - Про дурачка
 -- Егор и Опизденевшие - Про мишутку (Песенка для Янки)
 -- ДДТ - В последнюю осень
