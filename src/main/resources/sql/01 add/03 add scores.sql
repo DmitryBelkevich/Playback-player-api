@@ -575,9 +575,9 @@ VALUES
 (DEFAULT, 'Bass Guitar', '1Kov3RChko1bvNx2YI1sLa74OO1rHIVWn', 1780),
 (DEFAULT, 'Drum Set', '1FmCBaOAY7sIl-o615kk4ZAyioFfhn2kK', 1780),
 -- Король и Шут - Кукла колдуна
-(DEFAULT, 'Full Score', '1dLvoBUnKeL6ZpHwhKDE382SMGrlk6LLn', 1790),
-(DEFAULT, 'Voice 1, Voice 2, Voice 3', '1VNV8ZaiyI2C3w4IqOBZ6waqzVA376aD_', 1790),
-(DEFAULT, 'Voice 1', '1JxbfGGhhPRbP8vDJgWf-35BOpbA7Hpce', 1790),
+(DEFAULT, 'Full Score', '1AClQiaW9XvsKDVHk0Uj3be5A_JnX7JqT', 1790),
+(DEFAULT, 'Voice 1, Voice 2, Voice 3', '1iXHnXigkk1Nivh0Iri9-Rch_ahtq4HpK', 1790),
+(DEFAULT, 'Voice 1', '1EmYTUSnIX_Dv-52lWaczyCSkkG9lHoL3', 1790),
 (DEFAULT, 'Voice 2', '12HCmW_syNaKB0pvTPivJm052VkhIAGWH', 1790),
 (DEFAULT, 'Voice 3', '1SnZtzHLR4LpkfXCjSFQn_nKW7bfusrIc', 1790),
 (DEFAULT, 'Electric Guitar 1, Electric Guitar 2, Electric Guitar 3', '1I56E9pdlnNhXCLHBtPsAOw0cZ5Bb7TI_', 1790),
