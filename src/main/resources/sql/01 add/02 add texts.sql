@@ -164,6 +164,8 @@ VALUES
 (DEFAULT, '1MIm6Kpw-gugEOabe8x80aVvQOCCf3Jx0', 1690),
 -- Кино - Пачка сигарет
 (DEFAULT, '13NJw888shKdCpCETked68ufggVxyF6Vq', 1700),
+-- Кино - Спокойная ночь
+(DEFAULT, '1KLsBu_7tyVsJUXzcHTGCQEPNvp7H73Vj', 1714),
 -- Кино - Хочу перемен!
 (DEFAULT, '1JNSUBsY0IoO_LuePzPH-jp6XPvfu-c7x', 1718),
 -- Король и Шут - Воспоминание о былой любви

@@ -519,6 +519,7 @@ VALUES
 (DEFAULT, 'FX 5 (Brightness), Pad 2 (Warm)', '1iC2jDpeXWIpEZLn5_SEULHER4_hgPRzt', 1700),
 (DEFAULT, 'FX 5 (Brightness)', '1HgdSbrzniaa0LSwxLyLBl0VQ24HMrpDq', 1700),
 (DEFAULT, 'Pad 2 (Warm)', '1R71_E1wCIhQR4j9XOWzJy48YnVQ1TGb_', 1700),
+-- Кино - Спокойная ночь
 -- Король и Шут - Воспоминание о былой любви
 (DEFAULT, 'Full Score', '1EI8RuemirCnVYKheGThOufu--p_oAGvA', 1720),
 (DEFAULT, 'Voice 1, Voice 2', '11P80LAbApMeCAt4IlqecGXY0iSigfEJg', 1720),
