@@ -106,6 +106,7 @@ VALUES
 -- Гражданская оборона - Всё идёт по плану
 (DEFAULT, '12TLaeZn0X6Fj6EfEj85r3M6I9apyEPa0', 1310),
 -- Гражданская оборона - Всё как у людей
+(DEFAULT, '1PrufDiAurIykBmXu4Gq-Zl3ovlPPDdj_', 1320),
 -- Гражданская оборона - Зоопарк
 -- Гражданская оборона - Моя оборона
 (DEFAULT, '1Ag7YJPOVqidmmvyi0gJMCwiV13u74Qd1', 1340),
