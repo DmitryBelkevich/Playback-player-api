@@ -52,7 +52,7 @@ VALUES
 -- Radiohead - Creep
 (DEFAULT, '1meCuIBWnawQwSBAk79cgnTxF9VvDqwsT', 1050),
 -- Radiohead - Karma Police
--- (DEFAULT, '', 1060),
+(DEFAULT, '1gaqxOx15agJtSCwXfxQpmilTAUKtooy1', 1060),
 -- Reamonn - Supergirl
 -- (DEFAULT, '', 1070),
 -- The Beatles - Yesterday
@@ -101,6 +101,8 @@ VALUES
 (DEFAULT, '1QswkDz8eZfFXHIgSetji7mDjvxafqNMe', 1290),
 -- Город 312 - Останусь
 (DEFAULT, '12IlYKTH1UU6WgYTVlH1bMsZSloz7YOL8', 1300),
+-- Гражданская оборона - Вселенская большая любовь
+(DEFAULT, '1uqx3JvNvevzvuZtQamhwdgjbqLO4AeCJ', 1305),
 -- Гражданская оборона - Всё идёт по плану
 (DEFAULT, '12TLaeZn0X6Fj6EfEj85r3M6I9apyEPa0', 1310),
 -- Гражданская оборона - Всё как у людей
