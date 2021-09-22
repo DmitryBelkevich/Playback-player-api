@@ -135,6 +135,8 @@ VALUES
 (DEFAULT, '0', '1mDX8paUIhySkfkB2INyzWcb4LklvNVif', 1290),
 (DEFAULT, '-2', '10GM8ziYhCytr7mB8G_agovrndBy_bmzH', 1290),
 -- Гражданская оборона - Всё идёт по плану
+(DEFAULT, 'original', '1BRYZ8tN6NKF4oZyFHZ6XlpsiJ-7c0Nke', 1310),
+(DEFAULT, '0', '1wFucZMbv_e85DDGSXywEvqGm5CaWNmF_', 1310),
 -- Гражданская оборона - Всё как у людей
 -- Гражданская оборона - Зоопарк
 -- Гражданская оборона - Моя оборона
