@@ -300,6 +300,14 @@ VALUES
 (DEFAULT, 'Synth Brass', '1dzMAfWNlmC9zqEbVLTOy-JADYzJFzdtl', 1290),
 (DEFAULT, 'Crotales', '1k-y4m8qHqNTcwxyphiHroeYutDHEFfgy', 1290),
 (DEFAULT, 'Synth Strings', '1_8-CDYutuM1CQkZl_QXCCCe6gQ4PzOcj', 1290),
+-- Гражданская оборона - Всё идёт по плану
+(DEFAULT, 'Full Score', '1JQogB8efNNqjZDFpEaQHtZbHs3OgWEog', 1310),
+(DEFAULT, 'Voice', '1mmNzwktvqkjVgjhOrChkkgP-w1QhE5ho', 1310),
+(DEFAULT, 'Electric Guitar 1, Electric Guitar 2', '1fZV1PZo5o7LY7seIjc3PkPXitXcdI5mA', 1310),
+(DEFAULT, 'Electric Guitar 1', '1WYKyu15my5Lb_ZzVdaU9b4rAX3FC7tcr', 1310),
+(DEFAULT, 'Electric Guitar 2', '1T6VDGlB__QjpHTmbzroWobYkhBcSacAV', 1310),
+(DEFAULT, 'Bass Guitar', '1TQutfdhO7RGQvhNV-0lZbBI22ZTWv63w', 1310),
+(DEFAULT, 'Drum Set', '1wz2AfYXumXS0DqwveBc1t-Ze8r5fq2n_', 1310),
 -- Гражданская оборона - Про дурачка
 (DEFAULT, 'Full Score', '1_G2bHCTjBCFVMg2-7r1uBM7_XSSHlyDa', 1380),
 (DEFAULT, 'Voice 1, Voice 2.3, Voice 4', '12sLet6WDbo6v-QxiIEhTbryU1m9A-ZtQ', 1380),
