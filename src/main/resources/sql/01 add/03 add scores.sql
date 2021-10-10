@@ -582,7 +582,7 @@ VALUES
 (DEFAULT, 'Bass Guitar', '1c8sEIbsYkMCeTCHBQ6IBv1NoSWLcvP8Y', 1750),
 (DEFAULT, 'Drum Set', '1Mwz48QRPt0o8Fv1weK3LvcCig-ovAeb1', 1750),
 -- Король и Шут - Ели мясо мужики
-(DEFAULT, 'Full Score', '1Zp6WVXBUWn11fxFQA3goVWmto-NaYC4n', 1760),
+(DEFAULT, 'Full Score', '1HYrdKKx5XPIuXirRmfJq3aZSOibd1Sl1', 1760),
 (DEFAULT, 'Voice 1, Voice 2, Voice 3.4', '19iF-T8iQ3p09xDogjI4hbGU3kLqxKMS2', 1760),
 (DEFAULT, 'Voice 1', '1gjDPhhAipjMG6Jn0YtJpL03pQn5w7uPE', 1760),
 (DEFAULT, 'Voice 2', '1hI-5YnAjL28h-NvSXufRiydvN3IuHc5J', 1760),
@@ -591,7 +591,7 @@ VALUES
 (DEFAULT, 'Electric Guitar 1', '1cSRrMt90F019j3BDeiUfOrgHU_LZzN1T', 1760),
 (DEFAULT, 'Electric Guitar 2', '1ecRazP4gdYiJDMuJpuwmGV5iaZexNtyJ', 1760),
 (DEFAULT, 'Bass Guitar', '1IXbd_lx0IFe-KXxJSWMTUxl8kR0JaNXm', 1760),
-(DEFAULT, 'Drum Set', '11XvUI2lvOJUlIJ2OKzqNwyBmclNpyql3', 1760),
+(DEFAULT, 'Drum Set', '15zXoi9mcqbsXtVQ9S0P0VfcBCC6QETpg', 1760),
 -- Король и Шут - Жаль, нет ружья!
 (DEFAULT, 'Full Score', '18NbKSG02ulsLB9EDnNWJnlQJlUxZQMBz', 1770),
 (DEFAULT, 'Voice 1, Voice 2', '11AFXilJ-MG5TW7XMriyKNerAB9kZ6cN7', 1770),
