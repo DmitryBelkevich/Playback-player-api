@@ -460,9 +460,9 @@ VALUES
 (DEFAULT, '0', '1IOcmb0YSJS-BAlAlEFvKk5KRlpit2Dqe', 9005),
 -- Михаил Круг - Кольщик
 (DEFAULT, 'original', '1fvlhRCo7p4Kt10cFsgbny-6VcfObirVE', 9020),
-(DEFAULT, '0', '1TPTH2RYljlUMr9H8HZ5n9odSlc-V-EWJ', 9020),
-(DEFAULT, '-1', '1DI9nYJRYzHbWrIe0KRzq5b0_n2yqGc9L', 9020),
-(DEFAULT, '-2', '1ME3K80tqVIo1paB_G1WC1LR5On93gKzg', 9020),
+(DEFAULT, '0', '1_Erncgsx3CemS5iFtXqGy-oSUGTbGwgl', 9020),
+(DEFAULT, '-1', '1IWNUa370D10EL9dbGn8Xb4PaLKOI-0WG', 9020),
+(DEFAULT, '-2', '1KIcxT0-NOYZ44y7FLx9ZnQfrtvgj2IwE', 9020),
 -- Стас Михайлов - Всё для тебя
 (DEFAULT, 'original', '1uvuqFZgbi4Udv7OxQBV80ZVFLBfq854T', 9040),
 (DEFAULT, '0', '1nXI_KD5SNsbFm09njgkp777aQvoLWNxl', 9040),
