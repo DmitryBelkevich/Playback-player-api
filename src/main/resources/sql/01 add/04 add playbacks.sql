@@ -120,15 +120,15 @@ VALUES
 (DEFAULT, '-2', '1BDPUnm2h93i2A3ZOfHX8dcTfxOUWcsDY', 1240),
 -- Би-2 - Компромисс
 (DEFAULT, 'original', '1IgM7YTqyob7Qje_1jfukRep1WTX4reFl', 1250),
-(DEFAULT, '0', '15WeVD1P4z9tL_FsMxEYKlIfDUUNTZAk0', 1250),
+(DEFAULT, '0', '1se8_EklHqygr7FefbW_SELjhXapJzVlh', 1250),
 -- Би-2 - Мой рок-н-ролл
 (DEFAULT, 'original', '1Arw7ZR1CwW42EYK083Zs3hGq22IMue-o', 1260),
-(DEFAULT, '0', '14JuAi_bWoQ8LAV0Y_KOobf_1xKpvo6pO', 1260),
+(DEFAULT, '0', '1w74upj3JQ2vy0heKrtsMl-M43TOvvlX3', 1260),
 -- Би-2 - Полковнику никто не пишет
 (DEFAULT, 'original', '1jsIWOVrWu8uQw1zgOQWLV2MhiYPCRS_J', 1270),
 (DEFAULT, '0', '19TUkBiSXZU2JQw9_70Vopn4ot82gkByW', 1270),
 -- Би-2 - Серебро
-(DEFAULT, '0', '1Ac_cL6FNXlYjTcHUxis6ruoaY_wT80JJ', 1280),
+(DEFAULT, '0', '1ORSxPVwYT7gkqE24xty1fdrXgBz4atJA', 1280),
 -- Валентин Стрыкало - Наше лето
 (DEFAULT, 'original', '11EgRxJwhiEixT0Ucsx94ND0ENLpIJOZ9', 1290),
 (DEFAULT, '+3', '1AvK6pwjpO0bKenFXYJvsigBLEtzMBrld', 1290),
@@ -155,7 +155,7 @@ VALUES
 -- Егор и Опизденевшие - Про дурачка
 -- Егор и Опизденевшие - Про мишутку (Песенка для Янки)
 -- ДДТ - В последнюю осень
-(DEFAULT, '0', '1tA9yqkYEYAd1ZDFmWG6njlI6uVMzOv1p', 1400),
+(DEFAULT, '0', '1vlKElMTJPkX1GIlPgaE3IYcBAmlcCSxb', 1400),
 -- ДДТ - Осенняя
 -- ДДТ - Просвистела
 (DEFAULT, 'original', '1wKbPsMWCR-gNhKCIEFUa23D_vgFJ_bWQ', 1450),
@@ -170,14 +170,14 @@ VALUES
 (DEFAULT, 'original', '1b6_DTGyFiJjRB1IZACaS88mEKEYuIi8B', 1520),
 (DEFAULT, '0', '1AHZ0DVs7gu13uxD5eLOPgOAb-DoURQB6', 1520),
 -- Звери - До скорой встречи
-(DEFAULT, '-2', '1M3MUN38uasKCxibqRYDOpUHJe5ytnOiQ', 1530),
+(DEFAULT, '-2', '1t4v4xe2t2GuKY5SGa7mtSQ_SkYiwCioG', 1530),
 -- Звери - Напитки покрепче
-(DEFAULT, '-2', '1RTU0fMYNYn1oiN1becC8XlKOovw4DM1G', 1540),
+(DEFAULT, '-2', '1kfiMkhltqHaXvEammvX1_KC1AI4nZ7CN', 1540),
 -- Звери - Просто такая сильная любовь
 (DEFAULT, 'original', '1cetiTwl2v4MGh_vpmLuBVkdC77n76DI-', 1550),
 (DEFAULT, '0', '1CCj72LUVPZWozPXuWJCYU0eRZUJsWyZE', 1550),
 -- Звери - Районы-кварталы
-(DEFAULT, '0', '12EllXngEV88TfxNQgmn3cuJDBdiwQHwm', 1560),
+(DEFAULT, '0', '1lgF0EfD45IPFdoGnlOiGBvjeG34Hd0EI', 1560),
 -- Земляне - Трава у дома
 (DEFAULT, 'original', '1ZGDLEl-5bydc6tu1AXs7OfEzSi4lQTrh', 1570),
 (DEFAULT, '0', '1WglpwE3om9EdHmVf_Bi-F9qeptk2JGEJ', 1570),
