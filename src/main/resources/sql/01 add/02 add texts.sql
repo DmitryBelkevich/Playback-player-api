@@ -305,6 +305,8 @@ VALUES
 (DEFAULT, '1E3piSXMJf4yDmDvCwpp15FUJFl17OVm4', 2430),
 -- Чичерина - Ту-лу-ла
 (DEFAULT, '1at3lbPUaaTtdt092O73_NhKK_5fUGHDv', 2450),
+-- Янка Дягилева - Особый резон
+(DEFAULT, '1zgr8NBoEjxVR7Sx4XX7z0AeSX4rFFq2e', 2460),
 
 -- Blues
 
