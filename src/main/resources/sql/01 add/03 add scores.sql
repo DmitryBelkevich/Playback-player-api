@@ -835,6 +835,15 @@ VALUES
 (DEFAULT, 'Drum Set', '1gkjY9bbtKK5l1VdooHpHK40nPHH8MocN', 2270),
 (DEFAULT, 'Handclap', '12lcBAAEdziqkJcrHfzdNEROrlIe9P2mQ', 2270),
 (DEFAULT, 'Electric Organ', '1rMlvrisaMSIPwY4FDPYw1BPRBUqhLRVh', 2270),
+-- Сектор Газа - Бомж
+(DEFAULT, 'Full Score', '1KfgZqUm-rYzaS5zKTnbepkB_QCi2CUV5', 2280),
+(DEFAULT, 'Voice', '17PfnSmXmMEHzN0_mDyRAdr2_UuOOinqp', 2280),
+(DEFAULT, 'Electric Guitar', '1mEPbRHLYvS-wWiyszFfpEtdeL98gwoEr', 2280),
+(DEFAULT, 'Bass Guitar', '1vtFl8XPWQKZkFxt-UARlucXPLFVaKVJu', 2280),
+(DEFAULT, 'Drum Set', '18GQhZHToZAHhQEDEK8W3gkQ1zcoisFS6', 2280),
+(DEFAULT, 'Lead 3 (Calliope), Tubular Bells', '1-R1g5uJhg4EGc9whvH8Um5kcSQiRl3Yi', 2280),
+(DEFAULT, 'Lead 3 (Calliope)', '1mrH1FbGOkOZ3UxHDXWLqCvzzAN4BDXGo', 2280),
+(DEFAULT, 'Tubular Bells', '1EubRwPXPPZEP1WzT39U-iLDtgYiZTE8q', 2280),
 -- Сектор Газа - Демобилизация
 (DEFAULT, 'Full Score', '1_6FRRbAviPk95GWflRnTqm0Lv2nP7N0v', 2290),
 (DEFAULT, 'Voice', '1fkiB2gsNoYo4eQp_C9LHam3knQ6LlHCf', 2290),
