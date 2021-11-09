@@ -215,6 +215,9 @@ VALUES
 -- Кино - Пачка сигарет
 (DEFAULT, 'original', '1F9-DUIZBjRMPoqHfhNKfpCC0zjqTaCWS', 1700),
 (DEFAULT, '0', '1hDYC0YLB7r1Q2xjl8pnuY4oZHnz7y3Gq', 1700),
+-- Кино - Следи за собой
+(DEFAULT, 'original', '1iLQFGPtPSqOIDmmxdOvHYOWpv8-MHjhn', 1712),
+(DEFAULT, '0', '15ifbBdfUYfz8eMlKtd85YrFswTbT-0rg', 1712),
 -- Кино - Спокойная ночь
 (DEFAULT, 'original', '1IYxUUACd4g4aQIX6c6U6oZxRn6FlbQJa', 1714),
 (DEFAULT, '0', '1fFpEc24yn36zzi1yBVRuta2jvYkOmoJM', 1714),

@@ -527,6 +527,7 @@ VALUES
 (DEFAULT, 'FX 5 (Brightness), Pad 2 (Warm)', '1iC2jDpeXWIpEZLn5_SEULHER4_hgPRzt', 1700),
 (DEFAULT, 'FX 5 (Brightness)', '1HgdSbrzniaa0LSwxLyLBl0VQ24HMrpDq', 1700),
 (DEFAULT, 'Pad 2 (Warm)', '1R71_E1wCIhQR4j9XOWzJy48YnVQ1TGb_', 1700),
+-- Кино - Следи за собой
 -- Кино - Спокойная ночь
 (DEFAULT, 'Full Score', '1OuqHhBUoBihIITk0xVShrPvi6mnuslSt', 1714),
 (DEFAULT, 'Voice', '1W3p8cYTnNHtsuAPU1O08sFUaU9b9y-tD', 1714),

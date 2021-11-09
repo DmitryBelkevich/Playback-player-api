@@ -172,6 +172,8 @@ VALUES
 (DEFAULT, '1MIm6Kpw-gugEOabe8x80aVvQOCCf3Jx0', 1690),
 -- Кино - Пачка сигарет
 (DEFAULT, '13NJw888shKdCpCETked68ufggVxyF6Vq', 1700),
+-- Кино - Следи за собой
+(DEFAULT, '1cpy9bViQHFBxVWLIiGI1FEtkNzwMMDCv', 1712),
 -- Кино - Спокойная ночь
 (DEFAULT, '1KLsBu_7tyVsJUXzcHTGCQEPNvp7H73Vj', 1714),
 -- Кино - Хочу перемен!
