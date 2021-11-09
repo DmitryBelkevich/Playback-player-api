@@ -528,6 +528,18 @@ VALUES
 (DEFAULT, 'FX 5 (Brightness)', '1HgdSbrzniaa0LSwxLyLBl0VQ24HMrpDq', 1700),
 (DEFAULT, 'Pad 2 (Warm)', '1R71_E1wCIhQR4j9XOWzJy48YnVQ1TGb_', 1700),
 -- Кино - Следи за собой
+(DEFAULT, 'Voice', '1P9meplAyVIEdA2Ux1oRYevD-zjXHkKoQ', 1712),
+(DEFAULT, 'Full Score', '16p8dkqxqGDfYjHoOus2DEMMzNj2OrP_k', 1712),
+(DEFAULT, 'Electric Guitar 1, Electric Guitar 2', '1Z3zCTq0LGnJ8506Fm8rw2jfFpmqVpL7-', 1712),
+(DEFAULT, 'Electric Guitar 1', '1r_9el_eYM2asaoNoGS1RzhJWLlrl5qWy', 1712),
+(DEFAULT, 'Electric Guitar 2', '1mhyJrjM7KgAKANXYY4tW1ryfOC8GAvO2', 1712),
+(DEFAULT, 'Bass Guitar', '10XzdiMva7Okr62ZMz341Vv1i8gMk5o_H', 1712),
+(DEFAULT, 'Drum Set, Tambourine', '1OwmPtMwstIIdiYVIY-zOUfElZiDbdc7o', 1712),
+(DEFAULT, 'Drum Set', '1YRzbSDYjRHIhH2N2LSf4L4qJ1DopTegh', 1712),
+(DEFAULT, 'Tambourine', '1ymgcDWh4SlcjK4LJR6_rCjwBCK7_Xtxd', 1712),
+(DEFAULT, 'Flute, Strings', '1gj0U5kHxepU-kc-B9ZgTP5LY-VbCjpEZ', 1712),
+(DEFAULT, 'Flute', '1YX7YGemlB9OCZ_L8NBNvS0pHcYZ4eOHF', 1712),
+(DEFAULT, 'Strings', '1yg1YQ425TzL3Ho2_m9u3w5iBrKVovo0r', 1712),
 -- Кино - Спокойная ночь
 (DEFAULT, 'Full Score', '1OuqHhBUoBihIITk0xVShrPvi6mnuslSt', 1714),
 (DEFAULT, 'Voice', '1W3p8cYTnNHtsuAPU1O08sFUaU9b9y-tD', 1714),
