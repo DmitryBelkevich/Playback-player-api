@@ -191,6 +191,8 @@ VALUES
 -- Кино - Группа крови
 (DEFAULT, 'original', '1rec_Lhy2xayDlfKl4Qvre9CU3jhe0yIZ', 1620),
 (DEFAULT, '0', '1XXvEDjGghhvkKJvUob7zVajcZB7IT2h5', 1620),
+-- Кино - Игра
+(DEFAULT, 'original', '1on-6JYFSbzI_yEFUJmNSVK3Gd1CcgFw9', 1625),
 -- Кино - Звезда по имени Солнце
 (DEFAULT, 'original', '1SCP-67pJwwi1009kkrvwRvp-jbq3bQEA', 1630),
 (DEFAULT, '0', '1_l80Ch4Bsn7wlVzS019lmXw8isUe-NQV', 1630),

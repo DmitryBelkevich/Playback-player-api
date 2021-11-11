@@ -421,6 +421,17 @@ VALUES
 (DEFAULT, 'Pad 2 (Warm)', '1wxuS1Mqhmy_Sfmny8JAwPKbLt-YUGYDn', 1620),
 (DEFAULT, 'Electric Organ', '1j5Zn7dUSyzxVSLCvDuhjK7_2NnvgDxNa', 1620),
 (DEFAULT, 'Pad 4 (Choir)', '1JnqoDn1bIcgNzx-Xvc1lmr6hNjncZ1rr', 1620),
+-- Кино - Игра
+(DEFAULT, 'Full Score', '1kfVXr_0JSmdds6RHR8cJ7-zy5PQHbe69', 1625),
+(DEFAULT, 'Voice 1, Voice 2.3', '11uUJIZrn6pt1hq6n2kcGlGYBlJ1RfVXc', 1625),
+(DEFAULT, 'Voice 1', '1fp6TwcQvanSi8uU6v3e0SQwZzl2JxOlO', 1625),
+(DEFAULT, 'Voice 2.3', '1j9tnrV_YfWXAwzGI99I1Z_0uKPONDy9R', 1625),
+(DEFAULT, 'Acoustic Guitar, Electric Guitar', '1BLkTWT0YLlvah0pcIGyK1ChcJsP_p2w-', 1625),
+(DEFAULT, 'Acoustic Guitar', '1Zguz3687gRQd6tKTthHufaRAeSUvLXrp', 1625),
+(DEFAULT, 'Electric Guitar', '1NACb4i8FEMad0VMJLPTu-r6Cz5CCiD_2', 1625),
+(DEFAULT, 'Fretless Bass Guitar', '1oq5rrANep0mrBA0mITRoPyEGWwnvGlwX', 1625),
+(DEFAULT, 'Drum Set', '1DvIN8rWVjaENw3WaJJ9WrJCeIbawxH4G', 1625),
+(DEFAULT, 'Alto Recorder', '1Ln6nlzeMn68pmeuo4mc85PC8y97Zb4RW', 1625),
 -- Кино - Звезда по имени Солнце
 (DEFAULT, 'Full Score', '1GEqY5ZRzYxjTekAP9NYDc1r47K_1AlM-', 1630),
 (DEFAULT, 'Voice', '1Wk-aPHhidMH5PNt8qBHGQ4iKxiRkiuK-', 1630),
