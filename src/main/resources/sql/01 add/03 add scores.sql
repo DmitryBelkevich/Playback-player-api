@@ -1058,10 +1058,10 @@ VALUES
 (DEFAULT, 'FX 1 (Abduction)', '1n39a08XRoFgRDE_DyBJy-5AyiW8bxXPc', 7040),
 -- Пошлая Молли - Нон стоп
 -- Шарлот - Мяу мяу мяу
-(DEFAULT, 'Full Score', '1lxw-0pOfsFUmM4momRjF85aLQZynAWDU', 7085),
-(DEFAULT, 'Voice 1, Voice 2', '1n2-U08MfYCA5xOJ9aJV6zXB3DAsf8_Zw', 7085),
-(DEFAULT, 'Voice 1', '18BaOit5fgCaYKVTOL9fZmHunhUMJyfXV', 7085),
-(DEFAULT, 'Voice 2', '1PNUgrzNt2bz7ioBJPek_okEslRNvY7b-', 7085),
+(DEFAULT, 'Full Score', '15lOA67eSz2IgsLzc-RtwWVTA3g1VxLmy', 7085),
+(DEFAULT, 'Voice 1, Voice 2', '1BIszbSr6fOBRM8fFvudsFkhZvJjsYJo5', 7085),
+(DEFAULT, 'Voice 1', '1Z2ORP-Kgf4kPf8eX_873ntuC7PpARlKm', 7085),
+(DEFAULT, 'Voice 2', '1zbZZwedur_mQlQdJK4D5l46e5af0U9sT', 7085),
 (DEFAULT, 'Piano', '1qGLecw5g4lwNlZ0ecGZ1ROFp21eO8_aa', 7085),
 -- Шарлот - Щека на щеку
 
