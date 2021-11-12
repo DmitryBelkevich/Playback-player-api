@@ -446,6 +446,7 @@ VALUES
 (DEFAULT, 'original', '1zVaw3lgvlUAuf2eL8sUWdo9c-STGhuZX', 7060),
 -- Шарлот - Мяу мяу мяу
 (DEFAULT, 'original', '1ege6hAI5MmiABvLsYOwbMGpRcPcZvoh9', 7085),
+(DEFAULT, '0', '1uLWFGp_eGLs2tpLKKCHIpoYEiFpo1h7R', 7085),
 -- Шарлот - Щека на щеку
 (DEFAULT, 'original', '1LhoLTDZMbGqhP3NnRjuPqwcHsm_NU1ef', 7090),
 
