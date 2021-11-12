@@ -356,6 +356,10 @@ VALUES
 (DEFAULT, '1P7kxdPdtxzSueUMbDZKm-COhjveUvjRt', 7040),
 -- Пошлая Молли - Нон стоп
 (DEFAULT, '1A_kLCUGpgUwruIRy0YzxCJm_WWsJ93uF', 7060),
+-- Шарлот - Мяу мяу мяу
+(DEFAULT, '1xoEua83l2P-joNT95MNG7fZe6K-IxIQr', 7085),
+-- Шарлот - Щека на щеку
+(DEFAULT, '1LwI05-5nSYTwcXmg1JeKyxxvJjVMwIMw', 7090),
 
 -- Estrada
 

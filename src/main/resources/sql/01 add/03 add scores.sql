@@ -1057,6 +1057,13 @@ VALUES
 (DEFAULT, 'Synth Strings', '1GSeFMB6sAh9heFZlwCIRbfh9EcLEHGGs', 7040),
 (DEFAULT, 'FX 1 (Abduction)', '1n39a08XRoFgRDE_DyBJy-5AyiW8bxXPc', 7040),
 -- Пошлая Молли - Нон стоп
+-- Шарлот - Мяу мяу мяу
+(DEFAULT, 'Full Score', '1lxw-0pOfsFUmM4momRjF85aLQZynAWDU', 7085),
+(DEFAULT, 'Voice 1, Voice 2', '1n2-U08MfYCA5xOJ9aJV6zXB3DAsf8_Zw', 7085),
+(DEFAULT, 'Voice 1', '18BaOit5fgCaYKVTOL9fZmHunhUMJyfXV', 7085),
+(DEFAULT, 'Voice 2', '1PNUgrzNt2bz7ioBJPek_okEslRNvY7b-', 7085),
+(DEFAULT, 'Piano', '1qGLecw5g4lwNlZ0ecGZ1ROFp21eO8_aa', 7085),
+-- Шарлот - Щека на щеку
 
 -- Estrada
 
