@@ -228,11 +228,11 @@ VALUES
 (DEFAULT, 'Viola', '1UTey9Pp2hJgtk6SiMfLy5GxbRs3h6yjl', 1150),
 (DEFAULT, 'Violoncello', '1IT7JfyvTz6meX4nGlXE6alFuYrMMnfLI', 1150),
 -- Noize MC - Вояджер-1
-(DEFAULT, 'Full Score', '1t7b8fQDNOGYYS6jV3v4f5UG_IeiNFN1M', 1175),
+(DEFAULT, 'Full Score', '1kJAWNyKf43AtWD9mzYqCm2ILEqFZCIL8', 1175),
 (DEFAULT, 'Voice 1, Voice 2', '1dO-5sO46erCnU3aLj6wLcwpR_oIkOdAL', 1175),
 (DEFAULT, 'Voice 1', '1OiaTU6dnx2RBdUGeHmhX8O7sAtpAp_pS', 1175),
 (DEFAULT, 'Voice 2', '14jvwGIPKDvKzqUC1JRGQjJA83P5PpUrY', 1175),
-(DEFAULT, 'Acoustic Guitar in F', '1YJDuyuCMbfF_Af6Z2uKLQhsyM-BtYyb2', 1175),
+(DEFAULT, 'Acoustic Guitar in F', '1TU4f2bOyW9KQsS6nNXy_anpIEzEDtd2e', 1175),
 (DEFAULT, '5-string Bass Guitar', '19fyYj0iOkD3xnUbgA7BWSdDIWk-4iQXl', 1175),
 (DEFAULT, 'Drum Set', '1kXnz0rY_SZ5rFdtYsXtBU2lqDkymIcN-', 1175),
 -- Агата Кристи - Как на войне
