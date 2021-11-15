@@ -96,6 +96,7 @@ VALUES
 (DEFAULT, 'original', '1H7jiqp_ThTuJGsGMonkrBvBajD4ujQKj', 1170),
 (DEFAULT, '-2', '1GNxYAsdQ5qxEYvAnko-eXQqgERPKyGhO', 1170),
 -- Noize MC - Вояджер-1
+(DEFAULT, 'original', '1W7_ge_j6gtyOUEW-vIt0RCeaOitsIXxI', 1175),
 -- Агата Кристи - Как на войне
 (DEFAULT, 'original', '1yfNtoBHW9lveJNCAoDdH3Hj5rW_v6ZbB', 1180),
 (DEFAULT, '0', '1UfxYuH8OSXaYKyv98e2vUN9uhPBvu6GN', 1180),
