@@ -227,6 +227,7 @@ VALUES
 (DEFAULT, 'Viola, Violoncello', '1X5d2swa7huegqafAQCCWIhvcLskN8sI6', 1150),
 (DEFAULT, 'Viola', '1UTey9Pp2hJgtk6SiMfLy5GxbRs3h6yjl', 1150),
 (DEFAULT, 'Violoncello', '1IT7JfyvTz6meX4nGlXE6alFuYrMMnfLI', 1150),
+-- Noize MC - Вояджер-1
 -- Агата Кристи - Как на войне
 (DEFAULT, 'Full Score', '1qzpCSC6N4pRhPoZu0BZoBNyeIaNW5San', 1180),
 (DEFAULT, 'Voice', '19PXNaB7MOD_kz-ZDu_LZ4tSV6LWN43uk', 1180),

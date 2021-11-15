@@ -75,6 +75,8 @@ VALUES
 -- (DEFAULT, '', 1160),
 -- N.R.M. - Тры чарапахі
 -- (DEFAULT, '', 1170),
+-- Noize MC - Вояджер-1
+(DEFAULT, '1ILt6TOdtB5SQ_XKT5ELPiD186VesJAWb', 1175),
 -- Агата Кристи - Как на войне
 (DEFAULT, '1RyOu58rkrFU4jGd1iUja4pjevEnoVzUf', 1180),
 -- Агата Кристи - Никогда
