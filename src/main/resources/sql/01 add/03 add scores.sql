@@ -415,8 +415,8 @@ VALUES
 (DEFAULT, 'FX 3 (Crystal)', '17_Vgq04YmkREvDhHZZPpANeX6neh-vDu', 1580),
 (DEFAULT, 'Lead 3 (Calliope)', '1O2w3_MvzAPlTGqQlHQZnjQa0cYsONd6q', 1580),
 -- Кино - Группа крови
-(DEFAULT, 'Full Score', '14Duh-aajA36ytTr9sKm2JBdviu4yla1Y', 1620),
-(DEFAULT, 'Voice', '1Phlv8GTLuqlgP8Kx4YP39hWyw6U0rLep', 1620),
+(DEFAULT, 'Full Score', '1TQ9UY2OGFsvhDh40EzqHXY6GGL0qC3f8', 1620),
+(DEFAULT, 'Voice', '1j6npWQeKN5iERpo2xvxuySUXTHyn86Jw', 1620),
 (DEFAULT, 'Electric Guitar 1, Electric Guitar 2, Electric Guitar 3', '1APpeTmxGRBDWQXfP61cdvmp6bLoeQ_gr', 1620),
 (DEFAULT, 'Electric Guitar 1', '1fB2WKPG3Z-mRr46S10GXkWPwDBGqcLzN', 1620),
 (DEFAULT, 'Electric Guitar 2', '1W0OKjBf8NK_qyA8OW-fCAi0Ctv7Ym4v_', 1620),
