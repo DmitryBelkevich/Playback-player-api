@@ -470,8 +470,8 @@ VALUES
 (DEFAULT, 'Violoncello', '1PFz1bDYTvYrqDfrNKVVAt8l2eMr-hmLe', 1640),
 (DEFAULT, 'Electric Organ', '1o5DpLejIcSba6edSFcihfT6aFkjA12IJ', 1640),
 -- Кино - Кончится лето
-(DEFAULT, 'Full Score', '1fr8zS6cZnw6U_0XwlAY7fREQ-g58nnUK', 1650),
-(DEFAULT, 'Voice', '15iSp2vbRXI7vldzWuXhvspFNrNjAHIfd', 1650),
+(DEFAULT, 'Full Score', '1T7Xo4NK20k85n_EjFAqajqHhQDarAjb1', 1650),
+(DEFAULT, 'Voice', '1ERxrrq8DyFtPZGmT0KQ2qbYpDe7fGT-L', 1650),
 (DEFAULT, 'Acoustic Guitar', '18_iGB9yA4cAqdczkiuOl52nmJ_OJ9bEM', 1650),
 (DEFAULT, 'Electric Guitar 1, Electric Guitar 2, Electric Guitar 3, Electric Guitar 4', '19jsDtyv_VRDuzIVyVSxwanWkklt6BSyn', 1650),
 (DEFAULT, 'Electric Guitar 1', '1CoGSXX7tscEIVPnXz4AxP30QrtbA34Gz', 1650),
