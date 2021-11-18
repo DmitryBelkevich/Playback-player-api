@@ -367,6 +367,8 @@ VALUES
 
 -- Алла Пугачёва - Позови меня с собой
 (DEFAULT, '1Cenp7Q9riOoakC0gpJC4AeIfW0-1d6Xp', 8000),
+-- Любэ - Давай за...
+(DEFAULT, '1ALkkW5tyI9_k57y7Ym-1RXudqwj9QJTl', 8010),
 -- Любэ - Конь
 (DEFAULT, '1vy_07S_ePv5LXaxTCRzlYBqjLl98bOdS', 8020),
 -- Любэ - Позови меня тихо по имени
