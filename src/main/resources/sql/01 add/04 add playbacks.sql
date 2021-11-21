@@ -195,7 +195,7 @@ VALUES
 (DEFAULT, '0', '1XXvEDjGghhvkKJvUob7zVajcZB7IT2h5', 1620),
 -- Кино - Игра
 (DEFAULT, 'original', '1on-6JYFSbzI_yEFUJmNSVK3Gd1CcgFw9', 1625),
-(DEFAULT, '0', '1M8mRQfcDSIXTzDkp2gu1eqb_2R4l-eSV', 1625),
+(DEFAULT, '0', '1wfTZxsv4TF1BBg4e7imcwM958fU1VnVB', 1625),
 -- Кино - Звезда по имени Солнце
 (DEFAULT, 'original', '1SCP-67pJwwi1009kkrvwRvp-jbq3bQEA', 1630),
 (DEFAULT, '0', '1_l80Ch4Bsn7wlVzS019lmXw8isUe-NQV', 1630),
