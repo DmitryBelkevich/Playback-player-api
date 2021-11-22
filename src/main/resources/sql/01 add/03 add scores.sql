@@ -387,6 +387,22 @@ VALUES
 (DEFAULT, 'Piano', '1LQ1dO5rwkfhyicxtzQ7sS1bR-zEibnoL', 1520),
 (DEFAULT, 'Strings', '1ia12cibwa8FnxKpJbElNmjPnxN6zRFVf', 1520),
 -- Звери - До скорой встречи
+(DEFAULT, 'Full Score', '1S3mkgFbn1bhppQ4SEVp6jwaS7nFdBJZC', 1530),
+(DEFAULT, 'Voice 1, Voice 2', '1OSzvM3AyiXtmY4ZDQPQMcbFaIrmQM0Zd', 1530),
+(DEFAULT, 'Voice 1', '1FjYtRATVHf0_QpzjYRAbGFzY27_O83n5', 1530),
+(DEFAULT, 'Voice 2', '1JHALQDKq59pvg_nh8bQ3g2JhKUt-M_yJ', 1530),
+(DEFAULT, 'Acoustic Guitar, Electric Guitar 1, Electric Guitar 2', '1fOBD566IKxNnxFnDTZCg3kcoUi5TVExX', 1530),
+(DEFAULT, 'Acoustic Guitar', '1jjuqH4tf4dEbp7hjUG6aq1mp6pWqj54l', 1530),
+(DEFAULT, 'Electric Guitar 1', '1yIdxj4174xVuu6-fyl0tBXzzvrnJc7Ao', 1530),
+(DEFAULT, 'Electric Guitar 2', '1JQ3-w-8H3b0a8xu3wMSLL8ytOfpzD5F6', 1530),
+(DEFAULT, 'Bass Guitar', '1VrZ0K6pk6LJiGTDajp_DIwhCS-0qNY8w', 1530),
+(DEFAULT, 'Drum Set', '1LEzVu-jKXoALfyAZrkAc00x0SH4zT0Nt', 1530),
+(DEFAULT, 'Electric Organ, Lead 2 (Sawtooth), Strings, Piano, Pad 2 (Warm)', '14-sZXSuTt2oL8GhL59Q0zN9evz0U5fhM', 1530),
+(DEFAULT, 'Electric Organ', '13Mjx0MM1v_Y7aWNEFxshHQ0x66gOKjfC', 1530),
+(DEFAULT, 'Lead 2 (Sawtooth)', '1lVJmnqk06_8UgnSiNFP_ZdK7wZzch0lr', 1530),
+(DEFAULT, 'Strings', '1q9bqoFo_Fv9fVp65eMHisjw4f4ot4RX2', 1530),
+(DEFAULT, 'Piano', '1z1yzPz82fFf1BZFsMZSsQof-vaBYNeLw', 1530),
+(DEFAULT, 'Pad 2 (Warm)', '10BdiJcGmmmjB_VFKNFGnLknzeX7D-XKW', 1530),
 -- Звери - Напитки покрепче
 -- Звери - Просто такая сильная любовь
 (DEFAULT, 'Full Score', '1ipCVCCWoWisUOatk-ZkOV3VvjLuULqbk', 1550),
