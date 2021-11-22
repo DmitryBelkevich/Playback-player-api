@@ -172,6 +172,7 @@ VALUES
 (DEFAULT, 'original', '1b6_DTGyFiJjRB1IZACaS88mEKEYuIi8B', 1520),
 (DEFAULT, '0', '1AHZ0DVs7gu13uxD5eLOPgOAb-DoURQB6', 1520),
 -- Звери - До скорой встречи
+(DEFAULT, 'original', '14K1Fdr3fu6ARkmhYHD2FT-ml9jAuxspa', 1530),
 (DEFAULT, '-2', '1t4v4xe2t2GuKY5SGa7mtSQ_SkYiwCioG', 1530),
 -- Звери - Напитки покрепче
 (DEFAULT, '-2', '1kfiMkhltqHaXvEammvX1_KC1AI4nZ7CN', 1540),
