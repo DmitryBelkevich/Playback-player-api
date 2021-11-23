@@ -349,6 +349,11 @@ VALUES
 (DEFAULT, 'Electric Organ, FX 4 (Atmosphere)', '1l4RJdHT2VqasupCHEGg0qpDXnFNkSFd1', 1380),
 (DEFAULT, 'Electric Organ', '1WESA-OQJc_EZnRAA4mNJCdili3qvStJg', 1380),
 (DEFAULT, 'FX 4 (Atmosphere)', '1V1HLlVvfKNGUPJCndOoUnrCp3G5BAjU0', 1380),
+-- ДДТ - Метель
+(DEFAULT, 'Full Score', '1c11OgekUyCgHfVPdKNyjt_nqY5PTsKC0', 1430),
+(DEFAULT, 'Acoustic Guitar 1, Acoustic Guitar 2, Electric Guitar', '1Ho4CC0XhQxEgaCB_y28t6ErTSvmuD1SN', 1430),
+(DEFAULT, 'Acoustic Guitar 1', '1MAU7YPntTw3i_r1pklxJGXxL8g89n7tU', 1430),
+(DEFAULT, 'Acoustic Guitar 2', '1xMXBtGwz-HLF7IBppQyncdNs1imqnUGy', 1430),
 -- ДДТ - Просвистела
 (DEFAULT, 'Full Score', '1SDETVYTG_nsl76Xu7YHBRWJuPOwqoXhJ', 1450),
 (DEFAULT, 'Voice 1, Voice 2', '1U0i6M-vXf2T_SrFrt15823l7Vu4aoJy5', 1450),
