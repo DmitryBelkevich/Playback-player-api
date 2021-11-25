@@ -132,7 +132,7 @@ VALUES
 (DEFAULT, '1T6eecr4B4ybNRod3x6QXL8CFhLtfTSjR', 1450),
 -- ДДТ - Что такое осень
 (DEFAULT, '1bNemBk0c7_XenKj1Nx3SNbcDyexNAsAD', 1460),
--- ДДТ - Это всё…
+-- ДДТ - Это всё...
 (DEFAULT, '1zucOOACfo-44KS3OwYB2CvlIHuFHKsfM', 1470),
 -- Жуки - Батарейка
 (DEFAULT, '1TKtizqny1attrlvs48HOV0wb3TOFE7e7', 1500),

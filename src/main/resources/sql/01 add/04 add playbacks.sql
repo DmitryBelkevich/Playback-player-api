@@ -166,7 +166,8 @@ VALUES
 (DEFAULT, 'original', '1G-2pWpl6W2YVgW6xpWuAlu5Yq5S1XRkn', 1460),
 (DEFAULT, '0', '1_8G0AShZ7dYktcmTfbtil0mkFUXVNyNN', 1460),
 (DEFAULT, '-2', '1nUBcSynGy45bSQn7gtSNl7IeXvF99NA8', 1460),
--- ДДТ - Это всё…
+-- ДДТ - Это всё...
+(DEFAULT, 'original', '1d-kbiq9WJv9Z7RbG1muRajg4xrCiegtm', 1470),
 -- Жуки - Батарейка
 -- Звери - Всё, что касается
 (DEFAULT, 'original', '1b6_DTGyFiJjRB1IZACaS88mEKEYuIi8B', 1520),
