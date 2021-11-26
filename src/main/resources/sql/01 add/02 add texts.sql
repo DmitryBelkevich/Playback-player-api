@@ -263,19 +263,19 @@ VALUES
 (DEFAULT, '1Lp4x49dw1LFzzct_gLN8WFVtvG1eEDLv', 2150),
 -- Мумий Тролль - Медведица
 (DEFAULT, '1_ebk3N2izTSCvMpjVuEVIARaUmlzzH44', 2160),
--- Наутилус Помпилиус - Дыхание
+-- Nautilus Pompilius - Дыхание
 (DEFAULT, '1TmmHwl5C8_-wxhaTZJO6S1mJSxqTolCU', 2170),
--- Наутилус Помпилиус - Крылья
+-- Nautilus Pompilius - Крылья
 (DEFAULT, '1ePNwJkARW-e8oqHK25iQ68CJyo7Pmfuw', 2180),
--- Наутилус Помпилиус - Последнее письмо
+-- Nautilus Pompilius - Последнее письмо
 (DEFAULT, '18j0ywECQmsubBfPBWf3zW9X88SlkR3hL', 2210),
--- Наутилус Помпилиус - Прогулки по воде
+-- Nautilus Pompilius - Прогулки по воде
 (DEFAULT, '1QQJOpryy3Ql1Q-ohD79cFfLNx-OStbsL', 2220),
--- Наутилус Помпилиус - Скованные одной цепью
+-- Nautilus Pompilius - Скованные одной цепью
 (DEFAULT, '16zNVtGePNVZzwwA0tAncJcmZdFP7HPzJ', 2230),
--- Наутилус Помпилиус - Чёрные птицы
+-- Nautilus Pompilius - Чёрные птицы
 (DEFAULT, '1t59tt8JO4WuKtDV0ByF3_lmqjEptfloK', 2240),
--- Наутилус Помпилиус - Я хочу быть с тобой
+-- Nautilus Pompilius - Я хочу быть с тобой
 (DEFAULT, '1E02LHvaWLLtgYsaFdBY9QczgbNs7X2Qy', 2250),
 -- Порнофильмы - Я так соскучился
 (DEFAULT, '1lL6BOSpselagLAFSTzCk4vLrVsfRAMBo', 2260),

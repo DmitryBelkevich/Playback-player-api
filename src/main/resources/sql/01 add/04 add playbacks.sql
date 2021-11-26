@@ -335,14 +335,14 @@ VALUES
 (DEFAULT, '0', '1XLMZNAxiQKvaufDAXmf5hMtMB0lNCoh0', 2150),
 -- Мумий Тролль - Медведица
 (DEFAULT, '0', '1TYYPM6pAWxga9QzmeM2qOTQ3mtJx9QNR', 2160),
--- Наутилус Помпилиус - Дыхание
--- Наутилус Помпилиус - Крылья
+-- Nautilus Pompilius - Дыхание
+-- Nautilus Pompilius - Крылья
 (DEFAULT, 'original', '1n17t7DW2kQ8gxX04Qh2pK4DhZeC9Y4pC', 2180),
--- Наутилус Помпилиус - Последнее письмо
+-- Nautilus Pompilius - Последнее письмо
 (DEFAULT, '0', '1piEdKD0z11eK8WlOlOJ3BPQHTDMzzxLn', 2210),
--- Наутилус Помпилиус - Прогулки по воде
--- Наутилус Помпилиус - Скованные одной цепью
--- Наутилус Помпилиус - Я хочу быть с тобой
+-- Nautilus Pompilius - Прогулки по воде
+-- Nautilus Pompilius - Скованные одной цепью
+-- Nautilus Pompilius - Я хочу быть с тобой
 -- Порнофильмы - Я так соскучился
 (DEFAULT, 'original', '1Zw0YoRcOeNcRgs3pP5F_ZBucy-HTFSiY', 2260),
 (DEFAULT, '+5', '1iPywpXNMISizSnQwHArkWs24mLxWgiRP', 2260),
