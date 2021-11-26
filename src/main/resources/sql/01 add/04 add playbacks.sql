@@ -338,6 +338,7 @@ VALUES
 -- Nautilus Pompilius - Дыхание
 -- Nautilus Pompilius - Крылья
 (DEFAULT, 'original', '1n17t7DW2kQ8gxX04Qh2pK4DhZeC9Y4pC', 2180),
+(DEFAULT, '0', '1mKi4AdrKZzUCsvl5w1uRzPHjhfHEPE36', 2180),
 -- Nautilus Pompilius - Последнее письмо
 (DEFAULT, '0', '1piEdKD0z11eK8WlOlOJ3BPQHTDMzzxLn', 2210),
 -- Nautilus Pompilius - Прогулки по воде
