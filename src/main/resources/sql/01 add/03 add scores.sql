@@ -901,14 +901,14 @@ VALUES
 (DEFAULT, 'Electric Organ', '1MnkszFuNVz14dT1G7FmINEwO1SUuaIu8', 2140),
 (DEFAULT, 'Pad 2 (Warm)', '1oc6bN1jRMClSh3lBs40Kf5_vsBaqqBwW', 2140),
 -- Nautilus Pompilius - Крылья
-(DEFAULT, 'Full Score', '1T3Edt4P-W5BCkg7jN04PHQXqo_JR43ak', 2180),
+(DEFAULT, 'Full Score', '14qlPqXuHAtTjnSzK-6f8QvFa7HxZ_HHn', 2180),
 (DEFAULT, 'Voice', '1C7jFgBSwA_38feC1Ncl0fkAxdzRxTSQj', 2180),
 (DEFAULT, 'Bass Drum', '1vXRt9n9XAw2Mq2Y8u4Ekvl9in_iWvSZ1', 2180),
-(DEFAULT, 'Violin I, Violin II, Viola, Violoncello, Contrabass', '1oqQeg6BlrGaj2njESBwpf5v-jnmMvS7G', 2180),
+(DEFAULT, 'Violin I, Violin II, Viola, Violoncello, Contrabass', '1Uv3EISU-3vR7tzybNcizOXzz0MIlKJG0', 2180),
 (DEFAULT, 'Violin I', '12d_bp3cM5BuN8eNQib-cRBJHjLBmdwKw', 2180),
 (DEFAULT, 'Violin II', '1QaDRXJI4bV2YJ7N_DTQ8CortBXmFjYTi', 2180),
 (DEFAULT, 'Violoncello', '1p964lcq7yKQyips8zVqpJNk16rEXuKEt', 2180),
-(DEFAULT, 'Viola', '1TYIl1xAzaUIP72Cd2cRSITlGycEcK_jW', 2180),
+(DEFAULT, 'Viola', '1wqzGDKE9dwHDuMSmo8Kxpd3PAYT9iKqw', 2180),
 (DEFAULT, 'Contrabass', '196-8Bt6i3Y0jxHgwzIHoaRbdOqAEiSIb', 2180),
 -- Порнофильмы - Я так соскучился
 (DEFAULT, 'Full Score', '1S6N9p5obHXfxUimiWNzWYRVoJrG74MkD', 2260),
