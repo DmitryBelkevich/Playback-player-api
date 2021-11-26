@@ -337,6 +337,7 @@ VALUES
 (DEFAULT, '0', '1TYYPM6pAWxga9QzmeM2qOTQ3mtJx9QNR', 2160),
 -- Наутилус Помпилиус - Дыхание
 -- Наутилус Помпилиус - Крылья
+(DEFAULT, 'original', '1n17t7DW2kQ8gxX04Qh2pK4DhZeC9Y4pC', 2180),
 -- Наутилус Помпилиус - Последнее письмо
 (DEFAULT, '0', '1piEdKD0z11eK8WlOlOJ3BPQHTDMzzxLn', 2210),
 -- Наутилус Помпилиус - Прогулки по воде
