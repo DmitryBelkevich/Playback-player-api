@@ -130,6 +130,7 @@ VALUES
 (DEFAULT, 'original', '1jsIWOVrWu8uQw1zgOQWLV2MhiYPCRS_J', 1270),
 (DEFAULT, '0', '19TUkBiSXZU2JQw9_70Vopn4ot82gkByW', 1270),
 -- Би-2 - Серебро
+(DEFAULT, 'original', '1tN4xXiwVePvNWtBYjBxKKBwNaUcsDSa_', 1280),
 (DEFAULT, '0', '1ORSxPVwYT7gkqE24xty1fdrXgBz4atJA', 1280),
 -- Валентин Стрыкало - Наше лето
 (DEFAULT, 'original', '11EgRxJwhiEixT0Ucsx94ND0ENLpIJOZ9', 1290),
