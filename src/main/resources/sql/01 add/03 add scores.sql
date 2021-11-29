@@ -315,6 +315,17 @@ VALUES
 (DEFAULT, 'Pizzicato', '16WPaioMCqqg2FwEaEpG983t2w-nwpKOI', 1270),
 (DEFAULT, 'Strings', '16rdJsAZx85NHpGclHW2yjuUg4UU8TJYE', 1270),
 (DEFAULT, 'Pad 2 (Warm)', '1i4jb85_aY1dvFKDFCIBv3-motnsm_4Xy', 1270),
+-- Би-2 - Серебро
+(DEFAULT, 'Full Score', '1_Tlc8sDYCsE3Zb1OofQbVZRq10_T44qB', 1280),
+(DEFAULT, 'Voice', '1dgf6yC-WndcJsbUCqEqV1uxA38fxH_J7', 1280),
+(DEFAULT, 'Electric Guitar 1, Electric Guitar 2', '1psyyD9dJXInSuqnF2p8AlRI_cf-2Y6XK', 1280),
+(DEFAULT, 'Electric Guitar 1', '1TVTQNQALzubeKtMJQ3PRbS-VuP7zKRzq', 1280),
+(DEFAULT, 'Electric Guitar 2', '1fDd2rW16rY0eVjCjBflOLhuq95Hs3hH6', 1280),
+(DEFAULT, 'Bass Guitar', '1uJwjC_yQ1rWfOwsXdsgyEhf0K2Z5zyQ8', 1280),
+(DEFAULT, 'Drum Set', '1oKcbO8_F8Z-PZr_WOo_WzkBJFfbWqhGv', 1280),
+(DEFAULT, 'Strings 1, Strings 2', '1QK_-gZbfT6dh1d0CSzMgqm_-y_yW3Ic1', 1280),
+(DEFAULT, 'Strings 1', '1Jby69YVNHa_phVB968k7OaaMmV4GvanW', 1280),
+(DEFAULT, 'Strings 2', '1PvqjNBYAf1PrhJ8sIyYVPlck6Ld7fEv-', 1280),
 -- Валентин Стрыкало - Наше лето
 (DEFAULT, 'Full Score', '1SquFGslQDQC8Yd56Wgl9V6I2wVsp3drt', 1290),
 (DEFAULT, 'Voice', '1sU5UhoteSJ94sk9WvLPhj6ylpiIAKjG0', 1290),
