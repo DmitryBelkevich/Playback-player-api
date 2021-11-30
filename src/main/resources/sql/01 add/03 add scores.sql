@@ -1223,9 +1223,9 @@ VALUES
 (DEFAULT, 'Acoustic Guitar 1', '1f6T7l9Z4cOXZnoQjhAXipUlmVC0oXxJf', 8030),
 (DEFAULT, 'Acoustic Guitar 2', '1AI-AlFwDymbnmhSxSHWb3OWA-E0S4bck', 8030),
 -- Михаил Боярский - Зеленоглазое такси
-(DEFAULT, 'Full Score', '1Ti3wNjKcOw6LzHn0mkUgC6QMVh9Z272i', 8050),
-(DEFAULT, 'Voice 1, Voice 2, Voice 3', '1HTKWohd1kqstX6uOnGryzTG6TH3zq8yg', 8050),
-(DEFAULT, 'Voice 1', '1EQb3EZYb0d6rX_LNOQ8De5qqsAmqUaym', 8050),
+(DEFAULT, 'Full Score', '1ut5X5T27t1i1AWlC5PljI7RM4nHn7h5A', 8050),
+(DEFAULT, 'Voice 1, Voice 2, Voice 3', '1wWdMrHJasoYQV5LRgSTX8T1m0mpR3yBa', 8050),
+(DEFAULT, 'Voice 1', '1zE4J9wJn-wwFTivMXlebxqxk0XoocKnb', 8050),
 (DEFAULT, 'Voice 2', '1rhVBndDPgv8f-VcR86f0wGWUnjIs55gD', 8050),
 (DEFAULT, 'Voice 3', '1EFpnqEvsYkMIcc09CWoanrPJfDLU2HO4', 8050),
 (DEFAULT, 'Acoustic Guitar, Electric Guitar 1, Electric Guitar 2', '1HJAOVVr_HO0tfP-AlsDIWQVcr7HN_oSj', 8050),
