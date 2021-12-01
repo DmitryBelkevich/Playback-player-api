@@ -472,7 +472,7 @@ VALUES
 (DEFAULT, 'original', '1e9FkKo4ws0-OwjaUZhEZZNvb1cepK6Um', 8030),
 -- Михаил Боярский - Зеленоглазое такси
 (DEFAULT, 'original', '1TJEQsSf_fhbmfCv9nc82Sxh0P9zSqNmB', 8050),
-(DEFAULT, '0', '1cUhT0b5b-4cvI2MXy6RPyW01vwDSNFP-', 8050),
+(DEFAULT, '0', '1P2g8Rz3ROpSKocqtpaF0Ubhq8F-iaSxJ', 8050),
 -- Синяя птица - Там, где клён шумит
 (DEFAULT, 'original', '1_vGMqVWwZvAT7sLJNpITKCBBcaaCkcKY', 8100),
 (DEFAULT, '0', '1wlHDu22rywGc5OvDFwmquO4Q24wooPQo', 8100),
