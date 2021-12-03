@@ -128,7 +128,8 @@ VALUES
 (DEFAULT, '0', '1CNzBohZnPDbjAV_y1p3DOkhRbdUaGGY0', 1260),
 -- Би-2 - Полковнику никто не пишет
 (DEFAULT, 'original', '1jsIWOVrWu8uQw1zgOQWLV2MhiYPCRS_J', 1270),
-(DEFAULT, '0', '19TUkBiSXZU2JQw9_70Vopn4ot82gkByW', 1270),
+(DEFAULT, '0', '1DuYkju-GpyD2fpYnJCvLxy0EhvIgpAV9', 1270),
+(DEFAULT, 'del', '19TUkBiSXZU2JQw9_70Vopn4ot82gkByW', 1270),
 -- Би-2 - Серебро
 (DEFAULT, 'original', '1tN4xXiwVePvNWtBYjBxKKBwNaUcsDSa_', 1280),
 (DEFAULT, '0', '1vqy4gVccSjMvOhue6mKouQR9pv_Ie8SM', 1280),
