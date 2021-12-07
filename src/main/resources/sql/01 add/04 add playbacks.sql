@@ -343,6 +343,7 @@ VALUES
 -- Nautilus Pompilius - Последнее письмо
 (DEFAULT, '0', '1piEdKD0z11eK8WlOlOJ3BPQHTDMzzxLn', 2210),
 -- Nautilus Pompilius - Прогулки по воде
+(DEFAULT, 'original', '1mKFDruZk6kyddnEqBtc7RGoKn7-O37JC', 2220),
 -- Nautilus Pompilius - Скованные одной цепью
 -- Nautilus Pompilius - Я хочу быть с тобой
 (DEFAULT, 'original', '16Oi9d8d0e6OcwIZZHPsnTDDoAdQA-hN_', 2250),
