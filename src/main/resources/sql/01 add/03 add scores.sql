@@ -937,11 +937,11 @@ VALUES
 (DEFAULT, 'Contrabass', '16L0kyuo3VivsGxKv8GeWtBCHBtjVv59B', 2180),
 -- Nautilus Pompilius - Последнее письмо
 -- Nautilus Pompilius - Я хочу быть с тобой
-(DEFAULT, 'Full Score', '1BdZcNy1uMfRDC7ii8ogTKQGsZXKiJLTp', 2250),
+(DEFAULT, 'Full Score', '1rv8uGTGaYCkT2N7lHER31BD-wt2ZkVn6', 2250),
 (DEFAULT, 'Voice 1, Voice 2', '1qGv_o7kwW2PZTiFAwx9YL6G80JWiaP3w', 2250),
 (DEFAULT, 'Voice 1', '16N8L0ujtmzayPMLMqCRvWE33Ee7JPX2h', 2250),
 (DEFAULT, 'Voice 2', '1yvo99iftbPUx0rcWksyNw5l5kP5Wntsd', 2250),
-(DEFAULT, 'Acoustic Guitar', '1HSQdeaCYE5RUi6K2zDjFc9LX2OE0v8Vq', 2250),
+(DEFAULT, 'Acoustic Guitar', '1cDDWZXTKhi5Zy7gUqZ94aZ4yf3drLjVr', 2250),
 (DEFAULT, 'Bass Guitar', '1JpAW_cKP_4KSQefMtjF1axoT1Z20oQo1', 2250),
 (DEFAULT, 'Drum Set, Tambourine, Shaker', '1RUxLsfR9kTgA_KjQQ8xNmG6e9Ak_sJL-', 2250),
 (DEFAULT, 'Drum Set', '19oa56tTybwBTL0asrB-06FS6QNj9TM-m', 2250),
