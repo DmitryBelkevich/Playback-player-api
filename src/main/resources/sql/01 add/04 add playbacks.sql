@@ -129,7 +129,6 @@ VALUES
 -- Би-2 - Полковнику никто не пишет
 (DEFAULT, 'original', '1jsIWOVrWu8uQw1zgOQWLV2MhiYPCRS_J', 1270),
 (DEFAULT, '0', '1DuYkju-GpyD2fpYnJCvLxy0EhvIgpAV9', 1270),
-(DEFAULT, 'del', '19TUkBiSXZU2JQw9_70Vopn4ot82gkByW', 1270),
 -- Би-2 - Серебро
 (DEFAULT, 'original', '1tN4xXiwVePvNWtBYjBxKKBwNaUcsDSa_', 1280),
 (DEFAULT, '0', '1vqy4gVccSjMvOhue6mKouQR9pv_Ie8SM', 1280),
@@ -346,6 +345,7 @@ VALUES
 -- Nautilus Pompilius - Прогулки по воде
 -- Nautilus Pompilius - Скованные одной цепью
 -- Nautilus Pompilius - Я хочу быть с тобой
+(DEFAULT, 'original', '16Oi9d8d0e6OcwIZZHPsnTDDoAdQA-hN_', 2250),
 -- Порнофильмы - Я так соскучился
 (DEFAULT, 'original', '1Zw0YoRcOeNcRgs3pP5F_ZBucy-HTFSiY', 2260),
 (DEFAULT, '+5', '1iPywpXNMISizSnQwHArkWs24mLxWgiRP', 2260),

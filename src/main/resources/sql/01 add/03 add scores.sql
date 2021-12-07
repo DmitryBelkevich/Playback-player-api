@@ -935,6 +935,7 @@ VALUES
 (DEFAULT, 'Viola', '17rTqRKoKO1VoPV84-X707cLUb7Rvuz8c', 2180),
 (DEFAULT, 'Violoncello', '11s2r4q-IAW1poJrpysZGPxbe_IP_v_US', 2180),
 (DEFAULT, 'Contrabass', '16L0kyuo3VivsGxKv8GeWtBCHBtjVv59B', 2180),
+-- Nautilus Pompilius - Я хочу быть с тобой
 -- Порнофильмы - Я так соскучился
 (DEFAULT, 'Full Score', '1S6N9p5obHXfxUimiWNzWYRVoJrG74MkD', 2260),
 (DEFAULT, 'Voice 1', '1UDGfYO0F81U08RcLX8ctOewpxnXsGwK_', 2260),

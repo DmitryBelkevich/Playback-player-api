@@ -247,6 +247,7 @@ VALUES
 -- Nautilus Pompilius - Прогулки по воде
 -- Nautilus Pompilius - Скованные одной цепью
 -- Nautilus Pompilius - Я хочу быть с тобой
+(DEFAULT, null, 2, 4, 88, 2250),
 -- Порнофильмы - Это пройдёт
 (DEFAULT, null, 4, 4, 165, 2255),
 -- Порнофильмы - Я так соскучился
