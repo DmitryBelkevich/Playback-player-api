@@ -936,6 +936,7 @@ VALUES
 (DEFAULT, 'Violoncello', '11s2r4q-IAW1poJrpysZGPxbe_IP_v_US', 2180),
 (DEFAULT, 'Contrabass', '16L0kyuo3VivsGxKv8GeWtBCHBtjVv59B', 2180),
 -- Nautilus Pompilius - Последнее письмо
+-- Nautilus Pompilius - Прогулки по воде
 -- Nautilus Pompilius - Я хочу быть с тобой
 (DEFAULT, 'Full Score', '1VVsKls4_NSxtfIngXpKR2yCZsztSivJt', 2250),
 (DEFAULT, 'Voice 1, Voice 2', '1k8pMLGT4zwlcrysAWS0_Tj3uF-3acY-S', 2250),
