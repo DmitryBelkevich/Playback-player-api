@@ -937,6 +937,21 @@ VALUES
 (DEFAULT, 'Contrabass', '16L0kyuo3VivsGxKv8GeWtBCHBtjVv59B', 2180),
 -- Nautilus Pompilius - Последнее письмо
 -- Nautilus Pompilius - Прогулки по воде
+(DEFAULT, 'Full Score', '1AMjAqteYwq_y5oXtoDR891mM51EG0wVh', 2220),
+(DEFAULT, 'Voice 1, Voice 2', '1LPJqOIRFsHzsdcY40PURUq22v_8vnY72', 2220),
+(DEFAULT, 'Voice 1', '1Q0fQ4KnD2dKR6-l4D-r6ziJaHY2NNkGs', 2220),
+(DEFAULT, 'Voice 2', '10m1oxUhrnyOYVSukEjf8wSzj8rFFo30n', 2220),
+(DEFAULT, 'Acoustic Guitar 1, Acoustic Guitar 2, Acoustic Guitar 3', '1LDysDgDuktwFdR1kwFkBon611kLDFKHZ', 2220),
+(DEFAULT, 'Acoustic Guitar 1', '1meo2KO-qGGrjlyM5bYriIHRrauSbRzS3', 2220),
+(DEFAULT, 'Acoustic Guitar 2', '1UfxNF1wu8wqPCoGW9MtBAMRQC0ZOtV0R', 2220),
+(DEFAULT, 'Acoustic Guitar 3', '1Ky_k885QqlxXoqVPj33hdKsO5CCKa5cl', 2220),
+(DEFAULT, 'Bass Guitar', '19PUbqJGWaxIBbpMfA-hJmOTyb3eosQ38', 2220),
+(DEFAULT, 'Drum Set', '1kP44DdUoz_IeBscDRyHyK45lbP8Rjnzo', 2220),
+(DEFAULT, 'Flute, Oboe, Brass, Strings', '1hlhn8rdLnt6Mdg9FE_YZxQ-h6xiyvDA0', 2220),
+(DEFAULT, 'Flute', '18lv84ARZYp_l8LDlBHl_Dvnd7vqJOTCE', 2220),
+(DEFAULT, 'Oboe', '1GFQE5BbQyBqTxIhfKZyIklW5PtIuJaVg', 2220),
+(DEFAULT, 'Brass', '1qOXEG1PnbYbGs88pbeSNIuTX3X22esIo', 2220),
+(DEFAULT, 'Strings', '10CE0u-ALVR9OU6ChEzZkGSztC_hBcMFC', 2220),
 -- Nautilus Pompilius - Я хочу быть с тобой
 (DEFAULT, 'Full Score', '1VVsKls4_NSxtfIngXpKR2yCZsztSivJt', 2250),
 (DEFAULT, 'Voice 1, Voice 2', '1k8pMLGT4zwlcrysAWS0_Tj3uF-3acY-S', 2250),
