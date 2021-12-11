@@ -103,8 +103,9 @@ VALUES
 (DEFAULT, '-2', '1u9jkhJQEH-TXrqijuBQ4ylvsY0q-q09r', 1180),
 -- Агата Кристи - Никогда
 (DEFAULT, 'original', '1UQW9aBdBCpTnLoVMNxZpqyeRU91jiw0v', 1190),
-(DEFAULT, '0', '1terxHMtjZUFx1sxeynCpE3NwdWTRoGw7', 1190),
-(DEFAULT, '-2', '1wfmeUruVcHNRGKM9ViNzr8HJuCmVcXJs', 1190),
+(DEFAULT, '0', '12eQqVL-t2KFJiFrYELfv-1qOoVVd3wf4', 1190),
+(DEFAULT, '-2', '1XxyZbCMGg0bo0agfl5u76wZfHyVFTj6s', 1190),
+(DEFAULT, '-5', '1BRAVOKgDgahOAPrbecwTA3JFPpo_J9ox', 1190),
 -- Аквариум - Город золотой
 (DEFAULT, 'original', '1SJOhp6-EYnR0NeEAWTXGnLGecDyS5L0D', 1200),
 (DEFAULT, '0', '1Y1Z8L9_N7Er8ma3xd_AJ3YGiuNle1kY5', 1200),
