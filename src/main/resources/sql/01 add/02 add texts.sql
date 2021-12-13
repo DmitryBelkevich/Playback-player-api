@@ -295,6 +295,8 @@ VALUES
 -- (DEFAULT, '', 2330),
 -- Сергей Тихановcкий & Kosmas - Стены рухнут
 -- (DEFAULT, '', 2340),
+-- Смысловые Галлюцинации - Вечно молодой
+(DEFAULT, '1Nge_omcY1bZmcX3ijQJ3Wt5n38FWZlhW', 2350),
 -- Сплин - Выхода нет
 (DEFAULT, '1PNCEsQaREvDUMvniS_yyAAJ8qd1uRH6N', 2370),
 -- Сплин - Линия жизни

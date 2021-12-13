@@ -1078,6 +1078,7 @@ VALUES
 (DEFAULT, 'Shaker', '1wqTACchYHajuJCWpVpqvjosln1AqpFiu', 2340),
 (DEFAULT, 'Tambourine', '1VUXWL3mKwlAn_9-PkDSNpoWjnCZtCU0X', 2340),
 (DEFAULT, 'Keyboard', '1dBpJiG_i1_PbB325lTD65YGrUDAWRCB7', 2340),
+-- Смысловые Галлюцинации - Вечно молодой
 -- Сплин - Выхода нет
 (DEFAULT, 'Full Score', '1kS_J_9htOqN_h_fpcXMlCBrjhE_u7n36', 2370),
 (DEFAULT, 'Voice 1, Voice 2', '1s_OHoJwXOciowOabvFMDpcvMtTvYUeCQ', 2370),
