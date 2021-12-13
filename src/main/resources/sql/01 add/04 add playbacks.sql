@@ -389,6 +389,7 @@ VALUES
 (DEFAULT, '0', '1E-myP2M7zOkpOgp3mBgY1fA5TZYnHhbJ', 2340),
 -- Смысловые Галлюцинации - Вечно молодой
 (DEFAULT, 'original', '1mJgeG_6TVZ87roKdhcLA4-ZW3odOqXkZ', 2350),
+(DEFAULT, '0', '1rh07iDgd3qmJp7UIaDCRK1mDImrEpJoS', 2350),
 -- Сплин - Выхода нет
 (DEFAULT, 'original', '1TFfR8esb__0DnsP8SMc02xvcfOKSGN3p', 2370),
 (DEFAULT, '0', '16uHJFmGYW5hdIN_ZeEFJd2VFev1M3uKR', 2370),
