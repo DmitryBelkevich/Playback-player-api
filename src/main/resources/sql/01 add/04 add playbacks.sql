@@ -195,6 +195,8 @@ VALUES
 -- Земфира - Хочешь?
 (DEFAULT, 'original', '1BWN4N8DKuPpNvblRWlt532Bi15t5MPtj', 1610),
 (DEFAULT, '0', '1Y0nAcZx1XLNkmvGeucgVaS_kUp6nfmBA', 1610),
+-- Кино - Апрель
+(DEFAULT, 'original', '1lbJ03vm5gd6cgCNaaVzl8ALSymkSA0_d', 1612),
 -- Кино - Группа крови
 (DEFAULT, 'original', '1rec_Lhy2xayDlfKl4Qvre9CU3jhe0yIZ', 1620),
 (DEFAULT, '0', '1XXvEDjGghhvkKJvUob7zVajcZB7IT2h5', 1620),
