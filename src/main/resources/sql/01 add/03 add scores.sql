@@ -1079,6 +1079,17 @@ VALUES
 (DEFAULT, 'Tambourine', '1VUXWL3mKwlAn_9-PkDSNpoWjnCZtCU0X', 2340),
 (DEFAULT, 'Keyboard', '1dBpJiG_i1_PbB325lTD65YGrUDAWRCB7', 2340),
 -- Смысловые Галлюцинации - Вечно молодой
+(DEFAULT, 'Full Score', '1wDVGYejFhDdIIBXP9dc-qLXWZMjKHwYA', 2350),
+(DEFAULT, 'Voice', '1JjvZzPMcI_cVQrno-zKc_CaRehBkb_6a', 2350),
+(DEFAULT, 'Electric Guitar', '1E-1jzxXqgdLKUHpbnQjBGtKq5OCfgk7V', 2350),
+(DEFAULT, 'Bass Guitar', '1HYuivV-8m2-svVIWBYE5iJpVSPL5bX19', 2350),
+(DEFAULT, 'Drum Set, Claves', '1svJKQ05G8tzQq_GwQXbvre-SMd5syGee', 2350),
+(DEFAULT, 'Drum Set', '1nGqwmLeU65bG1i5j6EyEV0PLQv_bNODE', 2350),
+(DEFAULT, 'Claves', '1hnwSgNLAJaINVlhf5NIEhtbOgxquyg0L', 2350),
+(DEFAULT, 'Tenor Saxophone, Lead 6 (Voice), Pad 2 (Warm)', '176OUZrUW7_yaqIkFxmJfRU-FSM--CoKL', 2350),
+(DEFAULT, 'Tenor Saxophone', '1JO86OvtnieOsX1rWapAulrdlQGFfLcm2', 2350),
+(DEFAULT, 'Lead 6 (Voice)', '1Fw-cKMGCYkVJowbGogLfZ_cBw5V6yTBa', 2350),
+(DEFAULT, 'Pad 2 (Warm)', '1xbzc8X-cg-ZsjjgL3sgA7Guls8vmmXgq', 2350),
 -- Сплин - Выхода нет
 (DEFAULT, 'Full Score', '1kS_J_9htOqN_h_fpcXMlCBrjhE_u7n36', 2370),
 (DEFAULT, 'Voice 1, Voice 2', '1s_OHoJwXOciowOabvFMDpcvMtTvYUeCQ', 2370),
