@@ -495,6 +495,14 @@ VALUES
 (DEFAULT, 'FX 3 (Crystal)', '17_Vgq04YmkREvDhHZZPpANeX6neh-vDu', 1580),
 (DEFAULT, 'Lead 3 (Calliope)', '1O2w3_MvzAPlTGqQlHQZnjQa0cYsONd6q', 1580),
 -- Кино - Апрель
+(DEFAULT, 'Full Score', '1bOcIGZP978KeLtj2dIJtducC-88ov-Nr', 1612),
+(DEFAULT, 'Voice', '1rHbVaz5XvXJXH0d8QjBjwTW_P8DTRMBz', 1612),
+(DEFAULT, 'Acoustic Guitar', '1kOFpd6tPbLZGJMhF8H-QL86srln6NSoQ', 1612),
+(DEFAULT, 'Finger Click, Handclap, Tambourine, Taiko Drums', '1WffQopq76-BJm___OcvLMMnAeDRG8QS3', 1612),
+(DEFAULT, 'Finger Click', '1M9gUIEVEFQ2oT-a3FX9q8CKJBkIg9Fzl', 1612),
+(DEFAULT, 'Handclap', '12D1a925fkcrFnrMI8f5GIA2INRR6fk-a', 1612),
+(DEFAULT, 'Tambourine', '10YCmFH1_hZSHOa4fafJ-TYc__f9tD0rl', 1612),
+(DEFAULT, 'Taiko Drums', '11nRe0fIPrRWJPXn-0tk4wuJAZ7jcL_iX', 1612),
 -- Кино - Группа крови
 (DEFAULT, 'Full Score', '1TQ9UY2OGFsvhDh40EzqHXY6GGL0qC3f8', 1620),
 (DEFAULT, 'Voice', '1j6npWQeKN5iERpo2xvxuySUXTHyn86Jw', 1620),
