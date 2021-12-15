@@ -230,6 +230,7 @@ VALUES
 (DEFAULT, '0', '1hDYC0YLB7r1Q2xjl8pnuY4oZHnz7y3Gq', 1700),
 -- Кино - Печаль
 (DEFAULT, 'original', '1O3h4xWbEFwrulGA51pRj_ltCyjTQ0n4G', 1704),
+(DEFAULT, '0', '17ugn40OHdRbKY0rucBnU__Imc_2cFyKp', 1704),
 -- Кино - Следи за собой
 (DEFAULT, 'original', '1iLQFGPtPSqOIDmmxdOvHYOWpv8-MHjhn', 1712),
 (DEFAULT, '0', '15ifbBdfUYfz8eMlKtd85YrFswTbT-0rg', 1712),
