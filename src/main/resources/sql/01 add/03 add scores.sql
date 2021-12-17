@@ -343,6 +343,7 @@ VALUES
 (DEFAULT, 'Electric Guitar 2', '1T6VDGlB__QjpHTmbzroWobYkhBcSacAV', 1310),
 (DEFAULT, 'Bass Guitar', '1TQutfdhO7RGQvhNV-0lZbBI22ZTWv63w', 1310),
 (DEFAULT, 'Drum Set', '1wz2AfYXumXS0DqwveBc1t-Ze8r5fq2n_', 1310),
+-- Гражданская оборона - Мы идём в тишине
 -- Гражданская оборона - Про дурачка
 (DEFAULT, 'Full Score', '1_G2bHCTjBCFVMg2-7r1uBM7_XSSHlyDa', 1380),
 (DEFAULT, 'Voice 1, Voice 2.3, Voice 4', '12sLet6WDbo6v-QxiIEhTbryU1m9A-ZtQ', 1380),
