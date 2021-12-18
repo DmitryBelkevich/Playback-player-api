@@ -359,9 +359,9 @@ VALUES
 (DEFAULT, '-2', '1mb2MUBhLViP1HdCswCtLawKdsJfudPhU', 2250),
 -- Порнофильмы - Я так соскучился
 (DEFAULT, 'original', '1Zw0YoRcOeNcRgs3pP5F_ZBucy-HTFSiY', 2260),
-(DEFAULT, '+5', '1iPywpXNMISizSnQwHArkWs24mLxWgiRP', 2260),
-(DEFAULT, '0', '1A4KobaGIB8L4flHV3NkNj30wO8pIkvJ8', 2260),
-(DEFAULT, '-2', '1NfAhqO1u0FS4BGOUuATLX9DsFHni_DZw', 2260),
+(DEFAULT, '+5', '1ZbDnjMPpl5X5huK5BpeyOnhLuWF-im1q', 2260),
+(DEFAULT, '0', '1M9ljW213SLjT8hAn3nyh0YvaFcQgXV_Y', 2260),
+(DEFAULT, '-2', '16yghp25ykBaML04Ws8qIhTig14cDV9s5', 2260),
 -- Сектор Газа - 30 лет
 (DEFAULT, 'original', '1wIDn6ec4OlJ_D1er16Qf2Sk_lPLGsOdb', 2270),
 (DEFAULT, '0', '1jHSNKYNF_TbBwGtYDNpwUbWhuqwtmn94', 2270),
