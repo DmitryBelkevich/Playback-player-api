@@ -337,9 +337,8 @@ VALUES
 -- Ляпис Трубецкой - Яблони
 -- Ляпис Трубецкой - Я верю
 (DEFAULT, 'original', '1YAQLe1erw3zsXEzsFBgkXj6PcJnTfiNa', 2140),
-(DEFAULT, '0', '1vA7BqvJJk4pStzV2skYssS9aJDkUJEic', 2140),
-(DEFAULT, '-1', '1ODKjDfe4UqcNT6l1fLe9GX8E8WGPJE_G', 2140),
-(DEFAULT, '-2', '13I2CTCJ3QZkf-Zk7RaFcl-4ojE4gyR43', 2140),
+(DEFAULT, '0', '1SFRBwzL1MqDhRnpLaPZWUl7AQp4sNy9v', 2140),
+(DEFAULT, '-2', '1-V7VkcAkauujXLWjG46b5OWBO2b97J5F', 2140),
 -- Мумий Тролль - Владивосток 2000
 (DEFAULT, '0', '1XLMZNAxiQKvaufDAXmf5hMtMB0lNCoh0', 2150),
 -- Мумий Тролль - Медведица
