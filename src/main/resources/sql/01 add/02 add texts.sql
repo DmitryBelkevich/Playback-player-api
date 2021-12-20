@@ -386,6 +386,8 @@ VALUES
 (DEFAULT, '1MWK5AlWW3yAKogbsQms8w1RMojxJAYYE', 8050),
 -- Михаил Боярский - Ланфрен-ланфра
 (DEFAULT, '1C9_ziHoyzqYDUhPbMxC4uYke8r8AqwB0', 8060),
+-- Муслим Магомаев - Луч солнца золотого
+(DEFAULT, '1CqrrseS3_F2QSMh8VTUYZ0ZDkfvIyy9J', 8065),
 -- Песняры - Белоруссия
 (DEFAULT, '1XQyMxTW-rgAPJtkpjTL8dNqDswETt796', 8080),
 -- Синяя птица - Там, где клён шумит
