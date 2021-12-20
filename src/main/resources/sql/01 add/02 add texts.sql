@@ -301,7 +301,7 @@ VALUES
 -- Смысловые Галлюцинации - Вечно молодой
 (DEFAULT, '1Nge_omcY1bZmcX3ijQJ3Wt5n38FWZlhW', 2350),
 -- Сплин - Выхода нет
-(DEFAULT, '1PNCEsQaREvDUMvniS_yyAAJ8qd1uRH6N', 2370),
+(DEFAULT, '1PNCEsQaREvDUMvniS_yyAAJ8qd1uRH6N', 2375),
 -- Сплин - Линия жизни
 -- (DEFAULT, '', 2380),
 -- Сплин - Моё сердце
