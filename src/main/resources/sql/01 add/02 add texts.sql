@@ -314,6 +314,8 @@ VALUES
 (DEFAULT, '1zxNFT61SBQ-LbGohL1f7JlBOODpt2t_C', 2420),
 -- Танцы Минус - Половинка
 (DEFAULT, '1E3piSXMJf4yDmDvCwpp15FUJFl17OVm4', 2430),
+-- Чиж & Co - О любви
+(DEFAULT, '15BlKxevCkBOPCs1V2zGwXipVa9hvJcwd', 2432),
 -- Чичерина - Ту-лу-ла
 (DEFAULT, '1at3lbPUaaTtdt092O73_NhKK_5fUGHDv', 2450),
 -- Янка Дягилева - Особый резон
