@@ -1325,6 +1325,7 @@ VALUES
 (DEFAULT, 'Tambourine', '1k1NdkvaOff_1Tm217ni0ubPjekdpx46X', 8050),
 (DEFAULT, 'Congas', '1yJNX3Z-PTcaFujUpyH9ga0eh-eMHeMgm', 8050),
 (DEFAULT, 'Electric Organ', '1uXDJ2hynPHh7RwlgIsePgLwKC09Lw4Ad', 8050),
+-- Муслим Магомаев - Серенада Трубадура
 -- Синяя птица - Там, где клён шумит
 (DEFAULT, 'Full Score', '1DlBQ_uyczivHw4acT1r-QHi5N-9ahjnL', 8100),
 (DEFAULT, 'Voice 1, Voice 2.3', '1q9wYCmt18f_AWVQGcJcQzdJ1SRQY-2Qt', 8100),

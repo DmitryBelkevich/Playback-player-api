@@ -488,7 +488,7 @@ VALUES
 -- Михаил Боярский - Зеленоглазое такси
 (DEFAULT, 'original', '1TJEQsSf_fhbmfCv9nc82Sxh0P9zSqNmB', 8050),
 (DEFAULT, '0', '1P2g8Rz3ROpSKocqtpaF0Ubhq8F-iaSxJ', 8050),
--- Муслим Магомаев - Луч солнца золотого
+-- Муслим Магомаев - Серенада Трубадура
 (DEFAULT, 'original', '1JY39qD56ZB8F6jfXFPlP8nLf-oUFCFfx', 8065),
 -- Синяя птица - Там, где клён шумит
 (DEFAULT, 'original', '1_vGMqVWwZvAT7sLJNpITKCBBcaaCkcKY', 8100),
