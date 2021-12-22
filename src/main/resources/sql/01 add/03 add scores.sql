@@ -1326,6 +1326,15 @@ VALUES
 (DEFAULT, 'Congas', '1yJNX3Z-PTcaFujUpyH9ga0eh-eMHeMgm', 8050),
 (DEFAULT, 'Electric Organ', '1uXDJ2hynPHh7RwlgIsePgLwKC09Lw4Ad', 8050),
 -- Муслим Магомаев - Серенада Трубадура
+(DEFAULT, 'Full Score', '1rMO1s-F0GZ9Fdx2ZDzYowsJnB6aGS7Dl', 8065),
+(DEFAULT, 'Voice', '1QLOiLz2-mO1PottGaxGbZlqOdrtJCfOT', 8065),
+(DEFAULT, 'Choir Ah', '1BuZm_YQjVgI8DncgUJObWREy4diAmiZ5', 8065),
+(DEFAULT, 'Electric Guitar', '1o-Om0gpmY1I373zgnSniTaXt53fTdHZk', 8065),
+(DEFAULT, 'Bass Guitar', '1Y46i_yJd16zWSKnAuJrH0G64UkLyzGsx', 8065),
+(DEFAULT, 'Drum Set', '1K-Wa9v_6sUCeaS8Cwo0P5JGrUalIuGMo', 8065),
+(DEFAULT, 'Celesta, Electric Organ', '18LD_6IlypYM4MOBwFiMS7RgFCp-kTc6e', 8065),
+(DEFAULT, 'Celesta', '1mifFCAM6UuKPtkqvWntSbp4gHVIiYHyW', 8065),
+(DEFAULT, 'Electric Organ', '1w8RaBPhtriCKWT0WcJYfTxPqEo5C_7fn', 8065),
 -- Синяя птица - Там, где клён шумит
 (DEFAULT, 'Full Score', '1DlBQ_uyczivHw4acT1r-QHi5N-9ahjnL', 8100),
 (DEFAULT, 'Voice 1, Voice 2.3', '1q9wYCmt18f_AWVQGcJcQzdJ1SRQY-2Qt', 8100),
