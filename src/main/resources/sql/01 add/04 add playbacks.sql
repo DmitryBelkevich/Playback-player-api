@@ -52,6 +52,7 @@ VALUES
 (DEFAULT, '0', '1WxlOt8Y6HT5sC2BVke0nYLMr0ZtxGCj0', 180),
 (DEFAULT, '-2', '1msD9K3PYAOzLC3XlEdtL3STnbxT7l86R', 180),
 -- Эпидемия - Эпилог
+(DEFAULT, 'original', '1E84n8-a5oSY1MELRxB8C-Gs2GDVLp1cV', 200),
 (DEFAULT, '0', '147Xo8CIYo7LaliGwBed_3YM1Gf8nqYhu', 200),
 
 -- Rock, Punk
