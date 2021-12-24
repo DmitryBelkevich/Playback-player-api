@@ -413,6 +413,7 @@ VALUES
 (DEFAULT, '0', '1PhHgzeXPYT3rE-zH5t4YCgEVzXiN6gxW', 2410),
 -- Танцы Минус - Город
 (DEFAULT, 'original', '1vaZM4tRzbh8__GGMXkTAwsFt_ikffYsY', 2420),
+(DEFAULT, '0', '1c0YvyUuzPGGmu5Ar68YtBnFLzBMH7gr6', 2420),
 -- Танцы Минус - Половинка
 (DEFAULT, 'original', '1_D-H2wiH2j0WosnHXETXsZKkV2-pr_fL', 2430),
 (DEFAULT, '0', '1AIrDfhM2YtBisszdHB4NXn2HKQLpTOaC', 2430),
