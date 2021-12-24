@@ -1165,6 +1165,18 @@ VALUES
 (DEFAULT, 'Flute 1.2', '1TAWvpmDn0xUiG2e7VydK5LOtGyvTqjHy', 2410),
 (DEFAULT, 'Violin 1.2', '1PcMMhY1wSXW0mJag-ZZnLWHbsR_Ifg4g', 2410),
 (DEFAULT, 'Electric Organ', '1Oxw_XDFt16-PpPi01Q2jeByqlPEX1o4b', 2410),
+-- Танцы Минус - Город
+(DEFAULT, 'Full Score', '1dQMn6EeFVP3lRP0kAsUT7KjRvI7g_Eqw', 2420),
+(DEFAULT, 'Voice', '1vLdYnLf9Ff8L4LzCbEFhm8tKgeIRXW-M', 2420),
+(DEFAULT, 'Electric Guitar 1, Electric Guitar 2', '1ix06GhOg1fgcP_FqQMSaGJFPiadAu8Rb', 2420),
+(DEFAULT, 'Electric Guitar 1', '1ayB7vAOFcz7u_pDnW8DjuvTY5oS2gVnS', 2420),
+(DEFAULT, 'Electric Guitar 2', '1j3aWVMqJ6RRWPDJFI4geMf-bbRXAIH_m', 2420),
+(DEFAULT, '5-string Bass Guitar', '1KoyLGy0SXqmfVis7oRFp9txMy-Htst4c', 2420),
+(DEFAULT, 'Drum Set', '1HtvV4Jsai5WSFAnu-715ORgT7W0IQHJx', 2420),
+(DEFAULT, 'FX 3 (Crystal), FM Synth, Strings', '1GUy0himMjx3TfmJkGBP8BhCM6Ac7OlFo', 2420),
+(DEFAULT, 'FX 3 (Crystal)', '1mArKts5rHrt-6e2nG4XRUZus3cwKDRwV', 2420),
+(DEFAULT, 'FM Synth', '1MOivwbV6DSphTELcDraX8z-AQNQF7nmb', 2420),
+(DEFAULT, 'Strings', '1mTBsc9HXof8MCw2O9ypqT7awNYO5ImA_', 2420),
 -- Танцы Минус - Половинка
 (DEFAULT, 'Full Score', '18c0ce0BYelk1rUgAPLsg5YMehUFsvoyB', 2430),
 (DEFAULT, 'Voice', '17S_4cugwjOzpXqbovEk176Ytz8bS16gQ', 2430),
