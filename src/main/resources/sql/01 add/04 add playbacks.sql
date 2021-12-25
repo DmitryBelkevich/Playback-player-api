@@ -54,6 +54,7 @@ VALUES
 -- Эпидемия - Эпилог
 (DEFAULT, 'original', '1E84n8-a5oSY1MELRxB8C-Gs2GDVLp1cV', 200),
 (DEFAULT, '0', '147Xo8CIYo7LaliGwBed_3YM1Gf8nqYhu', 200),
+(DEFAULT, '-1', '1HrwLMwHI8sQ_LstW49kn8Spnz2KXEvv9', 200),
 
 -- Rock, Punk
 
