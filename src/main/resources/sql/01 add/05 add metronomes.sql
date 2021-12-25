@@ -35,7 +35,7 @@ VALUES
 -- Слот - Круги на воде
 (DEFAULT, null, 4, 4, 71, 180),
 -- Эпидемия - Эпилог
-(DEFAULT, null, 4, 4, 130, 200),
+(DEFAULT, null, 2, 4, 65, 200),
 
 -- Rock, Punk
 
