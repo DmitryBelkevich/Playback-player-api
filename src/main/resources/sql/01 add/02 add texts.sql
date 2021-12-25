@@ -38,6 +38,8 @@ VALUES
 (DEFAULT, '1E7QaWVx4x55oqeCe1Z_plTXdvpmqUQoy', 170),
 -- Слот - Круги на воде
 (DEFAULT, '1HeTPP8lo7ym9mSEEDoxS6PzipOlxspEA', 180),
+-- Эпидемия - Эпилог
+(DEFAULT, '1vpKtaNFOsBrmM7AqjVj0OoDZH1o9Tz1B', 200),
 
 -- Rock, Punk
 

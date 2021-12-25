@@ -135,6 +135,18 @@ VALUES
 (DEFAULT, '5-string Bass Guitar', '1AczV33ebgfAwXrwUw90tFZV2KAHNx98V', 180),
 (DEFAULT, 'Drum Set', '1O71Qv4HxrTq184_dbOdKWW21-APOUwRM', 180),
 (DEFAULT, 'Keyboard', '1sv3mZSyqhnJVYv2q8tNlC2ZCDdSCnFU1', 180),
+-- Эпидемия - Эпилог
+(DEFAULT, 'Full Score', '1JLCqtkDxeI8Wu8slktBNN_ao_tsk1yUl', 200),
+(DEFAULT, 'Alto, Tenor', '16FFXakUxSPosF50Jpdx7nc44pHlZPAq9', 200),
+(DEFAULT, 'Alto', '1A7gO2jY3qeKAsldT4lcIRhlu5Y12YhFM', 200),
+(DEFAULT, 'Tenor', '1urLIxXexhSbceoerkW-DPj5q0eILD-4N', 200),
+(DEFAULT, 'Acoustic Guitar, Electric Guitar 1, Electric Guitar 2', '1Zj7uRDo0QtYagDmIkzMFRXAV9KZHePVX', 200),
+(DEFAULT, 'Acoustic Guitar', '19pnOoWivYTq4jE2e74X4WyOtINRrGxjS', 200),
+(DEFAULT, 'Electric Guitar 1', '1N9owz05tAU6ZvVy1WPQQorOg2Xfqt9fg', 200),
+(DEFAULT, 'Electric Guitar 2', '17_0jTXec16wZh4DFmlMdW43Fgg8JwNP-', 200),
+(DEFAULT, 'Bass Guitar', '15TZed2ORpyucq0DMnn-99SfTTgND0t1X', 200),
+(DEFAULT, 'Drum Set', '1DQ6Oq76WaTZwe2__jLxW0cDqZkoPPnpf', 200),
+(DEFAULT, 'English Horn', '1NIPwsmmR4KUvnDLUC4VswgGD54WcTp9j', 200),
 
 -- Rock, Punk
 
