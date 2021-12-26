@@ -449,6 +449,8 @@ VALUES
 (DEFAULT, 'original', '19VjudtXPbzOn8CdYPAG2lzJkK-b7YQMN', 5020),
 -- IOWA - Улыбайся
 (DEFAULT, 'original', '1dywI3h9zxdslzF4bgaa_j8fiUqh6d9wa', 5030),
+-- Ласковый май - Белые розы
+(DEFAULT, 'original', '1lk1jzI-Eiak_956et5pis2WlaUEYj89Z', 5040),
 -- Ненси - Дым сигарет с ментолом
 (DEFAULT, 'original', '1G0fC6XaLmrkDzavWQWe1fMlzJkqwx_Rd', 5080),
 (DEFAULT, '0', '1MHdB7Y5aPqVAgyMraKeTBHkQ5F8QnYge', 5080),
