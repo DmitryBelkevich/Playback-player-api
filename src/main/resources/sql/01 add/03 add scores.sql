@@ -1239,6 +1239,8 @@ VALUES
 (DEFAULT, 'FX 5 (Brightness)', '1qtW39zAZD0vxo_0DERRlE8e-iAsR8sFf', 5040),
 (DEFAULT, 'Lead 1 (Square)', '1ciBI4gRA4v4jrcrVtg3dRfRPx2oG-XYX', 5040),
 (DEFAULT, 'Strings', '1SroZorayBHWL09U06XPmAOmDP6nNrAmc', 5040),
+-- Ласковый май - Розовый вечер
+-- Ласковый май - Седая ночь
 -- Ненси - Дым сигарет с ментолом
 (DEFAULT, 'Full Score', '1N4_ujdoWMgdngCZuE0K9M-sGxs5QePVa', 5080),
 (DEFAULT, 'Voice 1, Voice 2, Voice 3, Voice 4', '1k1fSgWZjsqD4Iz5Ugr3vaJIy2atQyWRd', 5080),
