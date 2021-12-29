@@ -1235,7 +1235,7 @@ VALUES
 (DEFAULT, 'Drum Set', '1rTbPNhmmvXPIVk0Ryz8pdRcAcH1cOmhv', 5040),
 (DEFAULT, 'Gunshot', '10kBty0RZm-GfPodVTVVKneRN8lzZAn9i', 5040),
 (DEFAULT, 'Synth Brass, FX 5 (Brightness), Lead 1 (Square), Strings', '1AeakFyZwxCLo7V8LkzhmSUtBQtTfqFSU', 5040),
-(DEFAULT, 'Synth Brass', '1TJUT4yij5xVjhQmMIqNoiMSHQXf30PlC', 5040),
+(DEFAULT, 'Synth Brass', '1Q3TKAzr7yv3_Jhsw-DTB_bYokdp6cLwu', 5040),
 (DEFAULT, 'FX 5 (Brightness)', '1qtW39zAZD0vxo_0DERRlE8e-iAsR8sFf', 5040),
 (DEFAULT, 'Lead 1 (Square)', '1ciBI4gRA4v4jrcrVtg3dRfRPx2oG-XYX', 5040),
 (DEFAULT, 'Strings', '1SroZorayBHWL09U06XPmAOmDP6nNrAmc', 5040),
