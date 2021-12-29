@@ -341,6 +341,9 @@ VALUES
 -- (DEFAULT, '', 5030),
 -- Ласковый май - Белые розы
 (DEFAULT, '1oSQC5SW2AFu7Q_xWGgGy-bhOPqNNPaI3', 5040),
+-- Ласковый май - Розовый вечер
+-- Ласковый май - Седая ночь
+(DEFAULT, '1ro4XSaEDFvT7OcD5UK7lijCy5UTiNYbG', 5070),
 -- МакSим - Знаешь ли ты
 (DEFAULT, '1ycxviN137QfzVS9GNjouE_s3i8jFP_Ht', 5073),
 -- Мальбэк ft. Сюзанна - Гипнозы
