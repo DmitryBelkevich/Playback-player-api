@@ -451,6 +451,8 @@ VALUES
 (DEFAULT, 'original', '1dywI3h9zxdslzF4bgaa_j8fiUqh6d9wa', 5030),
 -- Ласковый май - Белые розы
 (DEFAULT, 'original', '1lk1jzI-Eiak_956et5pis2WlaUEYj89Z', 5040),
+(DEFAULT, '0', '1k_8wtY1NChX1HL9wlpzZGsArn79gq885', 5040),
+(DEFAULT, '-2', '1PoP2DO5x04twqZcf8aw9ygFDyBuYhTDs', 5040),
 -- Ненси - Дым сигарет с ментолом
 (DEFAULT, 'original', '1G0fC6XaLmrkDzavWQWe1fMlzJkqwx_Rd', 5080),
 (DEFAULT, '0', '1MHdB7Y5aPqVAgyMraKeTBHkQ5F8QnYge', 5080),
