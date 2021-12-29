@@ -342,6 +342,7 @@ VALUES
 -- Ласковый май - Белые розы
 (DEFAULT, '1oSQC5SW2AFu7Q_xWGgGy-bhOPqNNPaI3', 5040),
 -- Ласковый май - Розовый вечер
+(DEFAULT, '1dJ2ru_MFX0aFdGzHbGUTaIrumKS9HTwV', 5060),
 -- Ласковый май - Седая ночь
 (DEFAULT, '1ro4XSaEDFvT7OcD5UK7lijCy5UTiNYbG', 5070),
 -- МакSим - Знаешь ли ты
