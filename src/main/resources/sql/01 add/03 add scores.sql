@@ -1227,6 +1227,18 @@ VALUES
 
 -- Pop, Dance
 
+-- Ласковый май - Белые розы
+(DEFAULT, 'Full Score', '1-vFCDQn06NDFOLZtEUjAg_zIMqt8h9B2', 5040),
+(DEFAULT, 'Voice', '19EIx-M-jSPvJmVo92UcGwDoBzMfDpmaU', 5040),
+(DEFAULT, '5-string Bass Guitar', '1fIzDVDCj6QoKWMsqWiy0cR8-Ia8AkuTB', 5040),
+(DEFAULT, 'Drum Set, Gunshot', '1yPOReoHC45uDTuwQwyQ-IBvUL5Pwnp2u', 5040),
+(DEFAULT, 'Drum Set', '1rTbPNhmmvXPIVk0Ryz8pdRcAcH1cOmhv', 5040),
+(DEFAULT, 'Gunshot', '10kBty0RZm-GfPodVTVVKneRN8lzZAn9i', 5040),
+(DEFAULT, 'Synth Brass, FX 5 (Brightness), Lead 1 (Square), Strings', '1AeakFyZwxCLo7V8LkzhmSUtBQtTfqFSU', 5040),
+(DEFAULT, 'Synth Brass', '1TJUT4yij5xVjhQmMIqNoiMSHQXf30PlC', 5040),
+(DEFAULT, 'FX 5 (Brightness)', '1qtW39zAZD0vxo_0DERRlE8e-iAsR8sFf', 5040),
+(DEFAULT, 'Lead 1 (Square)', '1ciBI4gRA4v4jrcrVtg3dRfRPx2oG-XYX', 5040),
+(DEFAULT, 'Strings', '1SroZorayBHWL09U06XPmAOmDP6nNrAmc', 5040),
 -- Ненси - Дым сигарет с ментолом
 (DEFAULT, 'Full Score', '1N4_ujdoWMgdngCZuE0K9M-sGxs5QePVa', 5080),
 (DEFAULT, 'Voice 1, Voice 2, Voice 3, Voice 4', '1k1fSgWZjsqD4Iz5Ugr3vaJIy2atQyWRd', 5080),
