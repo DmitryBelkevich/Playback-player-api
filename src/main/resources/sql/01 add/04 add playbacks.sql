@@ -457,6 +457,8 @@ VALUES
 (DEFAULT, 'original', '1guuLUic-2XB1pfeqe0ChCiN7qD-A0yP5', 5060),
 -- Ласковый май - Седая ночь
 (DEFAULT, 'original', '1EgjhenWF2bOTP3O1ckKplEfluFIyjl-d', 5070),
+(DEFAULT, '0', '1JWVHP_d7_7iN63LLtXEwvNYpeGlrP3jB', 5070),
+(DEFAULT, '-2', '1N1262NQf7SI7MTjLi0kKQtREFXgLhl9a', 5070),
 -- Ненси - Дым сигарет с ментолом
 (DEFAULT, 'original', '1G0fC6XaLmrkDzavWQWe1fMlzJkqwx_Rd', 5080),
 (DEFAULT, '0', '1MHdB7Y5aPqVAgyMraKeTBHkQ5F8QnYge', 5080),
