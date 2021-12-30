@@ -1241,6 +1241,16 @@ VALUES
 (DEFAULT, 'Strings', '1SroZorayBHWL09U06XPmAOmDP6nNrAmc', 5040),
 -- Ласковый май - Розовый вечер
 -- Ласковый май - Седая ночь
+(DEFAULT, 'Full Score', '1P4PSgrYaobu41KwE_8fm1mukPb5dBY1b', 5070),
+(DEFAULT, 'Voice', '1WMssCaoIzgpecOVDM_z81gJXQNGqsN6O', 5070),
+(DEFAULT, '5-string Bass Guitar', '1H30yOLEjrk3OURsVU15n6aFKc7Ix00Xx', 5070),
+(DEFAULT, 'Drum Set', '1eDqjZONS98hCwMSFFScvwJLCfeOepiiS', 5070),
+(DEFAULT, 'FX 5 (Brightness), FX 4 (Atmosphere), FX 3 (Crystal), Lead 1 (Square), Strings', '1N1dE3LWxX13yBRPM9wCM4bOpm6v76jmb', 5070),
+(DEFAULT, 'FX 5 (Brightness)', '1TxzBlGCKieBoS8QnsihSlkFa2FW9YpZO', 5070),
+(DEFAULT, 'FX 4 (Atmosphere)', '1xdpyMO2DLMRnNwDf0Z6lCL2hTQUvk1IH', 5070),
+(DEFAULT, 'FX 3 (Crystal)', '1FwqANF1BQ1rPeDfi0JF0afExE3MJOUna', 5070),
+(DEFAULT, 'Lead 1 (Square)', '1J3E95EAVP8TkWVvEwdOVeRlq9UQkTr9B', 5070),
+(DEFAULT, 'Strings', '15CgwPwO6VQmsDHT2UjxgUqqsCHDbUZFy', 5070),
 -- Ненси - Дым сигарет с ментолом
 (DEFAULT, 'Full Score', '1N4_ujdoWMgdngCZuE0K9M-sGxs5QePVa', 5080),
 (DEFAULT, 'Voice 1, Voice 2, Voice 3, Voice 4', '1k1fSgWZjsqD4Iz5Ugr3vaJIy2atQyWRd', 5080),
