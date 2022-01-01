@@ -8,8 +8,8 @@ VALUES
 (DEFAULT, '-1', '15ZJXxyyhHvVJrQWPASItfP8duCqMwMEp', 10),
 -- Metallica - Nothing Else Matters
 (DEFAULT, 'original', '1OjohWhLORpbmPUv80SprjowrqNNb7lV9', 20),
-(DEFAULT, '0', '1tO0tvkpeORa06OX7wzhkkeHp1skCy7GR', 20),
-(DEFAULT, '-2', '1QHfy1QncqXr6FZBRKOZyZ8PrUfzs4WjU', 20),
+(DEFAULT, '0', '1oidoVolAFyS-vzBiQgjCF-LEnxk7Jbck', 20),
+(DEFAULT, '-2', '1qRhZuffUQvvOQnOqaWS9fU06EWhlLtOs', 20),
 -- Metallica - The Unforgiven
 (DEFAULT, '0', '16gWOZ3tC1uUoAUlwXnwxXpYqlMUdEska', 30),
 -- Rammstein - Frühling in Paris
