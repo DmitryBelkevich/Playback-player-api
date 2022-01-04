@@ -1470,3 +1470,4 @@ VALUES
 (DEFAULT, 'Violin II', '1DvwcJXfk1FqguRughISFo95F7SZtin1E', 10050),
 (DEFAULT, 'Viola', '1tpeYgEslelMqhxti2CLVzmevFXXJZzFQ', 10050),
 (DEFAULT, 'Violoncello', '1DZ1Q9lINJKn0gcr06UncYRGZo7lJvQuu', 10050);
+-- Gheorghe Zamfir - The Lonely Shepherd

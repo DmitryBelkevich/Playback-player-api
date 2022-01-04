@@ -419,4 +419,6 @@ VALUES
 -- Classic
 
 -- Ennio Morricone - Chi Mai
-(DEFAULT, '1VRZeiBSLJkISRXQfO7fhdX-4O_aYPs8c', 10050);
+(DEFAULT, '1VRZeiBSLJkISRXQfO7fhdX-4O_aYPs8c', 10050),
+-- Gheorghe Zamfir - The Lonely Shepherd
+(DEFAULT, '14GB4WV51Nh1ox32FMk8t9XYIdDSVlCph', 10100);

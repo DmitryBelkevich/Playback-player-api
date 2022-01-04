@@ -137,7 +137,8 @@ VALUES
     (390, 'Стас Михайлов'),
 
     -- Classic
-    (410, 'Ennio Morricone');
+    (410, 'Ennio Morricone'),
+    (420, 'Gheorghe Zamfir');
 
 -- songs
 
@@ -493,4 +494,5 @@ VALUES
     (9050, 'Свеча', 390, null),
 
     -- Classic
-    (10050, 'Chi Mai', 410, 'F#m');
+    (10050, 'Chi Mai', 410, 'F#m'),
+    (10100, 'The Lonely Shepherd', 420, null);
