@@ -1461,7 +1461,7 @@ VALUES
 (DEFAULT, 'Flute', '1aEOqNXmTebiFce-ZWkSREgJHBhfhJ9Ve', 10050),
 (DEFAULT, 'Choir', '1kG4bK3fXb7bI-3E5tZo5CooRiW6AicpN', 10050),
 (DEFAULT, 'Piano 1', '1YckRYJZVF6HVPQEtfGus_65hBOVkfLT4', 10050),
-(DEFAULT, 'Piano 2', '1cFp61_LTxFDRhVoo5VKQVvDN3WXVwB1q', 10050),
+(DEFAULT, 'Piano 2', '1LguWHpw2_r-5sLuoXbIvkca_BKkR50k2', 10050),
 (DEFAULT, 'Harpsichord', '1D9II8IUxdgiVimcO7c8HTlwH-7S1D5Qi', 10050),
 (DEFAULT, 'Harp', '1rYwqjw3d29mgl7K64PY_-KKE2JsHO2pH', 10050),
 (DEFAULT, 'Violin, Violin I, Violin II, Viola, Violoncello', '12oAtQKFcx6f9FLwWHim4JH8tr_h-Gr_J', 10050),
