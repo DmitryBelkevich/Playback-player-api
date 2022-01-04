@@ -524,4 +524,11 @@ VALUES
 -- Стас Михайлов - Всё для тебя
 (DEFAULT, 'original', '1uvuqFZgbi4Udv7OxQBV80ZVFLBfq854T', 9040),
 (DEFAULT, '0', '1nXI_KD5SNsbFm09njgkp777aQvoLWNxl', 9040),
-(DEFAULT, '-2', '1DIqne4uWHMJoNyYJ-ZXxpnWFjhLFFqPR', 9040);
+(DEFAULT, '-2', '1DIqne4uWHMJoNyYJ-ZXxpnWFjhLFFqPR', 9040),
+
+-- Classic
+
+-- Ennio Morricone - Chi Mai
+(DEFAULT, 'original', '1ljTRgWJJrmJ2RkX0a49sa0XtyGNohFxR', 10050),
+(DEFAULT, '0', '1LflDZc7ahaxbeoc8wIQMPD4ErUDeQ9QE', 10050),
+(DEFAULT, '-2', '14xqGZagA2UCkvmKucqECtUqZl560-LhY', 10050);

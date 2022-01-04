@@ -1450,4 +1450,23 @@ VALUES
 (DEFAULT, 'Electric Organ', '1Yuxoe0BRzlIBuy7jBIp8bDY28XypHxIi', 9040),
 (DEFAULT, 'Violin', '1VSBW7dgG_Wpi0gbPOXlWQ_19Y7epcguf', 9040),
 (DEFAULT, 'Strings', '10N8ZNs-3P2dwjUmjiDzin3pnjPOu5FaS', 9040),
-(DEFAULT, 'Pad 2 (Warm)', '1j4fX6EXkUEw8274ACri5qopqiO5FnTiH', 9040);
+(DEFAULT, 'Pad 2 (Warm)', '1j4fX6EXkUEw8274ACri5qopqiO5FnTiH', 9040),
+
+-- Classic
+
+-- Ennio Morricone - Chi Mai
+(DEFAULT, 'Full Score', '1d18tUfeYsmrUj9QQIb6OnZUQGUQ7MS2m', 10050),
+(DEFAULT, 'Bass Guitar', '1ZacXjIfjqriIZ9x22DMMFPjRUE9yINGM', 10050),
+(DEFAULT, 'Drum Set', '1XGQuaqOQiKgM4JZajju4X4yksXDeDaqj', 10050),
+(DEFAULT, 'Flute', '1aEOqNXmTebiFce-ZWkSREgJHBhfhJ9Ve', 10050),
+(DEFAULT, 'Choir', '1kG4bK3fXb7bI-3E5tZo5CooRiW6AicpN', 10050),
+(DEFAULT, 'Piano 1', '1YckRYJZVF6HVPQEtfGus_65hBOVkfLT4', 10050),
+(DEFAULT, 'Piano 2', '1cFp61_LTxFDRhVoo5VKQVvDN3WXVwB1q', 10050),
+(DEFAULT, 'Harpsichord', '1D9II8IUxdgiVimcO7c8HTlwH-7S1D5Qi', 10050),
+(DEFAULT, 'Harp', '1rYwqjw3d29mgl7K64PY_-KKE2JsHO2pH', 10050),
+(DEFAULT, 'Violin, Violin I, Violin II, Viola, Violoncello', '12oAtQKFcx6f9FLwWHim4JH8tr_h-Gr_J', 10050),
+(DEFAULT, 'Violin I', '1l17ZKKxq46-NUG7fZEepilr6bBzOwn7i', 10050),
+(DEFAULT, 'Violin II', '1DvwcJXfk1FqguRughISFo95F7SZtin1E', 10050),
+(DEFAULT, 'Violin', '1Tplce69HPc4rKte1tLFPNelTBLckqesM', 10050),
+(DEFAULT, 'Viola', '1tpeYgEslelMqhxti2CLVzmevFXXJZzFQ', 10050),
+(DEFAULT, 'Violoncello', '1DZ1Q9lINJKn0gcr06UncYRGZo7lJvQuu', 10050);

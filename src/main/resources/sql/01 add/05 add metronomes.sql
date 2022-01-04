@@ -372,4 +372,9 @@ VALUES
 -- Михаил Круг - Кольщик
 (DEFAULT, null, 4, 4, 64, 9020),
 -- Стас Михайлов - Всё для тебя
-(DEFAULT, null, 4, 4, 138, 9040);
+(DEFAULT, null, 4, 4, 138, 9040),
+
+-- Classic
+
+-- Ennio Morricone - Chi Mai
+(DEFAULT, null, 12, 8, 63, 10050);

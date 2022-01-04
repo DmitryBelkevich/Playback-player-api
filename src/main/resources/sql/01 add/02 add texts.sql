@@ -414,4 +414,9 @@ VALUES
 -- Стас Михайлов - Всё для тебя
 (DEFAULT, '115SIVb_I9hp3c0eddvavWoQG0W9tiYpQ', 9040),
 -- Стас Михайлов - Свеча
-(DEFAULT, '1IANgFVOF6AKg5vcRxnoy70qhL2qfywC-', 9050);
+(DEFAULT, '1IANgFVOF6AKg5vcRxnoy70qhL2qfywC-', 9050),
+
+-- Classic
+
+-- Ennio Morricone - Chi Mai
+(DEFAULT, '1VRZeiBSLJkISRXQfO7fhdX-4O_aYPs8c', 10050);
