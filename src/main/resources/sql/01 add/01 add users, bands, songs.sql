@@ -495,4 +495,4 @@ VALUES
 
     -- Classic
     (10050, 'Chi Mai', 410, 'F#m'),
-    (10100, 'The Lonely Shepherd', 420, null);
+    (10100, 'The Lonely Shepherd', 420, 'Dm');
