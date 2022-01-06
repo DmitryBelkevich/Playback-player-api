@@ -1469,5 +1469,22 @@ VALUES
 (DEFAULT, 'Violin I', '1l17ZKKxq46-NUG7fZEepilr6bBzOwn7i', 10050),
 (DEFAULT, 'Violin II', '1DvwcJXfk1FqguRughISFo95F7SZtin1E', 10050),
 (DEFAULT, 'Viola', '1tpeYgEslelMqhxti2CLVzmevFXXJZzFQ', 10050),
-(DEFAULT, 'Violoncello', '1DZ1Q9lINJKn0gcr06UncYRGZo7lJvQuu', 10050);
+(DEFAULT, 'Violoncello', '1DZ1Q9lINJKn0gcr06UncYRGZo7lJvQuu', 10050),
 -- Gheorghe Zamfir - The Lonely Shepherd
+(DEFAULT, 'Acoustic Guitar 1, Acoustic Guitar 2', '', 10100),
+(DEFAULT, 'Acoustic Guitar 1', '', 10100),
+(DEFAULT, 'Acoustic Guitar 2', '', 10100),
+(DEFAULT, 'Bass Guitar', '', 10100),
+(DEFAULT, 'Choir Mm', '', 10100),
+(DEFAULT, 'Drum Set', '', 10100),
+(DEFAULT, 'Electric Organ', '', 10100),
+(DEFAULT, 'Full Score', '', 10100),
+(DEFAULT, 'Nai', '', 10100),
+(DEFAULT, 'Trumpet in Bb 1, Trumpet in Bb 2', '', 10100),
+(DEFAULT, 'Trumpet in Bb 1', '', 10100),
+(DEFAULT, 'Trumpet in Bb 2', '', 10100),
+(DEFAULT, 'Viola', '', 10100),
+(DEFAULT, 'Violin I, Violin II, Viola, Violoncello', '', 10100),
+(DEFAULT, 'Violin I', '', 10100),
+(DEFAULT, 'Violin II', '', 10100),
+(DEFAULT, 'Violoncello', '', 10100);
