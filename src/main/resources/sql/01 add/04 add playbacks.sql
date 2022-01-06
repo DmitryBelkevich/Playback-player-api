@@ -534,4 +534,5 @@ VALUES
 (DEFAULT, '-2', '14xqGZagA2UCkvmKucqECtUqZl560-LhY', 10050),
 -- Gheorghe Zamfir - The Lonely Shepherd
 (DEFAULT, 'original', '1gYjHBAI3Cc928l_O6rka5fICyYsMv65t', 10100),
-(DEFAULT, '0', '13kQ0gAvvMfV6Jz0p_aC7l47ydsVLzy_k', 10100);
+(DEFAULT, '0', '11ep2KnZaO13RqcxwFH4mfg8HvbZNfy1r', 10100),
+(DEFAULT, '-2', '12sahEmgqBk1rnxNS2cXaJUunUBJ77U7S', 10100);
