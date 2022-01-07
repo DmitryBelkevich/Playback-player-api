@@ -47,6 +47,8 @@ VALUES
 (DEFAULT, null, 4, 4, 110, 1020),
 -- Nirvana - Smells Like Teen Spirit
 (DEFAULT, null, 2, 4, 117, 1030),
+-- No Doubt - Don't Speak
+(DEFAULT, null, 4, 4, 76, 1035),
 -- Radiohead - Creep
 (DEFAULT, null, 4, 4, 95, 1050),
 -- Radiohead - Karma Police
