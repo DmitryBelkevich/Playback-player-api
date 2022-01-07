@@ -146,11 +146,14 @@ INSERT INTO songs (id, title, band_id, key_signature)
 VALUES
     -- Metal
     (5, 'Soothsayer', 3, null),
+
     (10, 'No Leaf Clover', 5, 'Ebm'),
     (20, 'Nothing Else Matters', 5, 'Em'),
     (30, 'The Unforgiven', 5, 'Am'),
+
     (40, 'Frühling in Paris', 10, 'F#m'),
     (50, 'Mutter', 10, 'Em'),
+
     (60, 'Aerials', 15, 'Cm'),
     (70, 'Chop Suey!', 15, 'Gm'),
     (80, 'Lonely Day', 15, 'Abm'),
@@ -166,6 +169,7 @@ VALUES
     (170, 'Я свободен!', 25, 'Cm'),
 
     (180, 'Круги на воде', 30, 'Bm'),
+
     (190, 'Всадник из льда', 35, null),
     (200, 'Эпилог', 35, 'Gm'),
 
