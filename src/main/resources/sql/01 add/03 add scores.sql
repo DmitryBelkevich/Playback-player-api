@@ -162,7 +162,7 @@ VALUES
 (DEFAULT, 'Bass Guitar', '1KxkRXcsxEVH1_cz9TXuv6tU5yVnbaqUC', 1030),
 (DEFAULT, 'Drum Set', '1ODMHRGSVd-P298c2Hme0HO3DuE5ehL6D', 1030),
 -- No Doubt - Don't Speak
-(DEFAULT, 'Full Score', '1RnprtUEJNY3cTF5Q986eZnzcP2YxOUJX', 1035),
+(DEFAULT, 'Full Score', '1rn-x5pjaldLDEHxoqNTJxQxkutKIpY7R', 1035),
 (DEFAULT, 'Voice 1.2, Voice 3, Voice 4.5', '1nsdB9mZBbNMI54B6tpICdElhV2QcFAKn', 1035),
 (DEFAULT, 'Voice 1.2', '1FPrsjq8uPWX7Hz0tmF5AiVUys5vwg3SH', 1035),
 (DEFAULT, 'Voice 3', '1nfJWZd6-u6DEKArk01MOs6rgfVYU_0Jj', 1035),
@@ -176,7 +176,8 @@ VALUES
 (DEFAULT, 'Drum Set, Tambourine', '1kwNiPFUKL9F3Kau4cbjCchzCr84J9VFJ', 1035),
 (DEFAULT, 'Drum Set', '1pGFeev45kuA-sUXFSKk-6VYeZF61E7pl', 1035),
 (DEFAULT, 'Tambourine', '1hI5kqY9se-9LFKV5XASH5PtHk_n5P0VP', 1035),
-(DEFAULT, 'Electric Organ, Violin, Viola, Violoncello', '1k0d2f9yYP56sYMDWsxUJx_lyXJsAHaGT', 1035),
+(DEFAULT, 'Trumpet in Bb, Electric Organ, Violin, Viola, Violoncello', '1Hbz0lAVrcIQPKB7nxpBzurZu6fIb_i7j', 1035),
+(DEFAULT, 'Trumpet in Bb', '1c98szV1jGs-_vsCEq4uSdx3jNOaTlYLu', 1035),
 (DEFAULT, 'Electric Organ', '1jKGaOEt50SFatzzuO9HArk13AIkPuxFN', 1035),
 (DEFAULT, 'Violin, Viola, Violoncello', '10KM6RFdO6sYeBZdciCB7PT9t0qY7Muqu', 1035),
 (DEFAULT, 'Violin', '1_U435EUDNA8ocqlfmkMs2mdRGm351R3c', 1035),
