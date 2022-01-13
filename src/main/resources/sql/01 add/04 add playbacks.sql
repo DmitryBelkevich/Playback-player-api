@@ -82,9 +82,9 @@ VALUES
 (DEFAULT, '0', '1Vk_yY_pI03sMfM4y9zr27zQCBYbbIa8n', 1080),
 -- The Cranberries - Zombie
 (DEFAULT, 'original', '1udKRjlWsrX-lQTPMw0QJZSiQXN71oLxY', 1090),
-(DEFAULT, '+3', '1RMpdc7kURzyTi8Hdwd5IxmQeKy2ITJ25', 1090),
-(DEFAULT, '0', '1of0XLuibNVjWsQ-B8EnX1CTKQ84tSng9', 1090),
-(DEFAULT, '-2', '14f1pEFoO6bLao6oiwBuXUFgi1u8UNEMc', 1090),
+(DEFAULT, '+3', '1DiLNtmDNCqy30o8WHa_-BpU7MjAKXpmj', 1090),
+(DEFAULT, '0', '1r5HzLE1AVzPIkNnomePJBh2uZtaqPX7M', 1090),
+(DEFAULT, '-2', '1ESEfNvD4LoAkBFwcqSbYqQ-OG94ZHhhD', 1090),
 -- Animal ДжаZ - Три полоски
 (DEFAULT, 'original', '11FHM4hHS6tqdStEO3nKC3-F-Cwr3RnAx', 1120),
 (DEFAULT, '0', '1Pji3yNUq0P--uCwhIdQF_u-xypQV19R1', 1120),
