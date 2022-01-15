@@ -4,6 +4,7 @@ INSERT INTO scores (id, title, url, song_id)
 VALUES
 -- Metal
 
+-- Buckethead - Soothsayer
 -- Metallica - Nothing Else Matters
 (DEFAULT, 'Full Score', '1k4BzIVlqFwtq3U8Q9siaVkqF2EREjLhb', 20),
 (DEFAULT, 'Voice 1, Voice 2, Voice 3', '10ElmX3VxueV3c9kDX1Chr1KClN0Updd6', 20),

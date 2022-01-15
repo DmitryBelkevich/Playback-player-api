@@ -2,6 +2,8 @@ INSERT INTO texts (id, url, song_id)
 VALUES
 -- Metal
 
+-- Buckethead - Soothsayer
+(DEFAULT, '1N3cfvUS9N8TQ1ynkL03w5ETIjObV_Oy6', 3),
 -- Metallica - No Leaf Clover
 -- (DEFAULT, '', 10),
 -- Metallica - Nothing Else Matters

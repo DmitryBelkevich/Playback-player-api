@@ -4,6 +4,8 @@ INSERT INTO metronomes (id, title, numerator, denominator, tempo, song_id)
 VALUES
 -- Metal
 
+-- Buckethead - Soothsayer
+(DEFAULT, null, 4, 4, 75, 3),
 -- Metallica - No Leaf Clover
 (DEFAULT, null, 2, 4, 76, 10),
 -- Metallica - Nothing Else Matters

@@ -147,7 +147,7 @@ VALUES
 INSERT INTO songs (id, title, band_id, key_signature)
 VALUES
     -- Metal
-    (5, 'Soothsayer', 3, null),
+    (5, 'Soothsayer', 3, 'Bbm'),
 
     (10, 'No Leaf Clover', 5, 'Ebm'),
     (20, 'Nothing Else Matters', 5, 'Em'),
@@ -183,7 +183,7 @@ VALUES
     (1020, 'Numb', 50, 'F#m'),
     (1025, 'What I’ve Done', 50, null),
     (1030, 'Smells Like Teen Spirit', 55, 'Fm'),
-    (1035, 'Don''t Speak', 57, null),
+    (1035, 'Don''t Speak', 57, 'Cm'),
     (1040, 'Every You Every Me', 60, null),
     (1050, 'Creep', 65, 'G'),
     (1060, 'Karma Police', 65, null),
