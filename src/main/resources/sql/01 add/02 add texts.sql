@@ -3,7 +3,7 @@ VALUES
 -- Metal
 
 -- Buckethead - Soothsayer
-(DEFAULT, '1N3cfvUS9N8TQ1ynkL03w5ETIjObV_Oy6', 3),
+(DEFAULT, '1N3cfvUS9N8TQ1ynkL03w5ETIjObV_Oy6', 5),
 -- Metallica - No Leaf Clover
 -- (DEFAULT, '', 10),
 -- Metallica - Nothing Else Matters
