@@ -443,6 +443,8 @@ VALUES
 
 -- Dick Dale, The Del Tones - Misirlou
 (DEFAULT, 'original', '1E7CAZfXzHg_SjH4udswCuNJtpG_DjupX', 4000),
+(DEFAULT, '0', '14KgwhYjFV-JuFpsWs1kawL517gvVRX1J', 4000),
+(DEFAULT, '-2', '14XXXca9W2wWK0C8hWDMmfGK_Z9BII-5O', 4000),
 
 -- Pop, Dance
 
