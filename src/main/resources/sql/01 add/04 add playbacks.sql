@@ -441,6 +441,9 @@ VALUES
 
 -- Surf
 
+-- Dick Dale, The Del Tones - Misirlou
+(DEFAULT, 'original', '1E7CAZfXzHg_SjH4udswCuNJtpG_DjupX', 4000),
+
 -- Pop, Dance
 
 -- Alice Merton - No Roots
