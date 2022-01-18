@@ -1249,18 +1249,18 @@ VALUES
 -- Surf
 
 -- Dick Dale, The Del Tones - Misirlou
-(DEFAULT, 'Full Score', '1rdVN7ytv9AgMCniTw5MgFN13Sm8-5AFq', 4000),
-(DEFAULT, 'Voice', '1IXMDDFt6Zx98kIRYgpzNZ8vIRSdj_-zR', 4000),
+(DEFAULT, 'Full Score', '1QXLtekb0ObMC3vKnddeZefAbvv-Efv8T', 4000),
+(DEFAULT, 'Voice', '1qyoVr3HOBqQ0Opa8FXdURTFE6IBdKg8J', 4000),
 (DEFAULT, 'Electric Guitar', '18Y3ga0NBGY9NWk0GgRXprY2XJfZ-4ED-', 4000),
 (DEFAULT, 'Bass Guitar', '1bWuaAd4Vws6NwU3ItlsV5nd62n3JFiVB', 4000),
 (DEFAULT, 'Drum Set, Handclap', '10G3h6mkYFnIKM5ttgmCDmsjQdeBr0UQi', 4000),
 (DEFAULT, 'Drum Set', '1IyTuLJEaTj_3r8OHq2jti8PB0Bqqigo6', 4000),
 (DEFAULT, 'Handclap', '1WaTgSucOTmIJQu_dCzzgzBrZBZIn8K48', 4000),
 (DEFAULT, 'Piano', '1QlH1_TjrHJmF37qC_ncqfCKkdvifc3yH', 4000),
-(DEFAULT, 'Trumpet in Bb 1, Trumpet in Bb 2, Trumpet in Bb 3', '1-vynRvCoqdFOGPbPN8BvU952WJd4kfDl', 4000),
+(DEFAULT, 'Trumpet in Bb 1, Trumpet in Bb 2, Trombone', '1_KQARwF0m98fc8eKnM-OHegRFNN6huF0', 4000),
 (DEFAULT, 'Trumpet in Bb 1', '1RlR7LdCd2kuDf-iH_z24lv8Pf2fwhY59', 4000),
 (DEFAULT, 'Trumpet in Bb 2', '1ltSgMaB9DtaigT4dHkugghlrdjoOejuT', 4000),
-(DEFAULT, 'Trumpet in Bb 3', '1VSq-vIJ_gqIFSE9q_t0b79xBkrWdMMiM', 4000),
+(DEFAULT, 'Trombone', '1wcio5kVnR0ctmN3cYclypm9uGvFXblJh', 4000),
 
 -- Pop, Dance
 
