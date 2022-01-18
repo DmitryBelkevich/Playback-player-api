@@ -1248,6 +1248,20 @@ VALUES
 
 -- Surf
 
+-- Dick Dale, The Del Tones - Misirlou
+(DEFAULT, 'Bass Guitar', '', 4000),
+(DEFAULT, 'Drum Set, Handclap', '', 4000),
+(DEFAULT, 'Drum Set', '', 4000),
+(DEFAULT, 'Electric Guitar', '', 4000),
+(DEFAULT, 'Full Score', '', 4000),
+(DEFAULT, 'Handclap', '', 4000),
+(DEFAULT, 'Piano', '', 4000),
+(DEFAULT, 'Trumpet in Bb 1, Trumpet in Bb 2, Trumpet in Bb 3', '', 4000),
+(DEFAULT, 'Trumpet in Bb 1', '', 4000),
+(DEFAULT, 'Trumpet in Bb 2', '', 4000),
+(DEFAULT, 'Trumpet in Bb 3', '', 4000),
+(DEFAULT, 'Voice', '', 4000),
+
 -- Pop, Dance
 
 -- Ласковый май - Белые розы
