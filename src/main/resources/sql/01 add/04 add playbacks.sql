@@ -299,6 +299,7 @@ VALUES
 -- Ляпис Трубецкой - Belarus Freedom
 (DEFAULT, 'original', '1kX6ECO39N49fBFBmrlZoOfyT7UeTm2Dx', 1985),
 -- Ляпис Трубецкой - Ау
+(DEFAULT, 'original', '1nwpo9Iha41clRS0AibFaFMAAHTWB24dM', 1995),
 (DEFAULT, '0', '1aV5XhGD-j4IyUKBxG_fPWccCjTPUAzb1', 1995),
 -- Ляпис Трубецкой - Воины света
 (DEFAULT, 'original', '1XCrCRLugOStGdUkn8fp_-7_ExGQhR26H', 2000),
