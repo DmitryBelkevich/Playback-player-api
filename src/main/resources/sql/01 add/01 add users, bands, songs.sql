@@ -503,3 +503,16 @@ VALUES
     -- Classic
     (10050, 'Chi Mai', 410, 'F#m'),
     (10100, 'The Lonely Shepherd', 420, 'Dm');
+
+-- Ennio Morricone - Le Vent, Le Cri
+-- Francis Lai - Theme from Love Story
+-- Paul Mauriat - Toccata
+-- дога - вальс
+-- Огинский - Полонез
+
+-- Bach - прелюдия до-минор
+-- Bach - Bourree
+-- вивальди - шторм
+-- Nicolo Paganini - Caprice
+-- Римский-Корсаков - полёт шмеля
+-- Albinoni - Adagio
