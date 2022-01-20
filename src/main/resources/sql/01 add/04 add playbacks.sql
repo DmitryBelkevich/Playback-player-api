@@ -249,7 +249,7 @@ VALUES
 (DEFAULT, '0', '1VYkH_8TKtzUAQVAfUb-oO9NQE6HE67ms', 1718),
 -- Король и Шут - Воспоминание о былой любви
 (DEFAULT, 'original', '1QxAgG3f1KArNxnkEmdGTUQSvKZYv9PwF', 1720),
-(DEFAULT, '0', '1oJZDM10h_rIGFMdjV6vHg0Herrsb1a6I', 1720),
+(DEFAULT, '0', '1FNEoo8iFXwFZTZusOnLyHZcE0DhwiBch', 1720),
 -- Король и Шут - Два вора и монета
 -- Король и Шут - Два монаха в одну ночь
 (DEFAULT, 'original', '1FMAXuvkQIVjnxs7Odx36rkCVMzgFrQar', 1740),
