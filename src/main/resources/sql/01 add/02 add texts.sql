@@ -208,7 +208,7 @@ VALUES
 -- Король и Шут - Кукла колдуна
 (DEFAULT, '1GW2V5hCYLxFRPtD7ue10aHCgsCsR3zoF', 1790),
 -- Король и Шут - Лесник
--- (DEFAULT, '', 1800),
+(DEFAULT, '1DBnxaQ4Ma7t8hluCZZTBr5ijvAFXFKyF', 1800),
 -- Король и Шут - Мёртвый Анархист
 (DEFAULT, '1J-4JkTNl-2QxLoTT6twWLzuOhfFoo9lS', 1810),
 -- Король и Шут - Наблюдатель

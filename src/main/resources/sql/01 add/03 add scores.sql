@@ -811,8 +811,8 @@ VALUES
 (DEFAULT, 'Violin 2', '18qCyAu5hUOK5DLl4hAYPdM2q_iXeD_7y', 1790),
 (DEFAULT, 'Violin 3', '1CsEgpzrpve4zzkjyyYfzDRljMD1M9UVA', 1790),
 -- Король и Шут - Лесник
-(DEFAULT, 'Full Score', '1GbIL7J1Y7zviQrUkp2-oS-nJ9B8Ra-5N', 1800),
-(DEFAULT, 'Voice', '1vO-vZ2-VbjLAM-PGHZ9ix2QD_sCMPXA-', 1800),
+(DEFAULT, 'Full Score', '1EsOMagBTbM8asl4DkzuVQiz24btVcUgu', 1800),
+(DEFAULT, 'Voice', '16CQj6wxFBJf8rYwgeAPc0PiqVOoynixC', 1800),
 (DEFAULT, 'Electric Guitar 1, Electric Guitar 2', '1lnn8HF3XvcSTMzG7Y8OQxb97KFaK5kZS', 1800),
 (DEFAULT, 'Electric Guitar 1', '1OmgxYLtUHeK85o9B-iyoTkF6VNc58Lru', 1800),
 (DEFAULT, 'Electric Guitar 2', '1ypTxjgTgIkofXEMpqopbb5ThaM777DuE', 1800),

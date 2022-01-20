@@ -276,7 +276,8 @@ VALUES
 (DEFAULT, '-2', '1zbKgUOjJMNAHytdcPXp_wPq-PT8DbtRR', 1790),
 -- Король и Шут - Лесник
 (DEFAULT, 'original', '1Q-1rGHNMcSIAkaOgHu7r5kGW5u6AlAzp', 1800),
-(DEFAULT, '0', '1G4jZvYLAaO11N3wcuwF9JyZ7zf8eztrp', 1800),
+(DEFAULT, '0', '14mNJLbfFpmtrDCa6QTW1YpQ-3mldUaNF', 1800),
+(DEFAULT, '-2', '1Rc9HEYp5pznH518S4NgmhvGBSwxAQGRc', 1800),
 -- Король и Шут - Мёртвый Анархист
 (DEFAULT, 'original', '1_a5-6MuaDVE3cDtsgncZL32lQ8jc0Eon', 1810),
 (DEFAULT, '0', '1d1nelo5N_ijF_UNnsLJ-zijCIbgKqA1R', 1810),
