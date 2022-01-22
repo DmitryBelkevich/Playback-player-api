@@ -266,6 +266,7 @@ VALUES
 -- Ляпис Трубецкой - Юность
 (DEFAULT, '1Hds-niNUK9n73ihdXx4YcafktQ3tOQsR', 2125),
 -- Ляпис Трубецкой - Яблони
+(DEFAULT, '1pLWbNKK01oHonf9yQk6KMMSKack3lgtt', 2130),
 -- Ляпис Трубецкой - Я верю
 (DEFAULT, '1cRWUgp0kLuD1gycmz6EPDGfzCB3AeNg_', 2140),
 -- Мумий Тролль - Владивосток 2000

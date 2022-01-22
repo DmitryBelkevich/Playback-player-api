@@ -993,6 +993,7 @@ VALUES
 (DEFAULT, 'Trumpet in Bb', '1Zl0ufmoYUc3v65bqnzb4wnVEbvDsHyPh', 2125),
 (DEFAULT, 'FX 4 (Atmosphere)', '1YjRXhghxavWblSjfj-PhpzikWDumXkS9', 2125),
 (DEFAULT, 'Lead 1 (Square)', '1VUNEiUkRTFW92r-uNfjFq0RRoBvJdjVq', 2125),
+-- Ляпис Трубецкой - Яблони
 -- Ляпис Трубецкой - Я верю
 (DEFAULT, 'Full Score', '1RTusBXllNqrxx8IHWj_Orlyj_KXQUrJ6', 2140),
 (DEFAULT, 'Voice 1, Voice 2, Voice 3', '1csiIi0wThzW-xwEyTPGADG-OLLJef2ji', 2140),

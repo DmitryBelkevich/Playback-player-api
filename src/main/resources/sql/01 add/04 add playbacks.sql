@@ -344,6 +344,7 @@ VALUES
 (DEFAULT, 'original', '1M2vKk5gKFbtj1mtBkTv529pkmRftPN7R', 2125),
 (DEFAULT, '0', '1MicZk9tJdN6Bs433skXNZ60g21-iMe7A', 2125),
 -- Ляпис Трубецкой - Яблони
+(DEFAULT, 'original', '1xaTKbhFYYB_ZjJqnewCVbXL_bEshEFDc', 2130),
 -- Ляпис Трубецкой - Я верю
 (DEFAULT, 'original', '1YAQLe1erw3zsXEzsFBgkXj6PcJnTfiNa', 2140),
 (DEFAULT, '0', '1SFRBwzL1MqDhRnpLaPZWUl7AQp4sNy9v', 2140),
