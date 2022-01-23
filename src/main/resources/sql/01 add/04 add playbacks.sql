@@ -335,6 +335,7 @@ VALUES
 (DEFAULT, '0', '1-RfzgYRTCo8N2FikanhO95Hzep--o2a0', 2080),
 -- Ляпис Трубецкой - Паренёк под следствием
 -- Ляпис Трубецкой - Сочи
+(DEFAULT, 'original', '1zLJnEnbfSJwUjwWBUoSmho92fcTt0Lel', 2100),
 (DEFAULT, '0', '1V_nvf-PLdQlWUgz4C5egStoxJDw34gN5', 2100),
 -- Ляпис Трубецкой - Танцуй
 (DEFAULT, '0', '1ZYAKQbI32p1N3rZSm5tvEJNChWX82DBu', 2110),

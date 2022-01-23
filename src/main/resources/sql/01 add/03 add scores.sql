@@ -981,6 +981,7 @@ VALUES
 (DEFAULT, 'Trumpet in Bb 2', '1v8EiMLh-SDr-cqUiywhOiTUQGhadGBp4', 2060),
 (DEFAULT, 'Trombone', '1X1nTQT-Di-mLR2YmLYvVb06OG_5Wk8s9', 2060),
 -- Ляпис Трубецкой - Паренёк под следствием
+-- Ляпис Трубецкой - Сочи
 -- Ляпис Трубецкой - Юность
 (DEFAULT, 'Full Score', '1uTi4PJAgS80w_4zbEqTWM4LfCK_cmobr', 2125),
 (DEFAULT, 'Voice', '1iVpjg1m9cHkF706gZ95FNxiONu9jt0g9', 2125),
