@@ -892,7 +892,7 @@ VALUES
 (DEFAULT, 'Bass Guitar', '130M00XWbDJnmJoTMl7MkLpqaV4Cl2fUm', 2000),
 (DEFAULT, 'Drum Set', '1g-5YPxofHXqBExhQqJyLutH25tdTzH11', 2000),
 -- Ляпис Трубецкой - В платье белом
-(DEFAULT, 'Full Score', '1HQA7IPSrO5QNVk8tqD66rV4RyYMlc2xg', 2010),
+(DEFAULT, 'Full Score', '152gVC9Llkvl36u3itXNKEaZYCVQ83fT5', 2010),
 (DEFAULT, 'Voice', '1up4qq33MiKp_VOhs53TMqgd299rYTkdd', 2010),
 (DEFAULT, 'Acoustic Guitar, Electric Guitar 1, Electric Guitar 2', '1ubPtt00JTepWHx77Gjm73Va08KmjTnxW', 2010),
 (DEFAULT, 'Acoustic Guitar', '1a4dNHeQr8QllwqG4n2Vkb_BjHD9SfzOJ', 2010),
@@ -900,9 +900,9 @@ VALUES
 (DEFAULT, 'Electric Guitar 2', '1VHesJlC7_Zvuz_tungTnhT9fllxJR-n1', 2010),
 (DEFAULT, 'Bass Guitar', '1NmkO90tR_mOUwJucOEo-vARmMlK9Apvz', 2010),
 (DEFAULT, 'Drum Set', '1sPx0NjpjP7fXSG5_ohitsYgeSF-o8nZ1', 2010),
-(DEFAULT, 'Accordion, Electric Organ', '1_jSXxKw_VE7iV6GyLaBRIacD7tRkgaM6', 2010),
+(DEFAULT, 'Accordion, Electric Organ', '14AfEcCdPK30AnhrcX7v70SC3kaRtbVWE', 2010),
 (DEFAULT, 'Accordion', '1Wzeju5W69YbgZ3VF85kD6z3yVD12Q-KB', 2010),
-(DEFAULT, 'Electric Organ', '1e2QOO_kiFXLTdGcZj3mLqVZQMBc2kFlS', 2010),
+(DEFAULT, 'Electric Organ', '1Hkc5cIC8dGfQHbA4-sfBxZwoLJtuCnaE', 2010),
 -- Ляпис Трубецкой - Грай
 (DEFAULT, 'Full Score', '1ICv_c5A9SV98K_CUQuqW-ShZ3Sbxx2Kc', 2020),
 (DEFAULT, 'Voice 1, Voice 2', '1_ojq_EUrsuH-a0LRXxwwLM2H1ZaF-Olf', 2020),
