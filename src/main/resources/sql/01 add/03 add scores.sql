@@ -982,6 +982,19 @@ VALUES
 (DEFAULT, 'Trombone', '1X1nTQT-Di-mLR2YmLYvVb06OG_5Wk8s9', 2060),
 -- Ляпис Трубецкой - Паренёк под следствием
 -- Ляпис Трубецкой - Сочи
+(DEFAULT, 'Full Score', '1wdgnO4G18B7Rc4UA9s_6vwrlTUfxx1hl', 2100),
+(DEFAULT, 'Voice', '16lEeTiCV6FcLvqOJCbgxqa0cEnE_lIMI', 2100),
+(DEFAULT, 'Electric Guitar 1, Electric Guitar 2', '19uleBtkW4unQtbPS3ktVqey_ka3QmjbJ', 2100),
+(DEFAULT, 'Electric Guitar 1', '13_MC5WbNoPHdREwCietAKL5P0QkrSgbr', 2100),
+(DEFAULT, 'Electric Guitar 2', '1D7Jxk18MTHTbUXEacAMLwtYuGmB2ow77', 2100),
+(DEFAULT, 'Bass Guitar', '14jD0_YrUyjH3OCBd_Ln-k-wV9MJuAssO', 2100),
+(DEFAULT, 'Drum Set', '1_dJzSCIr9g5UGu3dtVR5irPrOonNAvO3', 2100),
+(DEFAULT, 'Trumpet in Bb, Trombone', '1j31Nknd5IaxR12W__93C4c8aD9C3AsfJ', 2100),
+(DEFAULT, 'Trumpet in Bb', '1gM0eXVyS7tLVMhJrckRPdWuiEy9wvwqB', 2100),
+(DEFAULT, 'Trombone', '1U89uhaJM9gHzhJc83ysyPKQ3CXqY4xlx', 2100),
+(DEFAULT, 'Marimba, Synth Strings', '1Tc7Sf7-NqQiLgGzUWzLHjDSOE4iK42nF', 2100),
+(DEFAULT, 'Marimba', '1Xp8dzFa0dxAwhUCNRXewB4l4pv6QIvui', 2100),
+(DEFAULT, 'Synth Strings', '1SFX2X9yUy36ykdb_s6wAb_1dkFHpsUmE', 2100),
 -- Ляпис Трубецкой - Юность
 (DEFAULT, 'Full Score', '1uTi4PJAgS80w_4zbEqTWM4LfCK_cmobr', 2125),
 (DEFAULT, 'Voice', '1iVpjg1m9cHkF706gZ95FNxiONu9jt0g9', 2125),
