@@ -891,6 +891,7 @@ VALUES
 (DEFAULT, 'Electric Guitar', '1ywcoc3Mx-jwXA-aA41bDh_z6JISwVREB', 2000),
 (DEFAULT, 'Bass Guitar', '130M00XWbDJnmJoTMl7MkLpqaV4Cl2fUm', 2000),
 (DEFAULT, 'Drum Set', '1g-5YPxofHXqBExhQqJyLutH25tdTzH11', 2000),
+-- Ляпис Трубецкой - В платье белом
 -- Ляпис Трубецкой - Грай
 (DEFAULT, 'Full Score', '1ICv_c5A9SV98K_CUQuqW-ShZ3Sbxx2Kc', 2020),
 (DEFAULT, 'Voice 1, Voice 2', '1_ojq_EUrsuH-a0LRXxwwLM2H1ZaF-Olf', 2020),

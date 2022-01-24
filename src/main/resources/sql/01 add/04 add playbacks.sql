@@ -307,6 +307,7 @@ VALUES
 (DEFAULT, '0', '1Pu_yIqVIU934VFYVTmGvmouguJP6SWKw', 2000),
 (DEFAULT, '-2', '1K_N1qE9lSbDZ2InGI7mByIc9EYv0pMt2', 2000),
 -- Ляпис Трубецкой - В платье белом
+(DEFAULT, 'original', '1CTcxTFSN046zNw3gNcF_XgSs9z-F7VWV', 2010),
 (DEFAULT, '-2', '1shyIqjK_t99GUsHTZHQv9-CswgfTArqf', 2010),
 -- Ляпис Трубецкой - Грай
 (DEFAULT, 'original', '1Xycelip9Uav7ZwpJ7o6i4xZhTHSmByvz', 2020),
