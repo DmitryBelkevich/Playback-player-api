@@ -412,7 +412,7 @@ VALUES
 (DEFAULT, '0', '1c9bRD5u0Mzld7FRl7EunItHzNWrgRkW2', 2350),
 -- Сплин - Выхода нет
 (DEFAULT, 'original', '1TFfR8esb__0DnsP8SMc02xvcfOKSGN3p', 2375),
-(DEFAULT, '0', '16uHJFmGYW5hdIN_ZeEFJd2VFev1M3uKR', 2375),
+(DEFAULT, '0', '18JCtAv2R-I9SDxe0BhBkYkYumxnBRKxR', 2375),
 -- Сплин - Линия жизни
 (DEFAULT, 'original', '128sIsRKok-cf4jYYwS6CYWa9xUgLcE7D', 2380),
 (DEFAULT, '0', '1yk2B_QrW9Tojm1KSuzC_72srOCr2N39p', 2380),
