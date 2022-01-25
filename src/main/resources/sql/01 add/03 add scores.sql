@@ -1383,6 +1383,7 @@ VALUES
 (DEFAULT, 'Lead 1 (Square)', '1WJtnrsgYaG5_oSfJ0mVN_S_WC_51Fiet', 7040),
 (DEFAULT, 'Synth Strings', '1GSeFMB6sAh9heFZlwCIRbfh9EcLEHGGs', 7040),
 (DEFAULT, 'FX 1 (Abduction)', '1n39a08XRoFgRDE_DyBJy-5AyiW8bxXPc', 7040),
+-- Нервы - Самый дорогой человек
 -- Пошлая Молли - Нон стоп
 -- Шарлот - Мяу мяу мяу
 (DEFAULT, 'Full Score', '15lOA67eSz2IgsLzc-RtwWVTA3g1VxLmy', 7085),

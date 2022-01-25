@@ -377,6 +377,8 @@ VALUES
 
 -- МУККА - ДЕВОЧКА С КАРЕ
 (DEFAULT, '1P7kxdPdtxzSueUMbDZKm-COhjveUvjRt', 7040),
+-- Нервы - Самый дорогой человек
+(DEFAULT, '1x8xUdW2WWyJNjdjiRAzs4JUKm2wV4nIl', 7045),
 -- Пошлая Молли - Нон стоп
 (DEFAULT, '1A_kLCUGpgUwruIRy0YzxCJm_WWsJ93uF', 7060),
 -- Шарлот - Мяу мяу мяу
