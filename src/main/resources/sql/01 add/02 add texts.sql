@@ -80,7 +80,7 @@ VALUES
 -- N.R.M. - Лёгкія-лёгкія
 -- (DEFAULT, '', 1160),
 -- N.R.M. - Тры чарапахі
--- (DEFAULT, '', 1170),
+(DEFAULT, '1U50gCrXbKqFdrWyRbf0sIjv9meaWZqQY', 1170),
 -- Noize MC - Вояджер-1
 (DEFAULT, '1ILt6TOdtB5SQ_XKT5ELPiD186VesJAWb', 1175),
 -- Агата Кристи - Как на войне
@@ -216,7 +216,7 @@ VALUES
 -- Король и Шут - Проклятый старый дом
 (DEFAULT, '1RuJJGH48mhyJU9Hn8v66jKxYR6hR5ZJU', 1830),
 -- Король и Шут - Прыгну со скалы
--- (DEFAULT, '', 1840),
+(DEFAULT, '1BD8F9mIDJ77ZUlne-mEBlFdehFoxC0a9', 1840),
 -- Ленинград - WWW
 (DEFAULT, '1emC5skvQkzwZVA7JZczQfcQ97KducDcH', 1950),
 -- Ленинград - В Питере - пить
