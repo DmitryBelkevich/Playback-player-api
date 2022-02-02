@@ -73,10 +73,11 @@ VALUES
 (DEFAULT, 'Bass Guitar', '16IgKupKOiSSCcwWPRMEuw5QJE47awD2k', 70),
 (DEFAULT, 'Drum Set ', '1YJYMuTkzIs1UQyrrM9611oBH15OwnTzC', 70),
 -- System of a Down - Lonely Day
-(DEFAULT, 'Full Score', '1scLIVxunxbGpoJLoGDIiJ-ve0c5X7fcG', 80),
+(DEFAULT, 'Full Score', '1oiWvVoOCqMfeE_6P51Jibt_jN8xNeU7o', 80),
 (DEFAULT, 'Voice 1, Voice 2', '1is-1Li5fXbHLOB--st1vsobZqVnxXci2', 80),
 (DEFAULT, 'Voice 1', '1ITQiQH8GUNS99LnCuCXUFA8pjH5bTjM4', 80),
 (DEFAULT, 'Voice 2', '1u6FgcSnjWasHyelmGUAxLCd-yb4ovOkP', 80),
+(DEFAULT, 'Electric Guitar 1, Electric Guitar 2, Electric Guitar 3, Electric Guitar 4, Electric Guitar 5', '1smDh4ezR5_IDKyiqn4sTY06zQziSbws2', 80),
 (DEFAULT, 'Electric Guitar 1', '1zwmBxF3ovu3MfrNIEGZSdGyZudSOqoga', 80),
 (DEFAULT, 'Electric Guitar 2', '1W-aO38u4tOx9zO0C14ggFwm2eNa4_iFI', 80),
 (DEFAULT, 'Electric Guitar 3', '1FDjv-xClgrmmVHlLXLNxt11YoKxBh8f2', 80),
