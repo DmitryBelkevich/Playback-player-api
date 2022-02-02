@@ -231,6 +231,8 @@ VALUES
 (DEFAULT, '1T42UUqP0NH5KIpOGzXFu6k9V954D1ehj', 1970),
 -- Ленинград - Экспонат
 (DEFAULT, '1uD309rKsVyMTDc6kRD5KvlfPek2T6umv', 1973),
+-- Сергей Шнуров - Привет Морриконе
+(DEFAULT, '1rIOZNqSAGvNc5u9i0BMwCrlOfzYczTiB', 1974),
 -- Леприконсы - Хали-Гали
 (DEFAULT, '12xaoXoOWWzVsseQLkDb4ifdSEGFocw-x', 1980),
 -- Ляпис Трубецкой - Belarus Freedom
