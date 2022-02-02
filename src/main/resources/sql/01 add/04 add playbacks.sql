@@ -33,7 +33,7 @@ VALUES
 (DEFAULT, '-1', '1QlMj-cfojOqtCuOZmIlQfaVo4G5-kvU7', 80),
 -- System of a Down - Toxicity
 (DEFAULT, 'original', '14a5-1Vp0Ty4AS-Uf7841QxOcMTkFp6wV', 90),
-(DEFAULT, '0', '1DkRMX4hCzMpgt-8Ot7MlyYz61dWX5YH3', 90),
+(DEFAULT, '0', '106VoktKp_pTRdZayg_RHsNWPDNcUU0z2', 90),
 -- Ария - Беспечный ангел
 (DEFAULT, 'original', '1kg1a0A46M7FfLPkdZ3xfPA2aIkU0K0ov', 100),
 (DEFAULT, '+1', '1tijdBkkiRhBvK1nvrAe12K9_xPE5a-wI', 100),
