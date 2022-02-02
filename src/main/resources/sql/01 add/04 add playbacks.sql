@@ -236,6 +236,8 @@ VALUES
 -- Кино - Пачка сигарет
 (DEFAULT, 'original', '1F9-DUIZBjRMPoqHfhNKfpCC0zjqTaCWS', 1700),
 (DEFAULT, '0', '1hDYC0YLB7r1Q2xjl8pnuY4oZHnz7y3Gq', 1700),
+-- Кино - Песня без слов
+(DEFAULT, 'original', '156Jvb7H1DdOERvG9bLGjDTBkxm2yYhLT', 1703),
 -- Кино - Печаль
 (DEFAULT, 'original', '1O3h4xWbEFwrulGA51pRj_ltCyjTQ0n4G', 1704),
 (DEFAULT, '0', '1ha8c4Bs_L1dQHfVMDLzm0L_K5wsCW4SC', 1704),
