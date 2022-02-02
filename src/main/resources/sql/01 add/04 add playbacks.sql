@@ -286,7 +286,8 @@ VALUES
 (DEFAULT, '0', '1Bg6KTKs9ud6eWUADoGe9Bc5e40TQSdmS', 1830),
 -- Король и Шут - Прыгну со скалы
 (DEFAULT, 'original', '1E3jUYAieNqbm-NXqKXEyto4TDi2bquCZ', 1840),
-(DEFAULT, '0', '1dveKeOYxfdoB7pTsMDFB8VLCtWjLSNWz', 1840),
+(DEFAULT, '0', '1bRnGo2Qvq2R6NB4Tt4wjtLWbgYasp2Ej', 1840),
+(DEFAULT, '-2', '1ck1vE7Ia3yk61ug4msrYj3P4xMsQPyqx', 1840),
 -- Ленинград - WWW
 (DEFAULT, '0', '1UBGwyFRDB5bEvmpVaqsLMAx8z2xasE9L', 1950),
 -- Ленинград - В Питере - пить
