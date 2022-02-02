@@ -183,6 +183,8 @@ VALUES
 (DEFAULT, '1MIm6Kpw-gugEOabe8x80aVvQOCCf3Jx0', 1690),
 -- Кино - Пачка сигарет
 (DEFAULT, '13NJw888shKdCpCETked68ufggVxyF6Vq', 1700),
+-- Кино - Песня без слов
+(DEFAULT, '1RUd_cwVVSBfLMvac944lVYtHLSWN7c3N', 1703),
 -- Кино - Печаль
 (DEFAULT, '1eCQTQG1Ma2ZsANb2k4XVSvEw9vxU-4cO', 1704),
 -- Кино - Следи за собой
