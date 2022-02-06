@@ -1022,6 +1022,16 @@ VALUES
 (DEFAULT, 'Marimba, Synth Strings', '1Tc7Sf7-NqQiLgGzUWzLHjDSOE4iK42nF', 2100),
 (DEFAULT, 'Marimba', '1Xp8dzFa0dxAwhUCNRXewB4l4pv6QIvui', 2100),
 (DEFAULT, 'Synth Strings', '1SFX2X9yUy36ykdb_s6wAb_1dkFHpsUmE', 2100),
+-- Ляпис Трубецкой - Шут
+(DEFAULT, 'Full Score', '1RLZufqlxpdZu18UVn-EZGD38VhMJpyDq', 2120),
+(DEFAULT, 'Voice', '1MbdY_93-wGOvhSQEA-O6nAjaj3ks1ch2', 2120),
+(DEFAULT, 'Electric Guitar', '1rRM8wd9GilmycQzzcPQaiqk98CCI_vc3', 2120),
+(DEFAULT, '5-string Bass Guitar', '1BEvUPT0DI2r_P5aYOoQRZmr8MFv5LC--', 2120),
+(DEFAULT, 'Drum Set', '1gWnfGpkL0tguP6ex_A1a8A_EQzzzrNku', 2120),
+(DEFAULT, 'Oboe, Harpsichord, Celesta', '11b-nf-7P82Z41JTqYF87VtW4fXR6W5ck', 2120),
+(DEFAULT, 'Oboe', '1mfRbjqZd3wLFa-Qq-vIt3GIuqYx8eDwN', 2120),
+(DEFAULT, 'Harpsichord', '1NhMT1lwLeOxdG0ZORiWPyfjk86cc5YhX', 2120),
+(DEFAULT, 'Celesta', '1z_d7SOYVXbKZwtr2BzGMHGGjMzdct5s0', 2120),
 -- Ляпис Трубецкой - Юность
 (DEFAULT, 'Full Score', '1uTi4PJAgS80w_4zbEqTWM4LfCK_cmobr', 2125),
 (DEFAULT, 'Voice', '1iVpjg1m9cHkF706gZ95FNxiONu9jt0g9', 2125),
