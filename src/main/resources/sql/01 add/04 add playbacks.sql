@@ -349,7 +349,8 @@ VALUES
 (DEFAULT, '0', '1ZYAKQbI32p1N3rZSm5tvEJNChWX82DBu', 2110),
 -- Ляпис Трубецкой - Шут
 (DEFAULT, 'original', '1wuYpSo4CpSIZ7Vj_fx-3VuzxdZY1G348', 2120),
-(DEFAULT, '-2', '1SdzfFWxfffgUQhYkrJEwcmv7DA58DbaB', 2120),
+(DEFAULT, '0', '17M3a6TU93JrWzGchctGVkk2AEhtFc0RB', 2120),
+(DEFAULT, '-2', '13kbg8FPISkEpxauIzCgSIThdFy6-Temq', 2120),
 -- Ляпис Трубецкой - Юность
 (DEFAULT, 'original', '1M2vKk5gKFbtj1mtBkTv529pkmRftPN7R', 2125),
 (DEFAULT, '0', '1MicZk9tJdN6Bs433skXNZ60g21-iMe7A', 2125),
