@@ -340,6 +340,7 @@ VALUES
 -- Ляпис Трубецкой - Не быць скотам!
 (DEFAULT, 'original', '1rqg5XSxEbhDHnLhOgr8lUSZlFmppKqAk', 2060),
 -- Ляпис Трубецкой - Огоньки
+(DEFAULT, 'original', '1lKXEiFE6DfLs4kssx_2J2PFBPH4QqYyl', 2080),
 (DEFAULT, '0', '1-RfzgYRTCo8N2FikanhO95Hzep--o2a0', 2080),
 -- Ляпис Трубецкой - Паренёк под следствием
 -- Ляпис Трубецкой - Сочи
