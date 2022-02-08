@@ -314,6 +314,7 @@ VALUES
 (DEFAULT, 'Lead 2 (Sawtooth)', '1ITOeSkX6ZzjWLFWxKk0mfykVPJ8CIkLn', 1220),
 (DEFAULT, 'Synth Brass', '1Vww3be-qIsLbjcUZEvdElMfvjJJfmzZG', 1220),
 (DEFAULT, 'Electric Clavichord', '1zpYWsBceKLJ_ALffaqK12Osyf1npD4KP', 1220),
+-- АукцЫон - Дорога
 -- Би-2 - Варвара
 (DEFAULT, 'Full Score', '1sGKOnWBLpDNC6RUXsYcjIdcsESNPs6gB', 1240),
 (DEFAULT, 'Voice 1', '1yoHOM6my7-oBWJJt1x8BAiUkGbn5s_IF', 1240),

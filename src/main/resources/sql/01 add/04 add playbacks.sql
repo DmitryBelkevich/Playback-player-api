@@ -123,6 +123,7 @@ VALUES
 (DEFAULT, '-2', '1niqpaRJ3pYOzuoZgzh3lwxtPkEL2VB1P', 1220),
 (DEFAULT, '-3', '1VDkMZWx4L2vlsEsUCn7iaVmtabcv7FEF', 1220),
 -- АукцЫон - Дорога
+(DEFAULT, 'original', '1q9DRF7o7diRj3tpDxJrexl9_41hioS2z', 1230),
 (DEFAULT, '0', '1xl9crJCQ64aaP5sEFrKrX25LdvCRX231', 1230),
 -- Би-2 - Варвара
 (DEFAULT, 'original', '1_KPpISEs09R8_qKFfg0IzhgRXvrumdoC', 1240),

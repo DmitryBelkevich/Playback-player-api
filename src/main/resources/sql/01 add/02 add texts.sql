@@ -94,7 +94,7 @@ VALUES
 -- Альянс - На заре
 (DEFAULT, '1qsxOUZ-vt8B-6oJhbfbg-EezKGF4lczq', 1220),
 -- АукцЫон - Дорога
--- (DEFAULT, '', 1230),
+(DEFAULT, '1vxXVHZf-WXy6zc9KuTFlSPsnkfp1ob8W', 1230),
 -- Би-2 - Варвара
 (DEFAULT, '1DfMY_2rw12iALZZIXj2l-Ue0c9I7UFAr', 1240),
 -- Би-2 - Компромисс
