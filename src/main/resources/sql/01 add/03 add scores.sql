@@ -1007,6 +1007,22 @@ VALUES
 (DEFAULT, 'Trumpet in Bb 1', '1o_I_0b85J8Jl9TpCqZb8kWIsTjtj99F6', 2060),
 (DEFAULT, 'Trumpet in Bb 2', '1v8EiMLh-SDr-cqUiywhOiTUQGhadGBp4', 2060),
 (DEFAULT, 'Trombone', '1X1nTQT-Di-mLR2YmLYvVb06OG_5Wk8s9', 2060),
+-- Ляпис Трубецкой - Огоньки
+(DEFAULT, 'Full Score', '', 2080),
+(DEFAULT, 'Voice 1, Voice 2', '', 2080),
+(DEFAULT, 'Voice 1', '', 2080),
+(DEFAULT, 'Voice 2', '', 2080),
+(DEFAULT, 'Electric Guitar 1, Electric Guitar 2', '', 2080),
+(DEFAULT, 'Electric Guitar 1', '', 2080),
+(DEFAULT, 'Electric Guitar 2', '', 2080),
+(DEFAULT, '5-string Bass Guitar', '', 2080),
+(DEFAULT, 'Drum Set', '', 2080),
+(DEFAULT, 'Celesta, Trumpet in Bb, Trombone, Accordion', '', 2080),
+(DEFAULT, 'Celesta', '', 2080),
+(DEFAULT, 'Trumpet in Bb, Trombone', '', 2080),
+(DEFAULT, 'Trumpet in Bb', '', 2080),
+(DEFAULT, 'Trombone', '', 2080),
+(DEFAULT, 'Accordion', '', 2080),
 -- Ляпис Трубецкой - Паренёк под следствием
 -- Ляпис Трубецкой - Сочи
 (DEFAULT, 'Full Score', '1wdgnO4G18B7Rc4UA9s_6vwrlTUfxx1hl', 2100),
