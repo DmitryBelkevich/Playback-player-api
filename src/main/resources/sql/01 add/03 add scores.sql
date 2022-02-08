@@ -1008,7 +1008,7 @@ VALUES
 (DEFAULT, 'Trumpet in Bb 2', '1v8EiMLh-SDr-cqUiywhOiTUQGhadGBp4', 2060),
 (DEFAULT, 'Trombone', '1X1nTQT-Di-mLR2YmLYvVb06OG_5Wk8s9', 2060),
 -- Ляпис Трубецкой - Огоньки
-(DEFAULT, 'Full Score', '1qRKT8Dls268oaAy3s_XZ-hyBjZUOkjGm', 2080),
+(DEFAULT, 'Full Score', '1XZpUhexDnkZ7LQO5A_kLq9qQf-46gVTS', 2080),
 (DEFAULT, 'Voice 1, Voice 2', '15WP3xQp-B_8tqAAN7giQPqHTR4OIPcXw', 2080),
 (DEFAULT, 'Voice 1', '11LohNBFKn2Q1UnlExzmkK0LvnmYyeUGU', 2080),
 (DEFAULT, 'Voice 2', '1FKudBMNpPneACwF8DUaqstR2pbrauuCF', 2080),
@@ -1017,12 +1017,12 @@ VALUES
 (DEFAULT, 'Electric Guitar 2', '1w3e0O_CoCdxpwxjaByhl9j5JMu31V1fr', 2080),
 (DEFAULT, '5-string Bass Guitar', '14OKnI-mD-O_1QVh74blP4vVw2jSR-NHG', 2080),
 (DEFAULT, 'Drum Set', '1-fwHnBotmPwcT_o65y0lRnBpscd0eqrz', 2080),
-(DEFAULT, 'Celesta, Trumpet in Bb, Trombone, Accordion', '1n_yunosIj1JJxzq3H0VZGJ5Hd1TADEUY', 2080),
-(DEFAULT, 'Celesta', '1gBnCKk6DSaNlNxaZOUQ97mWQsb0EaelZ', 2080),
-(DEFAULT, 'Trumpet in Bb, Trombone', '1aEQNXOh4PJ8RrbuYeyaLUvOLWBGXRAsr', 2080),
-(DEFAULT, 'Trumpet in Bb', '1YnXa2aHt4TM_ss8reBwSKWYJAJpf91_6', 2080),
-(DEFAULT, 'Trombone', '1CK_L8h9VN3a1u0bd6N1rqENkGre0UWCO', 2080),
-(DEFAULT, 'Accordion', '17hsZlvlkFlfq41PjeUlEJBvWXMWZJaz2', 2080),
+(DEFAULT, 'Trumpet in Bb, Trombone, Celesta, Accordion', '1hguK_MoTaP0de5BsykkspYOVpgwp-s0Z', 2080),
+(DEFAULT, 'Trumpet in Bb, Trombone', '1tX_8igLSZtG3DyfLrlWA7UfIjWXRuCYv', 2080),
+(DEFAULT, 'Trumpet in Bb', '1VvZLcolhx8HW7KFBhFJE7ekT4-WsyAWP', 2080),
+(DEFAULT, 'Trombone', '1VYedLW56u3AbrlVHgUqi9axWthhyy4xz', 2080),
+(DEFAULT, 'Celesta', '1jIE1zs4DtgS7pQ2ITed79pwOVQyAKcpg', 2080),
+(DEFAULT, 'Accordion', '1WzKYRuOuN4tnzGX8IK4E_5W6Vib1TTvd', 2080),
 -- Ляпис Трубецкой - Паренёк под следствием
 -- Ляпис Трубецкой - Сочи
 (DEFAULT, 'Full Score', '1wdgnO4G18B7Rc4UA9s_6vwrlTUfxx1hl', 2100),
