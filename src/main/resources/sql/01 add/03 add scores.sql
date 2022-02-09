@@ -409,6 +409,7 @@ VALUES
 (DEFAULT, 'Electric Organ, FX 4 (Atmosphere)', '1l4RJdHT2VqasupCHEGg0qpDXnFNkSFd1', 1380),
 (DEFAULT, 'Electric Organ', '1WESA-OQJc_EZnRAA4mNJCdili3qvStJg', 1380),
 (DEFAULT, 'FX 4 (Atmosphere)', '1V1HLlVvfKNGUPJCndOoUnrCp3G5BAjU0', 1380),
+-- ДДТ - В последнюю осень
 -- ДДТ - Метель
 (DEFAULT, 'Full Score', '1raYDU17qgXojWOasaBCMDn8rCVzMtWUT', 1430),
 (DEFAULT, 'Voice 1, Voice 2', '1RSGK5fvbabJHWGAS-48421bafWzf9Auk', 1430),
