@@ -169,7 +169,7 @@ VALUES
 -- Егор и Опизденевшие - Про мишутку (Песенка для Янки)
 -- ДДТ - В последнюю осень
 (DEFAULT, 'original', '1Prp55PRvTJ2ImUTxT1ODnNoROZPySTDY', 1400),
-(DEFAULT, '0', '1vlKElMTJPkX1GIlPgaE3IYcBAmlcCSxb', 1400),
+(DEFAULT, '0', '1Y-k_HGu1NcY1QY_CA76oN2kmP5z1mKpu', 1400),
 -- ДДТ - Осенняя
 -- ДДТ - Просвистела
 (DEFAULT, 'original', '1wKbPsMWCR-gNhKCIEFUa23D_vgFJ_bWQ', 1450),
