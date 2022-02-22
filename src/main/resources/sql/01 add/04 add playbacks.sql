@@ -25,7 +25,7 @@ VALUES
 (DEFAULT, '0', '1IoWvG9PDdyiQs0tmNaw9be1JcAROx06n', 60),
 -- System of a Down - Chop Suey!
 (DEFAULT, 'original', '1qcpfX-NRo5QzizHiAP6Q3SW03bNjMCDK', 70),
-(DEFAULT, '0', '1nxOAUZdcHYVJ4z4Gc-9KmMysonJ_z6dN', 70),
+(DEFAULT, '0', '1ApYzsHDImUuUv66olczd3oUQoh0heg_h', 70),
 -- System of a Down - Lonely Day
 (DEFAULT, 'original', '1rnxYbhBrkCZOG1Tu7SikQkrxGdwaIcf9', 80),
 (DEFAULT, '+1', '1D2LwHZoFw6H__mYOYQhJsl-v7_XL5CgW', 80),
