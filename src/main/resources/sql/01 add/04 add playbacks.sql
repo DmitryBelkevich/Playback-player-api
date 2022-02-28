@@ -442,6 +442,8 @@ VALUES
 -- Танцы Минус - Половинка
 (DEFAULT, 'original', '1_D-H2wiH2j0WosnHXETXsZKkV2-pr_fL', 2430),
 (DEFAULT, '0', '1AIrDfhM2YtBisszdHB4NXn2HKQLpTOaC', 2430),
+-- Чиж & Co - О любви
+(DEFAULT, 'original', '1-Hw3Bi0B6A1aZIgJ5ctriK9reINaZI9N', 2432),
 -- Чичерина - Ту-лу-ла
 (DEFAULT, 'original', '1zi9vRYg4WKaaRa54Svx6iJxDLF_6bCGb', 2450),
 (DEFAULT, '0', '1F_atD-LA7Z2feN19bmFUhrRrY-UYxMcB', 2450),

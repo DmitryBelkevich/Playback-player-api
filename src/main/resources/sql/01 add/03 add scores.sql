@@ -1329,6 +1329,7 @@ VALUES
 (DEFAULT, 'Piano, Lead 6 (Voice)', '1xDdEaElV1G99-zooHkVHjXwkS1c276TJ', 2430),
 (DEFAULT, 'Piano', '13bS3pyWWVYUJEh6IVJC5DWNNzOBVQOjj', 2430),
 (DEFAULT, 'Lead 6 (Voice)', '1Nl-O7leSKbREysF0Omupd6x8ZgD-V-O3', 2430),
+-- Чиж & Co - О любви
 -- Чичерина - Ту-лу-ла
 (DEFAULT, 'Full Score', '13Z4dyiz4CP3WoNmE9dqdkJRRF0VwqQ1o', 2450),
 (DEFAULT, 'Voice 1', '1NiobksiMr2_OHVcTf3dSzDEhF4BYAdfk', 2450),
