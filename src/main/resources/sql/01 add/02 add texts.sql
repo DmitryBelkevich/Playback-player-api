@@ -135,6 +135,8 @@ VALUES
 -- ДДТ - Метель
 (DEFAULT, '15P6CuvbKkrHYI4lxpneFOqHIvCSMGzon', 1430),
 -- ДДТ - Осенняя
+-- ДДТ - Пацаны
+(DEFAULT, '1ecrcelpFRTOT8PSbnMLaBSZjN4rknLF4', 1443),
 -- ДДТ - Просвистела
 (DEFAULT, '1T6eecr4B4ybNRod3x6QXL8CFhLtfTSjR', 1450),
 -- ДДТ - Что такое осень

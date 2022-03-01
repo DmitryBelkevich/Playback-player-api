@@ -171,6 +171,8 @@ VALUES
 (DEFAULT, 'original', '1Prp55PRvTJ2ImUTxT1ODnNoROZPySTDY', 1400),
 (DEFAULT, '0', '1Y-k_HGu1NcY1QY_CA76oN2kmP5z1mKpu', 1400),
 -- ДДТ - Осенняя
+-- ДДТ - Пацаны
+(DEFAULT, 'original', '1M7eD836Lkxxv8l3QzV1zf8vfrJhIFM_7', 1443),
 -- ДДТ - Просвистела
 (DEFAULT, 'original', '1wKbPsMWCR-gNhKCIEFUa23D_vgFJ_bWQ', 1450),
 (DEFAULT, '0', '1QAiKKesI3PLnxzV1_8WJmAZ9-C3TFkuV', 1450),
