@@ -433,6 +433,10 @@ VALUES
 (DEFAULT, 'Electric Organ', '1Y9E1EP0YZfocbc5NqhrZ7UtI1q4NtraC', 1430),
 (DEFAULT, 'Lead 6 (Voice)', '1PplXAmkzeQPHROxTQquSAEE2HsxV5yfD', 1430),
 (DEFAULT, 'Synth Bass', '1uFAPmCkU8HvRqQRvtiLvZ7cDD6wi1y0X', 1430),
+-- ДДТ - Пацаны
+(DEFAULT, 'Full Score', '1qcEHuVVux35N8SMn76gcDxYK05AXbnxw', 1443),
+(DEFAULT, 'Voice', '1LrCM_5h8hbucgrp9y84OS6v7pqx8Hnt4', 1443),
+(DEFAULT, 'Acoustic Guitar', '16n1D_QnsCcljs-q_vqX3ZgldrQcSzwqt', 1443),
 -- ДДТ - Просвистела
 (DEFAULT, 'Full Score', '1SDETVYTG_nsl76Xu7YHBRWJuPOwqoXhJ', 1450),
 (DEFAULT, 'Voice 1, Voice 2', '1U0i6M-vXf2T_SrFrt15823l7Vu4aoJy5', 1450),
