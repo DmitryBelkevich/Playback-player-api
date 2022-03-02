@@ -169,6 +169,8 @@ VALUES
 (DEFAULT, '1gOLd3b9qG83qNNQ7PfgD1JhhbYrI4XaF', 1620),
 -- Кино - Игра
 (DEFAULT, '1thmItdTAQhoQeGV5xIic0CE2QwM6_SbT', 1625),
+-- Кино - Завтра война
+(DEFAULT, '1WmiwW0_itVW0zQgNvXOGQ_mSEn7arpB6', 1627),
 -- Кино - Звезда по имени Солнце
 (DEFAULT, '1690Q0jyq325Iv0Evbc1b-jeFCBdtOWmk', 1630),
 -- Кино - Когда твоя девушка больна

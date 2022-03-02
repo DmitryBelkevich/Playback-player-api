@@ -216,6 +216,8 @@ VALUES
 -- Кино - Игра
 (DEFAULT, 'original', '1on-6JYFSbzI_yEFUJmNSVK3Gd1CcgFw9', 1625),
 (DEFAULT, '0', '1wfTZxsv4TF1BBg4e7imcwM958fU1VnVB', 1625),
+-- Кино - Завтра война
+(DEFAULT, 'original', '1r0iM1XIDD80PTSWVk48eTFMVk4V8BSjH', 1627),
 -- Кино - Звезда по имени Солнце
 (DEFAULT, 'original', '1SCP-67pJwwi1009kkrvwRvp-jbq3bQEA', 1630),
 (DEFAULT, '0', '19sKdYZUC0tj6mLAO7clL0IZpNX8zORm7', 1630),

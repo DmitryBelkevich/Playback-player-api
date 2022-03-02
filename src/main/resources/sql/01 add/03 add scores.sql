@@ -587,6 +587,7 @@ VALUES
 (DEFAULT, 'Fretless Bass Guitar', '1oq5rrANep0mrBA0mITRoPyEGWwnvGlwX', 1625),
 (DEFAULT, 'Drum Set', '1DvIN8rWVjaENw3WaJJ9WrJCeIbawxH4G', 1625),
 (DEFAULT, 'Alto Recorder', '1Ln6nlzeMn68pmeuo4mc85PC8y97Zb4RW', 1625),
+-- Кино - Завтра война
 -- Кино - Звезда по имени Солнце
 (DEFAULT, 'Full Score', '1GEqY5ZRzYxjTekAP9NYDc1r47K_1AlM-', 1630),
 (DEFAULT, 'Voice', '1Wk-aPHhidMH5PNt8qBHGQ4iKxiRkiuK-', 1630),
