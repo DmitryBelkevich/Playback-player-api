@@ -588,6 +588,9 @@ VALUES
 (DEFAULT, 'Drum Set', '1DvIN8rWVjaENw3WaJJ9WrJCeIbawxH4G', 1625),
 (DEFAULT, 'Alto Recorder', '1Ln6nlzeMn68pmeuo4mc85PC8y97Zb4RW', 1625),
 -- Кино - Завтра война
+(DEFAULT, 'Full Score', '1mpGGnHHIcYScQuy_ZJhTLs8mE-FES7eZ', 1627),
+(DEFAULT, 'Voice', '1XrFrj8820FZVT9-DovfI4SBN9A3MPy5T', 1627),
+(DEFAULT, 'Acoustic Guitar', '1EX2eDO5qTxRAlcodexg9Hh_a0Ph3xHnq', 1627),
 -- Кино - Звезда по имени Солнце
 (DEFAULT, 'Full Score', '1GEqY5ZRzYxjTekAP9NYDc1r47K_1AlM-', 1630),
 (DEFAULT, 'Voice', '1Wk-aPHhidMH5PNt8qBHGQ4iKxiRkiuK-', 1630),
