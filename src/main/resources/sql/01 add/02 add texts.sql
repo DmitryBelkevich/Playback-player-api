@@ -78,7 +78,7 @@ VALUES
 -- Lumen - Гореть
 (DEFAULT, '1pSS1wqUWSIO6bKMJ1UhOpJza4bbVdRw4', 1150),
 -- N.R.M. - Лёгкія-лёгкія
--- (DEFAULT, '', 1160),
+(DEFAULT, '1b7UbNMXhRhzwjUcL5fTsn_jjp_omWBnD', 1160),
 -- N.R.M. - Тры чарапахі
 (DEFAULT, '1U50gCrXbKqFdrWyRbf0sIjv9meaWZqQY', 1170),
 -- Noize MC - Вояджер-1

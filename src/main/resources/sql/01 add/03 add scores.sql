@@ -264,6 +264,7 @@ VALUES
 (DEFAULT, 'Viola, Violoncello', '1X5d2swa7huegqafAQCCWIhvcLskN8sI6', 1150),
 (DEFAULT, 'Viola', '1UTey9Pp2hJgtk6SiMfLy5GxbRs3h6yjl', 1150),
 (DEFAULT, 'Violoncello', '1IT7JfyvTz6meX4nGlXE6alFuYrMMnfLI', 1150),
+-- N.R.M. - Лёгкія-лёгкія
 -- Noize MC - Вояджер-1
 (DEFAULT, 'Full Score', '1yJzZ0sEfA7UV_mRTHvRlCvj1AIp3GzuM', 1175),
 (DEFAULT, 'Voice 1, Voice 2', '13sq3WfbZ2dczs5QPL4ZFfedza9YqV-Vn', 1175),
