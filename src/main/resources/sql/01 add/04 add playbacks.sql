@@ -414,8 +414,8 @@ VALUES
 (DEFAULT, '-2', '1YyDsTxcXiKYlqZ6EJFguOZ_LxQ9vCsg0', 2300),
 -- Сектор Газа - Пора домой
 (DEFAULT, 'original', '1HzP8J_N_ZH0AdHs3PQ3ISUcoPX_EpiNm', 2310),
-(DEFAULT, '0', '19PuzE6JjAp8vzkqqDaOif3YddNxeRoPX', 2310),
-(DEFAULT, '-2', '1YCgOA42e4nseyg2N5uUnifHjvtPGaKan', 2310),
+(DEFAULT, '0', '1_VMTXtRonuLZI6tZXStcMuZHFbRX8bfS', 2310),
+(DEFAULT, '-2', '1d_qtnbNBG245KxINNFpkvHGb87w8KNSi', 2310),
 -- Сектор Газа - Туман
 (DEFAULT, 'original', '1KmiuMyrSRQa7sg3SMAsKww4OcvavGBuX', 2320),
 (DEFAULT, '0', '1bdpyuCKN9v7NA1qb0pUL9y6o0uwJRHlX', 2320),
