@@ -99,6 +99,9 @@ VALUES
 (DEFAULT, '0', '1OOlkBsvKgUWx7jQ5mAcGPbsDZ6R1ZA4p', 1150),
 -- N.R.M. - Лёгкія-лёгкія
 (DEFAULT, 'original', '17C3G9lzZ_UFfrQVAux49mETYXLZLpk4g', 1160),
+(DEFAULT, '+5', '1912N3abrX_54F6w1ChCUvKTY1M3muS-E', 1160),
+(DEFAULT, '0', '18KV5_9Xet-YM2SJMY4BGFpYDjc0Ggi32', 1160),
+(DEFAULT, '-2', '1VgrqUBanFwhSyhRrIKuvkheeVYoUyo83', 1160),
 -- N.R.M. - Тры чарапахі
 (DEFAULT, 'original', '1H7jiqp_ThTuJGsGMonkrBvBajD4ujQKj', 1170),
 (DEFAULT, '-2', '1GNxYAsdQ5qxEYvAnko-eXQqgERPKyGhO', 1170),
