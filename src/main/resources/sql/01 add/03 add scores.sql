@@ -740,6 +740,7 @@ VALUES
 (DEFAULT, 'Lead 6 (Voice), FX 5 (Brightness)', '1yohFQ7sDyEHE0xQrrQHkpAQbjODj-iIo', 1714),
 (DEFAULT, 'Lead 6 (Voice)', '1OINgfJmYPuLL3jwYWxo1pe8ZtG-BlzDf', 1714),
 (DEFAULT, 'FX 5 (Brightness)', '1PfdIokRTSgO4v9Ghvw3q6u-dD1f16_T1', 1714),
+-- Кино - Я объявляю свой дом
 -- Король и Шут - Воспоминание о былой любви
 (DEFAULT, 'Full Score', '1mI8CDtEtNfULkAoJnlggW0UTrSuXmem1', 1720),
 (DEFAULT, 'Voice 1, Voice 2', '1JdJFfIHlwCXxhNnDMew98F3-QZQzGtNV', 1720),
