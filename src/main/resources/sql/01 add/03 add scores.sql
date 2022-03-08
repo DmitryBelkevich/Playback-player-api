@@ -741,6 +741,15 @@ VALUES
 (DEFAULT, 'Lead 6 (Voice)', '1OINgfJmYPuLL3jwYWxo1pe8ZtG-BlzDf', 1714),
 (DEFAULT, 'FX 5 (Brightness)', '1PfdIokRTSgO4v9Ghvw3q6u-dD1f16_T1', 1714),
 -- Кино - Я объявляю свой дом
+(DEFAULT, 'Full Score', '16UXx_14Ynys4X78al6Xe6cSgCvCNMLmo', 1719),
+(DEFAULT, 'Voice 1, Voice 2', '1tgVMUnJEGrXOpP84Be5XG3vwJZFygim5', 1719),
+(DEFAULT, 'Voice 1', '1T-zT5VkJSvVgNOflYC_cjl5XaniIbQMw', 1719),
+(DEFAULT, 'Voice 2', '1QEaQnSoqIiq7SZ39TGZBJulZlUJYra54', 1719),
+(DEFAULT, 'Acoustic Guitar, Electric Guitar', '12UsC-TFYYENH0GaATNMZDTCUlqh0DjNI', 1719),
+(DEFAULT, 'Acoustic Guitar', '1LkCQYfrFijOJFdCIRTjDzU39rM6SlDbm', 1719),
+(DEFAULT, 'Electric Guitar', '1mJ-qqDQhB5m5z_8TtqFSeNjO8Baom-4x', 1719),
+(DEFAULT, 'Fretless Bass Guitar', '1tsOuSQ0PmnpMGnBjGMGeh_KF7tErRrSn', 1719),
+(DEFAULT, 'Drum Set', '1Y1OPEykiFEihXndnXYSl5aoPiKzSmYz6', 1719),
 -- Король и Шут - Воспоминание о былой любви
 (DEFAULT, 'Full Score', '1mI8CDtEtNfULkAoJnlggW0UTrSuXmem1', 1720),
 (DEFAULT, 'Voice 1, Voice 2', '1JdJFfIHlwCXxhNnDMew98F3-QZQzGtNV', 1720),
