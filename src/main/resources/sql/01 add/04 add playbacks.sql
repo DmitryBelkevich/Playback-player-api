@@ -261,7 +261,7 @@ VALUES
 (DEFAULT, '0', '1VYkH_8TKtzUAQVAfUb-oO9NQE6HE67ms', 1717),
 -- Кино - Я объявляю свой дом
 (DEFAULT, 'original', '1EcrzgWuWD6UcODBMwESBc0Al3JCI_FA3', 1719),
-(DEFAULT, '0', '1DjFE2AtB_npCSMI1luUGNsocfWGQKbFv', 1719),
+(DEFAULT, '0', '1EL8J_zj_HDa6XHB3wMo5hjGRetoScROa', 1719),
 -- Король и Шут - Воспоминание о былой любви
 (DEFAULT, 'original', '1QxAgG3f1KArNxnkEmdGTUQSvKZYv9PwF', 1720),
 (DEFAULT, '0', '1FNEoo8iFXwFZTZusOnLyHZcE0DhwiBch', 1720),
