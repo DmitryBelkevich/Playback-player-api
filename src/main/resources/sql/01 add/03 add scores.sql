@@ -438,6 +438,7 @@ VALUES
 (DEFAULT, 'Full Score', '1qcEHuVVux35N8SMn76gcDxYK05AXbnxw', 1443),
 (DEFAULT, 'Voice', '1LrCM_5h8hbucgrp9y84OS6v7pqx8Hnt4', 1443),
 (DEFAULT, 'Acoustic Guitar', '16n1D_QnsCcljs-q_vqX3ZgldrQcSzwqt', 1443),
+-- ДДТ - Песня о свободе
 -- ДДТ - Просвистела
 (DEFAULT, 'Full Score', '1SDETVYTG_nsl76Xu7YHBRWJuPOwqoXhJ', 1450),
 (DEFAULT, 'Voice 1, Voice 2', '1U0i6M-vXf2T_SrFrt15823l7Vu4aoJy5', 1450),

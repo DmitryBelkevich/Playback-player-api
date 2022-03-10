@@ -177,6 +177,7 @@ VALUES
 -- ДДТ - Пацаны
 (DEFAULT, 'original', '1M7eD836Lkxxv8l3QzV1zf8vfrJhIFM_7', 1443),
 (DEFAULT, '0', '1YWwoHMlks8XYk6zM2hrj0geiinIlQSQm', 1443),
+-- ДДТ - Песня о свободе
 -- ДДТ - Просвистела
 (DEFAULT, 'original', '1wKbPsMWCR-gNhKCIEFUa23D_vgFJ_bWQ', 1450),
 (DEFAULT, '0', '1QAiKKesI3PLnxzV1_8WJmAZ9-C3TFkuV', 1450),
