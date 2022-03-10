@@ -300,6 +300,7 @@ VALUES
 -- Nautilus Pompilius - Я хочу быть с тобой
 (DEFAULT, '1E02LHvaWLLtgYsaFdBY9QczgbNs7X2Qy', 2250),
 -- Порнофильмы - Это пройдёт
+(DEFAULT, '1Q1kOHwM46t0XCjh19Oe9uT6qVHUcdINl', 2255),
 -- Порнофильмы - Я так соскучился
 (DEFAULT, '1lL6BOSpselagLAFSTzCk4vLrVsfRAMBo', 2260),
 -- Сектор Газа - 30 лет

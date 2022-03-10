@@ -396,6 +396,7 @@ VALUES
 (DEFAULT, '0', '1A-gHqRqbp1T7GcNn3SJZEDcvp5oK0oIR', 2250),
 (DEFAULT, '-2', '1mb2MUBhLViP1HdCswCtLawKdsJfudPhU', 2250),
 -- Порнофильмы - Это пройдёт
+(DEFAULT, 'original', '1OC1lsnQEsc3wciMz1L13pZc_EXpsNAHy', 2255),
 -- Порнофильмы - Я так соскучился
 (DEFAULT, 'original', '1Zw0YoRcOeNcRgs3pP5F_ZBucy-HTFSiY', 2260),
 (DEFAULT, '+5', '1ZbDnjMPpl5X5huK5BpeyOnhLuWF-im1q', 2260),
