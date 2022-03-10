@@ -1168,6 +1168,14 @@ VALUES
 (DEFAULT, 'Pad 2 (Warm)', '1B4lUMvQKqqOSpWR2XMg8IqjCCaTme_Io', 2250),
 (DEFAULT, 'Synth Bass', '1O4onFXRS0-Ji89h73KqFJgSluHvtZDUe', 2250),
 -- Порнофильмы - Это пройдёт
+(DEFAULT, 'Full Score', '1wP0me5QoTrIH1Ojy_jdBYjn3Rjq_VrhF', 2255),
+(DEFAULT, 'Voice', '1Ejl7OwuBgcI-7SlfvbUCWotzFTrKKaHg', 2255),
+(DEFAULT, 'Electric Guitar 1, Electric Guitar 2', '1cZL1--FHcHiXP-XlKpLkU12SH9T4unP6', 2255),
+(DEFAULT, 'Electric Guitar 1', '18d6QDtPNvA9AzPenvnbs4NgC2cGCPSyS', 2255),
+(DEFAULT, 'Electric Guitar 2', '1U8Sowp95pjakCAqhl1sge1kL_qMOwBax', 2255),
+(DEFAULT, 'Bass Guitar', '1n-ge3uZj0tEgW1mmvHlwix0ULy62MlsN', 2255),
+(DEFAULT, 'Drum Set', '1vCIm8NRnz0sZuGwFSbJpkhN9LyWYeyKr', 2255),
+(DEFAULT, 'Pad 2 (Warm)', '1qGIsmB2Xt2_Y3bT6GNaXhZxoz4QZrMe1', 2255),
 -- Порнофильмы - Я так соскучился
 (DEFAULT, 'Full Score', '1S6N9p5obHXfxUimiWNzWYRVoJrG74MkD', 2260),
 (DEFAULT, 'Voice 1', '1UDGfYO0F81U08RcLX8ctOewpxnXsGwK_', 2260),
