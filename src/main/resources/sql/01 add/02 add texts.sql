@@ -138,6 +138,7 @@ VALUES
 -- ДДТ - Пацаны
 (DEFAULT, '1ecrcelpFRTOT8PSbnMLaBSZjN4rknLF4', 1443),
 -- ДДТ - Песня о свободе
+(DEFAULT, '16aKcIs5KRKdCVonSW8lYWjWQBSEywFjP', 1445),
 -- ДДТ - Просвистела
 (DEFAULT, '1T6eecr4B4ybNRod3x6QXL8CFhLtfTSjR', 1450),
 -- ДДТ - Что такое осень
