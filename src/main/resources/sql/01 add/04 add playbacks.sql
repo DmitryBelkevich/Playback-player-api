@@ -351,7 +351,7 @@ VALUES
 (DEFAULT, '0', '1wfvO6pXXnmUifzY4MU-ypK6y4lB4uo3N', 2040),
 -- Ляпис Трубецкой - Манифест
 (DEFAULT, 'original', '1S3UunphRtnHia7WLnBW-X_yrC8aMkbSJ', 2050),
-(DEFAULT, '0', '1sc1b7VrxTpGeJopsltiZm6UEIxLMWEvF', 2050),
+(DEFAULT, '0', '1Ah31ZZ-9EskicxWXIHArtdvkAVHpjJ7l', 2050),
 -- Ляпис Трубецкой - Не быць скотам!
 (DEFAULT, 'original', '1rqg5XSxEbhDHnLhOgr8lUSZlFmppKqAk', 2060),
 -- Ляпис Трубецкой - Огоньки
