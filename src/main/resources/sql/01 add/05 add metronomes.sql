@@ -244,7 +244,10 @@ VALUES
 (DEFAULT, null, 2, 4, 126, 2040),
 -- Ляпис Трубецкой - Манифест
 (DEFAULT, 'Intro 1', 2, 4, 92, 2050),
-(DEFAULT, 'Intro 2', 2, 4, 150, 2050),
+(DEFAULT, 'Intro 2, Chorus', 2, 4, 150, 2050),
+(DEFAULT, 'Verse', 4, 4, 150, 2050),
+(DEFAULT, 'Break', 8, 8, 300, 2050),
+(DEFAULT, 'Chorus (last)', 4, 8, 300, 2050),
 -- Ляпис Трубецкой - Не быць скотам!
 (DEFAULT, null, 4, 4, 144, 2060),
 -- Ляпис Трубецкой - Огоньки
