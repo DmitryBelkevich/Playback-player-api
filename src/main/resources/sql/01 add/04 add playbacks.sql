@@ -179,9 +179,9 @@ VALUES
 (DEFAULT, '0', '1YWwoHMlks8XYk6zM2hrj0geiinIlQSQm', 1443),
 -- ДДТ - Песня о свободе
 (DEFAULT, 'original', '1ls_14JUB5mRI8BVFJsrIlKnvKg4ZCJ4o', 1445),
-(DEFAULT, '0', '1gMlmst6Wg4dSkjYOSvexAAf1tdYzE3gP', 1445),
-(DEFAULT, '-2', '1Q0nK2sXUcHdBQ66emr93zvJO2AsR_riQ', 1445),
-(DEFAULT, '-3', '1JCTqme4S4U-9V15hsChxPd1ojfGWaewl', 1445),
+(DEFAULT, '0', '1CmzTQh780eP0vM19xwfK0L1aMZzqi4LY', 1445),
+(DEFAULT, '-2', '1h5fXJx9yeX4Z5kOmBc4R_9aESNKDJ70z', 1445),
+(DEFAULT, '-3', '1H-OP9R2DvV_K6MhS7SQxkBqeiTHB0_kZ', 1445),
 -- ДДТ - Просвистела
 (DEFAULT, 'original', '1wKbPsMWCR-gNhKCIEFUa23D_vgFJ_bWQ', 1450),
 (DEFAULT, '0', '1QAiKKesI3PLnxzV1_8WJmAZ9-C3TFkuV', 1450),
