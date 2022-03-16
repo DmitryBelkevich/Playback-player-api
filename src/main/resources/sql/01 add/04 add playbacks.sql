@@ -87,6 +87,8 @@ VALUES
 (DEFAULT, '+3', '1DiLNtmDNCqy30o8WHa_-BpU7MjAKXpmj', 1090),
 (DEFAULT, '0', '1r5HzLE1AVzPIkNnomePJBh2uZtaqPX7M', 1090),
 (DEFAULT, '-2', '1ESEfNvD4LoAkBFwcqSbYqQ-OG94ZHhhD', 1090),
+-- The Rolling Stones - Paint It Black
+(DEFAULT, 'original', '1p3v8WEIPohHCUauA5OCmY_iPbaDvwsQM', 1115),
 -- Animal ДжаZ - Три полоски
 (DEFAULT, 'original', '11FHM4hHS6tqdStEO3nKC3-F-Cwr3RnAx', 1120),
 (DEFAULT, '0', '1Pji3yNUq0P--uCwhIdQF_u-xypQV19R1', 1120),
