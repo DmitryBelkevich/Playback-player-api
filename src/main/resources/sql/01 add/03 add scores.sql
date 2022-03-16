@@ -439,7 +439,7 @@ VALUES
 (DEFAULT, 'Voice', '1LrCM_5h8hbucgrp9y84OS6v7pqx8Hnt4', 1443),
 (DEFAULT, 'Acoustic Guitar', '16n1D_QnsCcljs-q_vqX3ZgldrQcSzwqt', 1443),
 -- ДДТ - Песня о свободе
-(DEFAULT, 'Full Score', '1wAWHoXbdGpnBxPoTylgnqPrTzrNrMeqA', 1445),
+(DEFAULT, 'Full Score', '1qoETWlFOlJYePpln23TZRy0BoTYOvBUx', 1445),
 (DEFAULT, 'Voice 1, Voice 2, Voice 3, Voice 4', '1fOmX9PQuPPaSsY3x8jZuG-gBQKqIZZfs', 1445),
 (DEFAULT, 'Voice 1', '1EITL8qi9zJRnAmfFvNzlUwgmyb39VSo-', 1445),
 (DEFAULT, 'Voice 2', '1FNkvBrfC779VkD_lunuuyBbUtyw5TduP', 1445),
@@ -454,9 +454,10 @@ VALUES
 (DEFAULT, 'Drum Set, Tambourine', '1BacSwyAkXkID9DShe3lCOw7OoBP2nNQl', 1445),
 (DEFAULT, 'Drum Set', '1f-ZM9mkCH3ahg7MCQJbi-itIgiwlXmU5', 1445),
 (DEFAULT, 'Tambourine', '1XZY601to73EeIrDnV9Z4CSiI8VTS1-lC', 1445),
-(DEFAULT, 'Strings, Electric Organ', '1HyMYpqWAWpf9CpnBT8ldGMSg0u2xdqiA', 1445),
-(DEFAULT, 'Strings', '1U9_D0za7ccUtK7WxvTiLrQQRCl9Rfx1b', 1445),
-(DEFAULT, 'Electric Organ', '1YDDr4cqYeOqedRGBurjlSJk_p1iYJDvu', 1445),
+(DEFAULT, 'Strings, Electric Organ, Lead 8 (Bass + Lead)', '1ylhZw2aWLdJ-Z0CpUqlXaC1Q-fJ2thek', 1445),
+(DEFAULT, 'Strings', '1dH2VAkWfEJv1vO6ZWnyySGZc-5_pyBz2', 1445),
+(DEFAULT, 'Electric Organ', '16NK22gQiSGWlGbeLANzmBfAQa8cdnEfs', 1445),
+(DEFAULT, 'Lead 8 (Bass + Lead)', '1WuMMvnhzjDbe9yaivJyuO-qQ_aYRBhNR', 1445),
 -- ДДТ - Просвистела
 (DEFAULT, 'Full Score', '1SDETVYTG_nsl76Xu7YHBRWJuPOwqoXhJ', 1450),
 (DEFAULT, 'Voice 1, Voice 2', '1U0i6M-vXf2T_SrFrt15823l7Vu4aoJy5', 1450),
