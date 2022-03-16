@@ -45,6 +45,7 @@ VALUES
     (75, 'The Beatles'),
     (80, 'The Cranberries'),
     (85, 'The Offspring'),
+    (87, 'The Rolling Stones'),
 
     (90, 'Animal ДжаZ'),
     (95, 'BRUTTO'),
@@ -195,6 +196,8 @@ VALUES
     (1090, 'Zombie', 80, 'Em'),
     (1100, 'Pretty Fly (for a White Guy)', 85, 'Bm'),
     (1110, 'Self Esteem', 85, 'Am'),
+
+    (1115, 'Paint It Black', 87, null),
 
     (1120, 'Три полоски', 90, 'Dm'),
     (1130, '12 обезьян', 95, 'Gm'),

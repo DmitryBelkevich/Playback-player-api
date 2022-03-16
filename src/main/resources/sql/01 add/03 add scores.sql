@@ -233,6 +233,7 @@ VALUES
 (DEFAULT, 'Electric Guitar', '1lYKfgZT0LctXO3a9rJbru0jbeKfVX5GN', 1110),
 (DEFAULT, 'Bass Guitar', '1AQaIMj57NUw94OlEtxDiTfb97kQGzbZf', 1110),
 (DEFAULT, 'Drum Set', '1SLv18qI58Nzkq4cDnIwGk9k5v8tYEiUb', 1110),
+-- The Rolling Stones - Paint It Black
 -- Animal ДжаZ - Три полоски
 (DEFAULT, 'Full Score', '1vwFcjLGRibvBgQVHxKwlNJXWmlzCI4PT', 1120),
 (DEFAULT, 'Voice 1, Voice 2', '10bZwlpreashBBMDCwBSFUCGSx7q3oSc5', 1120),

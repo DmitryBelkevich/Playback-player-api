@@ -69,6 +69,7 @@ VALUES
 (DEFAULT, null, 4, 4, 143, 1100),
 -- The Offspring - Self Esteem
 (DEFAULT, null, 2, 4, 105, 1110),
+-- The Rolling Stones - Paint It Black
 -- Animal ДжаZ - Три полоски
 (DEFAULT, null, 4, 4, 108, 1120),
 -- BRUTTO - 12 обезьян
