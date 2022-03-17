@@ -27,7 +27,8 @@ VALUES
 -- System of a Down - Lonely Day
 (DEFAULT, null, 6, 8, 75, 80),
 -- System of a Down - Toxicity
-(DEFAULT, 'Intro, Verse, Chorus', 6, 8, 80, 90),
+(DEFAULT, 'Intro, Break, Verse', 12, 8, 80, 90),
+(DEFAULT, 'Break, Chorus, Outro', 6, 8, 80, 90),
 (DEFAULT, 'Break', 12, 16, 160, 90),
 -- Ария - Беспечный ангел
 (DEFAULT, null, 2, 4, 65, 100),
