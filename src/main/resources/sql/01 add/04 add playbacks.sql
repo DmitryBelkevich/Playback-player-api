@@ -98,6 +98,7 @@ VALUES
 (DEFAULT, 'original', '1VLFscNbxvL7AFgwMMHwef4DLHr2O6E_J', 1130),
 (DEFAULT, '-2', '1shRpIIQeov8Zm-hGe5-5Cge1V7JxpOBM', 1130),
 -- DREZDEN - Эдельвейс
+(DEFAULT, 'original', '1nVr62lWeXnu4O7I_NmbJeVaI8HyKUozV', 1140),
 -- Lumen - Гореть
 (DEFAULT, 'original', '1TAmlTGqDiej_IQsD85WydhcGeVeuIPJG', 1150),
 (DEFAULT, '0', '1OOlkBsvKgUWx7jQ5mAcGPbsDZ6R1ZA4p', 1150),
