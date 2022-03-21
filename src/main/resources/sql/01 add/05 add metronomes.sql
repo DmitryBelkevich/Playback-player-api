@@ -77,6 +77,7 @@ VALUES
 -- BRUTTO - 12 обезьян
 (DEFAULT, null, 4, 4, 128, 1130),
 -- DREZDEN - Эдельвейс
+(DEFAULT, null, 4, 4, 102, 1140),
 -- Lumen - Гореть
 (DEFAULT, null, 4, 4, 67, 1150),
 -- N.R.M. - Лёгкія-лёгкія
