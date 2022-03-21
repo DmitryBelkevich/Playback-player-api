@@ -258,6 +258,7 @@ VALUES
 (DEFAULT, 'Acoustic Guitar 1', '1FnyF9Bbhk0CeSXfA_cEBQkLw_B78gJSB', 1130),
 (DEFAULT, 'Acoustic Guitar 2', '1ObYKYNrnHn4POKuUT8eBJTw19Tq6apPd', 1130),
 (DEFAULT, 'Tambourine', '1d-h3XL1K1A2f8gzonDAYu6asGtTnaWX5', 1130),
+-- DREZDEN - Эдельвейс
 -- Lumen - Гореть
 (DEFAULT, 'Full Score', '1vu3QsAx5eNcyZfd-F6rCEb3A9tRd8aYQ', 1150),
 (DEFAULT, 'Voice', '1YqhBpSu6NfLZ8uEWPttlNhvagAEUITt8', 1150),
