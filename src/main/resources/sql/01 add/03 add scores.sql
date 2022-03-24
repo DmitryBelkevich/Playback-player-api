@@ -114,7 +114,7 @@ VALUES
 (DEFAULT, 'Drum Set', '1zM7os8WX7YdlbrR1U1T4_uFU2EYdqUNf', 100),
 (DEFAULT, 'Strings', '1ZzGUkprg_iB9rIoA59A6ShSicPH-3P5q', 100),
 -- Ария - Осколок льда
-(DEFAULT, 'Full Score', '1wN8--ZrwFENVWGRA_SGGUDj8mAbAi2ic', 120),
+(DEFAULT, 'Full Score', '1gIq6tyyUau2qnkePIUnW_HQGavJ_3Ytd', 120),
 (DEFAULT, 'Voice 1, Voice 2', '1bm35kXATqmJARopTbgSCft_IQq4mvfAg', 120),
 (DEFAULT, 'Voice 1', '1z11P1_fpsb_aW0v2LkhrglOF0J3JNyXc', 120),
 (DEFAULT, 'Voice 2', '1_9IfEQvC2GiPm_boJlK1JVLckH-KcLMt', 120),
@@ -126,7 +126,7 @@ VALUES
 (DEFAULT, 'Electric Guitar 1', '11JeUKG6t93A3s9tWUJZLDskZd1gcsDAD', 120),
 (DEFAULT, 'Electric Guitar 2', '1piz-MMrwlSXxNsrWkptK6U73Tbtt94z0', 120),
 (DEFAULT, 'Electric Guitar 3', '1nM14v-LwEKFXJFZgTVSeHl7tWU9MF3ux', 120),
-(DEFAULT, 'Bass Guitar', '1eyMFQ6eAUu8EnnYRxJSFvI_dP1kUs54e', 120),
+(DEFAULT, 'Bass Guitar', '1BjYHzfoQ8jHb9Fdi3JFhu_Cq3xcnwUG0', 120),
 (DEFAULT, 'Drum Set', '1pblLyOr8UUwYbWSwks_rF-b1OsN9v1MB', 120),
 (DEFAULT, 'Electric Organ, Violin, Viola, Violoncello', '19O6qtPn1j-moic6TLEszIiE34Elz4kSR', 120),
 (DEFAULT, 'Electric Organ', '1ZNc-VSa7_5Mv0Kmb-qlm_68ABbI3Xj8L', 120),
