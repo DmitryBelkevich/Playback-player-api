@@ -43,7 +43,8 @@ VALUES
 (DEFAULT, '0', '15Fd6JhPlD94HgIzy1N2lvFo12o7a6WuM', 110),
 -- Ария - Осколок льда
 (DEFAULT, 'original', '1R8yWiUQIbtWI9WSzN7HIIuxnbBrvUXcC', 120),
-(DEFAULT, '0', '15MxbTaO4O9_6k7QjgUEcBSzu1uvoLXo4', 120),
+(DEFAULT, '+3', '1ySTX2WfEA9NeHHaBINGhKYpAh0DGw_VZ', 120),
+(DEFAULT, '0', '1y111jbIy84aVIaqVKPU8jmmRo4irhIHQ', 120),
 -- Ария - Штиль
 (DEFAULT, 'original', '1nzb51T6n7i0Qb0ci08TthKZRd-26Qs-X', 160),
 (DEFAULT, '+2', '193aNPwfwC4RGLQcIb7EV9quKBXEKfjar', 160),
