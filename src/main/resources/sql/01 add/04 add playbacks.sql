@@ -285,8 +285,8 @@ VALUES
 (DEFAULT, '-2', '1U3baEUmixSURmDZzGpOOgufDDSH4W_Vw', 1740),
 -- Король и Шут - Дурак и молния
 (DEFAULT, 'original', '1a4DgfuiaB-irTmAmn-iW64kgBlaUgseG', 1750),
-(DEFAULT, '0', '1UAruekfzB-YRM95vrMMWYKZIM_zH1s0l', 1750),
-(DEFAULT, '-2', '1nI773EMyqZYIWOhVS93FQG58Uz3FW7wO', 1750),
+(DEFAULT, '0', '1I806AnkGJB6ezB3LdKbi5d8V6PdClULE', 1750),
+(DEFAULT, '-2', '14-llEOfSkXxrUkFsk34OjJh4wqIMReCa', 1750),
 -- Король и Шут - Ели мясо мужики
 (DEFAULT, 'original', '1C1Ne1uam2icG1LvQ1SO0Tq9AiJLlZcSi', 1760),
 (DEFAULT, '0', '1iSYQTSTq4jb4KyHRY0XNG_xHWRYSN0_Q', 1760),
