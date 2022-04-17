@@ -282,12 +282,13 @@ VALUES
 (DEFAULT, 'Tambourine', '1d-h3XL1K1A2f8gzonDAYu6asGtTnaWX5', 1130),
 -- DREZDEN - Эдельвейс
 -- Lumen - Гореть
-(DEFAULT, 'Full Score', '1vu3QsAx5eNcyZfd-F6rCEb3A9tRd8aYQ', 1150),
-(DEFAULT, 'Voice', '1YqhBpSu6NfLZ8uEWPttlNhvagAEUITt8', 1150),
-(DEFAULT, 'Acoustic Guitar', '167SabiMGs9T3CmqDl56GjcEd5hHIA12h', 1150),
-(DEFAULT, 'Viola, Violoncello', '1X5d2swa7huegqafAQCCWIhvcLskN8sI6', 1150),
-(DEFAULT, 'Viola', '1UTey9Pp2hJgtk6SiMfLy5GxbRs3h6yjl', 1150),
-(DEFAULT, 'Violoncello', '1IT7JfyvTz6meX4nGlXE6alFuYrMMnfLI', 1150),
+(DEFAULT, 'Full Score', '15yKd_grLEYlQFsdqSYYlp-Y-7t6WbKOh', 1150),
+(DEFAULT, 'Voice', '1cGIZutyEUFlBR_Dq6Tc2Scy-ZhipcMdu', 1150),
+(DEFAULT, 'Acoustic Guitar', '1-rYMQT40376tYiNxqUYOrl4-oAzBOVRp', 1150),
+(DEFAULT, 'Violin, Viola, Violoncello', '1wgF6hWCC8L0pQs9HKUDkpQmvtVBOWLny', 1150),
+(DEFAULT, 'Violin', '130GLI3-LZdUCIi5T-xqgfv1DyzyfLdtj', 1150),
+(DEFAULT, 'Viola', '10j8GtZe-FJA1Vu86ulrSC2STIxZ1BGgZ', 1150),
+(DEFAULT, 'Violoncello', '1cdNpJP9tYjtBvwWwV5meNFNlwRmyZnWZ', 1150),
 -- N.R.M. - Лёгкія-лёгкія
 -- Noize MC - Вояджер-1
 (DEFAULT, 'Full Score', '1yJzZ0sEfA7UV_mRTHvRlCvj1AIp3GzuM', 1175),
