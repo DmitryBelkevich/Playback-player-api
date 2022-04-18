@@ -104,7 +104,8 @@ VALUES
 (DEFAULT, 'original', '1nVr62lWeXnu4O7I_NmbJeVaI8HyKUozV', 1140),
 -- Lumen - Гореть
 (DEFAULT, 'original', '1TAmlTGqDiej_IQsD85WydhcGeVeuIPJG', 1150),
-(DEFAULT, '0', '1OOlkBsvKgUWx7jQ5mAcGPbsDZ6R1ZA4p', 1150),
+(DEFAULT, '+2', '1MyBSbHBf5TA_mwqRKikWpdhBZ1QoDbpj', 1150),
+(DEFAULT, '0', '1XCR9t-rxstTArNti0WHCVFhtyg-g_4xk', 1150),
 -- N.R.M. - Лёгкія-лёгкія
 (DEFAULT, 'original', '17C3G9lzZ_UFfrQVAux49mETYXLZLpk4g', 1160),
 (DEFAULT, '+5', '1912N3abrX_54F6w1ChCUvKTY1M3muS-E', 1160),
