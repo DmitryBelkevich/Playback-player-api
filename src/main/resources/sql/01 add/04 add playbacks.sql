@@ -148,7 +148,7 @@ VALUES
 (DEFAULT, '0', '1se8_EklHqygr7FefbW_SELjhXapJzVlh', 1250),
 -- Би-2 - Мой рок-н-ролл
 (DEFAULT, 'original', '1Arw7ZR1CwW42EYK083Zs3hGq22IMue-o', 1260),
-(DEFAULT, '0', '1CNzBohZnPDbjAV_y1p3DOkhRbdUaGGY0', 1260),
+(DEFAULT, '0', '1PATYxaqLqDXZSxBPDytGd1ALjGqzgnQ1', 1260),
 -- Би-2 - Полковнику никто не пишет
 (DEFAULT, 'original', '1jsIWOVrWu8uQw1zgOQWLV2MhiYPCRS_J', 1270),
 (DEFAULT, '0', '1kgOoVmczkahP16axRDQAZfxoyZRPSZ9X', 1270),
