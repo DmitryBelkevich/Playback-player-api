@@ -536,9 +536,9 @@ VALUES
 (DEFAULT, 'original', '1WiC6XGzYRXTpMTtVS6qtJ0Iq6MUI9d1q', 6000),
 -- Альянс - На заре
 (DEFAULT, 'original', '16ggNNQ-pwjX5AOGOGkgvpvvSt-bIIW7h', 6010),
-(DEFAULT, '0', '1DNfIkofmGbaQ84thpLKsfz8viqPhtHr8', 6010),
-(DEFAULT, '-2', '1niqpaRJ3pYOzuoZgzh3lwxtPkEL2VB1P', 6010),
-(DEFAULT, '-3', '1VDkMZWx4L2vlsEsUCn7iaVmtabcv7FEF', 6010),
+(DEFAULT, '0', '12QKcUkNOSoUjDUmaTqxttbbyAC5kdCKM', 6010),
+(DEFAULT, '-2', '1Z5p2cPedaskXgW8eM7HojzDwYFhmvfAB', 6010),
+(DEFAULT, '-5', '1o5YsgNL95tkPJAmhTljJiSsQ77bIzCCn', 6010),
 
 -- New school
 
