@@ -95,8 +95,6 @@ VALUES
 (DEFAULT, null, 7, 4, 98, 1190),
 -- Аквариум - Город золотой
 (DEFAULT, null, 2, 4, 65, 1200),
--- Альянс - На заре
-(DEFAULT, null, 4, 4, 127, 1220),
 -- АукцЫон - Дорога
 (DEFAULT, null, 6, 4, 130, 1230),
 -- Би-2 - Варвара
@@ -376,6 +374,8 @@ VALUES
 
 -- Eurythmics - Sweet Dreams (Are Made of This)
 (DEFAULT, null, 4, 4, 126, 6000),
+-- Альянс - На заре
+(DEFAULT, null, 4, 4, 127, 6010),
 
 -- New school
 

@@ -95,8 +95,6 @@ VALUES
 (DEFAULT, '1ioMOPIKqppfNx_tNX67ONu1lUGCHq1th', 1200),
 -- Алексин - Малолетние шалавы
 (DEFAULT, '1vayh9CHsO46ZU3pSGBLVEA9MLP9axNxK', 1210),
--- Альянс - На заре
-(DEFAULT, '1qsxOUZ-vt8B-6oJhbfbg-EezKGF4lczq', 1220),
 -- АукцЫон - Дорога
 (DEFAULT, '1vxXVHZf-WXy6zc9KuTFlSPsnkfp1ob8W', 1230),
 -- Би-2 - Варвара
@@ -390,6 +388,8 @@ VALUES
 
 -- Eurythmics - Sweet Dreams (Are Made of This)
 (DEFAULT, '1tkGcrsY8riGIiYC0-JZPQeVWvPCrZsCV', 6000),
+-- Альянс - На заре
+(DEFAULT, '1qsxOUZ-vt8B-6oJhbfbg-EezKGF4lczq', 6010),
 
 -- New school
 

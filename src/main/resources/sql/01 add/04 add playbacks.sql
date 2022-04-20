@@ -135,11 +135,6 @@ VALUES
 (DEFAULT, 'original', '1SJOhp6-EYnR0NeEAWTXGnLGecDyS5L0D', 1200),
 (DEFAULT, '0', '1Y1Z8L9_N7Er8ma3xd_AJ3YGiuNle1kY5', 1200),
 (DEFAULT, '-2', '1_91wLHOLYrLFEXs7waRC-ixYzoxgjy8X', 1200),
--- Альянс - На заре
-(DEFAULT, 'original', '16ggNNQ-pwjX5AOGOGkgvpvvSt-bIIW7h', 1220),
-(DEFAULT, '0', '1DNfIkofmGbaQ84thpLKsfz8viqPhtHr8', 1220),
-(DEFAULT, '-2', '1niqpaRJ3pYOzuoZgzh3lwxtPkEL2VB1P', 1220),
-(DEFAULT, '-3', '1VDkMZWx4L2vlsEsUCn7iaVmtabcv7FEF', 1220),
 -- АукцЫон - Дорога
 (DEFAULT, 'original', '1q9DRF7o7diRj3tpDxJrexl9_41hioS2z', 1230),
 (DEFAULT, '0', '1xl9crJCQ64aaP5sEFrKrX25LdvCRX231', 1230),
@@ -539,6 +534,11 @@ VALUES
 
 -- Eurythmics - Sweet Dreams (Are Made of This)
 (DEFAULT, 'original', '1WiC6XGzYRXTpMTtVS6qtJ0Iq6MUI9d1q', 6000),
+-- Альянс - На заре
+(DEFAULT, 'original', '16ggNNQ-pwjX5AOGOGkgvpvvSt-bIIW7h', 6010),
+(DEFAULT, '0', '1DNfIkofmGbaQ84thpLKsfz8viqPhtHr8', 6010),
+(DEFAULT, '-2', '1niqpaRJ3pYOzuoZgzh3lwxtPkEL2VB1P', 6010),
+(DEFAULT, '-3', '1VDkMZWx4L2vlsEsUCn7iaVmtabcv7FEF', 6010),
 
 -- New school
 

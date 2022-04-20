@@ -337,17 +337,6 @@ VALUES
 (DEFAULT, 'Acoustic Guitar', '1i_x7aeXwLNOW9SaE6YoO03G0T9xGxRg1', 1200),
 (DEFAULT, 'Fretless Bass Guitar', '1pXsvkuULwx8h-NnM-v5zCs7YI7A76H-L', 1200),
 (DEFAULT, 'Piccolo', '1MWnMxx-fyrWSZEM0hxtBxr45ZVrajWys', 1200),
--- Альянс - На заре
-(DEFAULT, 'Full Score', '1VU9saBYtJFXdd9ijZM-ym6kTEDjTrIfa', 1220),
-(DEFAULT, 'Voice', '1kmkML8Kl5BBdJYLD76pIVx5cooMDN0BU', 1220),
-(DEFAULT, 'Bass Guitar', '1Y-AC3Egz6Ghn6Z4PDBPUZhGtq0OnJzlY', 1220),
-(DEFAULT, 'Drum Set', '1HJIzvft9T_P2MEVQHVubxvnOWh69T3tJ', 1220),
-(DEFAULT, 'FX 1 (Rain), Pad 5 (Bowed)', '1aBVCHomVvKsUpcbWifa_KYA5fWufmZeS', 1220),
-(DEFAULT, 'FX 4 (Atmosphere)', '1_LjiAIaYNnPgZSp2ZNb_H8nEyjvHebnQ', 1220),
-(DEFAULT, 'Pad 2 (Warm), Synth Strings', '1oSUd5XJo8k1eTtp3gIGj8JD9miWdZYEe', 1220),
-(DEFAULT, 'Lead 2 (Sawtooth)', '1ITOeSkX6ZzjWLFWxKk0mfykVPJ8CIkLn', 1220),
-(DEFAULT, 'Synth Brass', '1Vww3be-qIsLbjcUZEvdElMfvjJJfmzZG', 1220),
-(DEFAULT, 'Electric Clavichord', '1zpYWsBceKLJ_ALffaqK12Osyf1npD4KP', 1220),
 -- АукцЫон - Дорога
 -- Би-2 - Варвара
 (DEFAULT, 'Full Score', '1sGKOnWBLpDNC6RUXsYcjIdcsESNPs6gB', 1240),
@@ -1491,6 +1480,14 @@ VALUES
 (DEFAULT, 'FX 3 (Crystal), FX 4 (Atmosphere), Pad 6 (Metallic), Pad 2 (Warm), Synth Bass, Lead 8 (Bass + Lead)', '1jguvwlE7-Bn3vofaP8mLXDrTQFkOZHq7', 5110),
 
 -- SynthPop
+
+-- Альянс - На заре
+(DEFAULT, 'Full Score', '1MISoKHhR8gp-4d3iSxKkv3ljT6Qrij6b', 6010),
+(DEFAULT, 'Voice', '18y2owa_9vvaRrnPA9wDvmX8L1ODSJ0ti', 6010),
+(DEFAULT, 'Bass Guitar', '1OqzddQpohwPgKNZ8tyjFd_Z-JOif1QYS', 6010),
+(DEFAULT, 'Drum Set', '1e_Z6bvA8TqDsKdAX8JAVCP3q8S7iND6Q', 6010),
+(DEFAULT, 'FX 1 (Rain), Pad 5 (Bowed), FX 4 (Atmosphere), Pad 2 (Warm), Synth Strings', '1JoqXEqqTaENO16ybJZnIe-fTu1VFXq59', 6010),
+(DEFAULT, 'Lead 2 (Sawtooth), Synth Brass, Electric Clavichord', '115Vthbbo1nWUUBgIUzJi1Jy4z4D2xnm2', 6010),
 
 -- New school
 
