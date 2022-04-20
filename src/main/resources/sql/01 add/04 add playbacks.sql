@@ -51,6 +51,10 @@ VALUES
 (DEFAULT, '0', '1QkPNKlTAYclfMLPZTZER1tJp41qgy0iQ', 160),
 -- Кипелов - Я свободен!
 (DEFAULT, '0', '1Vpvpg7njDtDdH-AbdRt9FD6ldq6giHe4', 170),
+-- Легион - Звезда
+(DEFAULT, 'original', '1YHU6z27YpnTycYruo-86cm0U55OMZAFw', 175),
+(DEFAULT, '0', '1xNwHBiK1CwgJAKfnPY-c-FvRHD7DOcLR', 175),
+(DEFAULT, '-5', '1lxVj3dPMg4am5idzccE4_ga-vg7DTwRe', 175),
 -- Слот - Круги на воде
 (DEFAULT, 'original', '1YlSgh1QzHl7t272sqgZIZogWzbBhFgyF', 180),
 (DEFAULT, '+1', '1zm4DItjrNXzme9cqTUiY9BeOccdThdyO', 180),
