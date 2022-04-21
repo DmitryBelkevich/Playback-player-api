@@ -50,6 +50,7 @@ VALUES
 (DEFAULT, '+2', '193aNPwfwC4RGLQcIb7EV9quKBXEKfjar', 160),
 (DEFAULT, '0', '1QkPNKlTAYclfMLPZTZER1tJp41qgy0iQ', 160),
 -- Кипелов - Я свободен!
+(DEFAULT, 'original', '1G2TPOig-GUVAQcNPDs3yOw1JLDvfbHga', 170),
 (DEFAULT, '0', '1Vpvpg7njDtDdH-AbdRt9FD6ldq6giHe4', 170),
 -- Легион - Звезда
 (DEFAULT, 'original', '1YHU6z27YpnTycYruo-86cm0U55OMZAFw', 175),
