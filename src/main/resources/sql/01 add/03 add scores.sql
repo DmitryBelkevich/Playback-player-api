@@ -146,6 +146,7 @@ VALUES
 (DEFAULT, 'Choir', '1mLZUInGabTeJp7yu3kpF3cpylPI2-4mK', 160),
 (DEFAULT, 'Organ', '1GzMs3gp9OzNbP4UgCDH3Rwf5jVIHp_Se', 160),
 (DEFAULT, 'Strings', '1BIloJZ2a6NsL5L-3YuDMw6dlChKxXAXY', 160),
+-- Кипелов - Я свободен!
 -- Легион - Звезда
 (DEFAULT, 'Full Score', '19aLB_oGeNJM9aOvQNO8ix6ikU-IAIS_E', 175),
 (DEFAULT, 'Voice', '1tESq8xrreXf5PQmIakacp8T7BAWWlZr5', 175),
