@@ -460,7 +460,7 @@ VALUES
 (DEFAULT, '0', '1yk2B_QrW9Tojm1KSuzC_72srOCr2N39p', 2380),
 -- Сплин - Моё сердце
 (DEFAULT, 'original', '1AjPSkquyEKmU6iaZQGnejPAX1lk1p4pV', 2390),
-(DEFAULT, '0', '14F7W4rstztkmQxbyIduOEKSSKNpzLRAF', 2390),
+(DEFAULT, '0', '1zaHYerdufDQI2pieMsmxZu_xPp7BHFxO', 2390),
 -- Сплин - Орбит без сахара
 (DEFAULT, 'original', '1W3RKtn2pNLYhXPX4x58ru3jUAZexr16l', 2400),
 (DEFAULT, '0', '1EUMB6U7BOAEQhl5ualx3trWbCPSuQqe4', 2400),
