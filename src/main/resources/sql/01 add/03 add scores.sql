@@ -965,6 +965,7 @@ VALUES
 (DEFAULT, 'Trumpet in Bb', '1gUvONsKRMjdNmK10yBiV15hBgjCmEoVM', 1974),
 (DEFAULT, 'Strings', '14hB6OwG54dzYJfdrHI9Fz90KDjvfPkOb', 1974),
 (DEFAULT, 'Violin', '16etRBsPF8PeuBX2OQ6zpGv4EJPBek9RC', 1974),
+-- Леприконсы - Хали-Гали
 -- Ляпис Трубецкой - Ау
 (DEFAULT, 'Full Score', '1aslREqpYr52dZ3YphjQLbEhua32TgMQY', 1995),
 (DEFAULT, 'Voice 1, Voice 2.3, Voice 4', '1wWm15j8JsMY1tgir0qK4XVnWfaUOAEWn', 1995),
