@@ -52,8 +52,11 @@ VALUES
 -- Кипелов - Я свободен!
 (DEFAULT, 'original', '1G2TPOig-GUVAQcNPDs3yOw1JLDvfbHga', 170),
 (DEFAULT, '0', '1Weqv2d_LS2GQ0_3v2dwHQHcCLuON63A7', 170),
+(DEFAULT, '0 bass', '1o_9Eali-TI4FnqzXtEK0f_fXqe1eMp6p', 170),
 (DEFAULT, '-2', '1Yh3g7_P5TBx47al1_7fqj2e7g8nrXb1h', 170),
+(DEFAULT, '-2 bass', '1dL9_-JMT6m-_echMZjaVkHKgeqaKaj8V', 170),
 (DEFAULT, '-5', '13ySIYC70SqN8hCk1YNcryxPxYt7itbVC', 170),
+(DEFAULT, '-5 bass', '1WhmXNnWnKix_B8deyZ398ChpZL-EIDsy', 170),
 -- Легион - Звезда
 (DEFAULT, 'original', '1YHU6z27YpnTycYruo-86cm0U55OMZAFw', 175),
 (DEFAULT, '0', '1xNwHBiK1CwgJAKfnPY-c-FvRHD7DOcLR', 175),
