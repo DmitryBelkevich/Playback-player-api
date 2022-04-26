@@ -338,6 +338,7 @@ VALUES
 (DEFAULT, '0', '1pkSjHrqimgdgtidKaxTelSxhdiNVMSld', 1974),
 (DEFAULT, '-2', '1QBEOjgPkIBcpNcaN5oFrJCANGb03kiHP', 1974),
 -- Леприконсы - Хали-Гали
+(DEFAULT, 'original', '1naD3cdTD8EAVTU0_Adup-Mv9j7bNQm0D', 1980),
 (DEFAULT, '-2', '12RUbq0rDW1qhWrGkBSPeocxVq163m8xL', 1980),
 -- Ляпис Трубецкой - Belarus Freedom
 (DEFAULT, 'original', '1kX6ECO39N49fBFBmrlZoOfyT7UeTm2Dx', 1985),
