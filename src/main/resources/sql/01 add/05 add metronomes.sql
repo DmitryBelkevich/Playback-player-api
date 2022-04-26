@@ -220,6 +220,8 @@ VALUES
 (DEFAULT, null, 2, 4, 125, 1820),
 -- Король и Шут - Проклятый старый дом
 (DEFAULT, null, 4, 4, 116, 1830),
+(DEFAULT, 'Break', 2, 4, 116, 1830),
+(DEFAULT, 'Break, Bridge', 2, 2, 58, 1830),
 -- Король и Шут - Прыгну со скалы
 (DEFAULT, 'Verse', 2, 2, 78, 1840),
 (DEFAULT, 'Chorus, Break', 4, 4, 156, 1840),

@@ -319,6 +319,7 @@ VALUES
 (DEFAULT, '0', '1d1nelo5N_ijF_UNnsLJ-zijCIbgKqA1R', 1810),
 -- Король и Шут - Наблюдатель
 -- Король и Шут - Проклятый старый дом
+(DEFAULT, 'original', '1ubGf2pFgLUAz7Xv8N7K4kkgv2zjXtQup', 1830),
 (DEFAULT, '0', '1Bg6KTKs9ud6eWUADoGe9Bc5e40TQSdmS', 1830),
 -- Король и Шут - Прыгну со скалы
 (DEFAULT, 'original', '1E3jUYAieNqbm-NXqKXEyto4TDi2bquCZ', 1840),
