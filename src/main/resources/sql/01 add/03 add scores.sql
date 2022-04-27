@@ -932,10 +932,10 @@ VALUES
 (DEFAULT, 'Violin 2', '1VDl8cfbl0zDOdRE9TcAB5X4EEgzPgqsZ', 1820),
 (DEFAULT, 'Violin 3', '1BEv0LSfcG9jU5IkPzJK0a2kCandBp53Y', 1820),
 -- Король и Шут - Проклятый старый дом
-(DEFAULT, 'Full Score', '1Qsqe2-qHMA_24QWOz3WdBANmBScaTViA', 1830),
-(DEFAULT, 'Voice 1, Voice 2', '1uWLkVS_COhD6eg7UbAwYCDHYisCNay40', 1830),
+(DEFAULT, 'Full Score', '1QQiuxoMLf0TJZSB3lCHY6VCNciutF1Dr', 1830),
+(DEFAULT, 'Voice 1, Voice 2.3', '1Mcd3JbHXVy5guzihaCgSC9F2IpW5Dy8G', 1830),
 (DEFAULT, 'Voice 1', '1Vi08Nsk_4w_lYUbNICDbPkgoQAG5J3Qp', 1830),
-(DEFAULT, 'Voice 2', '19I7sMu1vISsn-P5_PPwCnWjJIM923tgM', 1830),
+(DEFAULT, 'Voice 2.3', '1h9vFqOJ4mcmV4DZZp24tX_qiVI51zYsr', 1830),
 (DEFAULT, 'Electric Guitar 1, Electric Guitar 2, Electric Guitar 3, Electric Guitar 4', '1ilrQUpYbwrBlkKW29IzKaggaFAqQnl4Z', 1830),
 (DEFAULT, 'Electric Guitar 1', '13kqpHyxqm47ogVjurHRhzhDsV_rC1YtS', 1830),
 (DEFAULT, 'Electric Guitar 2', '1NcrWotQ6hADGr5d1eGVIa3blA2gSDPPd', 1830),
