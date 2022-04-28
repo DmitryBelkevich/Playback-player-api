@@ -387,6 +387,7 @@ VALUES
 (DEFAULT, 'original', '1zLJnEnbfSJwUjwWBUoSmho92fcTt0Lel', 2100),
 (DEFAULT, '0', '10ru_E1bF41MF6w2W0UNQddo1WgG4PO6c', 2100),
 -- Ляпис Трубецкой - Танцуй
+(DEFAULT, 'original', '1UQ24vctBcv__UyQiRkl7t5_6SWc6nvql', 2110),
 (DEFAULT, '0', '1ZYAKQbI32p1N3rZSm5tvEJNChWX82DBu', 2110),
 -- Ляпис Трубецкой - Шут
 (DEFAULT, 'original', '1wuYpSo4CpSIZ7Vj_fx-3VuzxdZY1G348', 2120),
