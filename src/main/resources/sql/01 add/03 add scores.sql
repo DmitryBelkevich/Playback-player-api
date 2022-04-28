@@ -568,6 +568,18 @@ VALUES
 (DEFAULT, 'Piano', '1z1yzPz82fFf1BZFsMZSsQof-vaBYNeLw', 1530),
 (DEFAULT, 'Pad 2 (Warm)', '10BdiJcGmmmjB_VFKNFGnLknzeX7D-XKW', 1530),
 -- Звери - Напитки покрепче
+(DEFAULT, 'Full Score', '1EvrGried60CvVom7nfo2bVrVYw1eUlpe', 1540),
+(DEFAULT, 'Voice 1, Voice 2', '1BJ2gojFU9dk6qe40gIvwkGJvCtixo4gE', 1540),
+(DEFAULT, 'Voice 1', '1xvI-o8KNMCsbKVEyMwQJwiYJud4iuCHu', 1540),
+(DEFAULT, 'Voice 2', '1sKcRMpDFjb8gduiDyznkPderpjpXmCyV', 1540),
+(DEFAULT, 'Acoustic Guitar in Eb, Electric Guitar', '1uTg1V6IBrA9OYy0DO2nMPXJwXybxXrZb', 1540),
+(DEFAULT, 'Acoustic Guitar in Eb', '17PtDHNiQLJEmfnpuWtQsZSdij_hfmxFW', 1540),
+(DEFAULT, 'Electric Guitar', '1jn9ktYiZdP_nzeCvvUlcw8l9_LS_-6yA', 1540),
+(DEFAULT, 'Bass Guitar', '1SG2O_0GgIfWBmLYjoahDTQDy_h7vUCRI', 1540),
+(DEFAULT, 'Drum Set', '136hiXzfsDgY9xq4Sepbn-TGxfOv-5ug3', 1540),
+(DEFAULT, 'Piano, Strings', '1gBAkVO_rhHFXHUer5fWp_sextb97_RcE', 1540),
+(DEFAULT, 'Piano', '1CGexrKoV4sguKAEZ7JYfSwk9toWWVAzM', 1540),
+(DEFAULT, 'Strings', '1EPo9RZA48kcfM60ax8UR4VLyjxRWEqEp', 1540),
 -- Звери - Просто такая сильная любовь
 (DEFAULT, 'Full Score', '1ipCVCCWoWisUOatk-ZkOV3VvjLuULqbk', 1550),
 (DEFAULT, 'Voice 1, Voice 2', '1syyVYgxQLkuzUrnm00efslAcqsrBmqxt', 1550),
