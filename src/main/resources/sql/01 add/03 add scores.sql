@@ -1139,6 +1139,7 @@ VALUES
 (DEFAULT, 'Marimba, Synth Strings', '1Tc7Sf7-NqQiLgGzUWzLHjDSOE4iK42nF', 2100),
 (DEFAULT, 'Marimba', '1Xp8dzFa0dxAwhUCNRXewB4l4pv6QIvui', 2100),
 (DEFAULT, 'Synth Strings', '1SFX2X9yUy36ykdb_s6wAb_1dkFHpsUmE', 2100),
+-- Ляпис Трубецкой - Танцуй
 -- Ляпис Трубецкой - Шут
 (DEFAULT, 'Full Score', '1RLZufqlxpdZu18UVn-EZGD38VhMJpyDq', 2120),
 (DEFAULT, 'Voice', '1MbdY_93-wGOvhSQEA-O6nAjaj3ks1ch2', 2120),
