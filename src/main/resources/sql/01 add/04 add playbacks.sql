@@ -216,6 +216,7 @@ VALUES
 (DEFAULT, '0', '1APMX6R1YINhVY1RoObfgmyTjz_ZNF9zo', 1530),
 (DEFAULT, '-2', '1P7UDiNBADfX7_YW-jrjxct4vv0pkXcf2', 1530),
 -- Звери - Напитки покрепче
+(DEFAULT, 'original', '1sNE--xVQ0bSvgezcp2orq2szpTJ78wcP', 1540),
 (DEFAULT, '-2', '1kfiMkhltqHaXvEammvX1_KC1AI4nZ7CN', 1540),
 -- Звери - Просто такая сильная любовь
 (DEFAULT, 'original', '1cetiTwl2v4MGh_vpmLuBVkdC77n76DI-', 1550),
