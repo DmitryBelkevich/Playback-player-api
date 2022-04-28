@@ -222,6 +222,7 @@ VALUES
 (DEFAULT, 'original', '1cetiTwl2v4MGh_vpmLuBVkdC77n76DI-', 1550),
 (DEFAULT, '0', '1CCj72LUVPZWozPXuWJCYU0eRZUJsWyZE', 1550),
 -- Звери - Районы-кварталы
+(DEFAULT, 'original', '18WAIj5N77SmeI8eSRfaHj1KvIB6lkdZh', 1560),
 (DEFAULT, '0', '1lgF0EfD45IPFdoGnlOiGBvjeG34Hd0EI', 1560),
 -- Земляне - Трава у дома
 (DEFAULT, 'original', '1ZGDLEl-5bydc6tu1AXs7OfEzSi4lQTrh', 1570),
