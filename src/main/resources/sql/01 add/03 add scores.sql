@@ -593,6 +593,18 @@ VALUES
 (DEFAULT, 'Drum Set', '1PPhXcpukUkxE8ylvpgyVCYXN6t56OGK6', 1550),
 (DEFAULT, 'Electric Organ', '1JOVwRPChq0uwIp3dMNpg33KDhcNzQNYP', 1550),
 -- Звери - Районы-кварталы
+(DEFAULT, 'Full Score', '117xnzXgVovZ_M2ietAKFOSy5Ey93GSpc', 1560),
+(DEFAULT, 'Voice 1, Voice 2, Voice 3', '1MK9uhlWBOcv9kVNT3M_D6z6GpjNN7YAW', 1560),
+(DEFAULT, 'Voice 1', '1cZmi-F5y5G6BMIAvfJKpt9wXKZ2f7K8D', 1560),
+(DEFAULT, 'Voice 2', '1Frgdf6S6xLyss7OhTBfaHFIRwrMTbBr2', 1560),
+(DEFAULT, 'Voice 3', '1KszdC8qDA4L5zIEU2ySm6wdbvWbHwICE', 1560),
+(DEFAULT, 'Acoustic Guitar, Electric Guitar 1, Electric Guitar 2', '17ab9epR7f6uXQMfbphbwTaho4mNhsIDz', 1560),
+(DEFAULT, 'Acoustic Guitar', '1pU5h9cX67ApLHEtbYzT7nb3LLBYnGQ01', 1560),
+(DEFAULT, 'Electric Guitar 1', '15COXC4G3_mjYmo2Sien6eqd5DOITbBvF', 1560),
+(DEFAULT, 'Electric Guitar 2', '1VG4BQt-t9SjEssZK6tMC8WeQdVJ8zw9Y', 1560),
+(DEFAULT, 'Bass Guitar', '1cW5-XMbTErmZUbCiPmls7fmmd3DTEOJ0', 1560),
+(DEFAULT, 'Drum Set', '16qc0zTZWNlQdvxA0PKV7XBG4RWmhEHng', 1560),
+(DEFAULT, 'Electric Organ', '1x2Y-JoC6Y8jCsBMYsVRGd9omiDhXk_0r', 1560),
 -- Земляне - Трава у дома
 (DEFAULT, 'Full Score', '1ThFDzdBqTweaHJFfx2NVYVCJqp0PNuBZ', 1570),
 (DEFAULT, 'Voice 1, Voice 2, Voice 3', '11YrftUQkfCtl3PfNXHTAf9GeSl-5FLbx', 1570),
