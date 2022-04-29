@@ -217,13 +217,14 @@ VALUES
 (DEFAULT, '-2', '1P7UDiNBADfX7_YW-jrjxct4vv0pkXcf2', 1530),
 -- Звери - Напитки покрепче
 (DEFAULT, 'original', '1sNE--xVQ0bSvgezcp2orq2szpTJ78wcP', 1540),
-(DEFAULT, '-2', '1kfiMkhltqHaXvEammvX1_KC1AI4nZ7CN', 1540),
+(DEFAULT, '0', '1h0R3q6zLeHNkcNuNb_B9FAMFD7K-FiNb', 1540),
+(DEFAULT, '-2', '1xHSxKi7SGSDQyaApZ0vG12nfDQxhOn2a', 1540),
 -- Звери - Просто такая сильная любовь
 (DEFAULT, 'original', '1cetiTwl2v4MGh_vpmLuBVkdC77n76DI-', 1550),
 (DEFAULT, '0', '1CCj72LUVPZWozPXuWJCYU0eRZUJsWyZE', 1550),
 -- Звери - Районы-кварталы
 (DEFAULT, 'original', '18WAIj5N77SmeI8eSRfaHj1KvIB6lkdZh', 1560),
-(DEFAULT, '0', '1lgF0EfD45IPFdoGnlOiGBvjeG34Hd0EI', 1560),
+(DEFAULT, '0', '1OCPNhoSyWt_BkNMLQZ9Rrn_qykM_3bN9', 1560),
 -- Земляне - Трава у дома
 (DEFAULT, 'original', '1ZGDLEl-5bydc6tu1AXs7OfEzSi4lQTrh', 1570),
 (DEFAULT, '0', '1WglpwE3om9EdHmVf_Bi-F9qeptk2JGEJ', 1570),
