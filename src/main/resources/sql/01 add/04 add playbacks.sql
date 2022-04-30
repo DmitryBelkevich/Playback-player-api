@@ -407,6 +407,7 @@ VALUES
 (DEFAULT, '0', '1SFRBwzL1MqDhRnpLaPZWUl7AQp4sNy9v', 2140),
 (DEFAULT, '-2', '1-V7VkcAkauujXLWjG46b5OWBO2b97J5F', 2140),
 -- Мумий Тролль - Владивосток 2000
+(DEFAULT, 'original', '1I4a-3nldUW83gZPUHOmS3YuktzS9BgQ3', 2150),
 (DEFAULT, '0', '1XLMZNAxiQKvaufDAXmf5hMtMB0lNCoh0', 2150),
 -- Мумий Тролль - Медведица
 (DEFAULT, '0', '1TYYPM6pAWxga9QzmeM2qOTQ3mtJx9QNR', 2160),
