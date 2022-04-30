@@ -1233,14 +1233,14 @@ VALUES
 (DEFAULT, 'Electric Organ', '1MnkszFuNVz14dT1G7FmINEwO1SUuaIu8', 2140),
 (DEFAULT, 'Pad 2 (Warm)', '1oc6bN1jRMClSh3lBs40Kf5_vsBaqqBwW', 2140),
 -- Мумий Тролль - Владивосток 2000
-(DEFAULT, 'Full Score', '1gSsJgVmZals0dlJ6S1-12N0bxjN5hO1c', 2150),
+(DEFAULT, 'Full Score', '1qawgCa_dmnVmlPH-l5NyLiqIVO2OjF_O', 2150),
 (DEFAULT, 'Voice 1, Voice 2', '1B4PlZRMfT3DCLyVJvgnfo3NOtQk2pCzi', 2150),
 (DEFAULT, 'Voice 1', '1aGrHp0C-4mSNvyjWZgcUQLoBiU-cfYku', 2150),
 (DEFAULT, 'Voice 2', '1190JZvLgE7wBSaivm1_vjXuRH_a1aWrP', 2150),
 (DEFAULT, 'Electric Guitar 1, Electric Guitar 2', '1-A3CZ7wpElEDdIvPFtLfir4URwOCCwnf', 2150),
 (DEFAULT, 'Electric Guitar 1', '14byH-0RZNFT_KvVxeoWlhQsFytSBJK3o', 2150),
 (DEFAULT, 'Electric Guitar 2', '1LAQ1c7HhaeRuRWEebSQBSr93bwJ6zHk9', 2150),
-(DEFAULT, 'Bass Guitar', '1JhBj-R6vvfHoIBZHm2zfKZYA3HbPG3sD', 2150),
+(DEFAULT, 'Bass Guitar', '1YB3Pmf9KxSneiH2p6NJSS0jvia329dJs', 2150),
 (DEFAULT, 'Drum Set', '1VsKy6fHJfRCFAhr4rVp6dHRitLkBEhr8', 2150),
 -- Nautilus Pompilius - Крылья
 (DEFAULT, 'Full Score', '1JBUoeA1Gpj3KLcIfWo6FLhL83kE8bbbX', 2180),
