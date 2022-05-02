@@ -319,7 +319,7 @@ VALUES
 (DEFAULT, '-2', '1Rc9HEYp5pznH518S4NgmhvGBSwxAQGRc', 1800),
 -- Король и Шут - Мёртвый Анархист
 (DEFAULT, 'original', '1_a5-6MuaDVE3cDtsgncZL32lQ8jc0Eon', 1810),
-(DEFAULT, '0', '1d1nelo5N_ijF_UNnsLJ-zijCIbgKqA1R', 1810),
+(DEFAULT, '0', '1TCnPcBkF12z8IL90GjBdeXCxBIzFk5V5', 1810),
 -- Король и Шут - Наблюдатель
 -- Король и Шут - Проклятый старый дом
 (DEFAULT, 'original', '1ubGf2pFgLUAz7Xv8N7K4kkgv2zjXtQup', 1830),
