@@ -320,6 +320,7 @@ VALUES
 -- Король и Шут - Мёртвый Анархист
 (DEFAULT, 'original', '1_a5-6MuaDVE3cDtsgncZL32lQ8jc0Eon', 1810),
 (DEFAULT, '0', '1TCnPcBkF12z8IL90GjBdeXCxBIzFk5V5', 1810),
+(DEFAULT, '-2', '1QcK8FloA5XcWJjovuSnbtvf3jYKO_eTm', 1810),
 (DEFAULT, '0 bass', '1wc1ISyhFbowoNYh_25aS6yOaMDIfpuv5', 1810),
 -- Король и Шут - Наблюдатель
 -- Король и Шут - Проклятый старый дом
@@ -540,7 +541,7 @@ VALUES
 (DEFAULT, '-2', '1N1262NQf7SI7MTjLi0kKQtREFXgLhl9a', 5070),
 -- Ненси - Дым сигарет с ментолом
 (DEFAULT, 'original', '1G0fC6XaLmrkDzavWQWe1fMlzJkqwx_Rd', 5080),
-(DEFAULT, '0', '1MHdB7Y5aPqVAgyMraKeTBHkQ5F8QnYge', 5080),
+(DEFAULT, '0', '1ploL5eOFshXLM6RkwqcyW7PMH8giR_JV', 5080),
 -- Сладкий сон - На белом покрывале января
 (DEFAULT, 'original', '1NhzfBNKjYJ4IJtX3y75JGOjArcsa9Hug', 5100),
 (DEFAULT, '0', '1UM_UTj5_XB7qJey8OgF_5UcuiWRUaBqK', 5100),
