@@ -1243,6 +1243,17 @@ VALUES
 (DEFAULT, 'Bass Guitar', '1YB3Pmf9KxSneiH2p6NJSS0jvia329dJs', 2150),
 (DEFAULT, 'Drum Set', '1VsKy6fHJfRCFAhr4rVp6dHRitLkBEhr8', 2150),
 -- Мумий Тролль - Медведица
+(DEFAULT, 'Full Score', '1FIyYT2GqZjQ5eUoTDhZ9eTbslnMLiOb7', 2160),
+(DEFAULT, 'Voice 1, Voice 2', '16m1okETSLKf-WFxKnXQgMfhuPDZtlRoK', 2160),
+(DEFAULT, 'Voice 1', '1ZFxNPLNvwsuGCDqBbhTEHWnfjhKmh40f', 2160),
+(DEFAULT, 'Voice 2', '1X42Atp_MKC2xPW3H6-CD3sNActOwlnMX', 2160),
+(DEFAULT, 'Electric Guitar 1, Electric Guitar 2', '1p0srWWadSGgB4M_AzxzKKtN7wPRx0qLP', 2160),
+(DEFAULT, 'Electric Guitar 1', '1ffHZ3ji4u6hrdg3ZK6rtw5M0BPIPEF57', 2160),
+(DEFAULT, 'Electric Guitar 2', '17tKdLPCtipM-OqzG16pWKwwor5uujp13', 2160),
+(DEFAULT, 'Bass Guitar', '1SaKmQACv_u9ldhTCKBKLubBb1zCOaiXk', 2160),
+(DEFAULT, 'Drum Set, Tambourine', '1NM_5jeA-GoqefiWznzW9IFp0JhbaacMg', 2160),
+(DEFAULT, 'Drum Set', '1swE9k9Oke0GNtAnAza8i_YCfjS5qE0_f', 2160),
+(DEFAULT, 'Tambourine', '1iyWshNjO_SKAdbrUI3U7T_DIy1BiaxpW', 2160),
 -- Nautilus Pompilius - Крылья
 (DEFAULT, 'Full Score', '1JBUoeA1Gpj3KLcIfWo6FLhL83kE8bbbX', 2180),
 (DEFAULT, 'Voice', '1-DJfDknTJF1ay9hnPBvL0mbw1-oeFCJY', 2180),
