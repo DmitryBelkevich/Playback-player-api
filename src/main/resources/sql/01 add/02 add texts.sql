@@ -301,6 +301,8 @@ VALUES
 (DEFAULT, '1t59tt8JO4WuKtDV0ByF3_lmqjEptfloK', 2240),
 -- Nautilus Pompilius - Я хочу быть с тобой
 (DEFAULT, '1E02LHvaWLLtgYsaFdBY9QczgbNs7X2Qy', 2250),
+-- Порнофильмы - Прости. Прощай. Привет
+(DEFAULT, '1i9CNGu-5w_nnGeiamv7SWf3Y0FtvroW9', 2252),
 -- Порнофильмы - Это пройдёт
 (DEFAULT, '1Q1kOHwM46t0XCjh19Oe9uT6qVHUcdINl', 2255),
 -- Порнофильмы - Я так соскучился

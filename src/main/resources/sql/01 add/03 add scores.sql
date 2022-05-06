@@ -1302,6 +1302,7 @@ VALUES
 (DEFAULT, 'Pizzicato', '1NMq2jQBXMoFQSk2aW-m6OsYnDjT-lmMM', 2250),
 (DEFAULT, 'Pad 2 (Warm)', '1B4lUMvQKqqOSpWR2XMg8IqjCCaTme_Io', 2250),
 (DEFAULT, 'Synth Bass', '1O4onFXRS0-Ji89h73KqFJgSluHvtZDUe', 2250),
+-- Порнофильмы - Прости. Прощай. Привет
 -- Порнофильмы - Это пройдёт
 (DEFAULT, 'Full Score', '1wP0me5QoTrIH1Ojy_jdBYjn3Rjq_VrhF', 2255),
 (DEFAULT, 'Voice', '1Ejl7OwuBgcI-7SlfvbUCWotzFTrKKaHg', 2255),
