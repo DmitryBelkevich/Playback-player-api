@@ -412,6 +412,7 @@ VALUES
 (DEFAULT, 'original', '1I4a-3nldUW83gZPUHOmS3YuktzS9BgQ3', 2150),
 (DEFAULT, '0', '1AOIxXa6tYn3PWTd5DGFWfKjzP_4nCQoU', 2150),
 -- Мумий Тролль - Медведица
+(DEFAULT, 'original', '1YnMY6KxWAKzsFCcWY3T1mDJzy7biZKCz', 2160),
 (DEFAULT, '0', '1TYYPM6pAWxga9QzmeM2qOTQ3mtJx9QNR', 2160),
 -- Nautilus Pompilius - Дыхание
 -- Nautilus Pompilius - Крылья
