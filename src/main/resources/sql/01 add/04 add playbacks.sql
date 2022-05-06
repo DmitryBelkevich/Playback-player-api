@@ -428,6 +428,8 @@ VALUES
 (DEFAULT, 'original', '16Oi9d8d0e6OcwIZZHPsnTDDoAdQA-hN_', 2250),
 (DEFAULT, '0', '1A-gHqRqbp1T7GcNn3SJZEDcvp5oK0oIR', 2250),
 (DEFAULT, '-2', '1mb2MUBhLViP1HdCswCtLawKdsJfudPhU', 2250),
+-- Порнофильмы - Прости. Прощай. Привет
+(DEFAULT, 'original', '1z8QuA1vfFTEA0XFhhj0JhxWLsPm35Nt3', 2252),
 -- Порнофильмы - Это пройдёт
 (DEFAULT, 'original', '1OC1lsnQEsc3wciMz1L13pZc_EXpsNAHy', 2255),
 (DEFAULT, '+5', '1FPAMkb6j-7ypvFKb7GAypbZbLIw9gUh6', 2255),
