@@ -297,7 +297,7 @@ VALUES
 -- Nautilus Pompilius - Я хочу быть с тобой
 (DEFAULT, null, 2, 4, 88, 2250),
 -- Порнофильмы - Прости. Прощай. Привет
-(DEFAULT, null, 4, 4, 0, 2252),
+(DEFAULT, null, 4, 4, 126, 2252),
 -- Порнофильмы - Это пройдёт
 (DEFAULT, null, 4, 4, 165, 2255),
 (DEFAULT, null, 2, 2, 82, 2255),
