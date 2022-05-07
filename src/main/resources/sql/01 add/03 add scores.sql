@@ -1303,8 +1303,8 @@ VALUES
 (DEFAULT, 'Pad 2 (Warm)', '1B4lUMvQKqqOSpWR2XMg8IqjCCaTme_Io', 2250),
 (DEFAULT, 'Synth Bass', '1O4onFXRS0-Ji89h73KqFJgSluHvtZDUe', 2250),
 -- Порнофильмы - Прости. Прощай. Привет
-(DEFAULT, 'Full Score', '1aaexYqQCNWCDIRLZqkF4caGvmD2lR29G', 2252),
-(DEFAULT, 'Voice', '1Fvg9M8x1fwII57QJJmUU0p1b4w-IWSrC', 2252),
+(DEFAULT, 'Full Score', '1w2l90tTWHU54BOvnxc7VHug2Zd_wAC9d', 2252),
+(DEFAULT, 'Voice', '1gQk9d6XKHgkJB6jPLw5V5mdqI4An6vhX', 2252),
 (DEFAULT, 'Acoustic Guitar in F, Electric Guitar 1, Electric Guitar 2, Electric Guitar 3', '1yHQ2rcJhlankoRzxO8TVaIemhbh2MZwm', 2252),
 (DEFAULT, 'Acoustic Guitar in F', '1Yz7B2C3iH4WamCVvMuh-wFDu83PhRixT', 2252),
 (DEFAULT, 'Electric Guitar 1', '1P6y9_9BBHxOXEaY7INfhonhUFddo2l7o', 2252),
