@@ -317,10 +317,10 @@ VALUES
 (DEFAULT, 'Violoncello', '1cdNpJP9tYjtBvwWwV5meNFNlwRmyZnWZ', 1150),
 -- N.R.M. - Лёгкія-лёгкія
 -- N.R.M. - Тры чарапахі
-(DEFAULT, 'Full Score', '1sBr843IS1tam_UFnwfjPWn1iZ8LLgW-x', 1170),
-(DEFAULT, 'Voice 1, Voice 2', '16ZqKrLcx0oPlPt9V_UPfn3TtfWbPTKKS', 1170),
-(DEFAULT, 'Voice 1', '1EUmVNWB1GL9HmSZqW2DNdhM5PfSPu2ea', 1170),
-(DEFAULT, 'Voice 2', '1DSQTKkIBwL1OGHU6W2s9iCcwlPKRbNl-', 1170),
+(DEFAULT, 'Full Score', 'https://drive.google.com/file/d/1aYPZ--3y8MXDUpdYyF5ns0YG3KZeVzG7', 1170),
+(DEFAULT, 'Voice 1, Voice 2', 'https://drive.google.com/file/d/1xINk4F6Tcg8sCXxeUXEWG8AfFejGGeSz', 1170),
+(DEFAULT, 'Voice 1', 'https://drive.google.com/file/d/1vxeyhDnlZhje8PdBoTxb1VYq1Qp8e4xb', 1170),
+(DEFAULT, 'Voice 2', 'https://drive.google.com/file/d/1Eh1plSWL-lhdtk97W5Q0u1Rj6vlnsEER', 1170),
 (DEFAULT, 'Electric Guitar 1, Electric Guitar 2', '1z9neoF7-4xdBYLj8mzOq25yzRi13EeYR', 1170),
 (DEFAULT, 'Electric Guitar 1', '1ImG7yt8mhnyhH8huJ6Gz_Iy-9jqN0_86', 1170),
 (DEFAULT, 'Electric Guitar 2', '1LKmIkvYd90Zp_WjwoiAop38ecv4Cl9gw', 1170),
