@@ -123,7 +123,9 @@ VALUES
 (DEFAULT, '-2', '1VgrqUBanFwhSyhRrIKuvkheeVYoUyo83', 1160),
 -- N.R.M. - Тры чарапахі
 (DEFAULT, 'original', '1H7jiqp_ThTuJGsGMonkrBvBajD4ujQKj', 1170),
-(DEFAULT, '-2', '1GNxYAsdQ5qxEYvAnko-eXQqgERPKyGhO', 1170),
+(DEFAULT, '0', '1GMXf3ivR82pXlqG03VF1dN4Co0JFYrKc', 1170),
+(DEFAULT, '-2', '15tX17j4iDd2ome8GgnPgynZJ5OIZ-EWr', 1170),
+(DEFAULT, '-3', '1WRiyFH-NpLTTJisjDpP6eafR_TyeQDVE', 1170),
 -- Noize MC - Вояджер-1
 (DEFAULT, 'original', '1W7_ge_j6gtyOUEW-vIt0RCeaOitsIXxI', 1175),
 (DEFAULT, '0', '1aCymDuo8Yu8LQv1E09yUfMZDnPZ3yfLc', 1175),
