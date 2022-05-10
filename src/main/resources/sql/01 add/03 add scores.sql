@@ -1332,11 +1332,11 @@ VALUES
 (DEFAULT, 'Drum Set', '1kiY9Bq0U8P73AUHoh04gb6GBa5IaiLIw', 2255),
 (DEFAULT, 'Pad 2 (Warm)', '1zNu8EfE6Y8dnN8Agvw-vKy4KpqF-_C8g', 2255),
 -- Порнофильмы - Я так соскучился
-(DEFAULT, 'Full Score', '1CzWvd8HPgu-M56xo7TFVAKLyAN35yo_f', 2260),
+(DEFAULT, 'Full Score', '1sXvo8089g2iM87LZOUE661291xL_rVxx', 2260),
 (DEFAULT, 'Voice', '1b7jI5KuJS2OXdMn8fREynlDZdvPJoL_2', 2260),
-(DEFAULT, 'Electric Guitar 1, Electric Guitar 2', '1qmmQjkm7kyKn0gcV31N92XSjBK1_sRhL', 2260),
-(DEFAULT, 'Electric Guitar 1', '1w0CeBHSDSLNeawNuRPrVdM74NIb4M1Xm', 2260),
-(DEFAULT, 'Electric Guitar 2', '1TcO9gjglB66pnNbQElpmVY9zSO88Baw9', 2260),
+(DEFAULT, 'Electric Guitar 1, Electric Guitar 2', '1uMmdY-TLJO1rlCyD2wlmVLAu707YjT5c', 2260),
+(DEFAULT, 'Electric Guitar 1', '1LoSGNTL1ksoU_jY5iST5HEIOSNphmOKx', 2260),
+(DEFAULT, 'Electric Guitar 2', '1oKtLKb1TIKVAqJNCk151hrXfhu3LMTY6', 2260),
 (DEFAULT, 'Bass Guitar', '15YzoYZppm2_LMwvbiAlkfwcxpDgTa1Tb', 2260),
 (DEFAULT, 'Drum Set', '1MsR_F3k5aWHNflbghuuo0bfozdP8Foi6', 2260),
 -- Сектор Газа - 30 лет
