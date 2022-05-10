@@ -857,7 +857,7 @@ VALUES
 (DEFAULT, 'Violin', '1lYo1vBEBj0FECPjCdJVB1TFJNf307k1Y', 1720),
 -- Король и Шут - Два вора и монета
 (DEFAULT, 'Full Score', '1LnFZ0AAAJSYFhbk7kvlS2Dzb2F-_pI6U', 1730),
-(DEFAULT, 'Voice 1, Voice 2', '1K4Xr3Xrjml0plGVyHNQjBbISqJoPA18z', 1730),
+(DEFAULT, 'Voice 1, Voice 2', '1Aqzd4tos6580FUQQsXn5OEDvYKkxKSmv', 1730),
 (DEFAULT, 'Voice 1', '1bltx71oJnVqT0Lih0PVvuMDEgezoQLHJ', 1730),
 (DEFAULT, 'Voice 2', '1qbgjWU9zUpmpaiUcs_2eoo8qwEZYutr3', 1730),
 (DEFAULT, 'Electric Guitar 1, Electric Guitar 2', '1F5y9PtJ4ZrcmaZZCvnSHRZ9Nmyc-yw_t', 1730),
