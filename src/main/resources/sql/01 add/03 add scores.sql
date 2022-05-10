@@ -316,6 +316,16 @@ VALUES
 (DEFAULT, 'Viola', '10j8GtZe-FJA1Vu86ulrSC2STIxZ1BGgZ', 1150),
 (DEFAULT, 'Violoncello', '1cdNpJP9tYjtBvwWwV5meNFNlwRmyZnWZ', 1150),
 -- N.R.M. - Лёгкія-лёгкія
+-- N.R.M. - Тры чарапахі
+(DEFAULT, 'Full Score', '1sBr843IS1tam_UFnwfjPWn1iZ8LLgW-x', 1170),
+(DEFAULT, 'Voice 1, Voice 2', '16ZqKrLcx0oPlPt9V_UPfn3TtfWbPTKKS', 1170),
+(DEFAULT, 'Voice 1', '1EUmVNWB1GL9HmSZqW2DNdhM5PfSPu2ea', 1170),
+(DEFAULT, 'Voice 2', '1DSQTKkIBwL1OGHU6W2s9iCcwlPKRbNl-', 1170),
+(DEFAULT, 'Electric Guitar 1, Electric Guitar 2', '1z9neoF7-4xdBYLj8mzOq25yzRi13EeYR', 1170),
+(DEFAULT, 'Electric Guitar 1', '1ImG7yt8mhnyhH8huJ6Gz_Iy-9jqN0_86', 1170),
+(DEFAULT, 'Electric Guitar 2', '1LKmIkvYd90Zp_WjwoiAop38ecv4Cl9gw', 1170),
+(DEFAULT, 'Bass Guitar', '1iO7lR8NIXl_qcmY_wFbMLrmkMikmHVtW', 1170),
+(DEFAULT, 'Drum Set', '1wcGDquZ6JCgVaw7kjFB03GEmKBdBfBn9', 1170),
 -- Noize MC - Вояджер-1
 (DEFAULT, 'Full Score', '1yJzZ0sEfA7UV_mRTHvRlCvj1AIp3GzuM', 1175),
 (DEFAULT, 'Voice 1, Voice 2', '13sq3WfbZ2dczs5QPL4ZFfedza9YqV-Vn', 1175),
