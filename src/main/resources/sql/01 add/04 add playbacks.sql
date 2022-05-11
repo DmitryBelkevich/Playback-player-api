@@ -435,12 +435,12 @@ VALUES
 (DEFAULT, '0', '1A-gHqRqbp1T7GcNn3SJZEDcvp5oK0oIR', 2250),
 (DEFAULT, '-2', '1mb2MUBhLViP1HdCswCtLawKdsJfudPhU', 2250),
 -- Нервы - Самый дорогой человек
-(DEFAULT, 'original', '1HXbo4bCS4W5Jkg34Zd4FHOq6r2PH_8Ve', 7045),
-(DEFAULT, '0', '1cLlHjLlaguRUgQ14_eRlJMaW24FOK5uq', 7045),
-(DEFAULT, '-2', '1HTatcrpsLV4IpDGsJL00IP4BAsi7k6oW', 7045),
-(DEFAULT, '-4', '1UNU9hKlbOuQWiv4dln3QS_NrWpeqB_2y', 7045),
+(DEFAULT, 'original', '1HXbo4bCS4W5Jkg34Zd4FHOq6r2PH_8Ve', 2255),
+(DEFAULT, '0', '1cLlHjLlaguRUgQ14_eRlJMaW24FOK5uq', 2255),
+(DEFAULT, '-2', '1HTatcrpsLV4IpDGsJL00IP4BAsi7k6oW', 2255),
+(DEFAULT, '-4', '1UNU9hKlbOuQWiv4dln3QS_NrWpeqB_2y', 2255),
 -- Нервы - Слишком влюблен
-(DEFAULT, 'original', '1N_4RHh8c-Q-OLJZajHIhc_JQJEyEO5be', 7047),
+(DEFAULT, 'original', '1N_4RHh8c-Q-OLJZajHIhc_JQJEyEO5be', 2257),
 -- Порнофильмы - Прости. Прощай. Привет
 (DEFAULT, 'original', '1z8QuA1vfFTEA0XFhhj0JhxWLsPm35Nt3', 2260),
 (DEFAULT, '0', '1OI-u-meMRNdPdEut-H_ScKBG5aM-iXUc', 2260),
