@@ -1653,6 +1653,7 @@ VALUES
 (DEFAULT, 'Electric Guitar 2', '13IJ8LTZpeMPmLKfQAtFNgpkk3SZcvI75', 7045),
 (DEFAULT, 'Bass Guitar', '1hGyJHrHRi-jHOhFIzFmNeoiJ5kKHMg8O', 7045),
 (DEFAULT, 'Drum Set', '17iizQJeZ1sLdQUm_Fs92xd_Hc8QQ1qGS', 7045),
+-- Нервы - Слишком влюблен
 -- Пошлая Молли - Нон стоп
 -- Шарлот - Мяу мяу мяу
 (DEFAULT, 'Full Score', '15lOA67eSz2IgsLzc-RtwWVTA3g1VxLmy', 7085),

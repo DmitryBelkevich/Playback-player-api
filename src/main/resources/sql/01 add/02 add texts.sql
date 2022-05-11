@@ -399,6 +399,8 @@ VALUES
 (DEFAULT, '1P7kxdPdtxzSueUMbDZKm-COhjveUvjRt', 7040),
 -- Нервы - Самый дорогой человек
 (DEFAULT, '1x8xUdW2WWyJNjdjiRAzs4JUKm2wV4nIl', 7045),
+-- Нервы - Слишком влюблен
+(DEFAULT, '16KrTJTx7c1AOAc8Le8cU6BeTH_OUGV1a', 7047),
 -- Пошлая Молли - Нон стоп
 (DEFAULT, '1A_kLCUGpgUwruIRy0YzxCJm_WWsJ93uF', 7060),
 -- Шарлот - Мяу мяу мяу

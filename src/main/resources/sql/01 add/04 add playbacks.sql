@@ -582,6 +582,8 @@ VALUES
 (DEFAULT, '0', '1cLlHjLlaguRUgQ14_eRlJMaW24FOK5uq', 7045),
 (DEFAULT, '-2', '1HTatcrpsLV4IpDGsJL00IP4BAsi7k6oW', 7045),
 (DEFAULT, '-4', '1UNU9hKlbOuQWiv4dln3QS_NrWpeqB_2y', 7045),
+-- Нервы - Слишком влюблен
+(DEFAULT, 'original', '1N_4RHh8c-Q-OLJZajHIhc_JQJEyEO5be', 7047),
 -- Пошлая Молли - Нон стоп
 (DEFAULT, 'original', '1zVaw3lgvlUAuf2eL8sUWdo9c-STGhuZX', 7060),
 -- Шарлот - Мяу мяу мяу
