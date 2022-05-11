@@ -442,10 +442,10 @@ VALUES
 -- Нервы - Слишком влюблен
 (DEFAULT, 'original', '1N_4RHh8c-Q-OLJZajHIhc_JQJEyEO5be', 7047),
 -- Порнофильмы - Прости. Прощай. Привет
-(DEFAULT, 'original', '1z8QuA1vfFTEA0XFhhj0JhxWLsPm35Nt3', 2252),
-(DEFAULT, '0', '1OI-u-meMRNdPdEut-H_ScKBG5aM-iXUc', 2252),
-(DEFAULT, '-2', '1i-ovFJum7mp1iG-d1ndECYRoXZvzdsDI', 2252),
-(DEFAULT, '-5', '1W3M0LmAp2TF2k7kEGvl4sGHuGorIFPEw', 2252),
+(DEFAULT, 'original', '1z8QuA1vfFTEA0XFhhj0JhxWLsPm35Nt3', 2260),
+(DEFAULT, '0', '1OI-u-meMRNdPdEut-H_ScKBG5aM-iXUc', 2260),
+(DEFAULT, '-2', '1i-ovFJum7mp1iG-d1ndECYRoXZvzdsDI', 2260),
+(DEFAULT, '-5', '1W3M0LmAp2TF2k7kEGvl4sGHuGorIFPEw', 2260),
 -- Порнофильмы - Это пройдёт
 (DEFAULT, 'original', '1OC1lsnQEsc3wciMz1L13pZc_EXpsNAHy', 2262),
 (DEFAULT, '+5', '15ecowhpUXfY4fqPlR05bTOHwiQokUJY7', 2262),
