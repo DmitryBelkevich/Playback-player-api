@@ -301,6 +301,10 @@ VALUES
 (DEFAULT, '1t59tt8JO4WuKtDV0ByF3_lmqjEptfloK', 2240),
 -- Nautilus Pompilius - Я хочу быть с тобой
 (DEFAULT, '1E02LHvaWLLtgYsaFdBY9QczgbNs7X2Qy', 2250),
+-- Нервы - Самый дорогой человек
+(DEFAULT, '1x8xUdW2WWyJNjdjiRAzs4JUKm2wV4nIl', 7045),
+-- Нервы - Слишком влюблен
+(DEFAULT, '16KrTJTx7c1AOAc8Le8cU6BeTH_OUGV1a', 7047),
 -- Порнофильмы - Прости. Прощай. Привет
 (DEFAULT, '1i9CNGu-5w_nnGeiamv7SWf3Y0FtvroW9', 2252),
 -- Порнофильмы - Это пройдёт
@@ -397,10 +401,6 @@ VALUES
 
 -- МУККА - ДЕВОЧКА С КАРЕ
 (DEFAULT, '1P7kxdPdtxzSueUMbDZKm-COhjveUvjRt', 7040),
--- Нервы - Самый дорогой человек
-(DEFAULT, '1x8xUdW2WWyJNjdjiRAzs4JUKm2wV4nIl', 7045),
--- Нервы - Слишком влюблен
-(DEFAULT, '16KrTJTx7c1AOAc8Le8cU6BeTH_OUGV1a', 7047),
 -- Пошлая Молли - Нон стоп
 (DEFAULT, '1A_kLCUGpgUwruIRy0YzxCJm_WWsJ93uF', 7060),
 -- Шарлот - Мяу мяу мяу

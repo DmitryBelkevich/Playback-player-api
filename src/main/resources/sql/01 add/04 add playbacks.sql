@@ -434,6 +434,13 @@ VALUES
 (DEFAULT, 'original', '16Oi9d8d0e6OcwIZZHPsnTDDoAdQA-hN_', 2250),
 (DEFAULT, '0', '1A-gHqRqbp1T7GcNn3SJZEDcvp5oK0oIR', 2250),
 (DEFAULT, '-2', '1mb2MUBhLViP1HdCswCtLawKdsJfudPhU', 2250),
+-- Нервы - Самый дорогой человек
+(DEFAULT, 'original', '1HXbo4bCS4W5Jkg34Zd4FHOq6r2PH_8Ve', 7045),
+(DEFAULT, '0', '1cLlHjLlaguRUgQ14_eRlJMaW24FOK5uq', 7045),
+(DEFAULT, '-2', '1HTatcrpsLV4IpDGsJL00IP4BAsi7k6oW', 7045),
+(DEFAULT, '-4', '1UNU9hKlbOuQWiv4dln3QS_NrWpeqB_2y', 7045),
+-- Нервы - Слишком влюблен
+(DEFAULT, 'original', '1N_4RHh8c-Q-OLJZajHIhc_JQJEyEO5be', 7047),
 -- Порнофильмы - Прости. Прощай. Привет
 (DEFAULT, 'original', '1z8QuA1vfFTEA0XFhhj0JhxWLsPm35Nt3', 2252),
 (DEFAULT, '0', '1OI-u-meMRNdPdEut-H_ScKBG5aM-iXUc', 2252),
@@ -577,13 +584,6 @@ VALUES
 (DEFAULT, 'original', '1r8qHmacix9KerOKNRxE3Lll0ks-orfVp', 7040),
 (DEFAULT, '0', '13pjGNURoeYFb9NP6TtBpgpUj--IJAagq', 7040),
 (DEFAULT, '-3', '1zgjKH7agagCp5pYV0qOQl9WdxBwu70e-', 7040),
--- Нервы - Самый дорогой человек
-(DEFAULT, 'original', '1HXbo4bCS4W5Jkg34Zd4FHOq6r2PH_8Ve', 7045),
-(DEFAULT, '0', '1cLlHjLlaguRUgQ14_eRlJMaW24FOK5uq', 7045),
-(DEFAULT, '-2', '1HTatcrpsLV4IpDGsJL00IP4BAsi7k6oW', 7045),
-(DEFAULT, '-4', '1UNU9hKlbOuQWiv4dln3QS_NrWpeqB_2y', 7045),
--- Нервы - Слишком влюблен
-(DEFAULT, 'original', '1N_4RHh8c-Q-OLJZajHIhc_JQJEyEO5be', 7047),
 -- Пошлая Молли - Нон стоп
 (DEFAULT, 'original', '1zVaw3lgvlUAuf2eL8sUWdo9c-STGhuZX', 7060),
 -- Шарлот - Мяу мяу мяу

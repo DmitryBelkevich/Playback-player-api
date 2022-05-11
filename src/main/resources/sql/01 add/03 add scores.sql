@@ -1312,6 +1312,16 @@ VALUES
 (DEFAULT, 'Pizzicato', '1NMq2jQBXMoFQSk2aW-m6OsYnDjT-lmMM', 2250),
 (DEFAULT, 'Pad 2 (Warm)', '1B4lUMvQKqqOSpWR2XMg8IqjCCaTme_Io', 2250),
 (DEFAULT, 'Synth Bass', '1O4onFXRS0-Ji89h73KqFJgSluHvtZDUe', 2250),
+-- Нервы - Самый дорогой человек
+(DEFAULT, 'Full Score', '1ouqZn4p-LFv0EwTvHUlu_3Y477aRU_pV', 7045),
+(DEFAULT, 'Voice', '13HacLJyS7yP0zZ0ecetMzrpc0f3Fk8d6', 7045),
+(DEFAULT, 'Acoustic Guitar, Electric Guitar 1, Electric Guitar 2', '1v-R9ZL-z8CC2WWz6esPInM_72elRvY_X', 7045),
+(DEFAULT, 'Acoustic Guitar', '1nM3Ao7wd9QTqWzTyEXfMwF1QBdDaBOD-', 7045),
+(DEFAULT, 'Electric Guitar 1', '14JCLJ2YhLWRjYz2QYxytUAMTcyfJh9k8', 7045),
+(DEFAULT, 'Electric Guitar 2', '13IJ8LTZpeMPmLKfQAtFNgpkk3SZcvI75', 7045),
+(DEFAULT, 'Bass Guitar', '1hGyJHrHRi-jHOhFIzFmNeoiJ5kKHMg8O', 7045),
+(DEFAULT, 'Drum Set', '17iizQJeZ1sLdQUm_Fs92xd_Hc8QQ1qGS', 7045),
+-- Нервы - Слишком влюблен
 -- Порнофильмы - Прости. Прощай. Привет
 (DEFAULT, 'Full Score', '1OQ_pgUwY6pekeIvZuohzR5P3gukTxDJt', 2252),
 (DEFAULT, 'Voice', '13j2ApBB2HrsB6S3IFObCakZ29vkuLj-9', 2252),
@@ -1644,16 +1654,6 @@ VALUES
 (DEFAULT, 'Lead 1 (Square)', '1WJtnrsgYaG5_oSfJ0mVN_S_WC_51Fiet', 7040),
 (DEFAULT, 'Synth Strings', '1GSeFMB6sAh9heFZlwCIRbfh9EcLEHGGs', 7040),
 (DEFAULT, 'FX 1 (Abduction)', '1n39a08XRoFgRDE_DyBJy-5AyiW8bxXPc', 7040),
--- Нервы - Самый дорогой человек
-(DEFAULT, 'Full Score', '1ouqZn4p-LFv0EwTvHUlu_3Y477aRU_pV', 7045),
-(DEFAULT, 'Voice', '13HacLJyS7yP0zZ0ecetMzrpc0f3Fk8d6', 7045),
-(DEFAULT, 'Acoustic Guitar, Electric Guitar 1, Electric Guitar 2', '1v-R9ZL-z8CC2WWz6esPInM_72elRvY_X', 7045),
-(DEFAULT, 'Acoustic Guitar', '1nM3Ao7wd9QTqWzTyEXfMwF1QBdDaBOD-', 7045),
-(DEFAULT, 'Electric Guitar 1', '14JCLJ2YhLWRjYz2QYxytUAMTcyfJh9k8', 7045),
-(DEFAULT, 'Electric Guitar 2', '13IJ8LTZpeMPmLKfQAtFNgpkk3SZcvI75', 7045),
-(DEFAULT, 'Bass Guitar', '1hGyJHrHRi-jHOhFIzFmNeoiJ5kKHMg8O', 7045),
-(DEFAULT, 'Drum Set', '17iizQJeZ1sLdQUm_Fs92xd_Hc8QQ1qGS', 7045),
--- Нервы - Слишком влюблен
 -- Пошлая Молли - Нон стоп
 -- Шарлот - Мяу мяу мяу
 (DEFAULT, 'Full Score', '15lOA67eSz2IgsLzc-RtwWVTA3g1VxLmy', 7085),
