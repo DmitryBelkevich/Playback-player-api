@@ -133,7 +133,7 @@ VALUES
 -- Егор и Опизденевшие - Про дурачка
 -- Егор и Опизденевшие - Про мишутку (Песенка для Янки)
 -- ДДТ - В последнюю осень
-(DEFAULT, '15KRu19X626YCQ8zzyJSOqX8FKl82ol_a', 1400),
+(DEFAULT, '15KRu19X626YCQ8zzyJSOqX8FKl82ol_a', 1405),
 -- ДДТ - Метель
 (DEFAULT, '15P6CuvbKkrHYI4lxpneFOqHIvCSMGzon', 1430),
 -- ДДТ - Осенняя

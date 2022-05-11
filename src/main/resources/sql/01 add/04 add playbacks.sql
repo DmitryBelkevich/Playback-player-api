@@ -189,8 +189,8 @@ VALUES
 -- Егор и Опизденевшие - Про дурачка
 -- Егор и Опизденевшие - Про мишутку (Песенка для Янки)
 -- ДДТ - В последнюю осень
-(DEFAULT, 'original', '1Prp55PRvTJ2ImUTxT1ODnNoROZPySTDY', 1400),
-(DEFAULT, '0', '1Y-k_HGu1NcY1QY_CA76oN2kmP5z1mKpu', 1400),
+(DEFAULT, 'original', '1Prp55PRvTJ2ImUTxT1ODnNoROZPySTDY', 1405),
+(DEFAULT, '0', '1Y-k_HGu1NcY1QY_CA76oN2kmP5z1mKpu', 1405),
 -- ДДТ - Осенняя
 -- ДДТ - Пацаны
 (DEFAULT, 'original', '1M7eD836Lkxxv8l3QzV1zf8vfrJhIFM_7', 1443),
