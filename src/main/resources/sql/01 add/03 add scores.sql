@@ -1333,6 +1333,7 @@ VALUES
 (DEFAULT, 'Celesta', '1hc6zHQNlKk9CgeBMs2oeeTusqxjRvxvr', 2257),
 -- Порнофильмы - Прости. Прощай. Привет
 (DEFAULT, 'Full Score', '1OQ_pgUwY6pekeIvZuohzR5P3gukTxDJt', 2260),
+(DEFAULT, 'Hard', '1iX19qWKM4DJM1YDiMAluGngyy9ynvECb', 2260),
 (DEFAULT, 'Voice', '13j2ApBB2HrsB6S3IFObCakZ29vkuLj-9', 2260),
 (DEFAULT, 'Acoustic Guitar in F, Electric Guitar 1, Electric Guitar 2, Electric Guitar 3', '1umh2pkHzmwn8fxoDrkghmNufAjE9pA-W', 2260),
 (DEFAULT, 'Acoustic Guitar in F', '1Neekc3vTq-h4q84-8XtW78ZRPftMqKb1', 2260),
