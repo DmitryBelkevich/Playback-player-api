@@ -1322,6 +1322,15 @@ VALUES
 (DEFAULT, 'Bass Guitar', '1hGyJHrHRi-jHOhFIzFmNeoiJ5kKHMg8O', 2255),
 (DEFAULT, 'Drum Set', '17iizQJeZ1sLdQUm_Fs92xd_Hc8QQ1qGS', 2255),
 -- Нервы - Слишком влюблен
+(DEFAULT, 'Full Score', '1zOTx4BGTfLZcLY49apRnLWgaAcMwiXWm', 2257),
+(DEFAULT, 'Voice', '1REXYlXMt5tbHudrSlWXBaTiyEyV-s9oy', 2257),
+(DEFAULT, 'Acoustic Guitar in E 1, Acoustic Guitar in E 2', '1X20pBOL5lGEjMq22EUTOs3SSHDyX5PH_', 2257),
+(DEFAULT, 'Acoustic Guitar in E 1', '1_K3JFdQs_LkdrXonT_q3EGMCaihelk1P', 2257),
+(DEFAULT, 'Acoustic Guitar in E 2', '1MUdUfkkbv9nfI84JIEk6pIrOdeXxuqEt', 2257),
+(DEFAULT, 'Drum Set', '1iKu4fy0Q_GimUu2SJEFppYIfvA3Vlla3', 2257),
+(DEFAULT, 'Pad 2 (Warm), Celesta', '147L4ReGAzUtoY8YAXhZNdZda0RrlJ3aO', 2257),
+(DEFAULT, 'Pad 2 (Warm)', '1_bSNsmtTLQ4_Ax5DWDycjwwekrVMWkcv', 2257),
+(DEFAULT, 'Celesta', '1hc6zHQNlKk9CgeBMs2oeeTusqxjRvxvr', 2257),
 -- Порнофильмы - Прости. Прощай. Привет
 (DEFAULT, 'Full Score', '1OQ_pgUwY6pekeIvZuohzR5P3gukTxDJt', 2260),
 (DEFAULT, 'Voice', '13j2ApBB2HrsB6S3IFObCakZ29vkuLj-9', 2260),
