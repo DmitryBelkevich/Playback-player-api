@@ -930,13 +930,13 @@ VALUES
 (DEFAULT, 'Violin 2', '18qCyAu5hUOK5DLl4hAYPdM2q_iXeD_7y', 1790),
 (DEFAULT, 'Violin 3', '1CsEgpzrpve4zzkjyyYfzDRljMD1M9UVA', 1790),
 -- Король и Шут - Лесник
-(DEFAULT, 'Full Score', '1wTzDeodnM4uh3XXx_Kir7SIJ2DQGeYmN', 1800),
+(DEFAULT, 'Full Score', '1IlTMDpBwsXEEPhZ5ataZX4NGoDIAe2fs', 1800),
 (DEFAULT, 'Voice', '1QMQjzLwEymEPqczl75PnWUIxeJl5puqT', 1800),
 (DEFAULT, 'Electric Guitar 1, Electric Guitar 2', '1_ZKmvhQBPNw3_iqXN_TkmF-rmtsd4Hm4', 1800),
 (DEFAULT, 'Electric Guitar 1', '1oH-da5Tyx6BHzX467hYMtUBm9lQSaW8p', 1800),
 (DEFAULT, 'Electric Guitar 2', '14CnTSU1I2HIyu7C8A6AGT1lBRQvaUMu7', 1800),
 (DEFAULT, 'Bass Guitar', '1tXaJYSY2I97tWEf_35q4bvhFzS-eQfpE', 1800),
-(DEFAULT, 'Drum Set', '1Ke1bVE_jjKZ5lG3WuH6S333npBO4E0fr', 1800),
+(DEFAULT, 'Drum Set', '1eYxdtAwzyhbuRCDQiQqObthPXSydcm2R', 1800),
 -- Король и Шут - Мёртвый Анархист
 (DEFAULT, 'Full Score', '1A8t-nSPh_7jpoRUVVikE1Pj5NfgdpWTz', 1810),
 (DEFAULT, 'Voice 1, Voice 2, Voice 3', '1o8vRSeE4-OCbhAWGuf9TXt3qh12d8RYu', 1810),
