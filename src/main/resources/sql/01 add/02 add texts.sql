@@ -205,6 +205,8 @@ VALUES
 (DEFAULT, '12gfNhSI6bfhCWEvyZ0NjukhN5cNco5WN', 1719),
 -- Король и Шут - Воспоминание о былой любви
 (DEFAULT, '1jsXRPufNyzu45Rx3y3MBBFka1LFQ0aIR', 1720),
+-- Король и Шут - Воспоминание о былой любви (Instrumental)
+(DEFAULT, '1GvRdTWPd8DNo9nO20GtixQ8fW5ZW_6dp', 1721),
 -- Король и Шут - Два вора и монета
 (DEFAULT, '10vIdFb5RUWn6lmTLBOvTLSLSt3KOdv29', 1730),
 -- Король и Шут - Два монаха в одну ночь

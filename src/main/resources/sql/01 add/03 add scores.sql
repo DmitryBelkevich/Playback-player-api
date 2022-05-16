@@ -855,6 +855,7 @@ VALUES
 (DEFAULT, 'Bass Guitar', '1DBYqweM3ZN5dYvQvvlgCL-CAA4kgrab5', 1720),
 (DEFAULT, 'Drum Set', '1nxnP_1vI2HlKEg6zfVcuS1IXY78iZ0XG', 1720),
 (DEFAULT, 'Violin', '1lYo1vBEBj0FECPjCdJVB1TFJNf307k1Y', 1720),
+-- Король и Шут - Воспоминание о былой любви (Instrumental)
 -- Король и Шут - Два вора и монета
 (DEFAULT, 'Full Score', '1I0lBdRTYlRGdTeaQv9TZDxH0U9KU4trX', 1730),
 (DEFAULT, 'Voice 1, Voice 2', '1Aqzd4tos6580FUQQsXn5OEDvYKkxKSmv', 1730),
