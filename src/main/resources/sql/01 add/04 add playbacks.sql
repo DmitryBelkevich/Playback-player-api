@@ -289,10 +289,10 @@ VALUES
 (DEFAULT, 'original', '1EcrzgWuWD6UcODBMwESBc0Al3JCI_FA3', 1719),
 (DEFAULT, '0', '1EL8J_zj_HDa6XHB3wMo5hjGRetoScROa', 1719),
 -- Король и Шут - Воспоминание о былой любви
-(DEFAULT, 'original', '1QxAgG3f1KArNxnkEmdGTUQSvKZYv9PwF', 1720),
-(DEFAULT, '0', '1FNEoo8iFXwFZTZusOnLyHZcE0DhwiBch', 1720),
+(DEFAULT, 'original', '1QxAgG3f1KArNxnkEmdGTUQSvKZYv9PwF', 1726),
+(DEFAULT, '0', '1FNEoo8iFXwFZTZusOnLyHZcE0DhwiBch', 1726),
 -- Король и Шут - Воспоминание о былой любви (Instrumental)
-(DEFAULT, 'original', '1hlVS0oVZRNvEktVhQXKlu3Z5uZtXjE5R', 1721),
+(DEFAULT, 'original', '1hlVS0oVZRNvEktVhQXKlu3Z5uZtXjE5R', 1727),
 -- Король и Шут - Два вора и монета
 (DEFAULT, 'original', '1tA3ZwTSUMQ1F9Su5UJ6OnqkVGmq-hPCg', 1730),
 (DEFAULT, '0', '1AdRjz5qq0ObsewodkqEMxIr233lY6SFX', 1730),
