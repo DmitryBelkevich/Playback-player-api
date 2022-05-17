@@ -1275,6 +1275,7 @@ VALUES
 (DEFAULT, 'Drum Set, Tambourine', '1NM_5jeA-GoqefiWznzW9IFp0JhbaacMg', 2160),
 (DEFAULT, 'Drum Set', '1swE9k9Oke0GNtAnAza8i_YCfjS5qE0_f', 2160),
 (DEFAULT, 'Tambourine', '1iyWshNjO_SKAdbrUI3U7T_DIy1BiaxpW', 2160),
+-- Мумий Тролль - Невеста
 -- Nautilus Pompilius - Крылья
 (DEFAULT, 'Full Score', '1JBUoeA1Gpj3KLcIfWo6FLhL83kE8bbbX', 2180),
 (DEFAULT, 'Voice', '1-DJfDknTJF1ay9hnPBvL0mbw1-oeFCJY', 2180),
