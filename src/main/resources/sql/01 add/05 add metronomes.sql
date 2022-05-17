@@ -293,6 +293,8 @@ VALUES
 -- Мумий Тролль - Медведица
 (DEFAULT, null, 4, 4, 130, 2160),
 -- Мумий Тролль - Невеста
+(DEFAULT, null, 2, 4, 100, 2165),
+(DEFAULT, 'Chorus', 4, 4, 100, 2165),
 -- Nautilus Pompilius - Дыхание
 -- Nautilus Pompilius - Крылья
 (DEFAULT, null, 12, 8, 63, 2180),
