@@ -856,6 +856,16 @@ VALUES
 (DEFAULT, 'Drum Set', '1nxnP_1vI2HlKEg6zfVcuS1IXY78iZ0XG', 1720),
 (DEFAULT, 'Violin', '1lYo1vBEBj0FECPjCdJVB1TFJNf307k1Y', 1720),
 -- Король и Шут - Воспоминание о былой любви (Instrumental)
+(DEFAULT, 'Full Score', '1XYHfZIEvstXJdZggz0ljn2J9g7Y0khMg', 1721),
+(DEFAULT, 'Acoustic Guitar, Electric Guitar 1, Electric Guitar 2', '1T4b0SBSkTTXw9G9zIMoC0XKxLLPmI_S-', 1721),
+(DEFAULT, 'Acoustic Guitar', '1fo-0SWsIDGIbnNnF1tZi78i5YCi_dyNw', 1721),
+(DEFAULT, 'Electric Guitar 1', '10rRW59FLgwJEey5MJT2xBR18e9sJGA1I', 1721),
+(DEFAULT, 'Electric Guitar 2', '1qciJpuKHzqcEc-7pX3BzTJfsaMbtZH1p', 1721),
+(DEFAULT, 'Bass Guitar', '12GojOa1Jtiok3zCKRhZ8gq4TPjZNLryP', 1721),
+(DEFAULT, 'Drum Set', '1abrCF8x1LhryLx79-YUQtnomTSwmOxIt', 1721),
+(DEFAULT, 'Violin 1, Violin 2', '1FKviqMZBRo41yJnLoy5b_IRURdQXMsoz', 1721),
+(DEFAULT, 'Violin 1', '1fovQy6r_hgL5yPTOYFANWAa9Bi6pAndW', 1721),
+(DEFAULT, 'Violin 2', '1aWE1gEmC_eEndjARafUsWjOCO5AoorI3', 1721),
 -- Король и Шут - Два вора и монета
 (DEFAULT, 'Full Score', '1I0lBdRTYlRGdTeaQv9TZDxH0U9KU4trX', 1730),
 (DEFAULT, 'Voice 1, Voice 2', '1Aqzd4tos6580FUQQsXn5OEDvYKkxKSmv', 1730),
