@@ -528,17 +528,24 @@ VALUES
     (10050, 'Chi Mai', 410, 'F#m'),
     (10100, 'The Lonely Shepherd', 420, 'Dm');
 
+-- Romance:
+
 -- Ennio Morricone - Le Vent, Le Cri
 -- Francis Lai - Theme from Love Story
 -- Paul Mauriat - Toccata
 -- дога - вальс
 -- Огинский - Полонез
 
+-- Classic:
+
 -- Bach - прелюдия до-минор
 -- Bach - Bourree
--- вивальди - шторм
+-- Bach - Joke
+-- Vivaldi - Storm
 -- Nicolo Paganini - Caprice
 -- Римский-Корсаков - полёт шмеля
 -- Albinoni - Adagio
+
+-- OST:
 
 -- Александр Пантыкин - Всё будет хорошо
