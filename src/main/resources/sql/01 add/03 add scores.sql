@@ -1674,6 +1674,7 @@ VALUES
 
 -- New school
 
+-- Гречка - Люби меня люби
 -- МУККА - ДЕВОЧКА С КАРЕ
 (DEFAULT, 'Full Score', '1N3Cpda-i9HS_nFTV4NcCsvwhOaWDu9iN', 7040),
 (DEFAULT, 'Voice 1, Voice 2', '1r8x-vlqyHYDNcbgTnU1oNcrJ6g0TRei1', 7040),

@@ -585,6 +585,8 @@ VALUES
 
 -- New school
 
+-- Гречка - Люби меня люби
+(DEFAULT, 'original', '1U2D6QmdIfDXzau_hsS6Y8v91wBXMJqiz', 7035),
 -- МУККА - ДЕВОЧКА С КАРЕ
 (DEFAULT, 'original', '1r8qHmacix9KerOKNRxE3Lll0ks-orfVp', 7040),
 (DEFAULT, '0', '13pjGNURoeYFb9NP6TtBpgpUj--IJAagq', 7040),

@@ -403,6 +403,8 @@ VALUES
 
 -- New school
 
+-- Гречка - Люби меня люби
+(DEFAULT, '1fyZ-OAk1M8Ah_k41kCh0f0kzKVLGOsOC', 7035),
 -- МУККА - ДЕВОЧКА С КАРЕ
 (DEFAULT, '1P7kxdPdtxzSueUMbDZKm-COhjveUvjRt', 7040),
 -- Пошлая Молли - Нон стоп
