@@ -307,8 +307,8 @@ VALUES
 (DEFAULT, '-2', '14-llEOfSkXxrUkFsk34OjJh4wqIMReCa', 1750),
 -- Король и Шут - Ели мясо мужики
 (DEFAULT, 'original', '1C1Ne1uam2icG1LvQ1SO0Tq9AiJLlZcSi', 1760),
-(DEFAULT, '0', '1iSYQTSTq4jb4KyHRY0XNG_xHWRYSN0_Q', 1760),
-(DEFAULT, '-2', '1DcHM7bktc1IFvE5n5R_TFxgjhU0AOcrC', 1760),
+(DEFAULT, '0', '1cOeixT1l33q18K0a9efgRu5mDMoe2V5S', 1760),
+(DEFAULT, '-2', '1F5DdRpEv2sv4IWRkrupMxPRQWPsg7hNr', 1760),
 -- Король и Шут - Жаль, нет ружья!
 (DEFAULT, 'original', '1NvzZg9oaFODT-xkG3FXqV92ZCFkrrq85', 1770),
 (DEFAULT, '0', '1WiuXcOgrtxxPs0PdF-FQYAe089MoPWwX', 1770),
