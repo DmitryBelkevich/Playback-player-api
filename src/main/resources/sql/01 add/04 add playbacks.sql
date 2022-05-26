@@ -148,8 +148,8 @@ VALUES
 (DEFAULT, '0', '1xl9crJCQ64aaP5sEFrKrX25LdvCRX231', 1230),
 -- Би-2 - Варвара
 (DEFAULT, 'original', '1_KPpISEs09R8_qKFfg0IzhgRXvrumdoC', 1240),
-(DEFAULT, '0', '1-NybgaPah-Yz4Lyhx-3FaDStTJsCNDu0', 1240),
-(DEFAULT, '-2', '1BDPUnm2h93i2A3ZOfHX8dcTfxOUWcsDY', 1240),
+(DEFAULT, '0', '1pSIMituGfmaCuZXIK0CEckSV4wfduVPV', 1240),
+(DEFAULT, '-2', '1L0Ye3jH8pWyQuWM_SxRP2T4YC1cpky3k', 1240),
 -- Би-2 - Компромисс
 (DEFAULT, 'original', '1IgM7YTqyob7Qje_1jfukRep1WTX4reFl', 1250),
 (DEFAULT, '0', '1se8_EklHqygr7FefbW_SELjhXapJzVlh', 1250),
