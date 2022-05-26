@@ -371,7 +371,7 @@ VALUES
 (DEFAULT, 'Piccolo', '1MWnMxx-fyrWSZEM0hxtBxr45ZVrajWys', 1200),
 -- АукцЫон - Дорога
 -- Би-2 - Варвара
-(DEFAULT, 'Full Score', '1XXhov4lvdl16z2eAo4ldpCu25OcxyWjF', 1240),
+(DEFAULT, 'Full Score', '1hBEiUMbJS1G4afmreoj_0OMK-STfETMm', 1240),
 (DEFAULT, 'Voice 1, Voice 2', '1827OGVprnzMiaW3W_JBzi0jz0drusiuT', 1240),
 (DEFAULT, 'Voice 1', '1xPxLB1B7GgjEyrX0HqsJbPLbKW8STaFE', 1240),
 (DEFAULT, 'Voice 2', '1jag_wVaD7-xfmjNprN_rtbga7Eov9mv0', 1240),
@@ -382,8 +382,8 @@ VALUES
 (DEFAULT, 'Drum Set, Shaker', '1Jm2S3loWRpSDrWaP2uX-3KIx5taMlKkP', 1240),
 (DEFAULT, 'Drum Set', '1m77fptFoKhR6ycrfStDEnRrhUK129byL', 1240),
 (DEFAULT, 'Shaker', '10jS7pnPYmYYLbA6yF3LKzL_bTfc0BDr7', 1240),
-(DEFAULT, 'Pad 2 (Warm), Trumpet in Bb', '1dtVZ6jEUPUJTdOuXCEG3KF4uKH8pV8z3', 1240),
-(DEFAULT, 'Pad 2 (Warm)', '1S-cnAGDFtC42PPJMjrzTv0GRFt2KYwa7', 1240),
+(DEFAULT, 'Pad 2 (Warm), Trumpet in Bb', '1uSiJkAo3sQt6IlbHnbMtgoqF4-khybIJ', 1240),
+(DEFAULT, 'Pad 2 (Warm)', '1oPgMazB8bYZoGiTTua3ElUlinwjCqKBU', 1240),
 (DEFAULT, 'Trumpet in Bb', '1N-dRDJHYrYhM_7rrVZVcX4wvyZDOIjfs', 1240),
 -- Би-2 - Мой рок-н-ролл
 (DEFAULT, 'Full Score', '1fu0UJ4qyak92ue_VfCscbUYazlBIuiHG', 1260),
