@@ -76,7 +76,7 @@ VALUES
 -- The Rolling Stones - Paint It Black
 (DEFAULT, null, 4, 4, 160, 1115),
 -- Animal ДжаZ - Три полоски
-(DEFAULT, null, 4, 4, 108, 1120),
+(DEFAULT, null, 4, 4, 108, 1125),
 -- BRUTTO - 12 обезьян
 (DEFAULT, null, 4, 4, 128, 1130),
 -- DREZDEN - Эдельвейс

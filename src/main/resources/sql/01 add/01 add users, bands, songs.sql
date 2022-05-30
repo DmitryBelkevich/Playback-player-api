@@ -49,7 +49,8 @@ VALUES
     (85, 'The Offspring'),
     (87, 'The Rolling Stones'),
 
-    (90, 'Animal ДжаZ'),
+    (90, '7Б'),
+    (92, 'Animal ДжаZ'),
     (95, 'BRUTTO'),
     (100, 'DREZDEN'),
     (105, 'Lumen'),
@@ -205,7 +206,7 @@ VALUES
 
     (1115, 'Paint It Black', 87, null),
 
-    (1120, 'Три полоски', 90, 'Dm'),
+    (1125, 'Три полоски', 92, 'Dm'),
     (1130, '12 обезьян', 95, 'Gm'),
     (1140, 'Эдельвейс', 100, 'Dm'),
     (1145, 'Sid & Nancy', 105, null),
