@@ -152,8 +152,9 @@ VALUES
 -- Звери - Районы-кварталы
 (DEFAULT, null, 2, 4, 88, 1560),
 -- Земляне - Трава у дома
-(DEFAULT, 'Intro', 4, 4, 85, 1570),
-(DEFAULT, 'Break', 4, 4, 128, 1570),
+(DEFAULT, 'Intro', 4, 4, 81, 1570),
+(DEFAULT, 'Break', 2, 4, 128, 1570),
+(DEFAULT, 'Verse, Pre-Chorus, Chorus, Solo', 4, 4, 128, 1570),
 -- Земфира - Искала
 (DEFAULT, null, 2, 4, 95, 1580),
 -- Земфира - Хочешь?
