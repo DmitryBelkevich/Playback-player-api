@@ -204,6 +204,7 @@ VALUES
 -- Кино - Я объявляю свой дом
 (DEFAULT, '12gfNhSI6bfhCWEvyZ0NjukhN5cNco5WN', 1719),
 -- Король и Шут - Ведьма и осёл
+(DEFAULT, '1e2Fs5KxqsCzQfr1ivYlLOGEekcO6Xd3o', 1723),
 -- Король и Шут - Воспоминание о былой любви
 (DEFAULT, '1jsXRPufNyzu45Rx3y3MBBFka1LFQ0aIR', 1726),
 -- Король и Шут - Воспоминание о былой любви (Instrumental)
