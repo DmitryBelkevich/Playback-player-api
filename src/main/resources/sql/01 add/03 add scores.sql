@@ -848,6 +848,7 @@ VALUES
 (DEFAULT, 'Electric Guitar', '1mJ-qqDQhB5m5z_8TtqFSeNjO8Baom-4x', 1719),
 (DEFAULT, 'Fretless Bass Guitar', '1tsOuSQ0PmnpMGnBjGMGeh_KF7tErRrSn', 1719),
 (DEFAULT, 'Drum Set', '1Y1OPEykiFEihXndnXYSl5aoPiKzSmYz6', 1719),
+-- Король и Шут - Ведьма и осёл
 -- Король и Шут - Воспоминание о былой любви
 (DEFAULT, 'Full Score', '1mI8CDtEtNfULkAoJnlggW0UTrSuXmem1', 1726),
 (DEFAULT, 'Voice 1, Voice 2', '1JdJFfIHlwCXxhNnDMew98F3-QZQzGtNV', 1726),
