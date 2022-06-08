@@ -290,6 +290,8 @@ VALUES
 (DEFAULT, '0', '1EL8J_zj_HDa6XHB3wMo5hjGRetoScROa', 1719),
 -- Король и Шут - Ведьма и осёл
 (DEFAULT, 'original', '1-zoXaoppJ8gfAAdIxhD8PXn6l_mTv5J_', 1723),
+(DEFAULT, '0', '1U0kOJC5DiAKr-A36hInZ4fN3HlJm59Cs', 1723),
+(DEFAULT, '-5', '1zyWGbOKajarXkusY84JOUvxj6UFoZXc1', 1723),
 -- Король и Шут - Воспоминание о былой любви
 (DEFAULT, 'original', '1QxAgG3f1KArNxnkEmdGTUQSvKZYv9PwF', 1726),
 (DEFAULT, '0', '1FNEoo8iFXwFZTZusOnLyHZcE0DhwiBch', 1726),
