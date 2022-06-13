@@ -651,6 +651,7 @@ VALUES
 (DEFAULT, 'Pizzicato', '1_gGbUgQKRU02fiLHXQL8XkP5pZhHAt4W', 1580),
 (DEFAULT, 'FX 3 (Crystal)', '17_Vgq04YmkREvDhHZZPpANeX6neh-vDu', 1580),
 (DEFAULT, 'Lead 3 (Calliope)', '1O2w3_MvzAPlTGqQlHQZnjQa0cYsONd6q', 1580),
+-- Игорь Корнелюк - Город, которого нет
 -- Кино - Апрель
 (DEFAULT, 'Full Score', '1bOcIGZP978KeLtj2dIJtducC-88ov-Nr', 1612),
 (DEFAULT, 'Voice', '1rHbVaz5XvXJXH0d8QjBjwTW_P8DTRMBz', 1612),
