@@ -222,7 +222,8 @@ VALUES
 -- Король и Шут - Кукла колдуна
 (DEFAULT, null, 4, 4, 148, 1790),
 -- Король и Шут - Лесник
-(DEFAULT, null, 4, 4, 173, 1800),
+(DEFAULT, 'Intro, Break, Chorus', 4, 4, 173, 1800),
+(DEFAULT, 'Verse', 2, 4, 173, 1800),
 (DEFAULT, 'Outro', 2, 2, 86, 1800),
 -- Король и Шут - Мёртвый Анархист
 (DEFAULT, 'Intro, Outro', 2, 2, 62, 1810),
