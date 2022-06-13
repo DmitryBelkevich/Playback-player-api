@@ -235,8 +235,8 @@ VALUES
 (DEFAULT, 'original', '1IwQYmddIakZvif0C5RizE1Zo95-dbd8d', 1580),
 (DEFAULT, '0', '14GihNTNJIx01Wk2IZyw3R0Elg5hbOgfe', 1580),
 -- Земфира - Хочешь?
-(DEFAULT, 'original', '1BWN4N8DKuPpNvblRWlt532Bi15t5MPtj', 1610),
-(DEFAULT, '0', '1Y0nAcZx1XLNkmvGeucgVaS_kUp6nfmBA', 1610),
+(DEFAULT, 'original', '1BWN4N8DKuPpNvblRWlt532Bi15t5MPtj', 1590),
+(DEFAULT, '0', '1Y0nAcZx1XLNkmvGeucgVaS_kUp6nfmBA', 1590),
 -- Кино - Апрель
 (DEFAULT, 'original', '1lbJ03vm5gd6cgCNaaVzl8ALSymkSA0_d', 1612),
 (DEFAULT, '0', '1bFFTeYOZyHw8pLKiYEoA5_LRO0VHrlPJ', 1612),

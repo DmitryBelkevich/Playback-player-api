@@ -166,7 +166,7 @@ VALUES
 -- Земфира - Искала
 (DEFAULT, '1z8xEijfI02snc0XswS0OhIc1eo_o5NtE', 1580),
 -- Земфира - Хочешь?
-(DEFAULT, '1bcbbuXPDC-U4wf7lG66kQK_IaSwziPQF', 1610),
+(DEFAULT, '1bcbbuXPDC-U4wf7lG66kQK_IaSwziPQF', 1590),
 -- Кино - Апрель
 (DEFAULT, '1HHz8UC_uBHa5SLStkHVRXiyMf-dLPLWa', 1612),
 -- Кино - Группа крови
