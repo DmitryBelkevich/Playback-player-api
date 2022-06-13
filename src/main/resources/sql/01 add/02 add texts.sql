@@ -168,6 +168,7 @@ VALUES
 -- Земфира - Хочешь?
 (DEFAULT, '1bcbbuXPDC-U4wf7lG66kQK_IaSwziPQF', 1590),
 -- Игорь Корнелюк - Город, которого нет
+(DEFAULT, '1K0oT2JjznhReJu45TCH6dcRVRGpTjLeU', 1595),
 -- Кино - Апрель
 (DEFAULT, '1HHz8UC_uBHa5SLStkHVRXiyMf-dLPLWa', 1612),
 -- Кино - Группа крови
