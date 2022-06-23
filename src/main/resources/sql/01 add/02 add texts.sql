@@ -310,7 +310,7 @@ VALUES
 -- Nautilus Pompilius - Я хочу быть с тобой
 (DEFAULT, '1E02LHvaWLLtgYsaFdBY9QczgbNs7X2Qy', 2250),
 -- Нервы - Самый дорогой человек
-(DEFAULT, '1x8xUdW2WWyJNjdjiRAzs4JUKm2wV4nIl', 2255),
+(DEFAULT, '1x8xUdW2WWyJNjdjiRAzs4JUKm2wV4nIl', 2257),
 -- Нервы - Слишком влюблен
 (DEFAULT, '16KrTJTx7c1AOAc8Le8cU6BeTH_OUGV1a', 2259),
 -- Порнофильмы - Прости. Прощай. Привет
