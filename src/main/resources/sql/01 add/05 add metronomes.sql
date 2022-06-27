@@ -252,7 +252,8 @@ VALUES
 -- Сергей Шнуров - Привет Морриконе
 (DEFAULT, null, 4, 4, 76, 1974),
 -- Леприконсы - Хали-Гали
-(DEFAULT, null, 4, 4, 144, 1980),
+(DEFAULT, 'Intro, Break', 2, 4, 144, 1980),
+(DEFAULT, 'Verse, Pre-Chorus, Chorus, Bridge, Solo', 4, 4, 144, 1980),
 -- Ляпис Трубецкой - Belarus Freedom
 -- Ляпис Трубецкой - Ау
 (DEFAULT, null, 4, 4, 123, 1995),
