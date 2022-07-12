@@ -1640,10 +1640,10 @@ VALUES
 -- Pop, Dance
 
 -- Ласковый май - Белые розы
-(DEFAULT, 'Full Score', '1-vFCDQn06NDFOLZtEUjAg_zIMqt8h9B2', 5040),
+(DEFAULT, 'Full Score', '1vR6XrMxIS-1y3QnXT7QSY-ecMj-lcEET', 5040),
 (DEFAULT, 'Voice', '19EIx-M-jSPvJmVo92UcGwDoBzMfDpmaU', 5040),
 (DEFAULT, '5-string Bass Guitar', '1fIzDVDCj6QoKWMsqWiy0cR8-Ia8AkuTB', 5040),
-(DEFAULT, 'Drum Set, Gunshot', '1yPOReoHC45uDTuwQwyQ-IBvUL5Pwnp2u', 5040),
+(DEFAULT, 'Drum Set, Gunshot', '1jnVm-jJ9IWzfiQpPedjjfQwZkyracYmf', 5040),
 (DEFAULT, 'Drum Set', '1rTbPNhmmvXPIVk0Ryz8pdRcAcH1cOmhv', 5040),
 (DEFAULT, 'Gunshot', '10kBty0RZm-GfPodVTVVKneRN8lzZAn9i', 5040),
 (DEFAULT, 'Synth Brass, FX 5 (Brightness), Lead 1 (Square), Strings', '1AeakFyZwxCLo7V8LkzhmSUtBQtTfqFSU', 5040),
@@ -1652,6 +1652,20 @@ VALUES
 (DEFAULT, 'Lead 1 (Square)', '1ciBI4gRA4v4jrcrVtg3dRfRPx2oG-XYX', 5040),
 (DEFAULT, 'Strings', '1SroZorayBHWL09U06XPmAOmDP6nNrAmc', 5040),
 -- Ласковый май - Розовый вечер
+(DEFAULT, 'Full Score', '1htP9dX_3QnKgNWlEEIcR4Ny-Fg9ohpN_', 5060),
+(DEFAULT, 'Voice', '1euv_-XFtIth0-LoCOpAH1gBsvhRLNMRS', 5060),
+(DEFAULT, '5-string Bass Guitar', '1CItbySB9xiicquRNDhshevtiitG-TD3A', 5060),
+(DEFAULT, 'Drum Set, Gunshot, Triangle', '1-3CDMKUiTWT3HL6mSZhBfUHYtFFVd2hB', 5060),
+(DEFAULT, 'Gunshot', '1wTpNA3Hu0MRqU5MVl42TRb1yqZ8ltReH', 5060),
+(DEFAULT, 'Drum Set', '1IZik517hHlFle8GSyKX-i5XaCq42eqvi', 5060),
+(DEFAULT, 'Triangle', '1qCehswubQAWzQnfMtsSvxq28kyk8Xij0', 5060),
+(DEFAULT, 'Pad 1 (New Age)', '1hOwKd5tZ8g_XU-QA36QyBpurddd5yHos', 5060),
+(DEFAULT, 'FX 4 (Atmosphere)', '1RLoOK-1MXzIk4HPogzRmis6_9yR_MM6Q', 5060),
+(DEFAULT, 'Lead 3 (Calliope)', '1QWpQU1_Mt3SkGtcE7R2mIjcce4d2mBB8', 5060),
+(DEFAULT, 'Lead 5 (Charang)', '1giiGIroYeA_LNy0JWvwBNpZ9jEFlaW--', 5060),
+(DEFAULT, 'Lead 1 (Square)', '1VmXJYPT5JcO7xuWmkfSxbxseMRV6JGqS', 5060),
+(DEFAULT, 'Synth Strings', '1VtJXPWHmsTUHgZQeib43nrVRmue-J0yk', 5060),
+(DEFAULT, 'Pad 2 (Warm)', '1QEAWDfwIo7jChFyV70HyOb0Bm9_aQQZ-', 5060),
 -- Ласковый май - Седая ночь
 (DEFAULT, 'Full Score', '1P4PSgrYaobu41KwE_8fm1mukPb5dBY1b', 5070),
 (DEFAULT, 'Voice', '1WMssCaoIzgpecOVDM_z81gJXQNGqsN6O', 5070),
