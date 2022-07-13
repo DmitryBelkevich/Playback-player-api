@@ -1019,6 +1019,7 @@ VALUES
 (DEFAULT, 'Trumpet in Bb', '1gUvONsKRMjdNmK10yBiV15hBgjCmEoVM', 1974),
 (DEFAULT, 'Strings', '14hB6OwG54dzYJfdrHI9Fz90KDjvfPkOb', 1974),
 (DEFAULT, 'Violin', '16etRBsPF8PeuBX2OQ6zpGv4EJPBek9RC', 1974),
+-- Ленинград - Терминатор
 -- Леприконсы - Хали-Гали
 (DEFAULT, 'Full Score', '1zqoAKDcj08CRK5lmUnQTEUq3RWTpNl8l', 1980),
 (DEFAULT, 'Voice 1, Voice 2.3', '1Tpc88JyItODJiWrAUR7_eYqwksppGApM', 1980),
