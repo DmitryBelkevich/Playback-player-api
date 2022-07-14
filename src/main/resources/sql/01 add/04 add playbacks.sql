@@ -352,6 +352,8 @@ VALUES
 -- Ленинград - Свобода
 -- Ленинград - Терминатор
 (DEFAULT, 'original', '1E_wDM4rT1cEjt0o1ZFxtQM0XnWFVCxJX', 1970),
+(DEFAULT, '0', '1OlHrTMzg1lysRzmBSFhPssCYtkO9OChh', 1970),
+(DEFAULT, '-2', '13K4OhOydrXyG8a4ZAzhEYZ2SVD1AGfge', 1970),
 -- Сергей Шнуров - Привет Морриконе
 (DEFAULT, 'original', '1KEQcC9VQBO1-BIQzrJmtuAmKLU2VDfoF', 1974),
 (DEFAULT, '0', '1pkSjHrqimgdgtidKaxTelSxhdiNVMSld', 1974),
