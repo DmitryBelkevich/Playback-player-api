@@ -566,6 +566,8 @@ VALUES
 (DEFAULT, 'original', '1lk1jzI-Eiak_956et5pis2WlaUEYj89Z', 5040),
 (DEFAULT, '0', '1k_8wtY1NChX1HL9wlpzZGsArn79gq885', 5040),
 (DEFAULT, '-2', '1PoP2DO5x04twqZcf8aw9ygFDyBuYhTDs', 5040),
+-- Ласковый май - Детство
+(DEFAULT, 'original', '141Sw4RqTHo0DIqVaGpLbc9sqbMsNM0SO', 5050),
 -- Ласковый май - Розовый вечер
 (DEFAULT, 'original', '1guuLUic-2XB1pfeqe0ChCiN7qD-A0yP5', 5060),
 (DEFAULT, '0', '1EN6eJpcHijmOt5XdA6r9vK4pdFE6vh2C', 5060),
