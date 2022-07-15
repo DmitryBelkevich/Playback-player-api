@@ -379,6 +379,8 @@ VALUES
 -- (DEFAULT, '', 5030),
 -- Ласковый май - Белые розы
 (DEFAULT, '1oSQC5SW2AFu7Q_xWGgGy-bhOPqNNPaI3', 5040),
+-- Ласковый май - Детство
+(DEFAULT, '1QXglhvryt6Nw13Ly3tQk28pfzAq6ymyg', 5050),
 -- Ласковый май - Розовый вечер
 (DEFAULT, '1dJ2ru_MFX0aFdGzHbGUTaIrumKS9HTwV', 5060),
 -- Ласковый май - Седая ночь

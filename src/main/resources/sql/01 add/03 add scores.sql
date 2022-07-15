@@ -1665,6 +1665,7 @@ VALUES
 (DEFAULT, 'FX 5 (Brightness)', '1qtW39zAZD0vxo_0DERRlE8e-iAsR8sFf', 5040),
 (DEFAULT, 'Lead 1 (Square)', '1ciBI4gRA4v4jrcrVtg3dRfRPx2oG-XYX', 5040),
 (DEFAULT, 'Strings', '1SroZorayBHWL09U06XPmAOmDP6nNrAmc', 5040),
+-- Ласковый май - Детство
 -- Ласковый май - Розовый вечер
 (DEFAULT, 'Full Score', '137dvepEnelv7LUxUi8vo6zASPkBgvvDO', 5060),
 (DEFAULT, 'Voice', '1euv_-XFtIth0-LoCOpAH1gBsvhRLNMRS', 5060),
