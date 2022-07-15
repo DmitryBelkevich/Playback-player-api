@@ -1020,9 +1020,9 @@ VALUES
 (DEFAULT, 'Strings', '14hB6OwG54dzYJfdrHI9Fz90KDjvfPkOb', 1974),
 (DEFAULT, 'Violin', '16etRBsPF8PeuBX2OQ6zpGv4EJPBek9RC', 1974),
 -- Ленинград - Терминатор
-(DEFAULT, 'Full Score', '1qd8XIGZX6bcGJG2OLmsjMTfprJdolDXt', 1970),
-(DEFAULT, 'Voice 1, Voice 2, Voice 3', '1RF-UnZXZqZOFo0lY7JVo-FKB6Zw-7OTy', 1970),
-(DEFAULT, 'Voice 1', '1nG1e44w3_8aHdSBqGvxhfNX19DZ9AK7t', 1970),
+(DEFAULT, 'Full Score', '1E1F8kdG_4UKe_sk2iHTh2V5Cfa-psDDK', 1970),
+(DEFAULT, 'Voice 1, Voice 2, Voice 3', '1PzypcIhRALbkWsVNu7LHPTf2tJXOww9K', 1970),
+(DEFAULT, 'Voice 1', '1IypDUe5fthR8xFRveripw2vdzB3KcNuk', 1970),
 (DEFAULT, 'Voice 2', '1b8uFpGDeyd3S22YowTSAVQdrCnmMbl34', 1970),
 (DEFAULT, 'Voice 3', '16PzaJNRWA6AcBck8kyWThUbIrHU5kJ65', 1970),
 (DEFAULT, 'Electric Guitar', '1-8VA0kqln4Gt1ODh4HC2N-LbS-AOoJ7r', 1970),
