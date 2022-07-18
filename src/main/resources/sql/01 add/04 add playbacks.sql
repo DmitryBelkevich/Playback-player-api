@@ -284,7 +284,7 @@ VALUES
 (DEFAULT, '0', '15ifbBdfUYfz8eMlKtd85YrFswTbT-0rg', 1712),
 -- Кино - Спокойная ночь
 (DEFAULT, 'original', '1IYxUUACd4g4aQIX6c6U6oZxRn6FlbQJa', 1714),
-(DEFAULT, '0', '1fFpEc24yn36zzi1yBVRuta2jvYkOmoJM', 1714),
+(DEFAULT, '0', '1f_r_rg-CQ44u0C8abeoVWPZ0pEAVrQty', 1714),
 -- Кино - Хочу перемен!
 (DEFAULT, '0', '1VYkH_8TKtzUAQVAfUb-oO9NQE6HE67ms', 1717),
 -- Кино - Я объявляю свой дом
