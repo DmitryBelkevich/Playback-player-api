@@ -243,7 +243,8 @@ VALUES
 (DEFAULT, 'Verse', 2, 2, 78, 1840),
 (DEFAULT, 'Chorus, Break', 4, 4, 156, 1840),
 -- Ленинград - WWW
-(DEFAULT, null, 4, 4, 140, 1950),
+(DEFAULT, 'Intro, Chorus, Break', 2, 4, 140, 1950),
+(DEFAULT, 'Verse', 4, 4, 140, 1950),
 -- Ленинград - В Питере - пить
 (DEFAULT, null, 2, 4, 80, 1960),
 -- Ленинград - Мне бы в небо
