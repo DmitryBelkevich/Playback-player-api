@@ -345,8 +345,10 @@ VALUES
 (DEFAULT, '0', '1bRnGo2Qvq2R6NB4Tt4wjtLWbgYasp2Ej', 1840),
 (DEFAULT, '-2', '1ck1vE7Ia3yk61ug4msrYj3P4xMsQPyqx', 1840),
 -- Ленинград - WWW
-(DEFAULT, '0', '1UBGwyFRDB5bEvmpVaqsLMAx8z2xasE9L', 1950),
+(DEFAULT, 'original', '1j8wixu2so7DW5qIKPGM8WYDfhYVvlEM5', 1950),
+(DEFAULT, '0', '1xTJcxGL6WES6I3WihXlWlG1SKyFVk8Dq', 1950),
 -- Ленинград - В Питере - пить
+(DEFAULT, 'original', '1pd7Vkx8LtbFL2kvTY33-usozzBJKcoMC', 1960),
 (DEFAULT, '0', '1yMy6F9cN6D4YTiizvIbXtAp8VqtU_q4s', 1960),
 -- Ленинград - Мне бы в небо
 -- Ленинград - Свобода
