@@ -1036,9 +1036,9 @@ VALUES
 (DEFAULT, 'Tenor Saxophone', '1JvvMUEHxviDX6eTIqZ1vJK_3ZzI9NVcq', 1950),
 (DEFAULT, 'Tuba', '114OVVHkkyvwJcZp08dzUFEI7e2WKSw0z', 1950),
 -- В Питере - пить
-(DEFAULT, 'Full Score', '1iGSGSQenm3NZiX0Bh35GSiz2ezhUrHP0', 1960),
-(DEFAULT, 'Voice 1, Voice 2.3', '16hL9a_8AkvHdxf6jxSXE7QJqMhNrxwnJ', 1960),
-(DEFAULT, 'Voice 1', '1J5vPtnYeZyY7wM6i3B7vTqB4uL_SDWaN', 1960),
+(DEFAULT, 'Full Score', '1kPos5d55OTylC12L2apQGK9dE8qBtl-v', 1960),
+(DEFAULT, 'Voice 1, Voice 2.3', '1fE56U8RJVF8-xkInBgOcgnfOkwmTJJBO', 1960),
+(DEFAULT, 'Voice 1', '1qEGq0z6wozUY2KqT-AYti_RF0hoKOxPo', 1960),
 (DEFAULT, 'Voice 2.3', '13FNWcIaLkJ_z4lnaFmhkSeDcIhOYKF-c', 1960),
 (DEFAULT, 'Acoustic Guitar, Electric Guitar', '1KBwkEsXD32aaFP0GjqfH7USM9V-Rd_f2', 1960),
 (DEFAULT, 'Acoustic Guitar', '1YUhP6qLl1cwAccjpm646o45NZYaYOV63', 1960),
