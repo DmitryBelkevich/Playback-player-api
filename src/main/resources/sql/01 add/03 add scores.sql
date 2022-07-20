@@ -1021,7 +1021,7 @@ VALUES
 (DEFAULT, 'Strings', '14hB6OwG54dzYJfdrHI9Fz90KDjvfPkOb', 1974),
 (DEFAULT, 'Violin', '16etRBsPF8PeuBX2OQ6zpGv4EJPBek9RC', 1974),
 -- Ленинград - WWW
-(DEFAULT, 'Full Score', '17uor9QcTP_bqiHrHru6mqnNQ0OCwoi8V', 1950),
+(DEFAULT, 'Full Score', '1VWLz9ertqqA8h8BmthHvJa9GqvmZo-Ma', 1950),
 (DEFAULT, 'Voice 1, Voice 2', '14wQR2hH2EfLDS2iYNwQOmkgDETrgMcJ_', 1950),
 (DEFAULT, 'Voice 1', '19XX3LiA-c7-rF_GSjFV0vgxBRV1ZuVfp', 1950),
 (DEFAULT, 'Voice 2', '16Qxs0ha5PAEoB05pYLB3Egq4s8_TF-lp', 1950),
