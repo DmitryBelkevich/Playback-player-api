@@ -309,6 +309,8 @@ VALUES
 (DEFAULT, '1t59tt8JO4WuKtDV0ByF3_lmqjEptfloK', 2240),
 -- Nautilus Pompilius - Я хочу быть с тобой
 (DEFAULT, '1E02LHvaWLLtgYsaFdBY9QczgbNs7X2Qy', 2250),
+-- Нервы - Батареи
+(DEFAULT, '1UA59OLgKJ84zAvq0we5txK4-GhFFo2tR', 2253),
 -- Нервы - Самый дорогой человек
 (DEFAULT, '1x8xUdW2WWyJNjdjiRAzs4JUKm2wV4nIl', 2257),
 -- Нервы - Слишком влюблен

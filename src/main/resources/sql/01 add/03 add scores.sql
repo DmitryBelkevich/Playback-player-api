@@ -1413,6 +1413,7 @@ VALUES
 (DEFAULT, 'Pizzicato', '1NMq2jQBXMoFQSk2aW-m6OsYnDjT-lmMM', 2250),
 (DEFAULT, 'Pad 2 (Warm)', '1B4lUMvQKqqOSpWR2XMg8IqjCCaTme_Io', 2250),
 (DEFAULT, 'Synth Bass', '1O4onFXRS0-Ji89h73KqFJgSluHvtZDUe', 2250),
+-- Нервы - Батареи
 -- Нервы - Самый дорогой человек
 (DEFAULT, 'Full Score', '1ouqZn4p-LFv0EwTvHUlu_3Y477aRU_pV', 2257),
 (DEFAULT, 'Voice', '13HacLJyS7yP0zZ0ecetMzrpc0f3Fk8d6', 2257),

@@ -450,6 +450,8 @@ VALUES
 (DEFAULT, 'original', '16Oi9d8d0e6OcwIZZHPsnTDDoAdQA-hN_', 2250),
 (DEFAULT, '0', '1A-gHqRqbp1T7GcNn3SJZEDcvp5oK0oIR', 2250),
 (DEFAULT, '-2', '1mb2MUBhLViP1HdCswCtLawKdsJfudPhU', 2250),
+-- Нервы - Батареи
+(DEFAULT, 'original', '10eW5QZqD_vHPu1sxe6_9WCTlLACObdZD', 2253),
 -- Нервы - Самый дорогой человек
 (DEFAULT, 'original', '1HXbo4bCS4W5Jkg34Zd4FHOq6r2PH_8Ve', 2257),
 (DEFAULT, '0', '1cLlHjLlaguRUgQ14_eRlJMaW24FOK5uq', 2257),

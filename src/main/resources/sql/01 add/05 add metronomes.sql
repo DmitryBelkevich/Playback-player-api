@@ -317,6 +317,8 @@ VALUES
 -- Nautilus Pompilius - Скованные одной цепью
 -- Nautilus Pompilius - Я хочу быть с тобой
 (DEFAULT, null, 2, 4, 88, 2250),
+-- Нервы - Батареи
+(DEFAULT, null, 4, 4, 0, 2253),
 -- Нервы - Самый дорогой человек
 (DEFAULT, null, 4, 4, 75, 2257),
 -- Нервы - Слишком влюблен
