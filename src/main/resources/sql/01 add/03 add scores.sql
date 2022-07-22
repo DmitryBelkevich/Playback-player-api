@@ -1414,6 +1414,13 @@ VALUES
 (DEFAULT, 'Pad 2 (Warm)', '1B4lUMvQKqqOSpWR2XMg8IqjCCaTme_Io', 2250),
 (DEFAULT, 'Synth Bass', '1O4onFXRS0-Ji89h73KqFJgSluHvtZDUe', 2250),
 -- Нервы - Батареи
+(DEFAULT, 'Full Score', '1HrUx975atkZdtTK5NF6GGNG1F-bzH1lR', 2253),
+(DEFAULT, 'Voice', '14fZT3S7pIIYsl3JF2yHf-3C4-yH1w_Gn', 2253),
+(DEFAULT, 'Electric Guitar 1, Electric Guitar 2', '13SFTrhtPJQpc15TLfpQT1fc9_nu4kw86', 2253),
+(DEFAULT, 'Electric Guitar 1', '1LhC9T7deTy09gOAycemwRWx-jjOWOsz2', 2253),
+(DEFAULT, 'Electric Guitar 2', '1DSl2sGvJgLOxc5hAeaNIhJm1cs8CK5iG', 2253),
+(DEFAULT, 'Bass Guitar', '1AXJ-BBfwYsfga3hl0YiBJ6fcRIvqQnkC', 2253),
+(DEFAULT, 'Drum Set', '1HmbLl8R8MsyFQnszuokDn4oIGMOkfMIB', 2253),
 -- Нервы - Самый дорогой человек
 (DEFAULT, 'Full Score', '1ouqZn4p-LFv0EwTvHUlu_3Y477aRU_pV', 2257),
 (DEFAULT, 'Voice', '13HacLJyS7yP0zZ0ecetMzrpc0f3Fk8d6', 2257),
