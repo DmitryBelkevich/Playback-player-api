@@ -311,6 +311,7 @@ VALUES
 (DEFAULT, '1E02LHvaWLLtgYsaFdBY9QczgbNs7X2Qy', 2250),
 -- Нервы - Батареи
 (DEFAULT, '1UA59OLgKJ84zAvq0we5txK4-GhFFo2tR', 2253),
+-- Нервы - Кофе - мой друг
 -- Нервы - Самый дорогой человек
 (DEFAULT, '1x8xUdW2WWyJNjdjiRAzs4JUKm2wV4nIl', 2257),
 -- Нервы - Слишком влюблен

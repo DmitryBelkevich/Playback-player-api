@@ -1421,6 +1421,7 @@ VALUES
 (DEFAULT, 'Electric Guitar 2', '1pVIw-YeQUcnN6l1gpq0nl6qL0iaUllEl', 2253),
 (DEFAULT, 'Bass Guitar', '188ic_mj8YN0g9L13XlfeLKbvnIFfl_lJ', 2253),
 (DEFAULT, 'Drum Set', '1HAmjDWeOH-UM3Ip6dn68goeqZWboQoQz', 2253),
+-- Нервы - Кофе - мой друг
 -- Нервы - Самый дорогой человек
 (DEFAULT, 'Full Score', '1gP0olZgHD6JOJ3IgEQbdJ5aSN9GoLP6n', 2257),
 (DEFAULT, 'Voice', '1aeJO1EdXHVdL5RSRAPikOs_RwBytGfe7', 2257),
