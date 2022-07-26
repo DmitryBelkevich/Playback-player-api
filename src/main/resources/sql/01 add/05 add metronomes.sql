@@ -321,6 +321,7 @@ VALUES
 (DEFAULT, 'Intro, Verse, Chorus, Break', 4, 4, 150, 2253),
 (DEFAULT, 'Break, Chorus', 2, 2, 75, 2253),
 -- Нервы - Кофе - мой друг
+(DEFAULT, null, 4, 4, 0, 2255),
 -- Нервы - Самый дорогой человек
 (DEFAULT, null, 4, 4, 75, 2257),
 -- Нервы - Слишком влюблен

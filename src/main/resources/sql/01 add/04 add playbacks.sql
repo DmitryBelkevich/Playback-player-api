@@ -453,6 +453,7 @@ VALUES
 -- Нервы - Батареи
 (DEFAULT, 'original', '10eW5QZqD_vHPu1sxe6_9WCTlLACObdZD', 2253),
 -- Нервы - Кофе - мой друг
+(DEFAULT, 'original', '1B5denAeSGRhnFeXpW2N9nqcEJ7RGmft0', 2255),
 -- Нервы - Самый дорогой человек
 (DEFAULT, 'original', '1HXbo4bCS4W5Jkg34Zd4FHOq6r2PH_8Ve', 2257),
 (DEFAULT, '0', '1cLlHjLlaguRUgQ14_eRlJMaW24FOK5uq', 2257),
