@@ -89,6 +89,7 @@ VALUES
 (DEFAULT, null, 2, 4, 132, 1170),
 -- Noize MC - Вояджер-1
 (DEFAULT, null, 4, 4, 125, 1175),
+-- Zdob și Zdub - Видели ночь
 -- Агата Кристи - Как на войне
 (DEFAULT, null, 4, 4, 137, 1180),
 -- Агата Кристи - Никогда
@@ -177,6 +178,8 @@ VALUES
 -- Кино - Кончится лето
 (DEFAULT, null, 4, 4, 139, 1650),
 -- Кино - Красно-жёлтые дни
+(DEFAULT, 'Intro, Chorus, Break, Outro', 2, 4, 120, 1660),
+(DEFAULT, 'Verse, Solo', 2, 4, 120, 1660),
 (DEFAULT, null, 4, 4, 120, 1660),
 -- Кино - Кукушка
 (DEFAULT, null, 4, 4, 106, 1670),
@@ -232,7 +235,7 @@ VALUES
 (DEFAULT, 'Intro, Outro', 2, 2, 62, 1810),
 (DEFAULT, 'Chorus', 4, 4, 125, 1810),
 (DEFAULT, 'Break, Verse, Solo 2', 8, 8, 250, 1810),
-(DEFAULT, 'Solo 1', 16, 16, 500, 1810),
+(DEFAULT, 'Solo 1', 8, 16, 500, 1810),
 -- Король и Шут - Наблюдатель
 (DEFAULT, null, 2, 4, 125, 1820),
 -- Король и Шут - Проклятый старый дом

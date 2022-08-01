@@ -340,6 +340,7 @@ VALUES
 (DEFAULT, 'Pad 1 (New Age), Pad 2 (Warm)', '1ojaCJ2YGPreM-Y8iAz-od_5dvAB9CI5H', 1175),
 (DEFAULT, 'Pad 1 (New Age)', '1SBvK-SjHJKgGUQVITllzLmJyN-Nyw07x', 1175),
 (DEFAULT, 'Pad 2 (Warm)', '17xB_9SEfWXoa2zKLfElnq-jY3uTfcuxN', 1175),
+-- Zdob și Zdub - Видели ночь
 -- Агата Кристи - Как на войне
 (DEFAULT, 'Full Score', '1bh8Qfq8QXNvpFSxPwfqiVNC7qKyTVzZv', 1180),
 (DEFAULT, 'Voice 1.2', '1j_wlgyatEamJXH5KB-gE1hur5lZW9BJ3', 1180),
