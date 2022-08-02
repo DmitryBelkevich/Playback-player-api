@@ -1523,7 +1523,7 @@ VALUES
 (DEFAULT, 'Electric Guitar 4', '1rEpfNeHDTBpfSDpwPKc_f1jNlnyGU39-', 2300),
 (DEFAULT, 'Bass Guitar', '1XzbFlJfuNoKwOjzGU-KEV1A9x1OgygJb', 2300),
 (DEFAULT, 'Drum Set', '1UZjbulwCiuQ25tJF-Rr6t7DMlija3-Rg', 2300),
-(DEFAULT, 'Flute 1, Flute 2.3', '1w85uYF4te9PehESoczcv53ql4tYYjgaZ', 2300),
+(DEFAULT, 'Flute 1.2', '1WJ58iAJfEdUv0YR5IjPXce-o6q19uXfC', 2300),
 -- Сектор Газа - Пора домой
 (DEFAULT, 'Full Score', '1-Ig5gxs0_9pvxK_EgM11conKMw5MiPSM', 2310),
 (DEFAULT, 'Voice', '1Jswe1x5ldBGG0m-r4hZ2UZuaP0mjmar5', 2310),
