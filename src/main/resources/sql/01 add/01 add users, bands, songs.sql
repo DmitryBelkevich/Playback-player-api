@@ -101,6 +101,7 @@ VALUES
 
     -- Pop, Dance
     (300, 'Alice Merton'),
+    (301, 'Céline Dion'),
     (303, 'Leonard Cohen'),
     (305, 'Maroon 5'),
     (310, 'IOWA'),
@@ -464,6 +465,7 @@ VALUES
 
     -- Pop, Dance
     (5000, 'No Roots', 300, 'Bm'),
+    (5003, 'My Heart Will Go On', 301, null),
     (5005, 'Hallelujah', 303, 'C'),
     (5010, 'This Love', 305, 'Cm'),
     (5020, 'Бьёт Бит', 310, 'Em'),
