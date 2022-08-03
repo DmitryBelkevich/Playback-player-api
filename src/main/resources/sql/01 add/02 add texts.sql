@@ -206,7 +206,7 @@ VALUES
 -- Кино - Хочу перемен!
 (DEFAULT, '1JNSUBsY0IoO_LuePzPH-jp6XPvfu-c7x', 1717),
 -- Кино - Я объявляю свой дом
-(DEFAULT, '12gfNhSI6bfhCWEvyZ0NjukhN5cNco5WN', 1719),
+(DEFAULT, '12gfNhSI6bfhCWEvyZ0NjukhN5cNco5WN', 1720),
 -- Король и Шут - Ведьма и осёл
 (DEFAULT, '1e2Fs5KxqsCzQfr1ivYlLOGEekcO6Xd3o', 1723),
 -- Король и Шут - Воспоминание о былой любви
