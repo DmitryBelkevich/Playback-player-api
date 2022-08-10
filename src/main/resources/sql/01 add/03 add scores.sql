@@ -676,6 +676,7 @@ VALUES
 (DEFAULT, 'Handclap', '12D1a925fkcrFnrMI8f5GIA2INRR6fk-a', 1612),
 (DEFAULT, 'Tambourine', '10YCmFH1_hZSHOa4fafJ-TYc__f9tD0rl', 1612),
 (DEFAULT, 'Taiko Drums', '11nRe0fIPrRWJPXn-0tk4wuJAZ7jcL_iX', 1612),
+-- Кино - Восьмиклассница
 -- Кино - Группа крови
 (DEFAULT, 'Full Score', '1NbHgz5ND1ERH34Ov_w0mQerLpT9PWG0v', 1620),
 (DEFAULT, 'Voice', '1C5IKa-qcRj6Tcr9y41dIgVTMvodJZ5dB', 1620),

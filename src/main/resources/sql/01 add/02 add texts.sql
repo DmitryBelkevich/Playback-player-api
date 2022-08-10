@@ -173,6 +173,8 @@ VALUES
 (DEFAULT, '1K0oT2JjznhReJu45TCH6dcRVRGpTjLeU', 1595),
 -- Кино - Апрель
 (DEFAULT, '1HHz8UC_uBHa5SLStkHVRXiyMf-dLPLWa', 1612),
+-- Кино - Восьмиклассница
+(DEFAULT, '1sVcSx-UqtAvBIpw8FcwSOi9dTlieBamW', 1618),
 -- Кино - Группа крови
 (DEFAULT, '1gOLd3b9qG83qNNQ7PfgD1JhhbYrI4XaF', 1620),
 -- Кино - Игра
