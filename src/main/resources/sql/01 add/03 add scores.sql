@@ -375,6 +375,7 @@ VALUES
 (DEFAULT, 'Drum Set, Tambourine', '1WTcOZjTvrjgilWKKtnkUWtOYsRaHV_Pk', 1190),
 (DEFAULT, 'Drum Set', '1XtMjeOKDOc5sUmgOYXCJXAUB3G4gQGH4', 1190),
 (DEFAULT, 'Tambourine', '1Qc_7GUVgaA4xYCa0Lc5wZGOPcWPKlxXK', 1190),
+(DEFAULT, 'Celesta, Synth Strings, Lead 3 (Calliope)', '1xoPx9e7mC3731XaBsgLcS4zvEuaxt1CM', 1190),
 (DEFAULT, 'Celesta', '1vxSp059dLtKxpqxBXmwXhIItbhGN4mYt', 1190),
 (DEFAULT, 'Synth Strings', '10IOyTOEbWgMTGRIzn2o_h1_gOQ_tIjdF', 1190),
 (DEFAULT, 'Lead 3 (Calliope)', '1TK8Al1gpyU0quufeNJTcoOS0BIWYEAqy', 1190),
