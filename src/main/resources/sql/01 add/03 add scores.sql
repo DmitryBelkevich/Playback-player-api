@@ -341,6 +341,17 @@ VALUES
 (DEFAULT, 'Pad 1 (New Age)', '1SBvK-SjHJKgGUQVITllzLmJyN-Nyw07x', 1175),
 (DEFAULT, 'Pad 2 (Warm)', '17xB_9SEfWXoa2zKLfElnq-jY3uTfcuxN', 1175),
 -- Zdob și Zdub - Видели ночь
+(DEFAULT, 'Full Score', '1gjhFlgwhfeEgZCuA1Nr0lI357gZQROjw', 1177),
+(DEFAULT, 'Voice 1.2, Voice 3.4', '1x24u7b759d2fuvAxtIXXwX0wIZ9OG02d', 1177),
+(DEFAULT, 'Voice 1.2', '14a9PdUYwWvEAsCp-85ztDxCyVSR3h3Vl', 1177),
+(DEFAULT, 'Voice 3.4', '13kcVS05A0SlEajwPnQY8hDEqiWr8HCtn', 1177),
+(DEFAULT, 'Guitar 1, Guitar 2, Electric Guitar', '10ZmYDNDfYAGBPJwa_8pWr6ddjdxzNBGv', 1177),
+(DEFAULT, 'Guitar 1', '1exTUME0u95uzHYehoyl4KgHlO2vIxHNA', 1177),
+(DEFAULT, 'Guitar 2', '1mlhxUtNmK-l8xQEoAIHtHNbKlY4kw-ov', 1177),
+(DEFAULT, 'Electric Guitar', '1do3ClMxAFqaUgGIHUEeefYMNunbx2mZj', 1177),
+(DEFAULT, '5-string Fretless Bass Guitar', '1k0aROjl9vga6DnmH3FevxB8Dq0HbXVBz', 1177),
+(DEFAULT, 'Drum Set', '1p1WrL63dotj1GVZ6oSWBm6WcO7bRvZMt', 1177),
+(DEFAULT, 'Trumpet in Bb', '15fd1ASMw-pSXtBgCNbFc9TOwgw38zpDh', 1177),
 -- Агата Кристи - Как на войне
 (DEFAULT, 'Full Score', '1bh8Qfq8QXNvpFSxPwfqiVNC7qKyTVzZv', 1180),
 (DEFAULT, 'Voice 1.2', '1j_wlgyatEamJXH5KB-gE1hur5lZW9BJ3', 1180),
