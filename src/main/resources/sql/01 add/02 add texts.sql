@@ -177,6 +177,8 @@ VALUES
 (DEFAULT, '1sVcSx-UqtAvBIpw8FcwSOi9dTlieBamW', 1618),
 -- Кино - Группа крови
 (DEFAULT, '1gOLd3b9qG83qNNQ7PfgD1JhhbYrI4XaF', 1620),
+-- Кино - Дерево
+(DEFAULT, '1oOGgM7Z49ts3rs-UBM1lynvtzxBcdLQ2', 1623),
 -- Кино - Игра
 (DEFAULT, '1thmItdTAQhoQeGV5xIic0CE2QwM6_SbT', 1625),
 -- Кино - Завтра война

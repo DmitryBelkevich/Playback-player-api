@@ -699,6 +699,7 @@ VALUES
 (DEFAULT, 'Pad 4 (Choir)', '1BBri2M4_jIIHruulFOzwRseiJsYMXl_C', 1620),
 (DEFAULT, 'Pad 2 (Warm)', '1XMqSOeMfPIsQZOwDqYXwgHrHEU2jAjqU', 1620),
 (DEFAULT, 'Electric Organ', '1nZ8sjuporI3mqD1y0v4W3Gp4CjvKT3Zk', 1620),
+-- Кино - Дерево
 -- Кино - Игра
 (DEFAULT, 'Full Score', '1kfVXr_0JSmdds6RHR8cJ7-zy5PQHbe69', 1625),
 (DEFAULT, 'Voice 1, Voice 2.3', '11uUJIZrn6pt1hq6n2kcGlGYBlJ1RfVXc', 1625),
