@@ -700,6 +700,10 @@ VALUES
 (DEFAULT, 'Pad 2 (Warm)', '1XMqSOeMfPIsQZOwDqYXwgHrHEU2jAjqU', 1620),
 (DEFAULT, 'Electric Organ', '1nZ8sjuporI3mqD1y0v4W3Gp4CjvKT3Zk', 1620),
 -- Кино - Дерево
+(DEFAULT, 'Full Score', '1twId7GI_xVtkAfPkZR30zFOpG3I_nNa2', 1623),
+(DEFAULT, 'Voice', '1GTEd1adOLD1Qllm9DoUj1D2gkYaV1kMg', 1623),
+(DEFAULT, 'Acoustic Guitar', '19dTvujtU289osxd93ny6fdbSEEwsJmnF', 1623),
+(DEFAULT, 'Soprano Recorder', '1dJj8Y-bL8hKkSNiVDufAmeqhmcvERPJI', 1623),
 -- Кино - Игра
 (DEFAULT, 'Full Score', '1kfVXr_0JSmdds6RHR8cJ7-zy5PQHbe69', 1625),
 (DEFAULT, 'Voice 1, Voice 2.3', '11uUJIZrn6pt1hq6n2kcGlGYBlJ1RfVXc', 1625),
