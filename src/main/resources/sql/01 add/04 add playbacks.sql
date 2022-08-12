@@ -251,6 +251,8 @@ VALUES
 (DEFAULT, '0', '1Ql_05vlDJy8QLx8R7izM7Uf6w-RyN-Z3', 1620),
 -- Кино - Дерево
 (DEFAULT, 'original', '12jCCHoTkBtlVMYPkCa9poz8uOtRaa54B', 1623),
+(DEFAULT, '0', '1XoYoJji8MJnB7_bgPkjZ3m4xOTFkOULj', 1623),
+(DEFAULT, '0 slow', '1Drhz4xaLVNMzW_HakEmVOgHW20cgtFeI', 1623),
 -- Кино - Игра
 (DEFAULT, 'original', '1on-6JYFSbzI_yEFUJmNSVK3Gd1CcgFw9', 1625),
 (DEFAULT, '0', '1wfTZxsv4TF1BBg4e7imcwM958fU1VnVB', 1625),
