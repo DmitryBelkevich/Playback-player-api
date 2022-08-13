@@ -209,6 +209,8 @@ VALUES
 (DEFAULT, '1KLsBu_7tyVsJUXzcHTGCQEPNvp7H73Vj', 1714),
 -- Кино - Хочу перемен!
 (DEFAULT, '1JNSUBsY0IoO_LuePzPH-jp6XPvfu-c7x', 1717),
+-- Кино - Электричка
+(DEFAULT, '1uWZqXCm_AMZoWgtVfSe6vLTzMvjyGPNp', 1718),
 -- Кино - Я объявляю свой дом
 (DEFAULT, '12gfNhSI6bfhCWEvyZ0NjukhN5cNco5WN', 1720),
 -- Король и Шут - Ведьма и осёл

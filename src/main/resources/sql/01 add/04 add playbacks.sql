@@ -295,6 +295,8 @@ VALUES
 (DEFAULT, '0', '1f_r_rg-CQ44u0C8abeoVWPZ0pEAVrQty', 1714),
 -- Кино - Хочу перемен!
 (DEFAULT, '0', '1VYkH_8TKtzUAQVAfUb-oO9NQE6HE67ms', 1717),
+-- Кино - Электричка
+(DEFAULT, 'original', '1i9hlW3ELFr1jymvjUGcHz6_XIeJjIYnh', 1718),
 -- Кино - Я объявляю свой дом
 (DEFAULT, 'original', '1EcrzgWuWD6UcODBMwESBc0Al3JCI_FA3', 1720),
 (DEFAULT, '0', '1EL8J_zj_HDa6XHB3wMo5hjGRetoScROa', 1720),
