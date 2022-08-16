@@ -868,6 +868,18 @@ VALUES
 (DEFAULT, 'FX 5 (Brightness), Pad 2 (Warm)', '1U22Z945ktR7XFnWCWTgskoMio2rBOgW3', 1714),
 (DEFAULT, 'FX 5 (Brightness)', '127vY9lGaVH7AEPSqh9T4-YrLiYiC33qT', 1714),
 (DEFAULT, 'Pad 2 (Warm)', '14E60dEfpxAlAlWGNmJSyAtyFboPOXspT', 1714),
+-- Кино - Электричка
+(DEFAULT, 'Full Score', '1H25l28Y4_UusPzVwgtv6Pl2_3Gr7qtFR', 1718),
+(DEFAULT, 'Voice', '16r9u86-JGY_ogkIzDDKPg6e8cPWiloNd', 1718),
+(DEFAULT, 'Acoustic Guitar, Electric Guitar 1, Electric Guitar 2', '1YuEApeLyA-w_KNh_8wVPqWdy3ZJP08pO', 1718),
+(DEFAULT, 'Acoustic Guitar', '1kvyx8Sa_kZK2F6zgAswjRGCdZoSNtLhK', 1718),
+(DEFAULT, 'Electric Guitar 1', '1-YWyjR0QDF8FKvUmwB2hD24fhxKQE7Nu', 1718),
+(DEFAULT, 'Electric Guitar 2', '1okLPxh3A2mfsXslsz94uL0D9haEUHgg4', 1718),
+(DEFAULT, 'Bass Guitar', '13spiFfEWJh7GVlmWZmQxHN_5rlHQzt_1', 1718),
+(DEFAULT, 'Drum Set, Cabasa', '1qrjpet1SNUUd9bKbJJB1aJrQYuKofLML', 1718),
+(DEFAULT, 'Drum Set', '1_f48RUfA9qqUb6NwCSnqj5886q79LeT5', 1718),
+(DEFAULT, 'Cabasa', '1rCUxM65duaaDeubmKk-ET2cA8k-SX52c', 1718),
+(DEFAULT, 'Synth Strings', '1hiGhFR8kGhMPbJy4L_XLyYCgCj2vcEI8', 1718),
 -- Кино - Я объявляю свой дом
 (DEFAULT, 'Full Score', '16UXx_14Ynys4X78al6Xe6cSgCvCNMLmo', 1720),
 (DEFAULT, 'Voice 1, Voice 2', '1tgVMUnJEGrXOpP84Be5XG3vwJZFygim5', 1720),
