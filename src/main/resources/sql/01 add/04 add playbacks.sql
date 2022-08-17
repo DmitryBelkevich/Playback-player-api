@@ -101,6 +101,7 @@ VALUES
 (DEFAULT, '0', '1r5HzLE1AVzPIkNnomePJBh2uZtaqPX7M', 1090),
 (DEFAULT, '-2', '1ESEfNvD4LoAkBFwcqSbYqQ-OG94ZHhhD', 1090),
 -- The Police - Every Breath You Take
+(DEFAULT, 'original', '1a5i29mtQX35-cmFmM1z0rQ5mhXEuvdFM', 1113),
 -- The Rolling Stones - Paint It Black
 (DEFAULT, 'original', '1p3v8WEIPohHCUauA5OCmY_iPbaDvwsQM', 1115),
 -- Animal ДжаZ - Три полоски

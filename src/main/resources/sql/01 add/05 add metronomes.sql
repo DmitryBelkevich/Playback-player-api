@@ -74,6 +74,7 @@ VALUES
 -- The Offspring - Self Esteem
 (DEFAULT, null, 2, 4, 105, 1110),
 -- The Police - Every Breath You Take
+(DEFAULT, null, 4, 4, 117, 1113),
 -- The Rolling Stones - Paint It Black
 (DEFAULT, null, 4, 4, 160, 1115),
 -- Animal ДжаZ - Три полоски

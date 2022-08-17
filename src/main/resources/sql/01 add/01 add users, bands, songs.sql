@@ -211,7 +211,7 @@ VALUES
     (1100, 'Pretty Fly (for a White Guy)', 85, 'Bm'),
     (1110, 'Self Esteem', 85, 'Am'),
 
-    (1113, 'Every Breath You Take', 86, null),
+    (1113, 'Every Breath You Take', 86, 'A'),
     (1115, 'Paint It Black', 87, null),
 
     (1122, 'Молодые ветра', 90, null),
