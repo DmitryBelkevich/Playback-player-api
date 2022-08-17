@@ -247,7 +247,7 @@ VALUES
 (DEFAULT, 'Break, Verse, Solo 2', 8, 8, 250, 1810),
 (DEFAULT, 'Solo 1', 8, 16, 500, 1810),
 -- Король и Шут - Наблюдатель
-(DEFAULT, null, 2, 4, 125, 1820),
+(DEFAULT, null, 2, 4, 125, 1815),
 -- Король и Шут - Проклятый старый дом
 (DEFAULT, null, 4, 4, 116, 1830),
 (DEFAULT, 'Break', 2, 4, 116, 1830),

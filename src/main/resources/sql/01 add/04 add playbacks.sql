@@ -346,6 +346,7 @@ VALUES
 (DEFAULT, '-2', '1QcK8FloA5XcWJjovuSnbtvf3jYKO_eTm', 1810),
 (DEFAULT, '0 bass', '1wc1ISyhFbowoNYh_25aS6yOaMDIfpuv5', 1810),
 -- Король и Шут - Наблюдатель
+(DEFAULT, 'original', '1D5v7OHMYq4JDS730g8QCVXg0kDvKnxgc', 1815),
 -- Король и Шут - Проклятый старый дом
 (DEFAULT, 'original', '1ubGf2pFgLUAz7Xv8N7K4kkgv2zjXtQup', 1830),
 (DEFAULT, '0', '18qmcM03QaXLVnAhP1-Mk-PiZaOy1KyjN', 1830),
