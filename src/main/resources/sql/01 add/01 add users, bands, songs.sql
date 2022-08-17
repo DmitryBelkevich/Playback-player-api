@@ -47,6 +47,7 @@ VALUES
     (75, 'The Beatles'),
     (80, 'The Cranberries'),
     (85, 'The Offspring'),
+    (86, 'The Police'),
     (87, 'The Rolling Stones'),
 
     (90, '7Б'),
@@ -206,17 +207,22 @@ VALUES
     (1070, 'Supergirl', 70, null),
     (1080, 'Yesterday', 75, 'F'),
     (1090, 'Zombie', 80, 'Em'),
+
     (1100, 'Pretty Fly (for a White Guy)', 85, 'Bm'),
     (1110, 'Self Esteem', 85, 'Am'),
 
+    (1113, 'Every Breath You Take', 86, null),
     (1115, 'Paint It Black', 87, null),
 
     (1122, 'Молодые ветра', 90, null),
     (1125, 'Три полоски', 92, 'Dm'),
+
     (1130, '12 обезьян', 95, 'Gm'),
     (1140, 'Эдельвейс', 100, 'Dm'),
+
     (1145, 'Sid & Nancy', 105, null),
     (1150, 'Гореть', 105, 'Gm'),
+
     (1160, 'Лёгкія-лёгкія', 110, 'Dm'),
     (1165, 'Тры чарапахі', 110, 'C'),
 
