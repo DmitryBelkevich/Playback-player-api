@@ -314,13 +314,13 @@ VALUES
 (DEFAULT, '0', '1AdRjz5qq0ObsewodkqEMxIr233lY6SFX', 1730),
 (DEFAULT, '-2', '1IbkiS7sM4zWorde2AtYFx0dR0NzJr8GE', 1730),
 -- Король и Шут - Два монаха в одну ночь
-(DEFAULT, 'original', '1FMAXuvkQIVjnxs7Odx36rkCVMzgFrQar', 1740),
-(DEFAULT, '0', '1q88fQxtAgVz3kilmCZgZnDvJcKw4-Jnr', 1740),
-(DEFAULT, '-2', '1U3baEUmixSURmDZzGpOOgufDDSH4W_Vw', 1740),
+(DEFAULT, 'original', '1FMAXuvkQIVjnxs7Odx36rkCVMzgFrQar', 1735),
+(DEFAULT, '0', '1q88fQxtAgVz3kilmCZgZnDvJcKw4-Jnr', 1735),
+(DEFAULT, '-2', '1U3baEUmixSURmDZzGpOOgufDDSH4W_Vw', 1735),
 -- Король и Шут - Дурак и молния
-(DEFAULT, 'original', '1a4DgfuiaB-irTmAmn-iW64kgBlaUgseG', 1750),
-(DEFAULT, '0', '1I806AnkGJB6ezB3LdKbi5d8V6PdClULE', 1750),
-(DEFAULT, '-2', '14-llEOfSkXxrUkFsk34OjJh4wqIMReCa', 1750),
+(DEFAULT, 'original', '1a4DgfuiaB-irTmAmn-iW64kgBlaUgseG', 1740),
+(DEFAULT, '0', '1I806AnkGJB6ezB3LdKbi5d8V6PdClULE', 1740),
+(DEFAULT, '-2', '14-llEOfSkXxrUkFsk34OjJh4wqIMReCa', 1740),
 -- Король и Шут - Ели мясо мужики
 (DEFAULT, 'original', '1C1Ne1uam2icG1LvQ1SO0Tq9AiJLlZcSi', 1760),
 (DEFAULT, '0', '1cOeixT1l33q18K0a9efgRu5mDMoe2V5S', 1760),

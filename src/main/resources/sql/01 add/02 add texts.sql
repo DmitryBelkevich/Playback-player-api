@@ -222,9 +222,9 @@ VALUES
 -- Король и Шут - Два вора и монета
 (DEFAULT, '10vIdFb5RUWn6lmTLBOvTLSLSt3KOdv29', 1730),
 -- Король и Шут - Два монаха в одну ночь
-(DEFAULT, '1I0MBK0Uti5hIxeRLRPCpArwfxzlGaPiH', 1740),
+(DEFAULT, '1I0MBK0Uti5hIxeRLRPCpArwfxzlGaPiH', 1735),
 -- Король и Шут - Дурак и молния
-(DEFAULT, '1MuDgDO6W9uUF_pPPpsFJy5ArtAvv6lMP', 1750),
+(DEFAULT, '1MuDgDO6W9uUF_pPPpsFJy5ArtAvv6lMP', 1740),
 -- Король и Шут - Ели мясо мужики
 (DEFAULT, '1Hg_Ub0dr22rV03fBMO-R3E5ZKWSbhsm8', 1760),
 -- Король и Шут - Жаль, нет ружья!
