@@ -253,8 +253,8 @@ VALUES
 (DEFAULT, 'Break', 2, 4, 116, 1830),
 (DEFAULT, 'Break, Bridge', 2, 2, 58, 1830),
 -- Король и Шут - Прыгну со скалы
-(DEFAULT, 'Verse', 2, 2, 78, 1840),
-(DEFAULT, 'Chorus, Break', 4, 4, 156, 1840),
+(DEFAULT, 'Verse', 2, 2, 78, 1835),
+(DEFAULT, 'Chorus, Break', 4, 4, 156, 1835),
 -- Ленинград - WWW
 (DEFAULT, 'Intro, Chorus, Break', 2, 4, 140, 1950),
 (DEFAULT, 'Verse', 4, 4, 140, 1950),

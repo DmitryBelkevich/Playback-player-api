@@ -242,7 +242,7 @@ VALUES
 -- Король и Шут - Проклятый старый дом
 (DEFAULT, '1RuJJGH48mhyJU9Hn8v66jKxYR6hR5ZJU', 1830),
 -- Король и Шут - Прыгну со скалы
-(DEFAULT, '1BD8F9mIDJ77ZUlne-mEBlFdehFoxC0a9', 1840),
+(DEFAULT, '1BD8F9mIDJ77ZUlne-mEBlFdehFoxC0a9', 1835),
 -- Ленинград - WWW
 (DEFAULT, '1emC5skvQkzwZVA7JZczQfcQ97KducDcH', 1950),
 -- Ленинград - В Питере - пить

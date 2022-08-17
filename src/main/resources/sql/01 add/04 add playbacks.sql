@@ -352,9 +352,9 @@ VALUES
 (DEFAULT, '0', '18qmcM03QaXLVnAhP1-Mk-PiZaOy1KyjN', 1830),
 (DEFAULT, '-2', '1ksge7sXVk4lIifheTe98G6i8RqFzOb_5', 1830),
 -- Король и Шут - Прыгну со скалы
-(DEFAULT, 'original', '1E3jUYAieNqbm-NXqKXEyto4TDi2bquCZ', 1840),
-(DEFAULT, '0', '1bRnGo2Qvq2R6NB4Tt4wjtLWbgYasp2Ej', 1840),
-(DEFAULT, '-2', '1ck1vE7Ia3yk61ug4msrYj3P4xMsQPyqx', 1840),
+(DEFAULT, 'original', '1E3jUYAieNqbm-NXqKXEyto4TDi2bquCZ', 1835),
+(DEFAULT, '0', '1bRnGo2Qvq2R6NB4Tt4wjtLWbgYasp2Ej', 1835),
+(DEFAULT, '-2', '1ck1vE7Ia3yk61ug4msrYj3P4xMsQPyqx', 1835),
 -- Ленинград - WWW
 (DEFAULT, 'original', '1j8wixu2so7DW5qIKPGM8WYDfhYVvlEM5', 1950),
 (DEFAULT, '0', '1xTJcxGL6WES6I3WihXlWlG1SKyFVk8Dq', 1950),
