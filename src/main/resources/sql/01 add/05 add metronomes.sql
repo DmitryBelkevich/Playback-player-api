@@ -86,7 +86,7 @@ VALUES
 -- N.R.M. - Лёгкія-лёгкія
 (DEFAULT, null, 4, 4, 132, 1160),
 -- N.R.M. - Тры чарапахі
-(DEFAULT, null, 2, 4, 132, 1170),
+(DEFAULT, null, 2, 4, 132, 1165),
 -- Noize MC - Вояджер-1
 (DEFAULT, null, 4, 4, 125, 1171),
 -- Zdob și Zdub - Видели ночь
