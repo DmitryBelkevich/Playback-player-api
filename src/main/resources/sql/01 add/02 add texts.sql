@@ -103,12 +103,12 @@ VALUES
 (DEFAULT, '1DfMY_2rw12iALZZIXj2l-Ue0c9I7UFAr', 1240),
 -- Би-2 - Компромисс
 -- (DEFAULT, '', 1250),
--- Би-2 - Мой рок-н-ролл
-(DEFAULT, '1RMu11qZtHiJNPQeb5B92MO99I1AsnYSz', 1280),
 -- Би-2 - Полковнику никто не пишет
 (DEFAULT, '1LlOHnnq-wIJewkeKhE-BV3E53LDGkXtA', 1260),
 -- Би-2 - Серебро
 (DEFAULT, '11bE-Ed4yoAotsuMYcvOetB8Op7ugcw66', 1270),
+-- Би-2, Чичерина - Мой рок-н-ролл
+(DEFAULT, '1RMu11qZtHiJNPQeb5B92MO99I1AsnYSz', 1280),
 -- Валентин Стрыкало - Наше лето
 (DEFAULT, '1QswkDz8eZfFXHIgSetji7mDjvxafqNMe', 1290),
 -- Город 312 - Останусь
