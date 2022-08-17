@@ -156,14 +156,14 @@ VALUES
 (DEFAULT, 'original', '1IgM7YTqyob7Qje_1jfukRep1WTX4reFl', 1250),
 (DEFAULT, '0', '1se8_EklHqygr7FefbW_SELjhXapJzVlh', 1250),
 -- Би-2 - Мой рок-н-ролл
-(DEFAULT, 'original', '1Arw7ZR1CwW42EYK083Zs3hGq22IMue-o', 1260),
-(DEFAULT, '0', '1PATYxaqLqDXZSxBPDytGd1ALjGqzgnQ1', 1260),
+(DEFAULT, 'original', '1Arw7ZR1CwW42EYK083Zs3hGq22IMue-o', 1280),
+(DEFAULT, '0', '1PATYxaqLqDXZSxBPDytGd1ALjGqzgnQ1', 1280),
 -- Би-2 - Полковнику никто не пишет
-(DEFAULT, 'original', '1jsIWOVrWu8uQw1zgOQWLV2MhiYPCRS_J', 1270),
-(DEFAULT, '0', '1kgOoVmczkahP16axRDQAZfxoyZRPSZ9X', 1270),
+(DEFAULT, 'original', '1jsIWOVrWu8uQw1zgOQWLV2MhiYPCRS_J', 1260),
+(DEFAULT, '0', '1kgOoVmczkahP16axRDQAZfxoyZRPSZ9X', 1260),
 -- Би-2 - Серебро
-(DEFAULT, 'original', '1tN4xXiwVePvNWtBYjBxKKBwNaUcsDSa_', 1280),
-(DEFAULT, '0', '1vqy4gVccSjMvOhue6mKouQR9pv_Ie8SM', 1280),
+(DEFAULT, 'original', '1tN4xXiwVePvNWtBYjBxKKBwNaUcsDSa_', 1270),
+(DEFAULT, '0', '1vqy4gVccSjMvOhue6mKouQR9pv_Ie8SM', 1270),
 -- Валентин Стрыкало - Наше лето
 (DEFAULT, 'original', '11EgRxJwhiEixT0Ucsx94ND0ENLpIJOZ9', 1290),
 (DEFAULT, '+3', '1AvK6pwjpO0bKenFXYJvsigBLEtzMBrld', 1290),
