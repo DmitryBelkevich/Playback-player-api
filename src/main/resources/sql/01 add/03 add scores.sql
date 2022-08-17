@@ -283,6 +283,7 @@ VALUES
 (DEFAULT, 'Electric Guitar', '1lYKfgZT0LctXO3a9rJbru0jbeKfVX5GN', 1110),
 (DEFAULT, 'Bass Guitar', '1AQaIMj57NUw94OlEtxDiTfb97kQGzbZf', 1110),
 (DEFAULT, 'Drum Set', '1SLv18qI58Nzkq4cDnIwGk9k5v8tYEiUb', 1110),
+-- The Police - Every Breath You Take
 -- The Rolling Stones - Paint It Black
 -- Animal ДжаZ - Три полоски
 (DEFAULT, 'Full Score', '1HL9_Zd2sl7t03kQ9RSjaw4A02zv0FoHl', 1125),
