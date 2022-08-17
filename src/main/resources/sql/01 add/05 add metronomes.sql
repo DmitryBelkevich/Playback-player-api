@@ -160,7 +160,7 @@ VALUES
 (DEFAULT, 'Break', 2, 4, 128, 1570),
 (DEFAULT, 'Verse, Pre-Chorus, Chorus, Solo', 4, 4, 128, 1570),
 -- Земфира - Искала
-(DEFAULT, null, 2, 4, 95, 1580),
+(DEFAULT, null, 2, 4, 95, 1581),
 -- Земфира - Хочешь?
 (DEFAULT, null, 4, 4, 67, 1590),
 -- Игорь Корнелюк - Город, которого нет
