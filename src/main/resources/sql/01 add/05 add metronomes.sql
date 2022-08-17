@@ -90,9 +90,9 @@ VALUES
 -- Noize MC - Вояджер-1
 (DEFAULT, null, 4, 4, 125, 1171),
 -- Zdob și Zdub - Видели ночь
-(DEFAULT, 'Intro, Coda', 4, 4, 60, 1177),
-(DEFAULT, 'Break, Verse, Chorus, Outro', 8, 8, 290, 1177),
-(DEFAULT, 'Verse 3, Chorus', 4, 4, 95, 1177),
+(DEFAULT, 'Intro, Coda', 4, 4, 60, 1178),
+(DEFAULT, 'Break, Verse, Chorus, Outro', 8, 8, 290, 1178),
+(DEFAULT, 'Verse 3, Chorus', 4, 4, 95, 1178),
 -- Агата Кристи - Как на войне
 (DEFAULT, null, 4, 4, 137, 1180),
 -- Агата Кристи - Никогда
