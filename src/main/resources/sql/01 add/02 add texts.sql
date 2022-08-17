@@ -86,7 +86,7 @@ VALUES
 -- N.R.M. - Тры чарапахі
 (DEFAULT, '1U50gCrXbKqFdrWyRbf0sIjv9meaWZqQY', 1170),
 -- Noize MC - Вояджер-1
-(DEFAULT, '1ILt6TOdtB5SQ_XKT5ELPiD186VesJAWb', 1175),
+(DEFAULT, '1ILt6TOdtB5SQ_XKT5ELPiD186VesJAWb', 1171),
 -- Zdob și Zdub - Видели ночь
 (DEFAULT, '16iYpjV3ZROlmKNMS_bLsIVr5oJxqacGg', 1177),
 -- Агата Кристи - Как на войне

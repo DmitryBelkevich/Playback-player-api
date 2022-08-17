@@ -127,9 +127,9 @@ VALUES
 (DEFAULT, '-2', '15tX17j4iDd2ome8GgnPgynZJ5OIZ-EWr', 1170),
 (DEFAULT, '-3', '1WRiyFH-NpLTTJisjDpP6eafR_TyeQDVE', 1170),
 -- Noize MC - Вояджер-1
-(DEFAULT, 'original', '1W7_ge_j6gtyOUEW-vIt0RCeaOitsIXxI', 1175),
-(DEFAULT, '0', '1aCymDuo8Yu8LQv1E09yUfMZDnPZ3yfLc', 1175),
-(DEFAULT, '-2', '17733dCBsF0Kuqxbh0U2l9yw29KS4h9gh', 1175),
+(DEFAULT, 'original', '1W7_ge_j6gtyOUEW-vIt0RCeaOitsIXxI', 1171),
+(DEFAULT, '0', '1aCymDuo8Yu8LQv1E09yUfMZDnPZ3yfLc', 1171),
+(DEFAULT, '-2', '17733dCBsF0Kuqxbh0U2l9yw29KS4h9gh', 1171),
 -- Zdob și Zdub - Видели ночь
 (DEFAULT, 'original', '1BtNiyMMYrbk1WlW9_Ps4zxIOR8k9vY3x', 1177),
 -- Агата Кристи - Как на войне
