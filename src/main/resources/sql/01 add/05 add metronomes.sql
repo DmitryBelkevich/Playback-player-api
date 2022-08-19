@@ -66,7 +66,7 @@ VALUES
 -- Radiohead - Karma Police
 -- Reamonn - Supergirl
 -- The Beatles - Yesterday
-(DEFAULT, null, 4, 4, 95, 1080),
+(DEFAULT, null, 2, 4, 95, 1080),
 -- The Cranberries - Zombie
 (DEFAULT, null, 4, 4, 80, 1090),
 -- The Offspring - Pretty Fly (for a White Guy)
