@@ -851,6 +851,15 @@ VALUES
 (DEFAULT, 'Flute', '1XHIOMsJZkVZKIt_RloTUwRzRYGHdo7D4', 1704),
 (DEFAULT, 'Pad 2 (Warm)', '1iaaoSstscAA4QU9D3buSgvFckDFPjgrk', 1704),
 -- Кино - Сказка
+(DEFAULT, 'Full Score', '17HwcZfIMz5de5NG84ITLHPuy7G-WGUwl', 1706),
+(DEFAULT, 'Voice', '1LtthfNTRZw3DG8u-nuCUBh0-5mbYlOv9', 1706),
+(DEFAULT, 'Acoustic Guitar', '1EIsTdC8jvrdDKe7JWkIkA1QyOsSbK09O', 1706),
+(DEFAULT, 'Acoustic Guitar, Electric Guitar 1, Electric Guitar 2', '1CLMI2L-OfMLYyP7moDs4h1qMWv0zWKda', 1706),
+(DEFAULT, 'Electric Guitar 1', '1zHdRAaCF6-apuoONZZmkThgrQzwR64sT', 1706),
+(DEFAULT, 'Electric Guitar 2', '18iWiyGMaX3HnGrM_Ak9ttXdzWSICQQv-', 1706),
+(DEFAULT, 'Bass Guitar', '15Oz4NhR84352mmZv-lpY0wGJEr3EP0Pi', 1706),
+(DEFAULT, 'Drum Set', '16ESoqlSd6JF6mBKd38waUUi8pBz6GUpf', 1706),
+(DEFAULT, 'Pad 2 (Warm)', '1xm4I7KmMgMVwNf24Mh-NtwUjFV85oSOC', 1706),
 -- Кино - Следи за собой
 (DEFAULT, 'Full Score', '16p8dkqxqGDfYjHoOus2DEMMzNj2OrP_k', 1712),
 (DEFAULT, 'Voice', '1P9meplAyVIEdA2Ux1oRYevD-zjXHkKoQ', 1712),
