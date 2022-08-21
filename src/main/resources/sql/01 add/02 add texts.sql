@@ -205,6 +205,8 @@ VALUES
 (DEFAULT, '1RUd_cwVVSBfLMvac944lVYtHLSWN7c3N', 1703),
 -- Кино - Печаль
 (DEFAULT, '1eCQTQG1Ma2ZsANb2k4XVSvEw9vxU-4cO', 1704),
+-- Кино - Сказка
+(DEFAULT, '1Qt3SZfnjIM18V6UdUc7WFrobkqC76L1v', 1706),
 -- Кино - Следи за собой
 (DEFAULT, '1cpy9bViQHFBxVWLIiGI1FEtkNzwMMDCv', 1712),
 -- Кино - Спокойная ночь

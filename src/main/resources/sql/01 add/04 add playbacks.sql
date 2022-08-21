@@ -289,6 +289,8 @@ VALUES
 -- Кино - Печаль
 (DEFAULT, 'original', '1O3h4xWbEFwrulGA51pRj_ltCyjTQ0n4G', 1704),
 (DEFAULT, '0', '1ha8c4Bs_L1dQHfVMDLzm0L_K5wsCW4SC', 1704),
+-- Кино - Сказка
+(DEFAULT, 'original', '1Rf7ZYglUStnZpxqjE3jYfxuKam2VpzmM', 1706),
 -- Кино - Следи за собой
 (DEFAULT, 'original', '1iLQFGPtPSqOIDmmxdOvHYOWpv8-MHjhn', 1712),
 (DEFAULT, '0', '15ifbBdfUYfz8eMlKtd85YrFswTbT-0rg', 1712),
