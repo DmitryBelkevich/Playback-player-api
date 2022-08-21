@@ -796,6 +796,7 @@ VALUES
 (DEFAULT, 'Drum Set', '1pwOETakReAypCghIcb1ym7qffqSVN_AH', 1670),
 (DEFAULT, 'Wood Blocks', '1IdFqkmOwuhraBoadjm3hrly1r6LYYMv2', 1670),
 (DEFAULT, 'Strings', '1P1jrsfAYIyW1NcUwbEIYbT0IaYuOTfSg', 1670),
+-- Кино - Мама - Анархия
 -- Кино - Мама, мы все тяжело больны
 (DEFAULT, 'Full Score', '1dn2-WBL3y0b2-WVix0I5awD5vBeRAZ9w', 1680),
 (DEFAULT, 'Voice', '1VkVfivyxtlZZpGpbf1zzomR898AB-02w', 1680),
