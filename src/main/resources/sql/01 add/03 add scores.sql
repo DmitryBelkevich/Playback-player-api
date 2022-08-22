@@ -797,6 +797,15 @@ VALUES
 (DEFAULT, 'Wood Blocks', '1IdFqkmOwuhraBoadjm3hrly1r6LYYMv2', 1670),
 (DEFAULT, 'Strings', '1P1jrsfAYIyW1NcUwbEIYbT0IaYuOTfSg', 1670),
 -- Кино - Мама - Анархия
+(DEFAULT, 'Full Score', '1_HTEk0yUYC-MerwVkeY66PPU-UZgkOxC', 1675),
+(DEFAULT, 'Voice 1, Voice 2', '1DoNEjwbzmXEMG87guGJhwtn-It16kDm-', 1675),
+(DEFAULT, 'Voice 1', '1U5HDp3xzc_B_gaP_ZL3njSaW78nm2zfu', 1675),
+(DEFAULT, 'Voice 2', '1SePjF8eQfzyxi52HlAd__8xZZJwg7HJl', 1675),
+(DEFAULT, 'Electric Guitar 1, Electric Guitar 2', '1vZ8uaRoktxXmcOJLcxgLIMDp8EuvqqYy', 1675),
+(DEFAULT, 'Electric Guitar 1', '1Zj-koe0hLiYSBhdvjkOYdaD7s8xSrarw', 1675),
+(DEFAULT, 'Electric Guitar 2', '1qBkwHnhegrRV6pF9gkixB1F6QxIVeazE', 1675),
+(DEFAULT, 'Bass Guitar', '1NvBGGwx7fDwQx9A6-r-gk4lcAW_9X5xH', 1675),
+(DEFAULT, 'Drum Set', '1xUmSsjP8n-HexoAqehfU0bDFLGDmlnOO', 1675),
 -- Кино - Мама, мы все тяжело больны
 (DEFAULT, 'Full Score', '1dn2-WBL3y0b2-WVix0I5awD5vBeRAZ9w', 1680),
 (DEFAULT, 'Voice', '1VkVfivyxtlZZpGpbf1zzomR898AB-02w', 1680),
