@@ -201,6 +201,9 @@ VALUES
 (DEFAULT, null, 4, 4, 121, 1690),
 -- Кино - Пачка сигарет
 (DEFAULT, null, 2, 4, 87, 1700),
+-- Кино - Последний герой
+(DEFAULT, 'Intro, Outro', 4, 4, 112, 1702),
+(DEFAULT, 'Break, Verse, Chorus, Solo', 2, 4, 112, 1702),
 -- Кино - Песня без слов
 (DEFAULT, null, 4, 4, 0, 1703),
 -- Кино - Печаль
