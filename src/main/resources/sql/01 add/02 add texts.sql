@@ -203,6 +203,8 @@ VALUES
 (DEFAULT, '1MIm6Kpw-gugEOabe8x80aVvQOCCf3Jx0', 1690),
 -- Кино - Пачка сигарет
 (DEFAULT, '13NJw888shKdCpCETked68ufggVxyF6Vq', 1700),
+-- Кино - Последний герой
+(DEFAULT, '1yxUd3P5zZhDUSemIBRwaTGIlf3YUwPsJ', 1702),
 -- Кино - Песня без слов
 (DEFAULT, '1RUd_cwVVSBfLMvac944lVYtHLSWN7c3N', 1703),
 -- Кино - Печаль
