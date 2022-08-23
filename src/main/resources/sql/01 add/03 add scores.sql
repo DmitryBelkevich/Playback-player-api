@@ -846,6 +846,15 @@ VALUES
 (DEFAULT, 'FX 5 (Brightness)', '1HgdSbrzniaa0LSwxLyLBl0VQ24HMrpDq', 1700),
 (DEFAULT, 'Pad 2 (Warm)', '1R71_E1wCIhQR4j9XOWzJy48YnVQ1TGb_', 1700),
 -- Кино - Последний герой
+(DEFAULT, 'Full Score', '1vM7QMAQQdLPc8JsnfStqWoIlFSdVwjSM', 1702),
+(DEFAULT, 'Voice', '1HKqzIA9Hs865q13S66v-o9t3pinxwoFb', 1702),
+(DEFAULT, 'Acoustic Guitar, Electric Guitar 1, Electric Guitar 2', '1zcn3omAdS-n6ddq4neG2G5tqxE6eaB8d', 1702),
+(DEFAULT, 'Acoustic Guitar', '1Kka8PnBFiNYDQWm_NF5vqXeEjAV3IQfG', 1702),
+(DEFAULT, 'Electric Guitar 1', '1gO1Ft7HKGmr5bBbYfNAQjGk4iD7RXiE_', 1702),
+(DEFAULT, 'Electric Guitar 2', '1e5U7UNRjtGK7z60MUYSGZ4IeABiFp8K_', 1702),
+(DEFAULT, 'Bass Guitar', '1cXggtSHfL79igOQh8VJV-w01N_0pa-Fl', 1702),
+(DEFAULT, 'Drum Set', '16NUw1ok77oz_eLelJKgfmFdGyCtfGAhY', 1702),
+(DEFAULT, 'Pad 1 (New Age)', '124A2iI27tzcAYMlNgBCeMUA47rzn40la', 1702),
 -- Кино - Песня без слов
 -- Кино - Печаль
 (DEFAULT, 'Full Score', '17AQFkvgbe5BsWsUnqXkXY7vC0IiK3Cdx', 1704),
