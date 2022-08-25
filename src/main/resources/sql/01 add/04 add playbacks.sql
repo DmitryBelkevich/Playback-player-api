@@ -288,6 +288,7 @@ VALUES
 (DEFAULT, '0', '1hDYC0YLB7r1Q2xjl8pnuY4oZHnz7y3Gq', 1700),
 -- Кино - Последний герой
 (DEFAULT, 'original', '1Hjki5XhjsYPDP1_fZogiOgWAcskO4-e4', 1702),
+(DEFAULT, '0', '1UJr9VkIW4KtlbgSGtqcU1jQGAjXd2HXG', 1702),
 -- Кино - Песня без слов
 (DEFAULT, 'original', '156Jvb7H1DdOERvG9bLGjDTBkxm2yYhLT', 1703),
 -- Кино - Печаль
