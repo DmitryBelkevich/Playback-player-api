@@ -205,7 +205,7 @@ VALUES
 (DEFAULT, 'Intro, Outro', 4, 4, 112, 1702),
 (DEFAULT, 'Break, Verse, Chorus, Solo', 2, 4, 112, 1702),
 -- Кино - Песня без слов
-(DEFAULT, null, 4, 4, 0, 1703),
+(DEFAULT, null, 4, 4, 123, 1703),
 -- Кино - Печаль
 (DEFAULT, null, 4, 4, 107, 1704),
 -- Кино - Сказка
@@ -214,6 +214,8 @@ VALUES
 (DEFAULT, null, 4, 4, 123, 1712),
 -- Кино - Спокойная ночь
 (DEFAULT, null, 4, 4, 101, 1714),
+-- Кино - Стук
+(DEFAULT, null, 4, 4, 0, 1716),
 -- Кино - Хочу перемен!
 (DEFAULT, null, 4, 4, 130, 1717),
 -- Кино - Электричка

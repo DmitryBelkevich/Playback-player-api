@@ -215,6 +215,8 @@ VALUES
 (DEFAULT, '1cpy9bViQHFBxVWLIiGI1FEtkNzwMMDCv', 1712),
 -- Кино - Спокойная ночь
 (DEFAULT, '1KLsBu_7tyVsJUXzcHTGCQEPNvp7H73Vj', 1714),
+-- Кино - Стук
+(DEFAULT, '128ejDzf1lijy2vseR56OQ3tfKkAQNgcJ', 1716),
 -- Кино - Хочу перемен!
 (DEFAULT, '1JNSUBsY0IoO_LuePzPH-jp6XPvfu-c7x', 1717),
 -- Кино - Электричка

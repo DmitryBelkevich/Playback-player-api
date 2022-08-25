@@ -924,6 +924,7 @@ VALUES
 (DEFAULT, 'FX 5 (Brightness), Pad 2 (Warm)', '1U22Z945ktR7XFnWCWTgskoMio2rBOgW3', 1714),
 (DEFAULT, 'FX 5 (Brightness)', '127vY9lGaVH7AEPSqh9T4-YrLiYiC33qT', 1714),
 (DEFAULT, 'Pad 2 (Warm)', '14E60dEfpxAlAlWGNmJSyAtyFboPOXspT', 1714),
+-- Кино - Стук
 -- Кино - Электричка
 (DEFAULT, 'Full Score', '1H25l28Y4_UusPzVwgtv6Pl2_3Gr7qtFR', 1718),
 (DEFAULT, 'Voice', '16r9u86-JGY_ogkIzDDKPg6e8cPWiloNd', 1718),
