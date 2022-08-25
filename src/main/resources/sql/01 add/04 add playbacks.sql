@@ -296,6 +296,7 @@ VALUES
 (DEFAULT, '0', '1ha8c4Bs_L1dQHfVMDLzm0L_K5wsCW4SC', 1704),
 -- Кино - Сказка
 (DEFAULT, 'original', '1Rf7ZYglUStnZpxqjE3jYfxuKam2VpzmM', 1706),
+(DEFAULT, '0', '1HphMSzQXRP9For9JOFayWK6JVUNlpbSI', 1706),
 -- Кино - Следи за собой
 (DEFAULT, 'original', '1iLQFGPtPSqOIDmmxdOvHYOWpv8-MHjhn', 1712),
 (DEFAULT, '0', '15ifbBdfUYfz8eMlKtd85YrFswTbT-0rg', 1712),
