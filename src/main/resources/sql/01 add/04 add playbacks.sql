@@ -244,8 +244,8 @@ VALUES
 -- Игорь Корнелюк - Город, которого нет
 (DEFAULT, 'original', '12KHlhuGz7kD7R2GzFgdOCwbols8Ueu2H', 1595),
 -- Кино - Апрель
-(DEFAULT, 'original', '1lbJ03vm5gd6cgCNaaVzl8ALSymkSA0_d', 1612),
-(DEFAULT, '0', '1bFFTeYOZyHw8pLKiYEoA5_LRO0VHrlPJ', 1612),
+(DEFAULT, 'original', '1lbJ03vm5gd6cgCNaaVzl8ALSymkSA0_d', 1603),
+(DEFAULT, '0', '1bFFTeYOZyHw8pLKiYEoA5_LRO0VHrlPJ', 1603),
 -- Кино - Восьмиклассница
 (DEFAULT, 'original', '1xRvivO8DZEcDafKWHehWT29grZNysPOb', 1618),
 -- Кино - Группа крови

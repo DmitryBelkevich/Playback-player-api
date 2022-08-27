@@ -679,14 +679,14 @@ VALUES
 (DEFAULT, 'Lead 3 (Calliope)', '1O2w3_MvzAPlTGqQlHQZnjQa0cYsONd6q', 1581),
 -- Игорь Корнелюк - Город, которого нет
 -- Кино - Апрель
-(DEFAULT, 'Full Score', '1bOcIGZP978KeLtj2dIJtducC-88ov-Nr', 1612),
-(DEFAULT, 'Voice', '1rHbVaz5XvXJXH0d8QjBjwTW_P8DTRMBz', 1612),
-(DEFAULT, 'Acoustic Guitar', '1kOFpd6tPbLZGJMhF8H-QL86srln6NSoQ', 1612),
-(DEFAULT, 'Finger Click, Handclap, Tambourine, Taiko Drums', '1WffQopq76-BJm___OcvLMMnAeDRG8QS3', 1612),
-(DEFAULT, 'Finger Click', '1M9gUIEVEFQ2oT-a3FX9q8CKJBkIg9Fzl', 1612),
-(DEFAULT, 'Handclap', '12D1a925fkcrFnrMI8f5GIA2INRR6fk-a', 1612),
-(DEFAULT, 'Tambourine', '10YCmFH1_hZSHOa4fafJ-TYc__f9tD0rl', 1612),
-(DEFAULT, 'Taiko Drums', '11nRe0fIPrRWJPXn-0tk4wuJAZ7jcL_iX', 1612),
+(DEFAULT, 'Full Score', '1bOcIGZP978KeLtj2dIJtducC-88ov-Nr', 1603),
+(DEFAULT, 'Voice', '1rHbVaz5XvXJXH0d8QjBjwTW_P8DTRMBz', 1603),
+(DEFAULT, 'Acoustic Guitar', '1kOFpd6tPbLZGJMhF8H-QL86srln6NSoQ', 1603),
+(DEFAULT, 'Finger Click, Handclap, Tambourine, Taiko Drums', '1WffQopq76-BJm___OcvLMMnAeDRG8QS3', 1603),
+(DEFAULT, 'Finger Click', '1M9gUIEVEFQ2oT-a3FX9q8CKJBkIg9Fzl', 1603),
+(DEFAULT, 'Handclap', '12D1a925fkcrFnrMI8f5GIA2INRR6fk-a', 1603),
+(DEFAULT, 'Tambourine', '10YCmFH1_hZSHOa4fafJ-TYc__f9tD0rl', 1603),
+(DEFAULT, 'Taiko Drums', '11nRe0fIPrRWJPXn-0tk4wuJAZ7jcL_iX', 1603),
 -- Кино - Восьмиклассница
 (DEFAULT, 'Full Score', '1zovldsIYB0S74Az07OtEmmoxlvn9TgUY', 1618),
 (DEFAULT, 'Voice', '18x96L5h4danktea2PRpIhwgJWICsm5j8', 1618),

@@ -169,7 +169,7 @@ VALUES
 (DEFAULT, 'Intro, Verse, Break', 2, 4, 62, 1595),
 (DEFAULT, 'Chorus, Solo', 4, 4, 62, 1595),
 -- Кино - Апрель
-(DEFAULT, null, 4, 4, 104, 1612),
+(DEFAULT, null, 4, 4, 104, 1603),
 -- Кино - Восьмиклассница
 (DEFAULT, 'Intro, Break, Verse', 2, 4, 130, 1618),
 (DEFAULT, 'Chorus', 4, 4, 130, 1618),
