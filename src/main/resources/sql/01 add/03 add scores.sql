@@ -688,12 +688,12 @@ VALUES
 (DEFAULT, 'Tambourine', '10YCmFH1_hZSHOa4fafJ-TYc__f9tD0rl', 1603),
 (DEFAULT, 'Taiko Drums', '11nRe0fIPrRWJPXn-0tk4wuJAZ7jcL_iX', 1603),
 -- Кино - Восьмиклассница
-(DEFAULT, 'Full Score', '1zovldsIYB0S74Az07OtEmmoxlvn9TgUY', 1618),
-(DEFAULT, 'Voice', '18x96L5h4danktea2PRpIhwgJWICsm5j8', 1618),
-(DEFAULT, 'Acoustic Guitar, Electric Guitar', '1UX-R-8Y8ZsWK_deacXu9nWyrQgFvx4Wh', 1618),
-(DEFAULT, 'Acoustic Guitar', '1HZgeReRz7GMOboGV-RuHJTnhtBQSTbxp', 1618),
-(DEFAULT, 'Electric Guitar', '1DhsD19Q0rCARwBA6VPoCImKa7Z9HemYl', 1618),
-(DEFAULT, 'Percussion', '1RqpZpc1rfFkwmF-zBySIze6YApmSB4UI', 1618),
+(DEFAULT, 'Full Score', '1zovldsIYB0S74Az07OtEmmoxlvn9TgUY', 1616),
+(DEFAULT, 'Voice', '18x96L5h4danktea2PRpIhwgJWICsm5j8', 1616),
+(DEFAULT, 'Acoustic Guitar, Electric Guitar', '1UX-R-8Y8ZsWK_deacXu9nWyrQgFvx4Wh', 1616),
+(DEFAULT, 'Acoustic Guitar', '1HZgeReRz7GMOboGV-RuHJTnhtBQSTbxp', 1616),
+(DEFAULT, 'Electric Guitar', '1DhsD19Q0rCARwBA6VPoCImKa7Z9HemYl', 1616),
+(DEFAULT, 'Percussion', '1RqpZpc1rfFkwmF-zBySIze6YApmSB4UI', 1616),
 -- Кино - Группа крови
 (DEFAULT, 'Full Score', '1NbHgz5ND1ERH34Ov_w0mQerLpT9PWG0v', 1620),
 (DEFAULT, 'Voice', '1C5IKa-qcRj6Tcr9y41dIgVTMvodJZ5dB', 1620),

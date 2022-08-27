@@ -171,8 +171,8 @@ VALUES
 -- Кино - Апрель
 (DEFAULT, null, 4, 4, 104, 1603),
 -- Кино - Восьмиклассница
-(DEFAULT, 'Intro, Break, Verse', 2, 4, 130, 1618),
-(DEFAULT, 'Chorus', 4, 4, 130, 1618),
+(DEFAULT, 'Intro, Break, Verse', 2, 4, 130, 1616),
+(DEFAULT, 'Chorus', 4, 4, 130, 1616),
 -- Кино - Группа крови
 (DEFAULT, null, 4, 4, 124, 1620),
 -- Кино - Дерево

@@ -176,7 +176,7 @@ VALUES
 -- Кино - Апрель
 (DEFAULT, '1HHz8UC_uBHa5SLStkHVRXiyMf-dLPLWa', 1603),
 -- Кино - Восьмиклассница
-(DEFAULT, '1sVcSx-UqtAvBIpw8FcwSOi9dTlieBamW', 1618),
+(DEFAULT, '1sVcSx-UqtAvBIpw8FcwSOi9dTlieBamW', 1616),
 -- Кино - Группа крови
 (DEFAULT, '1gOLd3b9qG83qNNQ7PfgD1JhhbYrI4XaF', 1620),
 -- Кино - Дерево

@@ -247,7 +247,7 @@ VALUES
 (DEFAULT, 'original', '1lbJ03vm5gd6cgCNaaVzl8ALSymkSA0_d', 1603),
 (DEFAULT, '0', '1bFFTeYOZyHw8pLKiYEoA5_LRO0VHrlPJ', 1603),
 -- Кино - Восьмиклассница
-(DEFAULT, 'original', '1xRvivO8DZEcDafKWHehWT29grZNysPOb', 1618),
+(DEFAULT, 'original', '1xRvivO8DZEcDafKWHehWT29grZNysPOb', 1616),
 -- Кино - Группа крови
 (DEFAULT, 'original', '1rec_Lhy2xayDlfKl4Qvre9CU3jhe0yIZ', 1620),
 (DEFAULT, '0', '1Ql_05vlDJy8QLx8R7izM7Uf6w-RyN-Z3', 1620),
