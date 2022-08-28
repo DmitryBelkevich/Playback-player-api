@@ -91,6 +91,9 @@ VALUES
 (DEFAULT, null, 2, 4, 132, 1165),
 -- Noize MC - Вояджер-1
 (DEFAULT, null, 4, 4, 125, 1171),
+-- Noize MC - Выдыхай
+(DEFAULT, 'Intro, Verse', 4, 4, 100, 1174),
+(DEFAULT, 'Chorus, Break, Outro', 2, 4, 100, 1174),
 -- Zdob și Zdub - Видели ночь
 (DEFAULT, 'Intro, Coda', 4, 4, 60, 1178),
 (DEFAULT, 'Break, Verse, Chorus, Outro', 8, 8, 290, 1178),
