@@ -89,6 +89,7 @@ VALUES
 (DEFAULT, '1U50gCrXbKqFdrWyRbf0sIjv9meaWZqQY', 1165),
 -- Noize MC - Вояджер-1
 (DEFAULT, '1ILt6TOdtB5SQ_XKT5ELPiD186VesJAWb', 1171),
+-- Noize MC - Выдыхай
 -- Zdob și Zdub - Видели ночь
 (DEFAULT, '16iYpjV3ZROlmKNMS_bLsIVr5oJxqacGg', 1178),
 -- Агата Кристи - Как на войне

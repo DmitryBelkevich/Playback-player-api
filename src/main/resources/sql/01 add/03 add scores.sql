@@ -350,6 +350,7 @@ VALUES
 (DEFAULT, 'Pad 1 (New Age), Pad 2 (Warm)', '1ojaCJ2YGPreM-Y8iAz-od_5dvAB9CI5H', 1171),
 (DEFAULT, 'Pad 1 (New Age)', '1SBvK-SjHJKgGUQVITllzLmJyN-Nyw07x', 1171),
 (DEFAULT, 'Pad 2 (Warm)', '17xB_9SEfWXoa2zKLfElnq-jY3uTfcuxN', 1171),
+-- Noize MC - Выдыхай
 -- Zdob și Zdub - Видели ночь
 (DEFAULT, 'Full Score', '1gjhFlgwhfeEgZCuA1Nr0lI357gZQROjw', 1178),
 (DEFAULT, 'Voice 1.2, Voice 3.4', '1x24u7b759d2fuvAxtIXXwX0wIZ9OG02d', 1178),
