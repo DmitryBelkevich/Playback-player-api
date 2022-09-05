@@ -1991,9 +1991,9 @@ VALUES
 (DEFAULT, 'Electric Organ', '1IcAdpNp6WyL_aYijzECd0MD3pJOIL1XC', 8065),
 -- Синяя птица - Клён
 (DEFAULT, 'Full Score', '1DlBQ_uyczivHw4acT1r-QHi5N-9ahjnL', 8100),
-(DEFAULT, 'Voice 1, Voice 2.3', '1iJTDP7on2mP7-GIW97XonV91fqI6qLL5', 8100),
+(DEFAULT, 'Voice 1, Voice 2.3', '10GfwZL0uDOKp9OboncuI5w9wQwaHX5iX', 8100),
 (DEFAULT, 'Voice 1', '1IbFXZBfW0NTRxbUSb51vykMGpjS70IXu', 8100),
-(DEFAULT, 'Voice 2.3', '1r8ebz55qFQNL5FxalQpLTHV3puZJKxVT', 8100),
+(DEFAULT, 'Voice 2.3', '11D4OGVUs19nTPSsfTJW3pCWQXI7ctYhl', 8100),
 (DEFAULT, 'Electric Guitar', '1B855tEqYeLDiXTOM7cYhrVzkSCN1a5JE', 8100),
 (DEFAULT, 'Bass Guitar', '1nY-q0y_cVX-nLgl0NlIbCqqBWWakbU5Z', 8100),
 (DEFAULT, 'Drum Set', '1K9iM-eatwv5AMLxT_sMl4G1p_jHOlxl4', 8100),
