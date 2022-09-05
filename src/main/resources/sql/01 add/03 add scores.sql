@@ -205,7 +205,12 @@ VALUES
 
 -- Joan Osborne - One of Us
 -- Linkin Park - Numb
+(DEFAULT, 'Full Score', '1a1MTKWPj_VksmzImUDRoMECFEZ1GYhyv', 1020),
 (DEFAULT, 'Electric Guitar 1, Electric Guitar 2', '1Wr-AVEMZTsA3UJjNakZm2ILS4o67creu', 1020),
+(DEFAULT, 'Electric Guitar 1', '10GS4EJ6rR9-azjS7A8IK-nXBs0OHNNEZ', 1020),
+(DEFAULT, 'Electric Guitar 2', '15eEUevdObjlEx3mg0U4XiO8w-LjUd4hR', 1020),
+(DEFAULT, 'Bass Guitar', '1Unt1Ez80BYRkWikSsKQkXboO8eobeKcM', 1020),
+(DEFAULT, 'Drum Set', '13WFPAMnSbTZygQegLXPPr0t7XaxDm79W', 1020),
 -- Nirvana - Smells Like Teen Spirit
 (DEFAULT, 'Full Score', '1VEkKrcNV5ml3q2A3Lb4bgSNlDcyWxp59', 1030),
 (DEFAULT, 'Voice', '1SpOdr38l0AqSqXTiA5e8pQxH5puAntEr', 1030),
