@@ -472,7 +472,7 @@ VALUES
 -- Песняры - Белоруссия
 (DEFAULT, null, 4, 4, 100, 8080),
 -- Синяя птица - Клён
-(DEFAULT, 'Intro, Chorus, Outro', 2, 4, 65, 8100),
+(DEFAULT, 'Intro, Pre-Chorus, Chorus, Outro', 2, 4, 65, 8100),
 (DEFAULT, 'Verse, Break', 4, 4, 65, 8100),
 -- Татьяна Дасковская - Прекрасное далёко
 (DEFAULT, null, 4, 4, 100, 8110),
