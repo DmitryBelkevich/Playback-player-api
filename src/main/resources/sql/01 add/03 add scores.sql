@@ -1989,7 +1989,7 @@ VALUES
 (DEFAULT, 'Celesta, Electric Organ', '18LD_6IlypYM4MOBwFiMS7RgFCp-kTc6e', 8065),
 (DEFAULT, 'Celesta', '1mifFCAM6UuKPtkqvWntSbp4gHVIiYHyW', 8065),
 (DEFAULT, 'Electric Organ', '1IcAdpNp6WyL_aYijzECd0MD3pJOIL1XC', 8065),
--- Синяя птица - Там, где клён шумит
+-- Синяя птица - Клён
 (DEFAULT, 'Full Score', '1DlBQ_uyczivHw4acT1r-QHi5N-9ahjnL', 8100),
 (DEFAULT, 'Voice 1, Voice 2.3', '1q9wYCmt18f_AWVQGcJcQzdJ1SRQY-2Qt', 8100),
 (DEFAULT, 'Voice 1', '1IbFXZBfW0NTRxbUSb51vykMGpjS70IXu', 8100),

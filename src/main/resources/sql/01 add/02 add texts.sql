@@ -463,7 +463,7 @@ VALUES
 (DEFAULT, '1CqrrseS3_F2QSMh8VTUYZ0ZDkfvIyy9J', 8065),
 -- Песняры - Белоруссия
 (DEFAULT, '1XQyMxTW-rgAPJtkpjTL8dNqDswETt796', 8080),
--- Синяя птица - Там, где клён шумит
+-- Синяя птица - Клён
 (DEFAULT, '1jU1OELMO1mB8-e40pxr9ibZ8DdPXGQIK', 8100),
 -- Татьяна Дасковская - Прекрасное далёко
 (DEFAULT, '163HW7ZpJBV5e54feoiwlDbQf4r1nptFz', 8110),

@@ -660,7 +660,7 @@ VALUES
 -- Муслим Магомаев - Серенада Трубадура
 (DEFAULT, 'original', '1JY39qD56ZB8F6jfXFPlP8nLf-oUFCFfx', 8065),
 (DEFAULT, '0', '1tUjPBc-GRjjb_i-ZLINr_RPrkhkiQgdM', 8065),
--- Синяя птица - Там, где клён шумит
+-- Синяя птица - Клён
 (DEFAULT, 'original', '1_vGMqVWwZvAT7sLJNpITKCBBcaaCkcKY', 8100),
 (DEFAULT, '0', '1wlHDu22rywGc5OvDFwmquO4Q24wooPQo', 8100),
 (DEFAULT, '-2', '1Cja_cMlr2gg-dFAOoEvbx1PPR_WP0JAq', 8100),
