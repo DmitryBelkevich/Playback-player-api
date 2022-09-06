@@ -1952,9 +1952,7 @@ VALUES
 (DEFAULT, 'Strings', '1A0VdZQov14GQpIgKPGiEgtrDQHG-TpRA', 8010),
 -- Любэ - Конь
 (DEFAULT, 'Full Score', '1S04L6-0K-F6foScj7fRkKQr8tNOzWLra', 8020),
-(DEFAULT, 'Voice 1, Voice 2', '1fKNzKOKSmQYuuXyf6EaCREmyutEsDJfl', 8020),
-(DEFAULT, 'Voice 1', '1tHYVIoanZJHwNEh8nS4aeENAnad5Ul7c', 8020),
-(DEFAULT, 'Voice 2', '1OePsTQSNg_30gZ6XSaiBTccKFgGXIoJF', 8020),
+(DEFAULT, 'Voice 1.2', '1iu0KvgqzuosXJ8vP8pZl_FqIRW46489J', 8020),
 (DEFAULT, 'Tenor, Baritone, Bass', '12QsP1oyFOv5JecnkLpI2ebnf0C1SOvZT', 8020),
 (DEFAULT, 'Tenor', '1GZekoTs1kCxVYXUQ7ojyCuq7Jj9mc5xg', 8020),
 (DEFAULT, 'Baritone', '1lxTl87_dKz8cK2KnDYNw_2Rm_WDJfDjB', 8020),
