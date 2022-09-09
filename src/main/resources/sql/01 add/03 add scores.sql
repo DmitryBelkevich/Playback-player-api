@@ -1901,6 +1901,15 @@ VALUES
 (DEFAULT, 'Synth Strings', '1GSeFMB6sAh9heFZlwCIRbfh9EcLEHGGs', 7040),
 (DEFAULT, 'FX 1 (Abduction)', '1n39a08XRoFgRDE_DyBJy-5AyiW8bxXPc', 7040),
 -- Пошлая Молли - Нон стоп
+(DEFAULT, 'Full Score', '1aOWgUXuTTPi_jABNOoj4MXfBOmZS_BaO', 7060),
+(DEFAULT, 'Voice 1', '1ULC8FT23oJwt1960p2NNPbdmr_sSQ7M0', 7060),
+(DEFAULT, 'Voice 2.3', '1G6E6uzSBFp88dgHHPwOrRBYYulFncaMf', 7060),
+(DEFAULT, 'Voice 4', '1mPyDFfmj55l6TIqKvIeGdHUiHPnFQeSj', 7060),
+(DEFAULT, 'Electric Guitar', '1BgT_t30BggQ_rPIFw-NTlA303yNTF9qq', 7060),
+(DEFAULT, 'Bass Guitar', '16Ode3aU2CVXD3UJXXE6ziu8Ry0Q2FB5Q', 7060),
+(DEFAULT, 'Drum Set', '14xzeSfZH1StWM0hY2XpxqVrFRNiNEzpU', 7060),
+(DEFAULT, 'Lead 2 (Sawtooth)', '1kxC09GBFWaZTLAdzI9RyphixXSL-IPBz', 7060),
+(DEFAULT, 'Synth Bass, Lead 2 (Sawtooth)', '12aVdB0RNGK1RyQ4J2v6XPq0abBUFFpDx', 7060),
 -- Шарлот - Мяу мяу мяу
 (DEFAULT, 'Full Score', '15lOA67eSz2IgsLzc-RtwWVTA3g1VxLmy', 7085),
 (DEFAULT, 'Voice 1, Voice 2', '1BIszbSr6fOBRM8fFvudsFkhZvJjsYJo5', 7085),
