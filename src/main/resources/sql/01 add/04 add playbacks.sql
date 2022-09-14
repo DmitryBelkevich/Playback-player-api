@@ -656,7 +656,7 @@ VALUES
 (DEFAULT, 'original', '1e9FkKo4ws0-OwjaUZhEZZNvb1cepK6Um', 8030),
 -- Михаил Боярский - Зеленоглазое такси
 (DEFAULT, 'original', '1TJEQsSf_fhbmfCv9nc82Sxh0P9zSqNmB', 8050),
-(DEFAULT, '0', '1P2g8Rz3ROpSKocqtpaF0Ubhq8F-iaSxJ', 8050),
+(DEFAULT, '-1', '1P2g8Rz3ROpSKocqtpaF0Ubhq8F-iaSxJ', 8050),
 -- Муслим Магомаев - Серенада Трубадура
 (DEFAULT, 'original', '1JY39qD56ZB8F6jfXFPlP8nLf-oUFCFfx', 8065),
 (DEFAULT, '0', '1tUjPBc-GRjjb_i-ZLINr_RPrkhkiQgdM', 8065),
