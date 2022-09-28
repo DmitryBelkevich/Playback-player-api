@@ -483,6 +483,13 @@ VALUES
 -- Стас Михайлов - Свеча
 (DEFAULT, '1IANgFVOF6AKg5vcRxnoy70qhL2qfywC-', 9050),
 
+-- Musical
+
+-- Folk
+
+-- Купалiнка
+(DEFAULT, '1ev4oluimff_hm9O9gmHhmFR3SJQKji1h', 9150),
+
 -- Classic
 
 -- Ennio Morricone - Chi Mai
