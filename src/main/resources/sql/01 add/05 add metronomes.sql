@@ -40,8 +40,7 @@ VALUES
 -- Ария - Штиль
 (DEFAULT, null, 12, 8, 68, 160),
 -- Кипелов - Я свободен!
-(DEFAULT, 'Introduction', 4, 4, 70, 170),
-(DEFAULT, 'Intro, Verse, Break, Chorus, Outro', 2, 4, 70, 170),
+(DEFAULT, 'Introduction, Intro, Verse, Break, Chorus, Outro', 2, 4, 70, 170),
 (DEFAULT, 'Interlude', 4, 8, 140, 170),
 -- Легион - Звезда
 (DEFAULT, null, 4, 4, 96, 175),
