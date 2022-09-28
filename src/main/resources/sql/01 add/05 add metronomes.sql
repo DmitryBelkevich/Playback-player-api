@@ -171,8 +171,10 @@ VALUES
 -- Земфира - Хочешь?
 (DEFAULT, null, 4, 4, 67, 1590),
 -- Игорь Корнелюк - Город, которого нет
-(DEFAULT, 'Intro, Verse, Break', 2, 4, 62, 1595),
-(DEFAULT, 'Chorus, Solo', 4, 4, 62, 1595),
+-- (DEFAULT, 'Intro, Verse, Break', 2, 4, 62, 1595),
+-- (DEFAULT, 'Chorus, Solo', 4, 4, 62, 1595),
+(DEFAULT, 'Intro', 2, 4, 62, 1595),
+(DEFAULT, 'Verse, Break, Chorus, Solo', 4, 4, 62, 1595),
 -- Кино - Апрель
 (DEFAULT, null, 4, 4, 104, 1603),
 -- Кино - Восьмиклассница

@@ -2084,6 +2084,13 @@ VALUES
 (DEFAULT, 'Strings', '10N8ZNs-3P2dwjUmjiDzin3pnjPOu5FaS', 9040),
 (DEFAULT, 'Pad 2 (Warm)', '1j4fX6EXkUEw8274ACri5qopqiO5FnTiH', 9040),
 
+-- Folk
+
+-- Купалiнка
+(DEFAULT, 'Full Score', '1RIf4QgEPaDRS-DGEMX5-idgj3frGch5s', 9150),
+(DEFAULT, 'Voice', '1CyYbSn_-l9HVQvlI8zXSBt6gIQaHN2JA', 9150),
+(DEFAULT, 'Piano', '1-AIM95tSje8M8z08L0qNhP5LBX_nU4Fy', 9150),
+
 -- Classic
 
 -- Ennio Morricone - Chi Mai
