@@ -802,6 +802,7 @@ VALUES
 (DEFAULT, 'Drum Set', '1pwOETakReAypCghIcb1ym7qffqSVN_AH', 1670),
 (DEFAULT, 'Wood Blocks', '1IdFqkmOwuhraBoadjm3hrly1r6LYYMv2', 1670),
 (DEFAULT, 'Strings', '1P1jrsfAYIyW1NcUwbEIYbT0IaYuOTfSg', 1670),
+-- Кино - Легенда
 -- Кино - Мама - Анархия
 (DEFAULT, 'Full Score', '1_HTEk0yUYC-MerwVkeY66PPU-UZgkOxC', 1675),
 (DEFAULT, 'Voice 1, Voice 2', '1DoNEjwbzmXEMG87guGJhwtn-It16kDm-', 1675),

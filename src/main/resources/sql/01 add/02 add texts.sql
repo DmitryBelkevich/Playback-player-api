@@ -196,6 +196,8 @@ VALUES
 (DEFAULT, '1Z0_C6xvMIFr7AtjMQTy8thnQ2z0JJ-rz', 1660),
 -- Кино - Кукушка
 (DEFAULT, '1n4KtxTk4CTix6pNsOBiml7f5aW06hUSM', 1670),
+-- Кино - Легенда
+(DEFAULT, '1sQJtOr9DwGGO9oud-cZFbHrPjB-JJp40', 1673),
 -- Кино - Мама - Анархия
 (DEFAULT, '18YcLaKUJEc7Ys8YzVO20sgpLsuSfv9wp', 1675),
 -- Кино - Мама, мы все тяжело больны
