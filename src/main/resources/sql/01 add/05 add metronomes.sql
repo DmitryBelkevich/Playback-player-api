@@ -385,7 +385,8 @@ VALUES
 -- Смысловые Галлюцинации - Вечно молодой
 (DEFAULT, null, 4, 4, 110, 2350),
 -- Сплин - Выхода нет
-(DEFAULT, null, 4, 4, 86, 2375),
+(DEFAULT, 'Intro, Chorus, Break, Outro', 4, 4, 86, 2375),
+(DEFAULT, 'Verse, Pre-Chorus', 2, 4, 86, 2375),
 -- Сплин - Линия жизни
 (DEFAULT, null, 4, 4, 105, 2380),
 -- Сплин - Моё сердце
@@ -408,6 +409,7 @@ VALUES
 -- Gary Moore - The Loner
 (DEFAULT, null, 6, 8, 55, 3020),
 -- Gary Moore - The Prophet
+(DEFAULT, 'Intro', 6, 8, 53, 3030),
 (DEFAULT, null, 12, 8, 53, 3030),
 
 -- Surf
@@ -457,7 +459,7 @@ VALUES
 -- Пошлая Молли - Нон стоп
 (DEFAULT, null, 4, 4, 130, 7060),
 -- Шарлот - Мяу мяу мяу
-(DEFAULT, null, 4, 4, 88, 7085),
+(DEFAULT, null, 4, 4, 176, 7085),
 -- Шарлот - Щека на щеку
 
 -- Estrada
