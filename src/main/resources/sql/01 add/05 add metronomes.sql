@@ -19,8 +19,8 @@ VALUES
 -- System of a Down - Aerials
 (DEFAULT, null, 4, 4, 80, 60),
 -- System of a Down - Chop Suey!
-(DEFAULT, 'Intro, Verse', 4, 4, 130, 70),
-(DEFAULT, 'Break, Bridge 1, Bridge 2', 2, 4, 130, 70),
+(DEFAULT, 'Intro', 4, 4, 130, 70),
+(DEFAULT, 'Break, Verse, Pre-Chorus, Bridge 1, Bridge 2', 2, 4, 130, 70),
 (DEFAULT, 'Chorus, Bridge 3', 2, 2, 65, 70),
 (DEFAULT, 'Break', 16, 16, 520, 70),
 (DEFAULT, 'Break', 4, 8, 260, 70),
