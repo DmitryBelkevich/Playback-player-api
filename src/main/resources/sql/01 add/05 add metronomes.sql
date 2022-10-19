@@ -69,7 +69,7 @@ VALUES
 -- The Beatles - Yesterday
 (DEFAULT, null, 2, 4, 95, 1080),
 -- The Cranberries - Zombie
-(DEFAULT, null, 4, 4, 80, 1090),
+(DEFAULT, null, 4, 4, 85, 1090),
 -- The Offspring - Pretty Fly (for a White Guy)
 (DEFAULT, null, 4, 4, 143, 1100),
 -- The Offspring - Self Esteem

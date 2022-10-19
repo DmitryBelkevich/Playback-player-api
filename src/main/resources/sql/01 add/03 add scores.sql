@@ -266,7 +266,7 @@ VALUES
 (DEFAULT, 'Voice 1, Voice 2', '1bgkkkfH7iiXMElSAaBJXgz4W4bWe7X7G', 1090),
 (DEFAULT, 'Voice 1', '1MUe1R5aIQSepEMixPIkKzVFunwplW-oE', 1090),
 (DEFAULT, 'Voice 2', '1gEw89iTiTorzafRjKVo4_-kCxheo6wn7', 1090),
-(DEFAULT, 'Electric Guitar 1, Electric Guitar 2', '1LGDe1DfVNI0JvRYhloB4hxBkbyjKKXxx', 1090),
+(DEFAULT, 'Electric Guitar 1, Electric Guitar 2, Electric Guitar 3', '1LGDe1DfVNI0JvRYhloB4hxBkbyjKKXxx', 1090),
 (DEFAULT, 'Electric Guitar 1', '1t0KPv6Pb9sugxH29QZqdDcoe_bGnZ3lC', 1090),
 (DEFAULT, 'Electric Guitar 2', '1emJbEvBt-fI4dM_y0HoATv7IWzsggnJ_', 1090),
 (DEFAULT, 'Bass Guitar', '1GNnUsC4AxL5fJ67UXsdEyK1L2tZp_J0K', 1090),
