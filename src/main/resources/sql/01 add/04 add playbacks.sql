@@ -239,6 +239,8 @@ VALUES
 -- Земфира - Искала
 (DEFAULT, 'original', '1IwQYmddIakZvif0C5RizE1Zo95-dbd8d', 1581),
 (DEFAULT, '0', '14GihNTNJIx01Wk2IZyw3R0Elg5hbOgfe', 1581),
+-- Земфира - П.М.М.Л.
+(DEFAULT, 'original', '1UY2UnVQ7J4m5LfcV4d1Eh-Bqdxbi1KXA', 1587),
 -- Земфира - Хочешь?
 (DEFAULT, 'original', '1BWN4N8DKuPpNvblRWlt532Bi15t5MPtj', 1590),
 (DEFAULT, '0', '1Y0nAcZx1XLNkmvGeucgVaS_kUp6nfmBA', 1590),
