@@ -170,6 +170,8 @@ VALUES
 (DEFAULT, '1vtsCxcGLj6-O51ZjNEuMKt7TZw-GmjOK', 1570),
 -- Земфира - Искала
 (DEFAULT, '1z8xEijfI02snc0XswS0OhIc1eo_o5NtE', 1581),
+-- Земфира - П.М.М.Л.
+(DEFAULT, '1U_cL4U9n21T9xEX-jBdMlETuiRk2esGa', 1587),
 -- Земфира - Хочешь?
 (DEFAULT, '1bcbbuXPDC-U4wf7lG66kQK_IaSwziPQF', 1590),
 -- Игорь Корнелюк - Город, которого нет
