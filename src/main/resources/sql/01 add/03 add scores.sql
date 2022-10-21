@@ -137,6 +137,7 @@ VALUES
 (DEFAULT, 'Violin', '1FBnn5NExMCo_ds0iO-P8Mb2XQgUFJf0g', 120),
 (DEFAULT, 'Viola', '1sV_31zkURyvJapsOTIgRjRgA7483ktZT', 120),
 (DEFAULT, 'Violoncello', '1Si0ahsuYOTqDYZmZlfvR8UFUek_2h5Nf', 120),
+-- Ария - Улица роз
 -- Ария - Штиль
 (DEFAULT, 'Full Score', '17VuQ64ddsrTNGZ1zJOVFM7g-8SNwMima', 160),
 (DEFAULT, 'Voice', '1M2k1YCmY0jb4-L-2i68kboNxh6ELaFYd', 160),

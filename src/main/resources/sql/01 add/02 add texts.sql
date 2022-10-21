@@ -33,7 +33,7 @@ VALUES
 -- Ария - Там высоко
 (DEFAULT, '192h-TOqwMSW5IktB_fiSlfjEdRE3_G0E', 140),
 -- Ария - Улица роз
--- (DEFAULT, '', 150),
+(DEFAULT, '1U1GjJ8iLenRvtRFFXe3AcSOvMxDsLjT1', 150),
 -- Ария - Штиль
 (DEFAULT, '18lgs_Oj5jJpO0oZZuNFQhB62GyWNviBJ', 160),
 -- Кипелов - Я свободен!
