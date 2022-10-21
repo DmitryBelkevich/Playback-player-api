@@ -502,4 +502,6 @@ VALUES
 -- Ennio Morricone - Chi Mai
 (DEFAULT, null, 12, 8, 63, 10050),
 -- Gheorghe Zamfir - The Lonely Shepherd
-(DEFAULT, null, 4, 4, 67, 10100);
+(DEFAULT, null, 4, 4, 67, 10100),
+-- Oginski Michal Kleofas - Polonaise
+(DEFAULT, null, 3, 4, 0, 10200);

@@ -159,7 +159,8 @@ VALUES
 
     -- Classic
     (410, 'Ennio Morricone'),
-    (420, 'Gheorghe Zamfir');
+    (420, 'Gheorghe Zamfir'),
+    (430, 'Oginski Michal Kleofas');
 
 -- songs
 
@@ -302,7 +303,7 @@ VALUES
     (1581, 'Искала', 185, 'Dm'),
     (1582, 'Москва', 185, null),
     (1585, 'Мы разбиваемся', 185, null),
-    (1587, 'ПММЛ', 185, null),
+    (1587, 'П.М.М.Л.', 185, null),
     (1590, 'Хочешь?', 185, 'Dm'),
 
     (1595, 'Город, которого нет', 187, 'Dm'),
@@ -584,7 +585,8 @@ VALUES
 
     -- Classic
     (10050, 'Chi Mai', 410, 'F#m'),
-    (10100, 'The Lonely Shepherd', 420, 'Dm');
+    (10100, 'The Lonely Shepherd', 420, 'Dm'),
+    (10200, 'Polonaise', 430, 'Am');
 
 -- Romance:
 
@@ -592,7 +594,6 @@ VALUES
 -- Francis Lai - Theme from Love Story
 -- Paul Mauriat - Toccata
 -- дога - вальс
--- Огинский - Полонез
 
 -- Classic:
 

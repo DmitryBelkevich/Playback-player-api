@@ -696,4 +696,6 @@ VALUES
 -- Gheorghe Zamfir - The Lonely Shepherd
 (DEFAULT, 'original', '1gYjHBAI3Cc928l_O6rka5fICyYsMv65t', 10100),
 (DEFAULT, '0', '11ep2KnZaO13RqcxwFH4mfg8HvbZNfy1r', 10100),
-(DEFAULT, '-2', '12sahEmgqBk1rnxNS2cXaJUunUBJ77U7S', 10100);
+(DEFAULT, '-2', '12sahEmgqBk1rnxNS2cXaJUunUBJ77U7S', 10100),
+-- Oginski Michal Kleofas - Polonaise
+(DEFAULT, 'original', '12ual_oeoPtD4p2ffsz1sEKnET_hVUVOw', 10200);
