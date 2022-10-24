@@ -38,7 +38,8 @@ VALUES
 (DEFAULT, null, 4, 4, 71, 120),
 (DEFAULT, 'Solo 2', 2, 4, 71, 120),
 -- Ария - Улица роз
-(DEFAULT, null, 4, 4, 0, 150),
+(DEFAULT, null, 4, 4, 160, 150),
+(DEFAULT, null, 2, 2, 80, 150),
 -- Ария - Штиль
 (DEFAULT, null, 12, 8, 68, 160),
 -- Кипелов - Я свободен!
@@ -505,5 +506,7 @@ VALUES
 (DEFAULT, null, 12, 8, 63, 10050),
 -- Gheorghe Zamfir - The Lonely Shepherd
 (DEFAULT, null, 4, 4, 67, 10100),
+-- Gomez Vicente - Romance de Amor
+(DEFAULT, null, 3, 4, 100, 10150),
 -- Oginski Michal Kleofas - Polonaise
 (DEFAULT, null, 3, 4, 0, 10200);
