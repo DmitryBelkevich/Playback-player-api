@@ -38,8 +38,8 @@ VALUES
 (DEFAULT, null, 4, 4, 71, 120),
 (DEFAULT, 'Solo 2', 2, 4, 71, 120),
 -- Ария - Улица роз
-(DEFAULT, null, 4, 4, 160, 150),
-(DEFAULT, null, 2, 2, 80, 150),
+(DEFAULT, 'Intro, Verse, Pre-Chorus, Chorus, Break, Solo 1', 4, 4, 160, 150),
+(DEFAULT, 'Chorus, Solo 2', 2, 2, 80, 150),
 -- Ария - Штиль
 (DEFAULT, null, 12, 8, 68, 160),
 -- Кипелов - Я свободен!
