@@ -160,6 +160,7 @@ VALUES
     -- Classic
     (410, 'Ennio Morricone'),
     (420, 'Gheorghe Zamfir'),
+    (425, 'Gomez Vicente'),
     (430, 'Oginski Michal Kleofas');
 
 -- songs
@@ -186,7 +187,7 @@ VALUES
     (120, 'Осколок льда', 20, 'Am'),
     (130, 'Свобода', 20, null),
     (140, 'Там высоко', 20, null),
-    (150, 'Улица роз', 20, null),
+    (150, 'Улица роз', 20, 'Dm'),
     (160, 'Штиль', 20, 'Dm'),
     (170, 'Я свободен!', 25, 'Cm'),
 
@@ -586,6 +587,7 @@ VALUES
     -- Classic
     (10050, 'Chi Mai', 410, 'F#m'),
     (10100, 'The Lonely Shepherd', 420, 'Dm'),
+    (10150, 'Romance de Amor', 425, 'Em'),
     (10200, 'Polonaise', 430, 'Am');
 
 -- Romance:
