@@ -2130,5 +2130,8 @@ VALUES
 (DEFAULT, 'Violin I', '1TIGcz9Jz04Gla02pEHnh34HVijWlzG_u', 10100),
 (DEFAULT, 'Violin II', '12VL106iwx3kQZjIIOFJM22lKIywyydHO', 10100),
 (DEFAULT, 'Viola', '17l3r27Cp3-dCN7kwZOOfFeGnVajy7JhK', 10100),
-(DEFAULT, 'Violoncello', '1SajXEDxLnfjL1PhPm95M9ySWpzdfbR3O', 10100);
+(DEFAULT, 'Violoncello', '1SajXEDxLnfjL1PhPm95M9ySWpzdfbR3O', 10100),
+-- Gomez Vicente - Romance de Amor
+(DEFAULT, 'Full Score', '15boHUOxMIqHAXGtDIB3kYVxNqv1by4a6', 10150),
+(DEFAULT, 'Guitar', '1ELXcUVoaO1d0_pbzjGq0cRpzI5wYbt8F', 10150);
 -- Oginski Michal Kleofas - Polonaise
