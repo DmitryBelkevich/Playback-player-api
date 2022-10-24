@@ -47,6 +47,7 @@ VALUES
 (DEFAULT, '0', '1y111jbIy84aVIaqVKPU8jmmRo4irhIHQ', 120),
 -- Ария - Улица роз
 (DEFAULT, 'original', '17ZINl5RliIUs0mpXp8_CfmPPZD9Y2iKm', 150),
+(DEFAULT, '0', '1y-ilaiPEzMRN5R4znpm7GOpDYQbKWwtp', 150),
 -- Ария - Штиль
 (DEFAULT, 'original', '1nzb51T6n7i0Qb0ci08TthKZRd-26Qs-X', 160),
 (DEFAULT, '+2', '193aNPwfwC4RGLQcIb7EV9quKBXEKfjar', 160),
