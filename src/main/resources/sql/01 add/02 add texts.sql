@@ -500,5 +500,7 @@ VALUES
 (DEFAULT, '1VRZeiBSLJkISRXQfO7fhdX-4O_aYPs8c', 10050),
 -- Gheorghe Zamfir - The Lonely Shepherd
 (DEFAULT, '14GB4WV51Nh1ox32FMk8t9XYIdDSVlCph', 10100),
+-- Gomez Vicente - Romance de Amor
+(DEFAULT, '1lEzjzT_hEuYWr7FVZ6P1ALlUSze04kYX', 10150),
 -- Oginski Michal Kleofas - Polonaise
 (DEFAULT, '1MZRvffw-RXrFDlJeqaWIt6DgLf0OFPU3', 10200);
