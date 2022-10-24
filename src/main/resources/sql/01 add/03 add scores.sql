@@ -138,6 +138,13 @@ VALUES
 (DEFAULT, 'Viola', '1sV_31zkURyvJapsOTIgRjRgA7483ktZT', 120),
 (DEFAULT, 'Violoncello', '1Si0ahsuYOTqDYZmZlfvR8UFUek_2h5Nf', 120),
 -- Ария - Улица роз
+(DEFAULT, 'Full Score', '1GQhIyoGSA9YlN3GmGQyVN0tPjOb2ZA9N', 150),
+(DEFAULT, 'Voice', '1f7uybiM-NYlbv1VlpUu1asqueKeeO-0_', 150),
+(DEFAULT, 'Electric Guitar 1, Electric Guitar 2', '1Xn6gDeHtdmXO84jAagY4cbfnlripeMqQ', 150),
+(DEFAULT, 'Electric Guitar 1', '16ndX-h3xHWb88OnSRszcNtKfx9dJnnjW', 150),
+(DEFAULT, 'Electric Guitar 2', '109Y_K3gbaexwp-ImL7_d7QwxviNo2n0P', 150),
+(DEFAULT, 'Bass Guitar', '19LqoNh_1aT9A3Belqi7qCTW_sozGlnIb', 150),
+(DEFAULT, 'Drum Set', '1AySqUHA9AVAKJdpCf5SUfvgaFWCQPbEx', 150),
 -- Ария - Штиль
 (DEFAULT, 'Full Score', '17VuQ64ddsrTNGZ1zJOVFM7g-8SNwMima', 160),
 (DEFAULT, 'Voice', '1M2k1YCmY0jb4-L-2i68kboNxh6ELaFYd', 160),
