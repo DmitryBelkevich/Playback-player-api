@@ -680,7 +680,7 @@ VALUES
 (DEFAULT, 'Lead 1 (Square)', '1FKY7wL-XR3EtW_-9Z9hnIkveP7Img-AS', 1570),
 (DEFAULT, 'FX 8 (Sci-fi)', '1bNX2OZ737lp8C5819nbnB_hfI6TRql57', 1570),
 (DEFAULT, 'FX 4 (Atmosphere)', '1kwbO2Zo4Db1eCGL-6kdQGHDlP3w8Bw1g', 1570),
--- Земфира - Искала
+-- Zемфира - Искала
 (DEFAULT, 'Full Score', '1goD3vsRQPkkfNE3iX_rbugad8-tMvqzU', 1581),
 (DEFAULT, 'Voice', '16QQH5eCsIJiVRlnhbu5FEE4sbUDTv05L', 1581),
 (DEFAULT, 'Electric Guitar', '1ps2E_phGQMJze8zDX5oeJLj3zcGylPOF', 1581),
@@ -691,8 +691,8 @@ VALUES
 (DEFAULT, 'Pizzicato', '1_gGbUgQKRU02fiLHXQL8XkP5pZhHAt4W', 1581),
 (DEFAULT, 'FX 3 (Crystal)', '17_Vgq04YmkREvDhHZZPpANeX6neh-vDu', 1581),
 (DEFAULT, 'Lead 3 (Calliope)', '1O2w3_MvzAPlTGqQlHQZnjQa0cYsONd6q', 1581),
--- Земфира - П.М.М.Л.
--- Земфира - Хочешь?
+-- Zемфира - П.М.М.Л.
+-- Zемфира - Хочешь?
 (DEFAULT, 'Full Score', '1wY6xGA0GK_QMHKwSc-rLSGNjnR1P88LP', 1590),
 (DEFAULT, 'Voice', '1QRP7G9jpr0duSXo0NbhhUOTsIdJK2qjg', 1590),
 (DEFAULT, 'Electric Guitar 1, Electric Guitar 2', '14i4zrk2o2y5tfdbmXHmxLWnunNSrkhXd', 1590),

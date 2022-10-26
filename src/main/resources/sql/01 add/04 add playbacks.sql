@@ -239,12 +239,12 @@ VALUES
 (DEFAULT, 'original', '1ZGDLEl-5bydc6tu1AXs7OfEzSi4lQTrh', 1570),
 (DEFAULT, '0', '1WglpwE3om9EdHmVf_Bi-F9qeptk2JGEJ', 1570),
 (DEFAULT, '-2', '1Di8hWcrqGjcJfHUj_SeOknyBVKd1Wcrr', 1570),
--- Земфира - Искала
+-- Zемфира - Искала
 (DEFAULT, 'original', '1IwQYmddIakZvif0C5RizE1Zo95-dbd8d', 1581),
 (DEFAULT, '0', '14GihNTNJIx01Wk2IZyw3R0Elg5hbOgfe', 1581),
--- Земфира - П.М.М.Л.
+-- Zемфира - П.М.М.Л.
 (DEFAULT, 'original', '1UY2UnVQ7J4m5LfcV4d1Eh-Bqdxbi1KXA', 1587),
--- Земфира - Хочешь?
+-- Zемфира - Хочешь?
 (DEFAULT, 'original', '1BWN4N8DKuPpNvblRWlt532Bi15t5MPtj', 1590),
 (DEFAULT, '0', '1Y0nAcZx1XLNkmvGeucgVaS_kUp6nfmBA', 1590),
 -- Игорь Корнелюк - Город, которого нет
