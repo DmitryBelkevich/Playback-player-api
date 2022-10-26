@@ -692,6 +692,15 @@ VALUES
 (DEFAULT, 'FX 3 (Crystal)', '17_Vgq04YmkREvDhHZZPpANeX6neh-vDu', 1581),
 (DEFAULT, 'Lead 3 (Calliope)', '1O2w3_MvzAPlTGqQlHQZnjQa0cYsONd6q', 1581),
 -- Zемфира - П.М.М.Л.
+(DEFAULT, 'Full Score', '', 1587),
+(DEFAULT, 'Voice', '', 1587),
+(DEFAULT, 'Acoustic Guitar, Electric Guitar 1, Electric Guitar 2', '', 1587),
+(DEFAULT, 'Acoustic Guitar', '', 1587),
+(DEFAULT, 'Electric Guitar 1', '', 1587),
+(DEFAULT, 'Electric Guitar 2', '', 1587),
+(DEFAULT, 'Bass Guitar', '', 1587),
+(DEFAULT, 'Drum Set', '', 1587),
+(DEFAULT, 'Wood Block', '', 1587),
 -- Zемфира - Хочешь?
 (DEFAULT, 'Full Score', '1wY6xGA0GK_QMHKwSc-rLSGNjnR1P88LP', 1590),
 (DEFAULT, 'Voice', '1QRP7G9jpr0duSXo0NbhhUOTsIdJK2qjg', 1590),
