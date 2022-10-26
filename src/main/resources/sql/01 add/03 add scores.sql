@@ -701,6 +701,9 @@ VALUES
 (DEFAULT, 'Bass Guitar', '1CpgUyb1WeocaItzpbkZ-TUcDE--ZWZDE', 1587),
 (DEFAULT, 'Drum Set', '188tpWJnsPEfh5Nf6An7EL_AWWbaZlFSg', 1587),
 (DEFAULT, 'Wood Block', '1XEyMSnLIoa690M7otO9IwBciYMfKXuWK', 1587),
+(DEFAULT, 'Strings, Pad 2 (Warm)', '1JMwpQyh0ZBerBRyo_A1eDe0xx6ezNtRI', 1587),
+(DEFAULT, 'Strings', '15yRZKHdQbbY7T1p4K4U8kUZ6nOTWfor6', 1587),
+(DEFAULT, 'Pad 2 (Warm)', '1bAPhVA4GgmcrgG6rZh7CQe2LOSYKeDlq', 1587),
 -- Zемфира - Хочешь?
 (DEFAULT, 'Full Score', '1wY6xGA0GK_QMHKwSc-rLSGNjnR1P88LP', 1590),
 (DEFAULT, 'Voice', '1QRP7G9jpr0duSXo0NbhhUOTsIdJK2qjg', 1590),
