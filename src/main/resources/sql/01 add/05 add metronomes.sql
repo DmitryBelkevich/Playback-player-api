@@ -171,7 +171,7 @@ VALUES
 -- Земфира - Искала
 (DEFAULT, null, 2, 4, 95, 1581),
 -- Земфира - П.М.М.Л.
-(DEFAULT, null, 4, 4, 0, 1587),
+(DEFAULT, null, 4, 4, 143, 1587),
 -- Земфира - Хочешь?
 (DEFAULT, 'Verse, Solo', 2, 4, 67, 1590),
 (DEFAULT, 'Chorus, Break, Outro', 4, 4, 67, 1590),
