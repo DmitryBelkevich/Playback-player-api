@@ -244,6 +244,7 @@ VALUES
 (DEFAULT, '0', '14GihNTNJIx01Wk2IZyw3R0Elg5hbOgfe', 1581),
 -- Zемфира - П.М.М.Л.
 (DEFAULT, 'original', '1UY2UnVQ7J4m5LfcV4d1Eh-Bqdxbi1KXA', 1587),
+(DEFAULT, '0', '1ydEHR9D7S3ukLPCtjhtWo95ia-JTJ_UG', 1587),
 -- Zемфира - Хочешь?
 (DEFAULT, 'original', '1BWN4N8DKuPpNvblRWlt532Bi15t5MPtj', 1590),
 (DEFAULT, '0', '1Y0nAcZx1XLNkmvGeucgVaS_kUp6nfmBA', 1590),
