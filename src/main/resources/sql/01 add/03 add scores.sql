@@ -37,6 +37,7 @@ VALUES
 (DEFAULT, 'Full Score', '1_hXAXC_U4BWl9Ea3aO-SykBBUJATRgLW', 50),
 (DEFAULT, 'Voice 1', '1WxlRi0uF6Pp5OwZt1oAXVlrYeCOLl79C', 50),
 (DEFAULT, 'Voice 2', '1MUo5IyzzroweAWAPx7Qo_W2zjaSNR2zI', 50),
+(DEFAULT, 'Electric Guitar 1, Electric Guitar 2', '1DUFGzsY7dy4GGKxUwk5g-eR32d6Kst60', 50),
 (DEFAULT, 'Electric Guitar 1', '1GixBfTRMi6VfbaRML7zQnF3pufWLYwjN', 50),
 (DEFAULT, 'Electric Guitar 2', '1RZgJzeOXq5MJWlMhc3UYP53iLaCt_QJb', 50),
 (DEFAULT, '5-string Bass Guitar', '1x81N_xkUA4YCWHmSsZE5Xr-1QKwdlckP', 50),

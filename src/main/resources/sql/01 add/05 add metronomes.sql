@@ -15,7 +15,7 @@ VALUES
 -- Rammstein - Frühling in Paris
 (DEFAULT, null, 4, 4, 128, 40),
 -- Rammstein - Mutter
-(DEFAULT, null, 4, 4, 58, 50),
+(DEFAULT, null, 2, 4, 58, 50),
 -- System of a Down - Aerials
 (DEFAULT, null, 4, 4, 80, 60),
 -- System of a Down - Chop Suey!
