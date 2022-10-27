@@ -13,7 +13,7 @@ VALUES
 -- Rammstein - Frühling in Paris
 -- (DEFAULT, '', 40),
 -- Rammstein - Mutter
--- (DEFAULT, '', 50),
+(DEFAULT, '1oBXMeklg8Un-EzTnpohIC7m1bAgWjhcY', 50),
 -- System of a Down - Aerials
 (DEFAULT, '1ATCfsprwO6poFwFtURq49JXPPRen5V_8', 60),
 -- System of a Down - Chop Suey!
