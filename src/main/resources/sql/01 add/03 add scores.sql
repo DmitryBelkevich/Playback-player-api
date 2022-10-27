@@ -41,11 +41,7 @@ VALUES
 (DEFAULT, 'Electric Guitar 2', '1RZgJzeOXq5MJWlMhc3UYP53iLaCt_QJb', 50),
 (DEFAULT, '5-string Bass Guitar', '1x81N_xkUA4YCWHmSsZE5Xr-1QKwdlckP', 50),
 (DEFAULT, 'Drum Set', '1IjLyW_5VdEiVLhcR5GLcLUl1E5xJRQKK', 50),
-(DEFAULT, 'Violin I, Violin II, Viola, Violoncello', '156LIVCAgCVzGbpKouhHDH2xWfnjSGp0_', 50),
-(DEFAULT, 'Violin I', '1BSyQ1GSKNGUjP8VBcmfVAUTrnqcevQ90', 50),
-(DEFAULT, 'Violin II', '1cpU8LV4b_dc8lPRApVLIhHSLCEnLzdbh', 50),
-(DEFAULT, 'Viola', '1TlUnPKJr15-4kdaBp_c4zjXotDbOYn6X', 50),
-(DEFAULT, 'Violoncello', '1hh0ftOmQwuryDKhY1Q2xAnc90IlAFn_4', 50),
+(DEFAULT, 'Strings', '156LIVCAgCVzGbpKouhHDH2xWfnjSGp0_', 50),
 -- System of a Down - Aerials
 (DEFAULT, 'Full Score', '1Jjq-i3Llhn0kbZodKuUBqB-bQYBtvb--', 60),
 (DEFAULT, 'Voice 1, Voice 2, Voice 3', '1aMwEowjO4ScIHSx9iO_KT2SqLKIhukBd', 60),
