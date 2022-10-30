@@ -42,6 +42,8 @@ VALUES
 (DEFAULT, 'Electric Guitar 2', '1RZgJzeOXq5MJWlMhc3UYP53iLaCt_QJb', 50),
 (DEFAULT, '5-string Bass Guitar', '1x81N_xkUA4YCWHmSsZE5Xr-1QKwdlckP', 50),
 (DEFAULT, 'Drum Set', '1IjLyW_5VdEiVLhcR5GLcLUl1E5xJRQKK', 50),
+(DEFAULT, 'Pad 2 (Warm), Strings', '1OUl93SUlvqjCIoE5o_4AWbTLURjC1QJO', 50),
+(DEFAULT, 'Pad 2 (Warm)', '1I57GDuhY403QHmaYZeWmsxNp5-dY7oWM', 50),
 (DEFAULT, 'Strings', '156LIVCAgCVzGbpKouhHDH2xWfnjSGp0_', 50),
 -- System of a Down - Aerials
 (DEFAULT, 'Full Score', '1Jjq-i3Llhn0kbZodKuUBqB-bQYBtvb--', 60),
