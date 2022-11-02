@@ -2161,5 +2161,15 @@ VALUES
 (DEFAULT, 'Violoncello', '1SajXEDxLnfjL1PhPm95M9ySWpzdfbR3O', 10100),
 -- Gomez Vicente - Romance de Amor
 (DEFAULT, 'Full Score', '15boHUOxMIqHAXGtDIB3kYVxNqv1by4a6', 10150),
-(DEFAULT, 'Guitar', '1ELXcUVoaO1d0_pbzjGq0cRpzI5wYbt8F', 10150);
+(DEFAULT, 'Guitar', '1ELXcUVoaO1d0_pbzjGq0cRpzI5wYbt8F', 10150),
 -- Oginski Michal Kleofas - Polonaise
+-- Vivaldi - Summer Presto
+(DEFAULT, 'Full Score', '1vmOkooNsd3woamFPQNq9sEnK1FndSzDY', 10500),
+(DEFAULT, 'Electric Guitar', '1txeqE9aLlWSl6ow0uEX9zyk-xq4yEpYY', 10500),
+(DEFAULT, 'Violin', '1tjyQcrVxdNanA12-STdFzRckfQVywaom', 10500),
+(DEFAULT, 'Violin I', '1reSSC6KunEYbOI3l0Zw_YanQr4tB9GIc', 10500),
+(DEFAULT, 'Violin II', '19IM9SjuuJ9NsTYrmTJ9IJtHEp_rQezvW', 10500),
+(DEFAULT, 'Viola', '13ZHEy1m4FaVOAOxQsfOldhh56AZGvjU3', 10500),
+(DEFAULT, 'Violoncello', '1imr4-atfJJvoCp-XuLjYWUp1r61ZLUSN', 10500),
+(DEFAULT, 'Contrabass', '1xVSFyK9vUjxHghNpZ80ddfZYCEFalCTV', 10500),
+(DEFAULT, 'Harpsichord', '1apQap52Ri7Q78wLTkM-aaIb8NzZr-qo1', 10500);
