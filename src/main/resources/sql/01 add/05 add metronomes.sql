@@ -509,4 +509,6 @@ VALUES
 -- Gomez Vicente - Romance de Amor
 (DEFAULT, null, 3, 4, 100, 10150),
 -- Oginski Michal Kleofas - Polonaise
-(DEFAULT, null, 3, 4, 0, 10200);
+(DEFAULT, null, 3, 4, 0, 10200),
+-- Vivaldi - Summer Presto
+(DEFAULT, null, 3, 4, 160, 10500);
