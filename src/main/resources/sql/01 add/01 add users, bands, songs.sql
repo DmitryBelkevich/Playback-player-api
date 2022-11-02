@@ -161,7 +161,8 @@ VALUES
     (410, 'Ennio Morricone'),
     (420, 'Gheorghe Zamfir'),
     (425, 'Gomez Vicente'),
-    (430, 'Oginski Michal Kleofas');
+    (430, 'Oginski Michal Kleofas'),
+    (460, 'Vivaldi Antonio');
 
 -- songs
 
@@ -589,7 +590,8 @@ VALUES
     (10050, 'Chi Mai', 410, 'F#m'),
     (10100, 'The Lonely Shepherd', 420, 'Dm'),
     (10150, 'Romance de Amor', 425, 'Em'),
-    (10200, 'Polonaise', 430, 'Am');
+    (10200, 'Polonaise', 430, 'Am'),
+    (10500, 'Summer Presto', 460, 'Gm');
 
 -- Romance:
 
@@ -601,9 +603,12 @@ VALUES
 -- Classic:
 
 -- Bach - прелюдия до-минор
+-- Bach - Toccata in D Minor
 -- Bach - Bourree
 -- Bach - Joke
--- Vivaldi - Storm
+
+-- Vivaldi - Winter Allegro
+
 -- Nicolo Paganini - Caprice
 -- Римский-Корсаков - полёт шмеля
 -- Albinoni - Adagio
