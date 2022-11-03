@@ -510,5 +510,7 @@ VALUES
 (DEFAULT, null, 3, 4, 100, 10150),
 -- Oginski Michal Kleofas - Polonaise
 (DEFAULT, null, 3, 4, 0, 10200),
+-- Rimsky-Korsakov Nikolai - Flight of the Bumblebee (Act III)
+(DEFAULT, null, 2, 4, 144, 10300),
 -- Vivaldi - Summer Presto
 (DEFAULT, null, 3, 4, 160, 10500);

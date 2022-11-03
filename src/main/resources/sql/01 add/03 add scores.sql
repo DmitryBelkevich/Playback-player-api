@@ -2163,6 +2163,7 @@ VALUES
 (DEFAULT, 'Full Score', '15boHUOxMIqHAXGtDIB3kYVxNqv1by4a6', 10150),
 (DEFAULT, 'Guitar', '1ELXcUVoaO1d0_pbzjGq0cRpzI5wYbt8F', 10150),
 -- Oginski Michal Kleofas - Polonaise
+-- Rimsky-Korsakov Nikolai - Flight of the Bumblebee (Act III)
 -- Vivaldi - Summer Presto
 (DEFAULT, 'Full Score', '1vmOkooNsd3woamFPQNq9sEnK1FndSzDY', 10500),
 (DEFAULT, 'Electric Guitar', '1txeqE9aLlWSl6ow0uEX9zyk-xq4yEpYY', 10500),

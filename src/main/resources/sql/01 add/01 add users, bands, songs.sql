@@ -162,6 +162,7 @@ VALUES
     (420, 'Gheorghe Zamfir'),
     (425, 'Gomez Vicente'),
     (430, 'Oginski Michal Kleofas'),
+    (440, 'Rimsky-Korsakov Nikolai'),
     (460, 'Vivaldi Antonio');
 
 -- songs
@@ -591,6 +592,7 @@ VALUES
     (10100, 'The Lonely Shepherd', 420, 'Dm'),
     (10150, 'Romance de Amor', 425, 'Em'),
     (10200, 'Polonaise', 430, 'Am'),
+    (10300, 'Flight of the Bumblebee (Act III)', 440, 'Am'),
     (10500, 'Summer Presto', 460, 'Gm');
 
 -- Romance:
@@ -610,7 +612,6 @@ VALUES
 -- Vivaldi - Winter Allegro
 
 -- Nicolo Paganini - Caprice
--- Римский-Корсаков - полёт шмеля
 -- Albinoni - Adagio
 
 -- OST:
