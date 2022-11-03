@@ -600,7 +600,7 @@ VALUES
 -- Ennio Morricone - Le Vent, Le Cri
 -- Francis Lai - Theme from Love Story
 -- Paul Mauriat - Toccata
--- дога - вальс
+-- Дога - Вальс
 
 -- Classic:
 
@@ -609,9 +609,13 @@ VALUES
 -- Bach - Bourree
 -- Bach - Joke
 
+-- Beethoven - Moonlight Sonata (1 Movement: Adagio sostenuto)
+-- Beethoven - Moonlight Sonata (3 Movement: Presto agitato)
+
 -- Vivaldi - Winter Allegro
 
 -- Nicolo Paganini - Caprice
+-- Steve Vai - Paganini 5th Caprice (Crossroads)
 -- Albinoni - Adagio
 
 -- OST:
