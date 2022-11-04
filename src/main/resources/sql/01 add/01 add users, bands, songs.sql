@@ -604,10 +604,11 @@ VALUES
 
 -- Classic:
 
--- Bach - прелюдия до-минор
+-- Bach - Prelude in D Minor
 -- Bach - Toccata in D Minor
 -- Bach - Bourree
 -- Bach - Joke
+-- Bach - Fugue No.2 in C Minor
 
 -- Beethoven - Moonlight Sonata (1 Movement: Adagio sostenuto)
 -- Beethoven - Moonlight Sonata (3 Movement: Presto agitato)
@@ -615,8 +616,12 @@ VALUES
 -- Vivaldi - Winter Allegro
 
 -- Nicolo Paganini - Caprice
--- Steve Vai - Paganini 5th Caprice (Crossroads)
 -- Albinoni - Adagio
+
+-- Guitarist:
+
+-- Steve Vai - Paganini 5th Caprice (Crossroads)
+-- Joe Satriani - Midnight
 
 -- OST:
 
