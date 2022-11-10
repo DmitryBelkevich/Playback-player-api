@@ -1132,6 +1132,7 @@ VALUES
 (DEFAULT, 'Violin 1', '1nEzox6YBIO_9L5xZTKR9SBS28S_eTcF0', 1815),
 (DEFAULT, 'Violin 2', '1VDl8cfbl0zDOdRE9TcAB5X4EEgzPgqsZ', 1815),
 (DEFAULT, 'Violin 3', '1BEv0LSfcG9jU5IkPzJK0a2kCandBp53Y', 1815),
+-- Король и Шут - Охотник
 -- Король и Шут - Проклятый старый дом
 (DEFAULT, 'Full Score', '1Qsqe2-qHMA_24QWOz3WdBANmBScaTViA', 1830),
 (DEFAULT, 'Voice 1, Voice 2.3', '1Mcd3JbHXVy5guzihaCgSC9F2IpW5Dy8G', 1830),
