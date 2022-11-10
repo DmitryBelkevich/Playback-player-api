@@ -254,6 +254,8 @@ VALUES
 (DEFAULT, '1J-4JkTNl-2QxLoTT6twWLzuOhfFoo9lS', 1810),
 -- Король и Шут - Наблюдатель
 (DEFAULT, '15K64bOm9D7AOHf6RqOuCb4kT2-vPMvff', 1815),
+-- Король и Шут - Охотник
+(DEFAULT, '1ihlpNzeos6sl0F0sfHP0mNGcfH9Us4k0', 1820),
 -- Король и Шут - Проклятый старый дом
 (DEFAULT, '1RuJJGH48mhyJU9Hn8v66jKxYR6hR5ZJU', 1830),
 -- Король и Шут - Прыгну со скалы
