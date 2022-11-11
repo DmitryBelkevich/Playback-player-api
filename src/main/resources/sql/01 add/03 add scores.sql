@@ -1133,6 +1133,14 @@ VALUES
 (DEFAULT, 'Violin 2', '1VDl8cfbl0zDOdRE9TcAB5X4EEgzPgqsZ', 1815),
 (DEFAULT, 'Violin 3', '1BEv0LSfcG9jU5IkPzJK0a2kCandBp53Y', 1815),
 -- Король и Шут - Охотник
+(DEFAULT, 'Full Score', '1kSW3QswwfKokwWGi4OGztSiX9ijYTUdM', 1820),
+(DEFAULT, 'Voice', '1l5nJ0i6eT7sKvdodk2Gg3hUc32X7bZfh', 1820),
+(DEFAULT, 'Electric Guitar 1, Electric Guitar 2', '15MgnqbshfZt-jItFJ1AKQpAJXlxj0-au', 1820),
+(DEFAULT, 'Electric Guitar 1', '1tJ8qfaZomLmNs5xKtm-91mxdD3-cq0-Y', 1820),
+(DEFAULT, 'Electric Guitar 2', '1lpx1n4ijkxQD-0TmzR8vLDK0wn7Opm-3', 1820),
+(DEFAULT, 'Bass Guitar', '1cty3tH92Qo3x7OiipwLAvTqitof81xMv', 1820),
+(DEFAULT, 'Drum Set', '1m7n2lNftF2e_HJn_xSw2Y4nmj6IHwhC_', 1820),
+(DEFAULT, 'Pad 2 (Warm)', '1li0AdH1yfBEDEMXfsKqx9PYi7vmhjPmQ', 1820),
 -- Король и Шут - Проклятый старый дом
 (DEFAULT, 'Full Score', '1Qsqe2-qHMA_24QWOz3WdBANmBScaTViA', 1830),
 (DEFAULT, 'Voice 1, Voice 2.3', '1Mcd3JbHXVy5guzihaCgSC9F2IpW5Dy8G', 1830),
