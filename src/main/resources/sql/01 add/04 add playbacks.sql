@@ -370,6 +370,8 @@ VALUES
 (DEFAULT, 'original', '1D5v7OHMYq4JDS730g8QCVXg0kDvKnxgc', 1815),
 -- Король и Шут - Охотник
 (DEFAULT, 'original', '1lRpY_XALedsOv253_K7OEALOLR-1zKAM', 1820),
+(DEFAULT, '0', '1qP1H57tJs1WMWPngi7YReJq9S21af-AR', 1820),
+(DEFAULT, '-2', '1teQmNxleqzU99R-7wapME7EZmJhnW-Jc', 1820),
 -- Король и Шут - Проклятый старый дом
 (DEFAULT, 'original', '1ubGf2pFgLUAz7Xv8N7K4kkgv2zjXtQup', 1830),
 (DEFAULT, '0', '18qmcM03QaXLVnAhP1-Mk-PiZaOy1KyjN', 1830),
