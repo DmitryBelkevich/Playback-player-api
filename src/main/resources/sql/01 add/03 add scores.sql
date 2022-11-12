@@ -1135,9 +1135,10 @@ VALUES
 -- Король и Шут - Охотник
 (DEFAULT, 'Full Score', '1kSW3QswwfKokwWGi4OGztSiX9ijYTUdM', 1820),
 (DEFAULT, 'Voice', '1l5nJ0i6eT7sKvdodk2Gg3hUc32X7bZfh', 1820),
-(DEFAULT, 'Electric Guitar 1, Electric Guitar 2', '15MgnqbshfZt-jItFJ1AKQpAJXlxj0-au', 1820),
+(DEFAULT, 'Electric Guitar 1, Electric Guitar 2, Electric Guitar 3', '1kIQxtnX_luyPWaQbNtA_0YSnTZPiHgVM', 1820),
 (DEFAULT, 'Electric Guitar 1', '1tJ8qfaZomLmNs5xKtm-91mxdD3-cq0-Y', 1820),
 (DEFAULT, 'Electric Guitar 2', '1lpx1n4ijkxQD-0TmzR8vLDK0wn7Opm-3', 1820),
+(DEFAULT, 'Electric Guitar 3', '1vn3D_bzkWNBJwP2KuuEorZcZGRv6kBir', 1820),
 (DEFAULT, 'Bass Guitar', '1cty3tH92Qo3x7OiipwLAvTqitof81xMv', 1820),
 (DEFAULT, 'Drum Set', '1m7n2lNftF2e_HJn_xSw2Y4nmj6IHwhC_', 1820),
 (DEFAULT, 'Pad 2 (Warm)', '1li0AdH1yfBEDEMXfsKqx9PYi7vmhjPmQ', 1820),

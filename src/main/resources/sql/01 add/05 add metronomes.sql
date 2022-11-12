@@ -274,7 +274,8 @@ VALUES
 -- Король и Шут - Наблюдатель
 (DEFAULT, null, 2, 4, 125, 1815),
 -- Король и Шут - Охотник
-(DEFAULT, null, 4, 4, 178, 1820),
+(DEFAULT, 'Intro, Verse, Pre-Chorus, Break', 4, 4, 178, 1820),
+(DEFAULT, 'Chorus, Solo', 2, 4, 178, 1820),
 -- Король и Шут - Проклятый старый дом
 (DEFAULT, null, 4, 4, 116, 1830),
 (DEFAULT, 'Break', 2, 4, 116, 1830),
