@@ -1134,7 +1134,9 @@ VALUES
 (DEFAULT, 'Violin 3', '1BEv0LSfcG9jU5IkPzJK0a2kCandBp53Y', 1815),
 -- Король и Шут - Охотник
 (DEFAULT, 'Full Score', '1kSW3QswwfKokwWGi4OGztSiX9ijYTUdM', 1820),
-(DEFAULT, 'Voice', '1l5nJ0i6eT7sKvdodk2Gg3hUc32X7bZfh', 1820),
+(DEFAULT, 'Voice 1, Voice 2', '1lvAMwl2RNCDMea2qBkja_YuifVB_eS9G', 1820),
+(DEFAULT, 'Voice 1', '13QtVEpFtyeVbqMIVFVK1P4G-xMDO_l6N', 1820),
+(DEFAULT, 'Voice 2', '1TqdsY7XwLDEB6VHl1z3wJiGiUZ4hk0Yw', 1820),
 (DEFAULT, 'Electric Guitar 1, Electric Guitar 2, Electric Guitar 3', '1kIQxtnX_luyPWaQbNtA_0YSnTZPiHgVM', 1820),
 (DEFAULT, 'Electric Guitar 1', '1tJ8qfaZomLmNs5xKtm-91mxdD3-cq0-Y', 1820),
 (DEFAULT, 'Electric Guitar 2', '1lpx1n4ijkxQD-0TmzR8vLDK0wn7Opm-3', 1820),
