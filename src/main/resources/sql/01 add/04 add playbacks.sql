@@ -349,6 +349,8 @@ VALUES
 -- Король и Шут - Жаль, нет ружья!
 (DEFAULT, 'original', '1NvzZg9oaFODT-xkG3FXqV92ZCFkrrq85', 1770),
 (DEFAULT, '0', '1WiuXcOgrtxxPs0PdF-FQYAe089MoPWwX', 1770),
+-- Король и Шут - Забытые ботинки
+(DEFAULT, 'original', '15NPV7PyeHkBlmNY1SfkpO71SOGogQlG0', 1775),
 -- Король и Шут - Камнем по голове
 (DEFAULT, '0', '14ZREIU6Rt6Z10oimQ4S3iPBMvxQyRTgE', 1780),
 (DEFAULT, '-1', '1NDpE_bbxck-TG8z-jymLNRrrRCv7y-NQ', 1780),

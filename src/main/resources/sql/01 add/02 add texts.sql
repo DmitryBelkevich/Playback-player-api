@@ -244,6 +244,8 @@ VALUES
 (DEFAULT, '1Hg_Ub0dr22rV03fBMO-R3E5ZKWSbhsm8', 1760),
 -- Король и Шут - Жаль, нет ружья!
 (DEFAULT, '11CauXLbzrP3MuE5vIckNJA2bFNtnoRhs', 1770),
+-- Король и Шут - Забытые ботинки
+(DEFAULT, '1KwZ3UUOLKCAGl6hYwm8gSQRzDbsrhZjS', 1775),
 -- Король и Шут - Камнем по голове
 (DEFAULT, '1AcMMUVVFsj5Ec7IqyMzEBl7I3TpzqPjC', 1780),
 -- Король и Шут - Кукла колдуна

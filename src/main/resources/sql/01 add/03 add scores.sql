@@ -1071,6 +1071,7 @@ VALUES
 (DEFAULT, 'Electric Guitar 2', '1vwJbVQIcasP3-yPBymV23UhFbEuH6sS_', 1770),
 (DEFAULT, 'Bass Guitar', '191pRZ6c9KnWaUAhatdoaIS5r6e_gCRTa', 1770),
 (DEFAULT, 'Drum Set', '1Xa2I43gb3hm079xsEOEiXqikkwurpKR5', 1770),
+-- Король и Шут - Забытые ботинки
 -- Король и Шут - Камнем по голове
 (DEFAULT, 'Full Score', '197374ZaWaO_e8Pp9f5kpBPagS4Hr-s1G', 1780),
 (DEFAULT, 'Voice', '1UHpP__i_Ih9c_sAR6wzpzILPmVtX21Vt', 1780),
