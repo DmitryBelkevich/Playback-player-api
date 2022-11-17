@@ -164,6 +164,7 @@ VALUES
     (423, 'Bach Johann Sebastian'),
     (425, 'Gomez Vicente'),
     (430, 'Oginski Michal Kleofas'),
+    (435, 'Paganini Nicolo'),
     (440, 'Rimsky-Korsakov Nikolai'),
     (460, 'Vivaldi Antonio');
 
@@ -597,6 +598,7 @@ VALUES
     (10120, 'Orchestral Suite No.2 in B Minor, BWV 1067 - Badinerie', 423, 'Bm'),
     (10150, 'Romance de Amor', 425, 'Em'),
     (10200, 'Polonaise', 430, 'Am'),
+    (10250, 'Caprice №24, Op.1', 435, 'Am'),
     (10300, 'Flight of the Bumblebee (Act III)', 440, 'Am'),
     (10500, 'Summer Presto', 460, 'Gm');
 
@@ -620,7 +622,8 @@ VALUES
 
 -- Vivaldi - Winter Allegro
 
--- Nicolo Paganini - Caprice
+-- Nicolo Paganini - Caprice 5
+
 -- Albinoni - Adagio
 
 -- Guitarist:
