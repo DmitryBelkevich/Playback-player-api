@@ -594,7 +594,7 @@ VALUES
     (10050, 'Chi Mai', 410, 'F#m'),
     (10100, 'The Lonely Shepherd', 420, 'Dm'),
 
-    (10120, 'Badinerie - Orchestral Suite No.2 in B Minor, BWV 1067', 423, 'Bm'),
+    (10120, 'Orchestral Suite No.2 in B Minor, BWV 1067 - Badinerie', 423, 'Bm'),
     (10150, 'Romance de Amor', 425, 'Em'),
     (10200, 'Polonaise', 430, 'Am'),
     (10300, 'Flight of the Bumblebee (Act III)', 440, 'Am'),
@@ -612,7 +612,6 @@ VALUES
 -- Bach - Prelude in D Minor
 -- Bach - Toccata in D Minor
 -- Bach - Bourree
--- Bach - Joke
 -- Bach - Fugue No.2 in C Minor
 
 -- Beethoven - Moonlight Sonata (1 Movement: Adagio sostenuto)
