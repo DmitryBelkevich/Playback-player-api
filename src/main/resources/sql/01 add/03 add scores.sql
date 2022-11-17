@@ -2172,6 +2172,15 @@ VALUES
 (DEFAULT, 'Violin II', '12VL106iwx3kQZjIIOFJM22lKIywyydHO', 10100),
 (DEFAULT, 'Viola', '17l3r27Cp3-dCN7kwZOOfFeGnVajy7JhK', 10100),
 (DEFAULT, 'Violoncello', '1SajXEDxLnfjL1PhPm95M9ySWpzdfbR3O', 10100),
+-- Bach Johann Sebastian - Badinerie - Orchestral Suite No.2 in B Minor, BWV 1067
+(DEFAULT, 'Full Score', '1JqS1emkCBrrKTYM7a42YSFslMmv1-T01', 10120),
+(DEFAULT, 'Flute', '1wgfWCR4Yzv_TzwZWKTsOuT9aTEowEWPr', 10120),
+(DEFAULT, 'Violin I', '163jTU27t0UC5OPEYa4kl40lmXCFu59AJ', 10120),
+(DEFAULT, 'Violin II', '1cAnIsFvXiYQ_e1jRTE-wpDl-QikRXgK2', 10120),
+(DEFAULT, 'Viola', '1_f314B_fj7kvhjkqrJz8dOAs1-pA1eFP', 10120),
+(DEFAULT, 'Violoncello', '1v3SfJiXAislcBEjKtkreX01w6j8iwiw7', 10120),
+(DEFAULT, 'Contrabass', '1ceIRhdhVyPqVfA5oLaBUsaugwxhIxImi', 10120),
+(DEFAULT, 'Harpsichord', '1CW7UhqJsjqUmISMM_32ndvJ2nwtAkSBT', 10120),
 -- Gomez Vicente - Romance de Amor
 (DEFAULT, 'Full Score', '15boHUOxMIqHAXGtDIB3kYVxNqv1by4a6', 10150),
 (DEFAULT, 'Guitar', '1ELXcUVoaO1d0_pbzjGq0cRpzI5wYbt8F', 10150),

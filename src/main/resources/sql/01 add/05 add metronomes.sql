@@ -511,6 +511,8 @@ VALUES
 (DEFAULT, null, 12, 8, 63, 10050),
 -- Gheorghe Zamfir - The Lonely Shepherd
 (DEFAULT, null, 4, 4, 67, 10100),
+-- Bach Johann Sebastian - Badinerie - Orchestral Suite No.2 in B Minor, BWV 1067
+(DEFAULT, null, 2, 4, 110, 10120),
 -- Gomez Vicente - Romance de Amor
 (DEFAULT, null, 3, 4, 100, 10150),
 -- Oginski Michal Kleofas - Polonaise

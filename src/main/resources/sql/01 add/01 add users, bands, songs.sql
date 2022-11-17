@@ -160,6 +160,8 @@ VALUES
     -- Classic
     (410, 'Ennio Morricone'),
     (420, 'Gheorghe Zamfir'),
+
+    (423, 'Bach Johann Sebastian'),
     (425, 'Gomez Vicente'),
     (430, 'Oginski Michal Kleofas'),
     (440, 'Rimsky-Korsakov Nikolai'),
@@ -591,6 +593,8 @@ VALUES
     -- Classic
     (10050, 'Chi Mai', 410, 'F#m'),
     (10100, 'The Lonely Shepherd', 420, 'Dm'),
+
+    (10120, 'Badinerie - Orchestral Suite No.2 in B Minor, BWV 1067', 423, 'Bm'),
     (10150, 'Romance de Amor', 425, 'Em'),
     (10200, 'Polonaise', 430, 'Am'),
     (10300, 'Flight of the Bumblebee (Act III)', 440, 'Am'),
