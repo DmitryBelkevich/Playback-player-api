@@ -703,6 +703,8 @@ VALUES
 (DEFAULT, 'original', '1ljTRgWJJrmJ2RkX0a49sa0XtyGNohFxR', 10050),
 (DEFAULT, '0', '1LflDZc7ahaxbeoc8wIQMPD4ErUDeQ9QE', 10050),
 (DEFAULT, '-2', '14xqGZagA2UCkvmKucqECtUqZl560-LhY', 10050),
+-- Ennio Morricone - Le Vent, Le Cri
+(DEFAULT, '0', '136PO15pQEFoWUv0YwhjAg6tnYk4Ie6Li', 10060),
 -- Gheorghe Zamfir - The Lonely Shepherd
 (DEFAULT, 'original', '1gYjHBAI3Cc928l_O6rka5fICyYsMv65t', 10100),
 (DEFAULT, '0', '11ep2KnZaO13RqcxwFH4mfg8HvbZNfy1r', 10100),

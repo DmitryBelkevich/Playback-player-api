@@ -593,6 +593,7 @@ VALUES
 
     -- Classic
     (10050, 'Chi Mai', 410, 'F#m'),
+    (10060, 'Le Vent, Le Cri', 410, 'Bm'),
     (10100, 'The Lonely Shepherd', 420, 'Dm'),
 
     (10120, 'Orchestral Suite No.2 in B Minor, BWV 1067 - Badinerie', 423, 'Bm'),

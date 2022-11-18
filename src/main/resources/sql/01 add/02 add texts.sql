@@ -502,6 +502,8 @@ VALUES
 
 -- Ennio Morricone - Chi Mai
 (DEFAULT, '1VRZeiBSLJkISRXQfO7fhdX-4O_aYPs8c', 10050),
+-- Ennio Morricone - Le Vent, Le Cri
+(DEFAULT, '1VwxMUgHk2waQbh1fy7OZuuiRIBxcMYKA', 10060),
 -- Gheorghe Zamfir - The Lonely Shepherd
 (DEFAULT, '14GB4WV51Nh1ox32FMk8t9XYIdDSVlCph', 10100),
 -- Bach Johann Sebastian - Orchestral Suite No.2 in B Minor, BWV 1067 - Badinerie
