@@ -2162,6 +2162,7 @@ VALUES
 (DEFAULT, 'Horn in F, Bass Trombone', '1qdv4Han4UBafCZl_mrwe1dnHqPPXRI92', 10060),
 (DEFAULT, 'Horn in F', '1fHdMp3mma2zdxR-vRoOdoHRfNmUzw2bk', 10060),
 (DEFAULT, 'Bass Trombone', '1s46eKtW50RpfQDbWXlvgptcGUxe5Jv8Z', 10060),
+(DEFAULT, 'Violin I, Violin II, Viola, Violoncello, Contrabass', '1K2VhxaHOR9aPTe7h4544fsjxGB3OsIgI', 10060),
 (DEFAULT, 'Violin I', '1akeDmDzoLrHYU-pC-WsG26Kj-qM22BQw', 10060),
 (DEFAULT, 'Violin II', '15PnrHR4LSsQVffZb-9iSuHrcmgUFdJxq', 10060),
 (DEFAULT, 'Viola', '10zwLZunapfn3Fzj_2DVTf_wbRLovzzL-', 10060),
