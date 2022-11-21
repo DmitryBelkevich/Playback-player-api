@@ -2155,6 +2155,17 @@ VALUES
 (DEFAULT, 'Viola', '1tpeYgEslelMqhxti2CLVzmevFXXJZzFQ', 10050),
 (DEFAULT, 'Violoncello', '1DZ1Q9lINJKn0gcr06UncYRGZo7lJvQuu', 10050),
 -- Ennio Morricone - Le Vent, Le Cri
+(DEFAULT, 'Full Score', '16RuSOWpuwoBjOSrz6bCfUsD0MgftrEPg', 10060),
+(DEFAULT, 'Bass Guitar', '1T1mHEiNKiF5COd_VQ8LcmsiNN-ENSwFg', 10060),
+(DEFAULT, 'Drum Set', '1dTweuHoXBja5JtKz3ns68rzVvaZRDg8d', 10060),
+(DEFAULT, 'Piano', '1IRPSQhXIJgQWZ9JUMUF-mr9BdK9-JNcx', 10060),
+(DEFAULT, 'Horn in F', '1fHdMp3mma2zdxR-vRoOdoHRfNmUzw2bk', 10060),
+(DEFAULT, 'Bass Trombone', '1s46eKtW50RpfQDbWXlvgptcGUxe5Jv8Z', 10060),
+(DEFAULT, 'Violin I', '1akeDmDzoLrHYU-pC-WsG26Kj-qM22BQw', 10060),
+(DEFAULT, 'Violin II', '15PnrHR4LSsQVffZb-9iSuHrcmgUFdJxq', 10060),
+(DEFAULT, 'Viola', '10zwLZunapfn3Fzj_2DVTf_wbRLovzzL-', 10060),
+(DEFAULT, 'Violoncello', '1vTI8Xu6oe-029vd1eNdJqppLSb9-_zuS', 10060),
+(DEFAULT, 'Contrabass', '1Wbu_9h6TvSGYqcy4I2r-k1WAPbfmQAcC', 10060),
 -- Gheorghe Zamfir - The Lonely Shepherd
 (DEFAULT, 'Full Score', '1KplGtPCWvGZI4_ZPsDifsnNdWmK8F2JJ', 10100),
 (DEFAULT, 'Nai', '13XHIpCRiyNNaxMCPeoXO6n87x3UXY8z4', 10100),
