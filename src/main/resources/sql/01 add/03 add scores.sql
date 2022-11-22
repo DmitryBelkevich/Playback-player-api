@@ -24,6 +24,7 @@ VALUES
 -- Rammstein - Frühling in Paris
 (DEFAULT, 'Full Score', '15uf0unM_w4h2IJebOwafIffASeuqN_Gv', 40),
 (DEFAULT, 'Voice', '172DHyakrRnnLm6lw-267eQklWmAVgCCB', 40),
+(DEFAULT, 'Acoustic Guitar, Electric Guitar', '11_w__Fp3r0mRI41itdZLMxsVXOhzQFSn', 40),
 (DEFAULT, 'Acoustic Guitar', '18cIAN4XHchhcKlO6MrYsk3lHCjQC56JQ', 40),
 (DEFAULT, 'Electric Guitar', '1VYdZGgDAxlpAHmAZ2kBPDMSfeIsh-bMr', 40),
 (DEFAULT, 'Bass Guitar', '1mLzlmWmKJYBPseH-tFXwhCUrVOxPhg4S', 40),
