@@ -45,6 +45,7 @@ VALUES
     (60, 'Placebo'),
     (65, 'Radiohead'),
     (70, 'Reamonn'),
+    (73, 'Red Hot Chili Peppers'),
     (75, 'The Beatles'),
     (80, 'The Cranberries'),
     (85, 'The Offspring'),
@@ -218,6 +219,7 @@ VALUES
     (1050, 'Creep', 65, 'G'),
     (1060, 'Karma Police', 65, null),
     (1070, 'Supergirl', 70, null),
+    (1073, 'Californication', 73, null),
     (1080, 'Yesterday', 75, 'F'),
     (1090, 'Zombie', 80, 'Em'),
 
@@ -605,7 +607,6 @@ VALUES
 
 -- Romance:
 
--- Ennio Morricone - Le Vent, Le Cri
 -- Francis Lai - Theme from Love Story
 -- Paul Mauriat - Toccata
 -- Дога - Вальс

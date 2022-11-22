@@ -63,6 +63,8 @@ VALUES
 (DEFAULT, '1gaqxOx15agJtSCwXfxQpmilTAUKtooy1', 1060),
 -- Reamonn - Supergirl
 -- (DEFAULT, '', 1070),
+-- Red Hot Chili Peppers - Californication
+(DEFAULT, '1Bwm_v9UlrDjSTjgNfR-WuENd5KvUD1Xx', 1073),
 -- The Beatles - Yesterday
 (DEFAULT, '1fZssjEMEoHsa1HD6Vh3f5HExWvzVY5b5', 1080),
 -- The Cranberries - Zombie
