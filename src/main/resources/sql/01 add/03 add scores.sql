@@ -259,6 +259,7 @@ VALUES
 (DEFAULT, 'Drum Set', '1NiFaXNBryD-Zl31qmwYs1wqT-AJ__hJm', 1050),
 (DEFAULT, 'Piano', '1RlHYLK3GGzF8RWOl2LMOVgpY_VSzqRls', 1050),
 -- Reamonn - Supergirl
+-- Red Hot Chili Peppers - Californication
 -- The Beatles - Yesterday
 (DEFAULT, 'Full Score', '11Me5Ek7F0Nq2utBgcTvJXOaztRyQcr6d', 1080),
 (DEFAULT, 'Voice', '13psDvvGOXm-blsbGjfljCRxXZreOCZDY', 1080),

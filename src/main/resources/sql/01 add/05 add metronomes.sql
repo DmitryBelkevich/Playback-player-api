@@ -69,6 +69,8 @@ VALUES
 (DEFAULT, null, 4, 4, 95, 1050),
 -- Radiohead - Karma Police
 -- Reamonn - Supergirl
+-- Red Hot Chili Peppers - Californication
+(DEFAULT, null, 4, 4, 0, 1073),
 -- The Beatles - Yesterday
 (DEFAULT, null, 2, 4, 95, 1080),
 -- The Cranberries - Zombie
