@@ -11,7 +11,7 @@ VALUES
 -- Metallica - The Unforgiven
 -- (DEFAULT, '', 30),
 -- Rammstein - Frühling in Paris
--- (DEFAULT, '', 40),
+(DEFAULT, '1gC9MtHnmm5H4brbfKKFeHX5ynHSfr5DR', 40),
 -- Rammstein - Mutter
 (DEFAULT, '1oBXMeklg8Un-EzTnpohIC7m1bAgWjhcY', 50),
 -- System of a Down - Aerials
