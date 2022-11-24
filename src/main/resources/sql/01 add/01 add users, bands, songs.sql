@@ -219,7 +219,7 @@ VALUES
     (1050, 'Creep', 65, 'G'),
     (1060, 'Karma Police', 65, null),
     (1070, 'Supergirl', 70, null),
-    (1073, 'Californication', 73, null),
+    (1073, 'Californication', 73, 'Am'),
     (1080, 'Yesterday', 75, 'F'),
     (1090, 'Zombie', 80, 'Em'),
 

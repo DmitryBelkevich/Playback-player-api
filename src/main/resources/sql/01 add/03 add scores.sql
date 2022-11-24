@@ -263,6 +263,18 @@ VALUES
 (DEFAULT, 'Piano', '1RlHYLK3GGzF8RWOl2LMOVgpY_VSzqRls', 1050),
 -- Reamonn - Supergirl
 -- Red Hot Chili Peppers - Californication
+(DEFAULT, 'Full Score', '1SHW67WBKvuOvJp81yEGRN7nyG_ffC5Ih', 1073),
+(DEFAULT, 'Voice 1, Voice 2, Voice 3.4', '11NTl1JQl3qgspaUYJqgThQNRpqFF97XM', 1073),
+(DEFAULT, 'Voice 1', '1EU4ccIYqNB42_iQCQEc4NFuygbSLu5DI', 1073),
+(DEFAULT, 'Voice 2', '1zWtQh9hYBeh_1_lsQeSn4_Ez2g5wqpra', 1073),
+(DEFAULT, 'Voice 3.4', '1D4Rd1Vrbzk8pMm7uLN4GXr8bXFh4X45_', 1073),
+(DEFAULT, 'Electric Guitar 1, Electric Guitar 2', '1aD42MWDrW33RCdobMYLTG-h9oAA0SrTq', 1073),
+(DEFAULT, 'Electric Guitar 1', '1yjcVvai9o0oKOFvD1U6NdLvM_38LWKZ6', 1073),
+(DEFAULT, 'Electric Guitar 2', '1a5l_PF3vAsHJzXiTAFvKfskxZDkuzxpL', 1073),
+(DEFAULT, 'Bass Guitar', '175ffuNefS17wQdj0EYlCPttGYU_f_e5J', 1073),
+(DEFAULT, 'Drum Set', '1hvPyXEDptsw4urkIWrQCaFAseWDw-e6S', 1073),
+(DEFAULT, 'Shaker', '1hH3qXYxk6l29WIT9tgqlNO1mjsmJBJiU', 1073),
+(DEFAULT, 'Electric Organ', '1PzT6Z8Eb5xVYYFlJY9hSgzpKFQrERu6l', 1073),
 -- The Beatles - Yesterday
 (DEFAULT, 'Full Score', '11Me5Ek7F0Nq2utBgcTvJXOaztRyQcr6d', 1080),
 (DEFAULT, 'Voice', '13psDvvGOXm-blsbGjfljCRxXZreOCZDY', 1080),
