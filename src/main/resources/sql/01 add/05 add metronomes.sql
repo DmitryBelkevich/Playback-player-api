@@ -70,7 +70,7 @@ VALUES
 -- Radiohead - Karma Police
 -- Reamonn - Supergirl
 -- Red Hot Chili Peppers - Californication
-(DEFAULT, null, 4, 4, 0, 1073),
+(DEFAULT, null, 2, 4, 97, 1073),
 -- The Beatles - Yesterday
 (DEFAULT, null, 2, 4, 95, 1080),
 -- The Cranberries - Zombie
@@ -354,7 +354,7 @@ VALUES
 -- Nautilus Pompilius - Крылья
 (DEFAULT, null, 12, 8, 63, 2180),
 -- Nautilus Pompilius - Последнее письмо
-(DEFAULT, 'Intro, Verse 1', 2, 4, 46, 2210),
+(DEFAULT, 'Intro, Verse 1', 2, 4, 50, 2210),
 (DEFAULT, 'Chorus', 2, 4, 85, 2210),
 (DEFAULT, 'Break', 4, 4, 85, 2210),
 -- Nautilus Pompilius - Прогулки по воде
