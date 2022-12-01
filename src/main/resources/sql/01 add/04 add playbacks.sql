@@ -481,6 +481,7 @@ VALUES
 (DEFAULT, 'original', '1n17t7DW2kQ8gxX04Qh2pK4DhZeC9Y4pC', 2180),
 (DEFAULT, '0', '1FbKJvwBvFPeVoRYKyDdB_HRmEN5poDU5', 2180),
 -- Nautilus Pompilius - Последнее письмо
+(DEFAULT, 'original', '1cyNQKShPhJ5uPVGh0UlIaWw7Mty_sKJ4', 2210),
 (DEFAULT, '0', '1piEdKD0z11eK8WlOlOJ3BPQHTDMzzxLn', 2210),
 -- Nautilus Pompilius - Прогулки по воде
 (DEFAULT, 'original', '1mKFDruZk6kyddnEqBtc7RGoKn7-O37JC', 2220),
