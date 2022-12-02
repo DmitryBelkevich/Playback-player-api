@@ -385,6 +385,7 @@ VALUES
 (DEFAULT, '0', '1bRnGo2Qvq2R6NB4Tt4wjtLWbgYasp2Ej', 1835),
 (DEFAULT, '-2', '1ck1vE7Ia3yk61ug4msrYj3P4xMsQPyqx', 1835),
 -- Король и Шут - Танец злобного гения
+(DEFAULT, 'original', '1rNLY9uGD5zebru-bivTvaGkX3SfOZPPo', 1848),
 -- Ленинград - WWW
 (DEFAULT, 'original', '1j8wixu2so7DW5qIKPGM8WYDfhYVvlEM5', 1950),
 (DEFAULT, '0', '1xTJcxGL6WES6I3WihXlWlG1SKyFVk8Dq', 1950),
