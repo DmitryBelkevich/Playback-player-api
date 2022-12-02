@@ -287,6 +287,7 @@ VALUES
 -- Король и Шут - Прыгну со скалы
 (DEFAULT, 'Verse', 2, 2, 78, 1835),
 (DEFAULT, 'Chorus, Break', 4, 4, 156, 1835),
+-- Король и Шут - Танец злобного гения
 -- Ленинград - WWW
 (DEFAULT, 'Intro, Chorus, Break', 2, 4, 140, 1950),
 (DEFAULT, 'Verse', 4, 4, 140, 1950),

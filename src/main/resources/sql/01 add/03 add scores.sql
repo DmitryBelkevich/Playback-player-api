@@ -1187,6 +1187,7 @@ VALUES
 (DEFAULT, 'Violin 1', '1B9Ei_PbPHYz4J7vqu8zJnjV7ZSxPaeHp', 1835),
 (DEFAULT, 'Violin 2', '1R8BlMVsxkMYay501Mt2MTJVYjmeN9lko', 1835),
 (DEFAULT, 'Violin 3', '14ZXsvjwONKo_O3vdf_yVBtbJvdgzQ-5x', 1835),
+-- Король и Шут - Танец злобного гения
 -- Сергей Шнуров - Привет Морриконе
 (DEFAULT, 'Full Score', '1H4TUMjzu3K3A8knCW4KGXMDvMdvweT4z', 1974),
 (DEFAULT, 'Piano', '1XCmJJ8qt5j0MP8fmNZmU9G5VfXHpcabM', 1974),
