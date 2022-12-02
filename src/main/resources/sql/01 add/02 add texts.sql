@@ -265,6 +265,7 @@ VALUES
 -- Король и Шут - Прыгну со скалы
 (DEFAULT, '1BD8F9mIDJ77ZUlne-mEBlFdehFoxC0a9', 1835),
 -- Король и Шут - Танец злобного гения
+(DEFAULT, '1eGXHbpqiVbxAYfvfBfFTM5z16sWQ7R4L', 1848),
 -- Ленинград - WWW
 (DEFAULT, '1emC5skvQkzwZVA7JZczQfcQ97KducDcH', 1950),
 -- Ленинград - В Питере - пить
