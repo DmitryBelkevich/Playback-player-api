@@ -353,7 +353,7 @@ VALUES
 (DEFAULT, null, 2, 4, 100, 2165),
 (DEFAULT, 'Chorus', 4, 4, 100, 2165),
 -- Nautilus Pompilius - Дыхание
-(DEFAULT, null, 4, 4, 0, 2170),
+(DEFAULT, null, 4, 4, 108, 2170),
 -- Nautilus Pompilius - Крылья
 (DEFAULT, null, 12, 8, 63, 2180),
 -- Nautilus Pompilius - Последнее письмо
