@@ -355,7 +355,7 @@ VALUES
 -- Порнофильмы - Я так соскучился
 (DEFAULT, '1lL6BOSpselagLAFSTzCk4vLrVsfRAMBo', 2265),
 -- Сектор Газа - 30 лет
-(DEFAULT, '1VH1TAITlCzMJ5kYZXR8wfvEQ-0SmH5kK', 2270),
+(DEFAULT, '1VH1TAITlCzMJ5kYZXR8wfvEQ-0SmH5kK', 2300),
 -- Сектор Газа - Бомж
 (DEFAULT, '156gbdCgbpjgWy_Aa46og7iR3dIIQf2s4', 2305),
 -- Сектор Газа - Демобилизация

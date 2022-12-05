@@ -524,10 +524,10 @@ VALUES
 (DEFAULT, '0', '1aj7frM4bOjGkNvd1OPhtyP3jnvBu3NJl', 2265),
 (DEFAULT, '-2', '1i4qdAz8zW5JRPQqphm1-DL2VirK7T38a', 2265),
 -- Сектор Газа - 30 лет
-(DEFAULT, 'original', '1wIDn6ec4OlJ_D1er16Qf2Sk_lPLGsOdb', 2270),
-(DEFAULT, '0', '1jHSNKYNF_TbBwGtYDNpwUbWhuqwtmn94', 2270),
-(DEFAULT, '-1', '1Q3Wt0wmsiNO0ICcIKAa9SK3pQMEe4rCb', 2270),
-(DEFAULT, '-2', '1EV6mNddZ2nZeJnZEhzmPtIURjPDDIEnt', 2270),
+(DEFAULT, 'original', '1wIDn6ec4OlJ_D1er16Qf2Sk_lPLGsOdb', 2300),
+(DEFAULT, '0', '1jHSNKYNF_TbBwGtYDNpwUbWhuqwtmn94', 2300),
+(DEFAULT, '-1', '1Q3Wt0wmsiNO0ICcIKAa9SK3pQMEe4rCb', 2300),
+(DEFAULT, '-2', '1EV6mNddZ2nZeJnZEhzmPtIURjPDDIEnt', 2300),
 -- Сектор Газа - Бомж
 (DEFAULT, 'original', '1J28XD4xG2X2MHzbJw85S8dOENWfYJEnA', 2305),
 (DEFAULT, '0', '1fLF20wG1pldYg5H0s_RCt_QqqrrD6aO-', 2305),
