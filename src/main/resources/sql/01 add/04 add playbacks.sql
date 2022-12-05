@@ -529,8 +529,8 @@ VALUES
 (DEFAULT, '-1', '1Q3Wt0wmsiNO0ICcIKAa9SK3pQMEe4rCb', 2270),
 (DEFAULT, '-2', '1EV6mNddZ2nZeJnZEhzmPtIURjPDDIEnt', 2270),
 -- Сектор Газа - Бомж
-(DEFAULT, 'original', '1J28XD4xG2X2MHzbJw85S8dOENWfYJEnA', 2280),
-(DEFAULT, '0', '1fLF20wG1pldYg5H0s_RCt_QqqrrD6aO-', 2280),
+(DEFAULT, 'original', '1J28XD4xG2X2MHzbJw85S8dOENWfYJEnA', 2305),
+(DEFAULT, '0', '1fLF20wG1pldYg5H0s_RCt_QqqrrD6aO-', 2305),
 -- Сектор Газа - Демобилизация
 (DEFAULT, 'original', '1AOgo6z5PacmGOR_cEVkHImkrNHTP6uUf', 2310),
 (DEFAULT, '0', '1ClW4nvRODv7ved3D_RCfFkAphclT9z3l', 2310),

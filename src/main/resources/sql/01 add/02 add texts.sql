@@ -357,7 +357,7 @@ VALUES
 -- Сектор Газа - 30 лет
 (DEFAULT, '1VH1TAITlCzMJ5kYZXR8wfvEQ-0SmH5kK', 2270),
 -- Сектор Газа - Бомж
-(DEFAULT, '156gbdCgbpjgWy_Aa46og7iR3dIIQf2s4', 2280),
+(DEFAULT, '156gbdCgbpjgWy_Aa46og7iR3dIIQf2s4', 2305),
 -- Сектор Газа - Демобилизация
 (DEFAULT, '1YibK7hLxoRIZaFFBHWGL8XgmTFq00V4o', 2310),
 -- Сектор Газа - Лирика
