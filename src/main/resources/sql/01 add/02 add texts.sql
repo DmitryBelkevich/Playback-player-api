@@ -363,9 +363,9 @@ VALUES
 -- Сектор Газа - Лирика
 (DEFAULT, '1tvKj2W1dfPK4F7NkDPkwONG3pkAIoMnk', 2300),
 -- Сектор Газа - Пора домой
-(DEFAULT, '18BIop-OrduXX3qPAVjtbVUmuInJ8R2RY', 2310),
+(DEFAULT, '18BIop-OrduXX3qPAVjtbVUmuInJ8R2RY', 2320),
 -- Сектор Газа - Туман
-(DEFAULT, '1dcEqgfBCl2ABVcwGlmTAs9lQFJSTpjnz', 2320),
+(DEFAULT, '1dcEqgfBCl2ABVcwGlmTAs9lQFJSTpjnz', 2325),
 -- Сергей Тихановcкий & Kosmas - Разбуры турмы муры
 -- (DEFAULT, '', 2330),
 -- Сергей Тихановcкий & Kosmas - Стены рухнут
