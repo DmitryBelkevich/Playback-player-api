@@ -388,8 +388,8 @@ VALUES
 -- Сектор Газа - Демобилизация
 (DEFAULT, null, 4, 4, 204, 2290),
 -- Сектор Газа - Лирика
-(DEFAULT, 'Intro, Outro', 4, 4, 75, 2300),
-(DEFAULT, 'Verse, Chorus, Solo', 2, 4, 75, 2300),
+(DEFAULT, 'Intro, Outro', 4, 4, 75, 2315),
+(DEFAULT, 'Verse, Chorus, Solo', 2, 4, 75, 2315),
 -- Сектор Газа - Пора домой
 (DEFAULT, null, 4, 4, 160, 2320),
 -- Сектор Газа - Туман

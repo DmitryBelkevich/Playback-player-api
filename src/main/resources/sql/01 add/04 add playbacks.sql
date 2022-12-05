@@ -536,10 +536,10 @@ VALUES
 (DEFAULT, '0', '1ClW4nvRODv7ved3D_RCfFkAphclT9z3l', 2290),
 (DEFAULT, '-2', '14bCHWbBhGuWc_Ei93qaCt71UILw_lOqL', 2290),
 -- Сектор Газа - Лирика
-(DEFAULT, 'original', '1iOMjlNjamlp1ykLzpyAsMyKc_J1UClC8', 2300),
-(DEFAULT, '0', '1cHTkmOyK8J465YSLrkW17DrB-M9TiYQy', 2300),
-(DEFAULT, '-1', '1TKkDi3MdToOwIDbERVbUF7MQ2iNgsqR1', 2300),
-(DEFAULT, '-2', '1YyDsTxcXiKYlqZ6EJFguOZ_LxQ9vCsg0', 2300),
+(DEFAULT, 'original', '1iOMjlNjamlp1ykLzpyAsMyKc_J1UClC8', 2315),
+(DEFAULT, '0', '1cHTkmOyK8J465YSLrkW17DrB-M9TiYQy', 2315),
+(DEFAULT, '-1', '1TKkDi3MdToOwIDbERVbUF7MQ2iNgsqR1', 2315),
+(DEFAULT, '-2', '1YyDsTxcXiKYlqZ6EJFguOZ_LxQ9vCsg0', 2315),
 -- Сектор Газа - Пора домой
 (DEFAULT, 'original', '1HzP8J_N_ZH0AdHs3PQ3ISUcoPX_EpiNm', 2320),
 (DEFAULT, '0', '1_VMTXtRonuLZI6tZXStcMuZHFbRX8bfS', 2320),
