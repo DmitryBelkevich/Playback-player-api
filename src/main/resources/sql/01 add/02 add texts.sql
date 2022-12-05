@@ -359,7 +359,7 @@ VALUES
 -- Сектор Газа - Бомж
 (DEFAULT, '156gbdCgbpjgWy_Aa46og7iR3dIIQf2s4', 2280),
 -- Сектор Газа - Демобилизация
-(DEFAULT, '1YibK7hLxoRIZaFFBHWGL8XgmTFq00V4o', 2290),
+(DEFAULT, '1YibK7hLxoRIZaFFBHWGL8XgmTFq00V4o', 2310),
 -- Сектор Газа - Лирика
 (DEFAULT, '1tvKj2W1dfPK4F7NkDPkwONG3pkAIoMnk', 2315),
 -- Сектор Газа - Пора домой

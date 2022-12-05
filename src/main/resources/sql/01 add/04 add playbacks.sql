@@ -532,9 +532,9 @@ VALUES
 (DEFAULT, 'original', '1J28XD4xG2X2MHzbJw85S8dOENWfYJEnA', 2280),
 (DEFAULT, '0', '1fLF20wG1pldYg5H0s_RCt_QqqrrD6aO-', 2280),
 -- Сектор Газа - Демобилизация
-(DEFAULT, 'original', '1AOgo6z5PacmGOR_cEVkHImkrNHTP6uUf', 2290),
-(DEFAULT, '0', '1ClW4nvRODv7ved3D_RCfFkAphclT9z3l', 2290),
-(DEFAULT, '-2', '14bCHWbBhGuWc_Ei93qaCt71UILw_lOqL', 2290),
+(DEFAULT, 'original', '1AOgo6z5PacmGOR_cEVkHImkrNHTP6uUf', 2310),
+(DEFAULT, '0', '1ClW4nvRODv7ved3D_RCfFkAphclT9z3l', 2310),
+(DEFAULT, '-2', '14bCHWbBhGuWc_Ei93qaCt71UILw_lOqL', 2310),
 -- Сектор Газа - Лирика
 (DEFAULT, 'original', '1iOMjlNjamlp1ykLzpyAsMyKc_J1UClC8', 2315),
 (DEFAULT, '0', '1cHTkmOyK8J465YSLrkW17DrB-M9TiYQy', 2315),

@@ -386,7 +386,7 @@ VALUES
 -- Сектор Газа - Бомж
 (DEFAULT, null, 4, 4, 133, 2280),
 -- Сектор Газа - Демобилизация
-(DEFAULT, null, 4, 4, 204, 2290),
+(DEFAULT, null, 4, 4, 204, 2310),
 -- Сектор Газа - Лирика
 (DEFAULT, 'Intro, Outro', 4, 4, 75, 2315),
 (DEFAULT, 'Verse, Chorus, Solo', 2, 4, 75, 2315),
