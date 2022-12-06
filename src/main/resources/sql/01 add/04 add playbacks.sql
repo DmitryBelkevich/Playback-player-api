@@ -510,12 +510,14 @@ VALUES
 -- Нервы - Слишком влюблен
 (DEFAULT, 'original', '1N_4RHh8c-Q-OLJZajHIhc_JQJEyEO5be', 2259),
 -- Порнофильмы - Кто все эти люди?
+(DEFAULT, 'original', '1PxBFJCSi_6P4k7m8zDxw804vPyaBY3AP', 2275),
 -- Порнофильмы - Прости. Прощай. Привет
 (DEFAULT, 'original', '1z8QuA1vfFTEA0XFhhj0JhxWLsPm35Nt3', 2280),
 (DEFAULT, '0', '1OI-u-meMRNdPdEut-H_ScKBG5aM-iXUc', 2280),
 (DEFAULT, '-2', '1i-ovFJum7mp1iG-d1ndECYRoXZvzdsDI', 2280),
 (DEFAULT, '-5', '1W3M0LmAp2TF2k7kEGvl4sGHuGorIFPEw', 2280),
 -- Порнофильмы - Уроки любви
+(DEFAULT, 'original', '1vvjraS_8OFBEmuxXfM1gA6dCR_6k-HZ8', 2285),
 -- Порнофильмы - Это пройдёт
 (DEFAULT, 'original', '1OC1lsnQEsc3wciMz1L13pZc_EXpsNAHy', 2290),
 (DEFAULT, '+5', '15ecowhpUXfY4fqPlR05bTOHwiQokUJY7', 2290),
