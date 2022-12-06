@@ -480,6 +480,7 @@ VALUES
 (DEFAULT, '0', '1XEia8hegfuZnIEOkbKONvh5nZ8l4M3hg', 2165),
 -- Nautilus Pompilius - Дыхание
 (DEFAULT, 'original', '1I-1XwoxToVr-1r_VhE5h6ABAx3TYF1LH', 2170),
+(DEFAULT, '0', '1M8QDEFLT2PBf6rAQQTN9eJdF4IdJ3V_l', 2170),
 -- Nautilus Pompilius - Крылья
 (DEFAULT, 'original', '1n17t7DW2kQ8gxX04Qh2pK4DhZeC9Y4pC', 2180),
 (DEFAULT, '0', '1FbKJvwBvFPeVoRYKyDdB_HRmEN5poDU5', 2180),
