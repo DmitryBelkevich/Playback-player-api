@@ -1577,6 +1577,7 @@ VALUES
 (DEFAULT, 'Oboe', '1GFQE5BbQyBqTxIhfKZyIklW5PtIuJaVg', 2220),
 (DEFAULT, 'Brass', '1qOXEG1PnbYbGs88pbeSNIuTX3X22esIo', 2220),
 (DEFAULT, 'Strings', '10CE0u-ALVR9OU6ChEzZkGSztC_hBcMFC', 2220),
+-- Nautilus Pompilius - Скованные одной цепью
 -- Nautilus Pompilius - Я хочу быть с тобой
 (DEFAULT, 'Full Score', '1VVsKls4_NSxtfIngXpKR2yCZsztSivJt', 2250),
 (DEFAULT, 'Voice 1, Voice 2', '1k8pMLGT4zwlcrysAWS0_Tj3uF-3acY-S', 2250),

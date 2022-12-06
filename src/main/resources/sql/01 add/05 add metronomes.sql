@@ -363,6 +363,7 @@ VALUES
 -- Nautilus Pompilius - Прогулки по воде
 (DEFAULT, null, 12, 8, 85, 2220),
 -- Nautilus Pompilius - Скованные одной цепью
+(DEFAULT, null, 4, 4, 0, 2230),
 -- Nautilus Pompilius - Я хочу быть с тобой
 (DEFAULT, null, 2, 4, 88, 2250),
 -- Нервы - Батареи
