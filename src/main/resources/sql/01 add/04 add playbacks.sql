@@ -492,6 +492,9 @@ VALUES
 (DEFAULT, '0', '1Be8XkopNw0eTcniVi6dJcewA2wIMyMmE', 2220),
 -- Nautilus Pompilius - Скованные одной цепью
 (DEFAULT, 'original', '1Dm2HIzSzxZzpsCY9N7VNsDz8aQZMhFmz', 2230),
+(DEFAULT, '0', '1s6hR7Tmhpg0SxS8OhXvju6NItEq37ixW', 2230),
+(DEFAULT, '-1', '10t7gh0cUDDBTRD8le6abvxsNRETwcIsu', 2230),
+(DEFAULT, '-2', '1RrKwMrJ21W55iMW-59KZ01AuzUkmFKJM', 2230),
 -- Nautilus Pompilius - Я хочу быть с тобой
 (DEFAULT, 'original', '16Oi9d8d0e6OcwIZZHPsnTDDoAdQA-hN_', 2250),
 (DEFAULT, '0', '1A-gHqRqbp1T7GcNn3SJZEDcvp5oK0oIR', 2250),
