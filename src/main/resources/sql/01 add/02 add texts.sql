@@ -430,9 +430,9 @@ VALUES
 (DEFAULT, '1MRGD7vokK32YGKQf9PVDop7ePG2gG_RY', 5075),
 -- Мальбэк ft. Сюзанна - Равнодушие
 (DEFAULT, '1PIO3Cguf8LwEL32YlwHjUOzbW45BOkD0', 5077),
--- Ненси - Дым сигарет с ментолом
+-- Нэнси - Дым сигарет с ментолом
 (DEFAULT, '1BEVEH3tLqiBfc69HNHKrUF3WlwaqEvW0', 5080),
--- Ненси - Чистый лист
+-- Нэнси - Чистый лист
 (DEFAULT, '1XDMKvweEBggsTkVWAI607DzFZvASw0gP', 5090),
 -- Сладкий сон - На белом покрывале января
 (DEFAULT, '1jCPrNwLhoo6PnG-hJaiO6gw_DZAuLKzD', 5100),

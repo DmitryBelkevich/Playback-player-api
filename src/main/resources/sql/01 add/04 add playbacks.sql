@@ -638,10 +638,10 @@ VALUES
 (DEFAULT, 'original', '1EgjhenWF2bOTP3O1ckKplEfluFIyjl-d', 5070),
 (DEFAULT, '0', '1JWVHP_d7_7iN63LLtXEwvNYpeGlrP3jB', 5070),
 (DEFAULT, '-2', '1N1262NQf7SI7MTjLi0kKQtREFXgLhl9a', 5070),
--- Ненси - Дым сигарет с ментолом
+-- Нэнси - Дым сигарет с ментолом
 (DEFAULT, 'original', '1G0fC6XaLmrkDzavWQWe1fMlzJkqwx_Rd', 5080),
 (DEFAULT, '0', '1ploL5eOFshXLM6RkwqcyW7PMH8giR_JV', 5080),
--- Ненси - Чистый лист
+-- Нэнси - Чистый лист
 (DEFAULT, 'original', '1RF63MFE5GMIOlupRiaqMoctrKM4xTERN', 5090),
 -- Сладкий сон - На белом покрывале января
 (DEFAULT, 'original', '1NhzfBNKjYJ4IJtX3y75JGOjArcsa9Hug', 5100),

@@ -1936,7 +1936,7 @@ VALUES
 (DEFAULT, 'FX 3 (Crystal)', '1FwqANF1BQ1rPeDfi0JF0afExE3MJOUna', 5070),
 (DEFAULT, 'Lead 1 (Square)', '1J3E95EAVP8TkWVvEwdOVeRlq9UQkTr9B', 5070),
 (DEFAULT, 'Strings', '15CgwPwO6VQmsDHT2UjxgUqqsCHDbUZFy', 5070),
--- Ненси - Дым сигарет с ментолом
+-- Нэнси - Дым сигарет с ментолом
 (DEFAULT, 'Full Score', '1cn7LImaZdjbp4Mz8Tg0ETHUtXMATTIZ1', 5080),
 (DEFAULT, 'Voice 1, Voice 2, Voice 3.4', '1eW0WrAEhsjdBmqlMJEoMsxkiaSrkr02X', 5080),
 (DEFAULT, 'Voice 1', '1okaJNfhu6mLh2yekRC2rUvGMkIxp-FFJ', 5080),
@@ -1954,7 +1954,7 @@ VALUES
 (DEFAULT, 'Lead 6 (Voice)', '1IRG03dWrhYAqV-Cr9n4udhXxqGcXd3Q4', 5080),
 (DEFAULT, 'Synth Brass', '1wBjqj0Qa7IgK9iEcKoA3NDzJlxTGYm1p', 5080),
 (DEFAULT, 'FX 1 (Abduction)', '1keJa3ZUk32JHRsqLM3mlOjffOj2WNPvQ', 5080),
--- Ненси - Чистый лист
+-- Нэнси - Чистый лист
 -- Форум - Белая ночь
 (DEFAULT, 'Full Score', '1vdqQlS7fYFl8GuNulj8u3LJ_8Ffhvquy', 5110),
 (DEFAULT, 'Voice', '1Ycs6Sym5vYRNeuaUyKun1SXQFgeRPkzS', 5110),
