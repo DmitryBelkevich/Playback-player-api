@@ -107,7 +107,7 @@ VALUES
 -- Би-2 - Варвара
 (DEFAULT, '1DfMY_2rw12iALZZIXj2l-Ue0c9I7UFAr', 1240),
 -- Би-2 - Компромисс
--- (DEFAULT, '', 1250),
+(DEFAULT, '1W-Nq8iTezeY2wKegc9RQM0-l8dxk3zZr', 1250),
 -- Би-2 - Полковнику никто не пишет
 (DEFAULT, '1LlOHnnq-wIJewkeKhE-BV3E53LDGkXtA', 1260),
 -- Би-2 - Серебро
@@ -479,6 +479,8 @@ VALUES
 (DEFAULT, '1CqrrseS3_F2QSMh8VTUYZ0ZDkfvIyy9J', 8065),
 -- Песняры - Белоруссия
 (DEFAULT, '1XQyMxTW-rgAPJtkpjTL8dNqDswETt796', 8080),
+-- Песняры - Полонез
+(DEFAULT, '1MYFghL8F2ZQmJyk5_MTlCV-a_963tk9Z', 8090),
 -- Синяя птица - Клён
 (DEFAULT, '1jU1OELMO1mB8-e40pxr9ibZ8DdPXGQIK', 8100),
 -- Татьяна Дасковская - Прекрасное далёко
