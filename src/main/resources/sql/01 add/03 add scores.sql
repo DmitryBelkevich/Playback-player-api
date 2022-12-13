@@ -1954,6 +1954,7 @@ VALUES
 (DEFAULT, 'Lead 6 (Voice)', '1IRG03dWrhYAqV-Cr9n4udhXxqGcXd3Q4', 5080),
 (DEFAULT, 'Synth Brass', '1wBjqj0Qa7IgK9iEcKoA3NDzJlxTGYm1p', 5080),
 (DEFAULT, 'FX 1 (Abduction)', '1keJa3ZUk32JHRsqLM3mlOjffOj2WNPvQ', 5080),
+-- Ненси - Чистый лист
 -- Форум - Белая ночь
 (DEFAULT, 'Full Score', '1vdqQlS7fYFl8GuNulj8u3LJ_8Ffhvquy', 5110),
 (DEFAULT, 'Voice', '1Ycs6Sym5vYRNeuaUyKun1SXQFgeRPkzS', 5110),
