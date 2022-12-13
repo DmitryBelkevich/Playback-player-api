@@ -366,7 +366,7 @@ VALUES
 (DEFAULT, null, 1, 2, 60, 2230),
 (DEFAULT, 'Interlude', 2, 2, 60, 2230),
 -- Nautilus Pompilius - Я хочу быть с тобой
-(DEFAULT, null, 2, 4, 88, 2250),
+(DEFAULT, null, 2, 4, 88, 2245),
 -- Нервы - Батареи
 (DEFAULT, 'Intro, Verse, Chorus, Break', 4, 4, 150, 2253),
 (DEFAULT, 'Break, Chorus', 2, 2, 75, 2253),

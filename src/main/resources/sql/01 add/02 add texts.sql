@@ -339,7 +339,7 @@ VALUES
 -- Nautilus Pompilius - Чёрные птицы
 (DEFAULT, '1t59tt8JO4WuKtDV0ByF3_lmqjEptfloK', 2240),
 -- Nautilus Pompilius - Я хочу быть с тобой
-(DEFAULT, '1E02LHvaWLLtgYsaFdBY9QczgbNs7X2Qy', 2250),
+(DEFAULT, '1E02LHvaWLLtgYsaFdBY9QczgbNs7X2Qy', 2245),
 -- Нервы - Батареи
 (DEFAULT, '1UA59OLgKJ84zAvq0we5txK4-GhFFo2tR', 2253),
 -- Нервы - Кофе - мой друг

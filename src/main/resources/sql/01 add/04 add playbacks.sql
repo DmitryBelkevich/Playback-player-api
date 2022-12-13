@@ -496,9 +496,9 @@ VALUES
 (DEFAULT, '-1', '10t7gh0cUDDBTRD8le6abvxsNRETwcIsu', 2230),
 (DEFAULT, '-2', '1RrKwMrJ21W55iMW-59KZ01AuzUkmFKJM', 2230),
 -- Nautilus Pompilius - Я хочу быть с тобой
-(DEFAULT, 'original', '16Oi9d8d0e6OcwIZZHPsnTDDoAdQA-hN_', 2250),
-(DEFAULT, '0', '1A-gHqRqbp1T7GcNn3SJZEDcvp5oK0oIR', 2250),
-(DEFAULT, '-2', '1mb2MUBhLViP1HdCswCtLawKdsJfudPhU', 2250),
+(DEFAULT, 'original', '16Oi9d8d0e6OcwIZZHPsnTDDoAdQA-hN_', 2245),
+(DEFAULT, '0', '1A-gHqRqbp1T7GcNn3SJZEDcvp5oK0oIR', 2245),
+(DEFAULT, '-2', '1mb2MUBhLViP1HdCswCtLawKdsJfudPhU', 2245),
 -- Нервы - Батареи
 (DEFAULT, 'original', '10eW5QZqD_vHPu1sxe6_9WCTlLACObdZD', 2253),
 (DEFAULT, '0', '1kbcthrkP2NrwN2QDTSz8sUKgxdcSi1HZ', 2253),
