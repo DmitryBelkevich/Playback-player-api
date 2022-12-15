@@ -625,19 +625,19 @@ VALUES
 -- IOWA - Улыбайся
 (DEFAULT, 'original', '1dywI3h9zxdslzF4bgaa_j8fiUqh6d9wa', 5030),
 -- Ласковый май - Белые розы
-(DEFAULT, 'original', '1lk1jzI-Eiak_956et5pis2WlaUEYj89Z', 5040),
-(DEFAULT, '0', '1k_8wtY1NChX1HL9wlpzZGsArn79gq885', 5040),
-(DEFAULT, '-2', '1PoP2DO5x04twqZcf8aw9ygFDyBuYhTDs', 5040),
+(DEFAULT, 'original', '1lk1jzI-Eiak_956et5pis2WlaUEYj89Z', 5350),
+(DEFAULT, '0', '1k_8wtY1NChX1HL9wlpzZGsArn79gq885', 5350),
+(DEFAULT, '-2', '1PoP2DO5x04twqZcf8aw9ygFDyBuYhTDs', 5350),
 -- Ласковый май - Детство
-(DEFAULT, 'original', '141Sw4RqTHo0DIqVaGpLbc9sqbMsNM0SO', 5050),
+(DEFAULT, 'original', '141Sw4RqTHo0DIqVaGpLbc9sqbMsNM0SO', 5400),
 -- Ласковый май - Розовый вечер
-(DEFAULT, 'original', '1guuLUic-2XB1pfeqe0ChCiN7qD-A0yP5', 5060),
-(DEFAULT, '0', '1EN6eJpcHijmOt5XdA6r9vK4pdFE6vh2C', 5060),
-(DEFAULT, '-2', '1EN6eJpcHijmOt5XdA6r9vK4pdFE6vh2C', 5060),
+(DEFAULT, 'original', '1guuLUic-2XB1pfeqe0ChCiN7qD-A0yP5', 5450),
+(DEFAULT, '0', '1EN6eJpcHijmOt5XdA6r9vK4pdFE6vh2C', 5450),
+(DEFAULT, '-2', '1EN6eJpcHijmOt5XdA6r9vK4pdFE6vh2C', 5450),
 -- Ласковый май - Седая ночь
-(DEFAULT, 'original', '1EgjhenWF2bOTP3O1ckKplEfluFIyjl-d', 5070),
-(DEFAULT, '0', '1JWVHP_d7_7iN63LLtXEwvNYpeGlrP3jB', 5070),
-(DEFAULT, '-2', '1N1262NQf7SI7MTjLi0kKQtREFXgLhl9a', 5070),
+(DEFAULT, 'original', '1EgjhenWF2bOTP3O1ckKplEfluFIyjl-d', 5500),
+(DEFAULT, '0', '1JWVHP_d7_7iN63LLtXEwvNYpeGlrP3jB', 5500),
+(DEFAULT, '-2', '1N1262NQf7SI7MTjLi0kKQtREFXgLhl9a', 5500),
 -- Нэнси - Дым сигарет с ментолом
 (DEFAULT, 'original', '1G0fC6XaLmrkDzavWQWe1fMlzJkqwx_Rd', 5750),
 (DEFAULT, '0', '1ploL5eOFshXLM6RkwqcyW7PMH8giR_JV', 5750),

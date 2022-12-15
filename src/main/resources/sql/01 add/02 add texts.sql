@@ -417,13 +417,13 @@ VALUES
 -- IOWA - Улыбайся
 -- (DEFAULT, '', 5030),
 -- Ласковый май - Белые розы
-(DEFAULT, '1oSQC5SW2AFu7Q_xWGgGy-bhOPqNNPaI3', 5040),
+(DEFAULT, '1oSQC5SW2AFu7Q_xWGgGy-bhOPqNNPaI3', 5350),
 -- Ласковый май - Детство
-(DEFAULT, '1QXglhvryt6Nw13Ly3tQk28pfzAq6ymyg', 5050),
+(DEFAULT, '1QXglhvryt6Nw13Ly3tQk28pfzAq6ymyg', 5400),
 -- Ласковый май - Розовый вечер
-(DEFAULT, '1dJ2ru_MFX0aFdGzHbGUTaIrumKS9HTwV', 5060),
+(DEFAULT, '1dJ2ru_MFX0aFdGzHbGUTaIrumKS9HTwV', 5450),
 -- Ласковый май - Седая ночь
-(DEFAULT, '1ro4XSaEDFvT7OcD5UK7lijCy5UTiNYbG', 5070),
+(DEFAULT, '1ro4XSaEDFvT7OcD5UK7lijCy5UTiNYbG', 5500),
 -- МакSим - Знаешь ли ты
 (DEFAULT, '1ycxviN137QfzVS9GNjouE_s3i8jFP_Ht', 5600),
 -- Мальбэк ft. Сюзанна - Гипнозы
