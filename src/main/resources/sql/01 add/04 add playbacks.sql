@@ -639,19 +639,19 @@ VALUES
 (DEFAULT, '0', '1JWVHP_d7_7iN63LLtXEwvNYpeGlrP3jB', 5070),
 (DEFAULT, '-2', '1N1262NQf7SI7MTjLi0kKQtREFXgLhl9a', 5070),
 -- Нэнси - Дым сигарет с ментолом
-(DEFAULT, 'original', '1G0fC6XaLmrkDzavWQWe1fMlzJkqwx_Rd', 5080),
-(DEFAULT, '0', '1ploL5eOFshXLM6RkwqcyW7PMH8giR_JV', 5080),
+(DEFAULT, 'original', '1G0fC6XaLmrkDzavWQWe1fMlzJkqwx_Rd', 5750),
+(DEFAULT, '0', '1ploL5eOFshXLM6RkwqcyW7PMH8giR_JV', 5750),
 -- Нэнси - Чистый лист
-(DEFAULT, 'original', '1RF63MFE5GMIOlupRiaqMoctrKM4xTERN', 5090),
-(DEFAULT, '0', '1laiknHHDXlgVe5ch46bhbrXQEqGNsS4w', 5090),
-(DEFAULT, '-1', '1gQC6lkTngsw7IbiLdyLis1hPMarj-zhX', 5090),
-(DEFAULT, '-2', '1jp6v9p-QYc1PQ7jZ33JOP98Q3jTG4e31', 5090),
+(DEFAULT, 'original', '1RF63MFE5GMIOlupRiaqMoctrKM4xTERN', 5800),
+(DEFAULT, '0', '1laiknHHDXlgVe5ch46bhbrXQEqGNsS4w', 5800),
+(DEFAULT, '-1', '1gQC6lkTngsw7IbiLdyLis1hPMarj-zhX', 5800),
+(DEFAULT, '-2', '1jp6v9p-QYc1PQ7jZ33JOP98Q3jTG4e31', 5800),
 -- Сладкий сон - На белом покрывале января
-(DEFAULT, 'original', '1NhzfBNKjYJ4IJtX3y75JGOjArcsa9Hug', 5100),
-(DEFAULT, '0', '1UM_UTj5_XB7qJey8OgF_5UcuiWRUaBqK', 5100),
-(DEFAULT, '-2', '1myhB03zhM14u20PnphHFwKtS6hHNkG7C', 5100),
+(DEFAULT, 'original', '1NhzfBNKjYJ4IJtX3y75JGOjArcsa9Hug', 5850),
+(DEFAULT, '0', '1UM_UTj5_XB7qJey8OgF_5UcuiWRUaBqK', 5850),
+(DEFAULT, '-2', '1myhB03zhM14u20PnphHFwKtS6hHNkG7C', 5850),
 -- Форум - Белая ночь
-(DEFAULT, 'original', '1zg5DdDr4uwVi2RsZsG94Aj7V0Vb_btPY', 5110),
+(DEFAULT, 'original', '1zg5DdDr4uwVi2RsZsG94Aj7V0Vb_btPY', 5900),
 
 -- SynthPop
 

@@ -425,19 +425,19 @@ VALUES
 -- Ласковый май - Седая ночь
 (DEFAULT, '1ro4XSaEDFvT7OcD5UK7lijCy5UTiNYbG', 5070),
 -- МакSим - Знаешь ли ты
-(DEFAULT, '1ycxviN137QfzVS9GNjouE_s3i8jFP_Ht', 5073),
+(DEFAULT, '1ycxviN137QfzVS9GNjouE_s3i8jFP_Ht', 5600),
 -- Мальбэк ft. Сюзанна - Гипнозы
-(DEFAULT, '1MRGD7vokK32YGKQf9PVDop7ePG2gG_RY', 5075),
+(DEFAULT, '1MRGD7vokK32YGKQf9PVDop7ePG2gG_RY', 5650),
 -- Мальбэк ft. Сюзанна - Равнодушие
-(DEFAULT, '1PIO3Cguf8LwEL32YlwHjUOzbW45BOkD0', 5077),
+(DEFAULT, '1PIO3Cguf8LwEL32YlwHjUOzbW45BOkD0', 5700),
 -- Нэнси - Дым сигарет с ментолом
-(DEFAULT, '1BEVEH3tLqiBfc69HNHKrUF3WlwaqEvW0', 5080),
+(DEFAULT, '1BEVEH3tLqiBfc69HNHKrUF3WlwaqEvW0', 5750),
 -- Нэнси - Чистый лист
-(DEFAULT, '1XDMKvweEBggsTkVWAI607DzFZvASw0gP', 5090),
+(DEFAULT, '1XDMKvweEBggsTkVWAI607DzFZvASw0gP', 5800),
 -- Сладкий сон - На белом покрывале января
-(DEFAULT, '1jCPrNwLhoo6PnG-hJaiO6gw_DZAuLKzD', 5100),
+(DEFAULT, '1jCPrNwLhoo6PnG-hJaiO6gw_DZAuLKzD', 5850),
 -- Форум - Белая ночь
-(DEFAULT, '17zGCNTb9n00-nbaevsPSRnxTxkfhsh9_', 5110),
+(DEFAULT, '17zGCNTb9n00-nbaevsPSRnxTxkfhsh9_', 5900),
 
 -- SynthPop
 
