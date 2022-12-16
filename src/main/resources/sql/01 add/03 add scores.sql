@@ -2125,6 +2125,7 @@ VALUES
 
 -- Chanson
 
+-- Белый орёл - Потому что нельзя быть красивой такой
 -- Михаил Круг - Владимирский централ
 (DEFAULT, 'Full Score', '1uh6c08RXaUL179UUn2_F1r-VBTJIIzYN', 9005),
 (DEFAULT, 'Voice 1, Voice 2, Voice 3', '1r2wRZiid1N6mFLD_y-3_-Qe7ILCapDA9', 9005),
