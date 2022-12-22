@@ -706,6 +706,7 @@ VALUES
 
 -- Белый орёл - Потому что нельзя быть красивой такой
 (DEFAULT, 'original', '1yNmBxvc3MQHPU6sMA4fG2Actg8FlfASf', 9000),
+(DEFAULT, '0', '1qVp_1hQG3x_a87tWfQAQ3H1WrjtTbpaf', 9000),
 -- Михаил Круг - Владимирский централ
 (DEFAULT, 'original', '1HslSFP_52ExO-RQviYAI4RAz_6EpMjrU', 9005),
 (DEFAULT, '0', '1IOcmb0YSJS-BAlAlEFvKk5KRlpit2Dqe', 9005),
