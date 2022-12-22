@@ -2126,6 +2126,21 @@ VALUES
 -- Chanson
 
 -- Белый орёл - Потому что нельзя быть красивой такой
+(DEFAULT, 'Full Score', '', 9000),
+(DEFAULT, 'Voice 1, Voice 2, Voice 3.4', '', 9000),
+(DEFAULT, 'Voice 1', '', 9000),
+(DEFAULT, 'Voice 2', '', 9000),
+(DEFAULT, 'Voice 3.4', '', 9000),
+(DEFAULT, 'Electric Guitar', '', 9000),
+(DEFAULT, '5-string Bass Guitar', '', 9000),
+(DEFAULT, 'Drum Set', '', 9000),
+(DEFAULT, 'Alto Saxophone, Tenor Saxophone', '', 9000),
+(DEFAULT, 'Alto Saxophone', '', 9000),
+(DEFAULT, 'Tenor Saxophone', '', 9000),
+(DEFAULT, 'Strings, Electric Organ, Piano', '', 9000),
+(DEFAULT, 'Strings', '', 9000),
+(DEFAULT, 'Electric Organ', '', 9000),
+(DEFAULT, 'Piano', '', 9000),
 -- Михаил Круг - Владимирский централ
 (DEFAULT, 'Full Score', '1uh6c08RXaUL179UUn2_F1r-VBTJIIzYN', 9005),
 (DEFAULT, 'Voice 1, Voice 2, Voice 3', '1r2wRZiid1N6mFLD_y-3_-Qe7ILCapDA9', 9005),
