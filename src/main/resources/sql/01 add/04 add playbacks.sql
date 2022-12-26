@@ -13,6 +13,7 @@ VALUES
 (DEFAULT, '0', '1oidoVolAFyS-vzBiQgjCF-LEnxk7Jbck', 20),
 (DEFAULT, '-2', '1qRhZuffUQvvOQnOqaWS9fU06EWhlLtOs', 20),
 -- Metallica - The Unforgiven
+(DEFAULT, 'original', '16bQ6xIEHjVgSBjL1Rb8gs53pDBXV93iZ', 30),
 (DEFAULT, '0', '16gWOZ3tC1uUoAUlwXnwxXpYqlMUdEska', 30),
 -- Rammstein - Frühling in Paris
 (DEFAULT, 'original', '1F5x2v6vP8QezTToi_HgKScbcb9MFxyHI', 40),

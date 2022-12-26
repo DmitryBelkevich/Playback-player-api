@@ -9,7 +9,7 @@ VALUES
 -- Metallica - Nothing Else Matters
 (DEFAULT, '1CI5x5mTeKZSMZA1eTtgXoiofChtVsqf2', 20),
 -- Metallica - The Unforgiven
--- (DEFAULT, '', 30),
+(DEFAULT, '1fqPgAxVoNqASFzwO2RIV83SCWFXnxmtY', 30),
 -- Rammstein - Frühling in Paris
 (DEFAULT, '1gC9MtHnmm5H4brbfKKFeHX5ynHSfr5DR', 40),
 -- Rammstein - Mutter

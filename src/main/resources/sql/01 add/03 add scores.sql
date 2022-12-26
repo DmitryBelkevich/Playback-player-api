@@ -21,6 +21,7 @@ VALUES
 (DEFAULT, 'Drum Set, Tambourine', '1WsbpdiBgGa75db1c7wO4xd03Hb9xe0UM', 20),
 (DEFAULT, 'Drum Set', '1MZ5fugr_OO2oP5hs1BUaELZhP-hIIYgP', 20),
 (DEFAULT, 'Tambourine', '1t0fjtCpmLCq_sjS9Pv0AJIvDN9tl0LH4', 20),
+-- Metallica - The Unforgiven
 -- Rammstein - Frühling in Paris
 (DEFAULT, 'Full Score', '15uf0unM_w4h2IJebOwafIffASeuqN_Gv', 40),
 (DEFAULT, 'Voice', '172DHyakrRnnLm6lw-267eQklWmAVgCCB', 40),
