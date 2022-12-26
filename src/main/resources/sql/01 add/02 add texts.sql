@@ -144,6 +144,7 @@ VALUES
 -- ДДТ - Метель
 (DEFAULT, '15P6CuvbKkrHYI4lxpneFOqHIvCSMGzon', 1430),
 -- ДДТ - Осенняя
+(DEFAULT, '1k4Hb0SMHvOCujiwWSQBYY-wSDQNwyEo9', 1440),
 -- ДДТ - Пацаны
 (DEFAULT, '1ecrcelpFRTOT8PSbnMLaBSZjN4rknLF4', 1443),
 -- ДДТ - Песня о свободе
