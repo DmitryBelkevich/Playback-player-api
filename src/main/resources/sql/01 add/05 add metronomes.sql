@@ -356,7 +356,7 @@ VALUES
 -- Nautilus Pompilius - Дыхание
 (DEFAULT, null, 4, 4, 108, 2170),
 -- Nautilus Pompilius - Князь тишины
-(DEFAULT, null, 4, 4, 0, 2178),
+(DEFAULT, null, 2, 4, 100, 2178),
 -- Nautilus Pompilius - Крылья
 (DEFAULT, null, 12, 8, 63, 2180),
 -- Nautilus Pompilius - Последнее письмо
