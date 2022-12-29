@@ -1575,6 +1575,7 @@ VALUES
 (DEFAULT, 'Tenor Saxophone', '1Wi69RAqMO6JadB_3cJuueCUzCnYDseFN', 2170),
 (DEFAULT, 'FX 3 (Crystal)', '1FrORb5CylhF1BtUQy7X_6N-H878JQB-Z', 2170),
 (DEFAULT, 'Crotales', '1gIKinNCxJOS_UGEZyYPCS_VwKa21f0jc', 2170),
+-- Nautilus Pompilius - Князь тишины
 -- Nautilus Pompilius - Крылья
 (DEFAULT, 'Full Score', '1JBUoeA1Gpj3KLcIfWo6FLhL83kE8bbbX', 2180),
 (DEFAULT, 'Voice', '1-DJfDknTJF1ay9hnPBvL0mbw1-oeFCJY', 2180),
