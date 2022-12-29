@@ -329,6 +329,8 @@ VALUES
 (DEFAULT, '1QIhPOdMRHpyHeOJm-DER8P8zFprRA3Vs', 2165),
 -- Nautilus Pompilius - Дыхание
 (DEFAULT, '1TmmHwl5C8_-wxhaTZJO6S1mJSxqTolCU', 2170),
+-- Nautilus Pompilius - Князь тишины
+(DEFAULT, '16TbQ4zWYl8vBoNpaCIhrcHz5Pl2Ghy1p', 2178),
 -- Nautilus Pompilius - Крылья
 (DEFAULT, '1ePNwJkARW-e8oqHK25iQ68CJyo7Pmfuw', 2180),
 -- Nautilus Pompilius - Последнее письмо
