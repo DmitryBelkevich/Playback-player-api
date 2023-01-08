@@ -456,9 +456,9 @@ VALUES
 (DEFAULT, 'Drum Set, Shaker', '1Jm2S3loWRpSDrWaP2uX-3KIx5taMlKkP', 1240),
 (DEFAULT, 'Drum Set', '1m77fptFoKhR6ycrfStDEnRrhUK129byL', 1240),
 (DEFAULT, 'Shaker', '10jS7pnPYmYYLbA6yF3LKzL_bTfc0BDr7', 1240),
-(DEFAULT, 'Pad 2 (Warm), Trumpet in Bb', '1uSiJkAo3sQt6IlbHnbMtgoqF4-khybIJ', 1240),
-(DEFAULT, 'Pad 2 (Warm)', '1oPgMazB8bYZoGiTTua3ElUlinwjCqKBU', 1240),
+(DEFAULT, 'Trumpet in Bb, Pad 2 (Warm)', '1uSiJkAo3sQt6IlbHnbMtgoqF4-khybIJ', 1240),
 (DEFAULT, 'Trumpet in Bb', '1N-dRDJHYrYhM_7rrVZVcX4wvyZDOIjfs', 1240),
+(DEFAULT, 'Pad 2 (Warm)', '1oPgMazB8bYZoGiTTua3ElUlinwjCqKBU', 1240),
 -- Би-2 - Полковнику никто не пишет
 (DEFAULT, 'Full Score', '1xBT415rcj2VNHbkA8cEnDnQ-1m5NODlq', 1260),
 (DEFAULT, 'Voice', '1Gvl8mPIS7YUTWwKh_lPSnpKGxQ3rvzGF', 1260),
