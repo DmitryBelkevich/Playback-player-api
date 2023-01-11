@@ -621,8 +621,8 @@ VALUES
     (10060, 'Le Vent, Le Cri', 410, 'Bm'),
     (10100, 'The Lonely Shepherd', 420, 'Dm'),
 
-    (10115, 'Suite in E minor, BWV 996 - Bourree', 423, 'Em'),
     (10120, 'Orchestral Suite No.2 in B Minor, BWV 1067 - Badinerie', 423, 'Bm'),
+    (10125, 'Suite in E minor, BWV 996 - Bourree', 423, 'Em'),
     (10150, 'Romance de Amor', 425, 'Em'),
     (10200, 'Polonaise', 430, 'Am'),
     (10250, 'Caprice №24, Op.1', 435, 'Am'),
@@ -637,7 +637,8 @@ VALUES
 
 -- Classic:
 
--- Bach - Prelude in D Minor
+-- Bach - Prelude in C Minor, BWV 847
+-- Bach - Prelude in C Minor, BWV 871
 -- Bach - Toccata in D Minor
 -- Bach - Fugue No.2 in C Minor
 
