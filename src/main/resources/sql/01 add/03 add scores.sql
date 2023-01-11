@@ -2307,7 +2307,7 @@ VALUES
 (DEFAULT, 'Full Score', '1E4c-4hzfXr9rUSYtllKVmKHzekK_At9x', 10125),
 (DEFAULT, 'Electric Guitar', '1B1NFFaLccY1Dgt7glzou-6BE-fwc1Upe', 10125),
 (DEFAULT, 'Acoustic Guitar', '1_kT-QtbPzeskNSqw-opVIacc3qbOL_89', 10125),
-(DEFAULT, 'Piano', '1VTg8ASUSbbEE07hjpKVjHFrL9SzECSF-', 10115),
+(DEFAULT, 'Piano', '1VTg8ASUSbbEE07hjpKVjHFrL9SzECSF-', 10125),
 -- Gomez Vicente - Romance de Amor
 (DEFAULT, 'Full Score', '15boHUOxMIqHAXGtDIB3kYVxNqv1by4a6', 10150),
 (DEFAULT, 'Guitar', '1ELXcUVoaO1d0_pbzjGq0cRpzI5wYbt8F', 10150),
