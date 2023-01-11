@@ -529,6 +529,8 @@ VALUES
 (DEFAULT, null, 12, 8, 60, 10060),
 -- Gheorghe Zamfir - The Lonely Shepherd
 (DEFAULT, null, 4, 4, 67, 10100),
+-- Bach Johann Sebastian - Suite in E minor, BWV 996 - Bourree
+(DEFAULT, null, 4, 4, 140, 10115),
 -- Bach Johann Sebastian - Orchestral Suite No.2 in B Minor, BWV 1067 - Badinerie
 (DEFAULT, null, 2, 4, 110, 10120),
 -- Gomez Vicente - Romance de Amor

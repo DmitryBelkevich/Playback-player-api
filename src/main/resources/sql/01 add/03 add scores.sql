@@ -2293,6 +2293,11 @@ VALUES
 (DEFAULT, 'Violin II', '12VL106iwx3kQZjIIOFJM22lKIywyydHO', 10100),
 (DEFAULT, 'Viola', '17l3r27Cp3-dCN7kwZOOfFeGnVajy7JhK', 10100),
 (DEFAULT, 'Violoncello', '1SajXEDxLnfjL1PhPm95M9ySWpzdfbR3O', 10100),
+-- Bach Johann Sebastian - Suite in E minor, BWV 996 - Bourree
+(DEFAULT, 'Full Score', '1E4c-4hzfXr9rUSYtllKVmKHzekK_At9x', 10115),
+(DEFAULT, 'Electric Guitar', '1B1NFFaLccY1Dgt7glzou-6BE-fwc1Upe', 10115),
+(DEFAULT, 'Acoustic Guitar', '1_kT-QtbPzeskNSqw-opVIacc3qbOL_89', 10115),
+(DEFAULT, 'Piano', '1VTg8ASUSbbEE07hjpKVjHFrL9SzECSF-', 10115),
 -- Bach Johann Sebastian - Orchestral Suite No.2 in B Minor, BWV 1067 - Badinerie
 (DEFAULT, 'Full Score', '1JqS1emkCBrrKTYM7a42YSFslMmv1-T01', 10120),
 (DEFAULT, 'Electric Guitar', '1l81MRWezVlfHJPNdFsZGc8pWO1KaZHVZ', 10120),
