@@ -165,6 +165,7 @@ VALUES
     -- Classic
     (410, 'Ennio Morricone'),
     (420, 'Gheorghe Zamfir'),
+    (421, 'Евгений Дога'),
 
     (423, 'Bach Johann Sebastian'),
     (425, 'Gomez Vicente'),
@@ -620,6 +621,7 @@ VALUES
     (10050, 'Chi Mai', 410, 'F#m'),
     (10060, 'Le Vent, Le Cri', 410, 'Bm'),
     (10100, 'The Lonely Shepherd', 420, 'Dm'),
+    (10110, 'Вальс', 421, 'Bbm'),
 
     (10120, 'Orchestral Suite No.2 in B Minor, BWV 1067 - Badinerie', 423, 'Bm'),
     (10125, 'Suite in E minor, BWV 996 - Bourree', 423, 'Em'),
@@ -633,7 +635,6 @@ VALUES
 
 -- Francis Lai - Theme from Love Story
 -- Paul Mauriat - Toccata
--- Дога - Вальс
 
 -- Classic:
 

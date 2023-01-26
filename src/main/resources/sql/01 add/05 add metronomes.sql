@@ -529,6 +529,9 @@ VALUES
 (DEFAULT, null, 12, 8, 60, 10060),
 -- Gheorghe Zamfir - The Lonely Shepherd
 (DEFAULT, null, 4, 4, 67, 10100),
+-- Евгений Дога - Вальс
+(DEFAULT, null, 12, 8, 47, 10110),
+
 -- Bach Johann Sebastian - Orchestral Suite No.2 in B Minor, BWV 1067 - Badinerie
 (DEFAULT, null, 2, 4, 110, 10120),
 -- Bach Johann Sebastian - Suite in E minor, BWV 996 - Bourree

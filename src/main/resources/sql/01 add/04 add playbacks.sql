@@ -742,6 +742,10 @@ VALUES
 (DEFAULT, 'original', '1gYjHBAI3Cc928l_O6rka5fICyYsMv65t', 10100),
 (DEFAULT, '0', '11ep2KnZaO13RqcxwFH4mfg8HvbZNfy1r', 10100),
 (DEFAULT, '-2', '12sahEmgqBk1rnxNS2cXaJUunUBJ77U7S', 10100),
+-- Евгений Дога - Вальс
+(DEFAULT, 'original', '1eZeyLrTeMb4wzE11JS2m-NLTjVpNz47S', 10110),
+(DEFAULT, '0', '143HQyqxE_CHm9YYfllmJDbXGopGE1aDi', 10110),
+
 -- Bach Johann Sebastian - Orchestral Suite No.2 in B Minor, BWV 1067 - Badinerie
 -- Bach Johann Sebastian - Suite in E minor, BWV 996 - Bourree
 -- Gomez Vicente - Romance de Amor
