@@ -446,6 +446,8 @@ VALUES
 (DEFAULT, null, 4, 4, 116, 5000),
 -- Leonard Cohen - Hallelujah
 (DEFAULT, null, 6, 8, 56, 5005),
+-- Nathan Evans - Wellerman (Sea Shanty)
+(DEFAULT, null, 2, 4, 96, 5007),
 -- Maroon 5 - This Love
 (DEFAULT, null, 4, 4, 95, 5010),
 -- IOWA - Бьёт Бит

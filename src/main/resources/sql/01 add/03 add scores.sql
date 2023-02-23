@@ -1942,6 +1942,14 @@ VALUES
 
 -- Pop, Dance
 
+-- Nathan Evans - Wellerman (Sea Shanty)
+(DEFAULT, 'Full Score', '1pGPURkbQ48N_Y78OXHgK6OJoKzJIDgK9', 5007),
+(DEFAULT, 'Voice 1', '1y4qbEmOi7xdU14V8SRqmY4QJPg5kAE3x', 5007),
+(DEFAULT, 'Voice 2.3', '1wAzxUWAMURQax6fUMPVg126DSR13WgZM', 5007),
+(DEFAULT, 'Voice 4', '1o1gaTg_u5vTet3-SfLbFWsCow-BZhnnm', 5007),
+(DEFAULT, 'Voice 5', '11HFTDmV4uPcP36JjTEuP6DT2o46Kqzow', 5007),
+(DEFAULT, 'Acoustic Guitar', '1g8Jp4vdJkWIfR8LQbOXsRzB8AGlOJxW0', 5007),
+
 -- Ласковый май - Белые розы
 (DEFAULT, 'Full Score', '1vR6XrMxIS-1y3QnXT7QSY-ecMj-lcEET', 5350),
 (DEFAULT, 'Voice', '19EIx-M-jSPvJmVo92UcGwDoBzMfDpmaU', 5350),
