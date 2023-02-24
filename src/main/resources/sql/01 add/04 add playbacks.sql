@@ -643,7 +643,7 @@ VALUES
 (DEFAULT, 'original', '141Sw4RqTHo0DIqVaGpLbc9sqbMsNM0SO', 5400),
 -- Ласковый май - Розовый вечер
 (DEFAULT, 'original', '1guuLUic-2XB1pfeqe0ChCiN7qD-A0yP5', 5450),
-(DEFAULT, '0', '1EN6eJpcHijmOt5XdA6r9vK4pdFE6vh2C', 5450),
+(DEFAULT, '0', '1MpjJHnykectWRCYkWRlzBsaWPHmQpJjE', 5450),
 (DEFAULT, '-2', '1EN6eJpcHijmOt5XdA6r9vK4pdFE6vh2C', 5450),
 -- Ласковый май - Седая ночь
 (DEFAULT, 'original', '1EgjhenWF2bOTP3O1ckKplEfluFIyjl-d', 5500),
