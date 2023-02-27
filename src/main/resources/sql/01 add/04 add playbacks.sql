@@ -752,6 +752,8 @@ VALUES
 (DEFAULT, '0', '143HQyqxE_CHm9YYfllmJDbXGopGE1aDi', 10110),
 
 -- Bach Johann Sebastian - Orchestral Suite No.2 in B Minor, BWV 1067 - Badinerie
+(DEFAULT, '0 slow', '1Bx-w3c5MQhjf3wifZfLMaRln8yQT-bgk', 10120),
+
 -- Bach Johann Sebastian - Suite in E minor, BWV 996 - Bourree
 -- Gomez Vicente - Romance de Amor
 -- Oginski Michal Kleofas - Polonaise
