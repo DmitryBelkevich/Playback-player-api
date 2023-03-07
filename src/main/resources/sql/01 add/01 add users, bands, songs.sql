@@ -536,7 +536,7 @@ VALUES
 
     -- Pop, Dance
     (5000, 'No Roots', 300, 'Bm'),
-    (5002, 'Wake Me Up', 301, null),
+    (5002, 'Wake Me Up', 301, 'Bm'),
     (5003, 'My Heart Will Go On', 302, null),
     (5005, 'Hallelujah', 303, 'C'),
     (5007, 'Wellerman (Sea Shanty)', 304, 'Cm'),
