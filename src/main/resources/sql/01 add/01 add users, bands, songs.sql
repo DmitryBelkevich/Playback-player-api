@@ -110,7 +110,8 @@ VALUES
 
     -- Pop, Dance
     (300, 'Alice Merton'),
-    (301, 'Céline Dion'),
+    (301, 'Avicii'),
+    (302, 'Céline Dion'),
     (303, 'Leonard Cohen'),
     (304, 'Nathan Evans'),
     (305, 'Maroon 5'),
@@ -535,7 +536,8 @@ VALUES
 
     -- Pop, Dance
     (5000, 'No Roots', 300, 'Bm'),
-    (5003, 'My Heart Will Go On', 301, null),
+    (5002, 'Wake Me Up', 301, null),
+    (5003, 'My Heart Will Go On', 302, null),
     (5005, 'Hallelujah', 303, 'C'),
     (5007, 'Wellerman (Sea Shanty)', 304, 'Cm'),
     (5010, 'This Love', 305, 'Cm'),
