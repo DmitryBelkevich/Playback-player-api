@@ -663,7 +663,6 @@ VALUES
 -- Сладкий сон - На белом покрывале января
 (DEFAULT, 'original', '1NhzfBNKjYJ4IJtX3y75JGOjArcsa9Hug', 5850),
 (DEFAULT, '0', '1UM_UTj5_XB7qJey8OgF_5UcuiWRUaBqK', 5850),
-(DEFAULT, '-2', '1myhB03zhM14u20PnphHFwKtS6hHNkG7C', 5850),
 -- Форум - Белая ночь
 (DEFAULT, 'original', '1zg5DdDr4uwVi2RsZsG94Aj7V0Vb_btPY', 5900),
 
