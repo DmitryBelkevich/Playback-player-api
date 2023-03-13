@@ -1695,6 +1695,15 @@ VALUES
 (DEFAULT, 'Bass Guitar', '1Wy-bKuVbB1rD4tXegNIZR8S10sRRDoVz', 2280),
 (DEFAULT, 'Drum Set', '1Oyi8348OUYOnsfCTJDoMRbzT5yFEW1bV', 2280),
 -- Порнофильмы - Уроки любви
+(DEFAULT, 'Full Score', '17mIZON0VNT1p3_U8VKbMrJUftbofWQYs', 2285),
+(DEFAULT, 'Voice', '1Qro5WsMEvq4wGCauvXLdxhUHpvYi5GF-', 2285),
+(DEFAULT, 'Acoustic Guitar, Electric Guitar 1, Electric Guitar 2, Electric Guitar 3', '1knDJsOoSuZYOkZDHBORr-wuFEt-l6tGH', 2285),
+(DEFAULT, 'Acoustic Guitar', '1ZrvDiHlkclbycxbYiOsd-go_738XZ9lM', 2285),
+(DEFAULT, 'Electric Guitar 1', '18xLBVKF1wRCKs3059-Jnmf8Z-S8udley', 2285),
+(DEFAULT, 'Electric Guitar 2', '1804fD9fIr3oTq0tcnVFxHPYqaeGWKFrr', 2285),
+(DEFAULT, 'Electric Guitar 3', '1Y4NuEre5A8WpoN5aEMqwJUlMoFlpOr27', 2285),
+(DEFAULT, 'Bass Guitar', '1nkuLU5Ff5efTC4KGURmVJ1Yhb0IgiZUV', 2285),
+(DEFAULT, 'Drum Set', '18zYD9sRS3B-2vgVkfwV2fmaF8HRa63nf', 2285),
 -- Порнофильмы - Это пройдёт
 (DEFAULT, 'Full Score', '1CkZI8TFJqP8URoxZeUWpJcm2cO9aNSIW', 2290),
 (DEFAULT, 'Voice', '1o0joxlA3m4ttBXxexDwNzeoxzvR-IOLn', 2290),
