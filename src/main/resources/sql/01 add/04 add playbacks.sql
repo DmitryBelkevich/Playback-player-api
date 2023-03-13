@@ -534,6 +534,9 @@ VALUES
 (DEFAULT, '-5', '1W3M0LmAp2TF2k7kEGvl4sGHuGorIFPEw', 2280),
 -- Порнофильмы - Уроки любви
 (DEFAULT, 'original', '1vvjraS_8OFBEmuxXfM1gA6dCR_6k-HZ8', 2285),
+(DEFAULT, '0', '1aoi5pFOw526BGj_lVm8RXQcxNkSrZTvh', 2285),
+(DEFAULT, '-2', '12igHZ_TaFjx2WIa0Ob-a1uzGYpcdRAbE', 2285),
+(DEFAULT, '-3', '1L5P29wlU0lTrJl4xRA9iRWpu13YuKB6g', 2285),
 -- Порнофильмы - Это пройдёт
 (DEFAULT, 'original', '1OC1lsnQEsc3wciMz1L13pZc_EXpsNAHy', 2290),
 (DEFAULT, '+5', '15ecowhpUXfY4fqPlR05bTOHwiQokUJY7', 2290),
