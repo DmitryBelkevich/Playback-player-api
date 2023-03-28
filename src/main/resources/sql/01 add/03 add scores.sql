@@ -69,10 +69,9 @@ VALUES
 (DEFAULT, 'Strings', '156LIVCAgCVzGbpKouhHDH2xWfnjSGp0_', 50),
 -- System of a Down - Aerials
 (DEFAULT, 'Full Score', '1Jjq-i3Llhn0kbZodKuUBqB-bQYBtvb--', 60),
-(DEFAULT, 'Voice 1, Voice 2, Voice 3', '1aMwEowjO4ScIHSx9iO_KT2SqLKIhukBd', 60),
+(DEFAULT, 'Voice 1, Voice 2', '1aMwEowjO4ScIHSx9iO_KT2SqLKIhukBd', 60),
 (DEFAULT, 'Voice 1', '13JI1AuvlTN8l9oy7tNzLsQSHPBQF2gPS', 60),
 (DEFAULT, 'Voice 2', '1mSxr73ePSl9Lvb6rQS9BkcCZow99EjQZ', 60),
-(DEFAULT, 'Voice 3', '1CPpGNpS_rg07wMQto3Os85OaGkdd56gc', 60),
 (DEFAULT, 'Acoustic Guitar, Electric Guitar', '1WN3-SPr2AYsozgQyrpZ43jSAsuay8f_r', 60),
 (DEFAULT, 'Acoustic Guitar', '1div6JkuNThi98-75IfS30sLRIgFjVbFG', 60),
 (DEFAULT, 'Electric Guitar', '1qgPQ3r5cFuvk-pnYRWxZtA0h5E0tFYlf', 60),
