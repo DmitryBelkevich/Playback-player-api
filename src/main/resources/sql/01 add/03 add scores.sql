@@ -77,10 +77,11 @@ VALUES
 (DEFAULT, 'Electric Guitar', '1qgPQ3r5cFuvk-pnYRWxZtA0h5E0tFYlf', 60),
 (DEFAULT, 'Bass Guitar', '1eZDtcB_vfvw8i-N3AN-DG60pUowJ4swA', 60),
 (DEFAULT, 'Drum Set', '16ph0-w7SvARBanPd-UAi4BfccYYB22IO', 60),
-(DEFAULT, 'Violin I', '1sT3OmHj7rCeK29JerM33Bn_7qm2Xx6Vl', 60),
+(DEFAULT, 'Sitar', '19h_2ID3Whlq9nxCmOIhBZrrV_pM3geZM', 60),
+(DEFAULT, 'Violin, Viola, Violoncello', '1eDx-m1xWD_zNMBh0PCPVdC7BAzfl23be', 60),
+(DEFAULT, 'Violin', '1sT3OmHj7rCeK29JerM33Bn_7qm2Xx6Vl', 60),
 (DEFAULT, 'Viola', '17dUDT5D7YbhllEmy3nICUkIlbkqJn9TJ', 60),
 (DEFAULT, 'Violoncello', '1XBLzyWMg2zLQ3MQFJhJhMW4hQkRfZkTi', 60),
-(DEFAULT, 'Sitar', '19h_2ID3Whlq9nxCmOIhBZrrV_pM3geZM', 60),
 (DEFAULT, 'Pad 5 (Bowed)', '1UF2AjDxRPDdGPAjyPhDu7GOwcmh_wfRk', 60),
 -- System of a Down - Chop Suey!
 (DEFAULT, 'Full Score', '1Nzj1nF5SsdASW_bjxL_LWf-_FrrNQksU', 70),
