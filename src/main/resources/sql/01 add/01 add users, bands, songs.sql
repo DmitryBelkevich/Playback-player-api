@@ -542,6 +542,7 @@ VALUES
     (5000, 'No Roots', 300, 'Bm'),
     (5002, 'Wake Me Up', 301, 'Bm'),
     (5003, 'My Heart Will Go On', 302, null),
+    (5004, 'Gangsta''s Paradise', 303, 'Cm'),
     (5005, 'Hallelujah', 305, 'C'),
     (5007, 'Wellerman (Sea Shanty)', 306, 'Cm'),
     (5010, 'This Love', 308, 'Cm'),

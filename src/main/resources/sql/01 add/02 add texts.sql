@@ -412,6 +412,8 @@ VALUES
 
 -- Alice Merton - No Roots
 -- (DEFAULT, '', 5000),
+-- Coolio - Gangsta's Paradise
+(DEFAULT, '1puIg5VloL6vLh3jk-JNMmXRqb0H3crSD', 5004),
 -- Leonard Cohen - Hallelujah
 (DEFAULT, '1VD52hIwXCGD4F4Xf4trfO2TMU1ySAQQw', 5005),
 -- Nathan Evans - Wellerman (Sea Shanty)
