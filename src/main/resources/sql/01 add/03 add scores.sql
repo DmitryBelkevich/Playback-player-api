@@ -1957,6 +1957,23 @@ VALUES
 (DEFAULT, 'Electric Guitar', '1zfexkRDfDbiI4cfP4pXPIt6smWGhfqh5', 5002),
 
 -- Coolio - Gangsta's Paradise
+(DEFAULT, 'Full Score', '1m6gS_xoOWGUBzxguuYDqFEXeiwuqLR8b', 5004),
+(DEFAULT, 'Voice 1, Voice 2, Voice 3', '1XBUv4OGup_uK79cYIbjzG4NkEodhhnjB', 5004),
+(DEFAULT, 'Voice 1', '1VaCCfb2asWezyB-y3sfxQMpJCjCcLwju', 5004),
+(DEFAULT, 'Voice 2', '16X0qRAPdRTmVIzS57qh-Lit1ZING5rL-', 5004),
+(DEFAULT, 'Voice 3', '1RO3y80NWlJbzJymYEc8CSEutkhGzoHnE', 5004),
+(DEFAULT, 'Drum Set, Shaker', '1YHmECvMt2Mc7LweNfN1mZfJHtwUTiX0l', 5004),
+(DEFAULT, 'Drum Set', '1r0MfWgOlAqhGw3uSKLV_nYMDHa_1_5S2', 5004),
+(DEFAULT, 'Shaker', '1DZwYAeEgAb_qyLpq-1oyEnHhTlY9lwKn', 5004),
+(DEFAULT, 'Soprano, Alto, Tenor, Bass', '1KSp51ukuSFG-zo7ClLod5UXn6fhIsU_t', 5004),
+(DEFAULT, 'Soprano', '1xNMHNbOwRJUuyaAQ35_9tPYRVTMBaWJI', 5004),
+(DEFAULT, 'Alto', '1kH3HOyKANcTPoJrW_Q3bHVYP6kuoKeYU', 5004),
+(DEFAULT, 'Tenor', '1MqGpfCX-64U4sOuNwMtlliMxY9i6-bQx', 5004),
+(DEFAULT, 'Bass', '16CQN-wv6__grWxf5Py6a5F2nvISKVOan', 5004),
+(DEFAULT, 'Synth Strings 1, Synth Strings 2, Synth Bass', '1kWgp8mTtljIYqGXY7m5lmJgiNA19eRdg', 5004),
+(DEFAULT, 'Synth Strings 1', '17_x92TcfoZVJMEy4Xj1hy9lgbXUg9eEY', 5004),
+(DEFAULT, 'Synth Strings 2', '1uCPIxdLYDgWdskXDAtsYi0XkUoRRh7eY', 5004),
+(DEFAULT, 'Synth Bass', '1v_EbXHkYUbP_CUYRH7LsFyXHFArVmenK', 5004),
 
 -- Nathan Evans - Wellerman (Sea Shanty)
 (DEFAULT, 'Full Score', '1pGPURkbQ48N_Y78OXHgK6OJoKzJIDgK9', 5007),
