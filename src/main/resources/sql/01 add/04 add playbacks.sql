@@ -630,6 +630,8 @@ VALUES
 
 -- Alice Merton - No Roots
 (DEFAULT, 'original', '1zKkmIf6LTAORRgXGtA4aairbtsy2LAbA', 5000),
+-- Coolio - Gangsta's Paradise
+(DEFAULT, 'original', '1SC8Z3OLMrSP1oH88qS9KMS6dcgDMjlMM', 5004),
 -- Leonard Cohen - Hallelujah
 (DEFAULT, 'original', '1XoY9XZjol6z05KwGiS79xE5Pn4mNlV_b', 5005),
 (DEFAULT, '0', '1FJH6XdrcwNMFJ-R5R0T0cyBQDsQhnmtC', 5005),

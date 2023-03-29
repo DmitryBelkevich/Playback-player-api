@@ -1956,6 +1956,8 @@ VALUES
 (DEFAULT, 'Full Score', '1VIOsnqP9m6Tkmb6f5zDgMCLG_cTzwTNF', 5002),
 (DEFAULT, 'Electric Guitar', '1zfexkRDfDbiI4cfP4pXPIt6smWGhfqh5', 5002),
 
+-- Coolio - Gangsta's Paradise
+
 -- Nathan Evans - Wellerman (Sea Shanty)
 (DEFAULT, 'Full Score', '1pGPURkbQ48N_Y78OXHgK6OJoKzJIDgK9', 5007),
 (DEFAULT, 'Voice 1', '1y4qbEmOi7xdU14V8SRqmY4QJPg5kAE3x', 5007),
