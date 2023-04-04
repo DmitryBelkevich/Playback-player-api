@@ -1223,10 +1223,9 @@ VALUES
 -- Король и Шут - Прыгну со скалы
 (DEFAULT, 'Full Score', '1tOlEFi6wySv-wTnScSXsX62V9Gq20omR', 1835),
 (DEFAULT, 'Voice', '1XEjrdHRXKQiqU69BIO08MQHEbppUVP5f', 1835),
-(DEFAULT, 'Acoustic Guitar, Electric Guitar 1, Electric Guitar 2', '1P1sTb2z21QgV1DNFzceioeLDS07aVBXA', 1835),
+(DEFAULT, 'Acoustic Guitar, Electric Guitar', '1P1sTb2z21QgV1DNFzceioeLDS07aVBXA', 1835),
 (DEFAULT, 'Acoustic Guitar', '161HZkoPoXKSuh1nTAMD3jrU5P6RXKXb2', 1835),
-(DEFAULT, 'Electric Guitar 1', '1usf2sPiPQom6jjO0tfQt7TYYN4caA_kc', 1835),
-(DEFAULT, 'Electric Guitar 2', '1BID5U95ybmBxPCPThEf5tIyEv1ETv1wM', 1835),
+(DEFAULT, 'Electric Guitar', '1usf2sPiPQom6jjO0tfQt7TYYN4caA_kc', 1835),
 (DEFAULT, 'Bass Guitar', '1pAr4AIwix3TnisPN7Wq2n1D9cJftoZET', 1835),
 (DEFAULT, 'Drum Set', '1reMCurH9JdE_g-pKCy-sKKmpG1qi8ddm', 1835),
 (DEFAULT, 'Violin 1, Violin 2, Violin 3', '16qzpPmPWW9_Qg3TgPku1cNt60U6UcmGv', 1835),
