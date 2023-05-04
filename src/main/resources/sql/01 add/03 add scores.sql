@@ -1753,7 +1753,7 @@ VALUES
 (DEFAULT, 'Electric Guitar 2', '1Wrdp1w1JdQ54_G245QJyzYzPxzDzVO7U', 2310),
 (DEFAULT, '5-string Bass Guitar', '1iWtM5E5llk37VABYyq4A8j2TM6fCucg4', 2310),
 (DEFAULT, 'Drum Set', '15C0QGjolVHlZsrePvm3G4QRNsdqE4wuV', 2310),
-(DEFAULT, 'Pad 4 (Choir)', '1RRUMtrqpqNCajr0eAghr0ZPHnlEMXzqX', 2310),
+(DEFAULT, 'Electric Organ', '1RRUMtrqpqNCajr0eAghr0ZPHnlEMXzqX', 2310),
 -- Сектор Газа - Лирика
 (DEFAULT, 'Full Score', '1oFsAkNb1PpMh5uRY9OFI4DmvCFGtApI2', 2315),
 (DEFAULT, 'Voice', '12MfQ8e8ChGcxXjjkNzfmuI1TEdpfcsb2', 2315),
