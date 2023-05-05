@@ -385,6 +385,7 @@ VALUES
 (DEFAULT, '0', '1yMy6F9cN6D4YTiizvIbXtAp8VqtU_q4s', 1960),
 -- Ленинград - Мне бы в небо
 -- Ленинград - Свобода
+(DEFAULT, 'original', '19yJ-Ewl6OGKJiOXQBTr6nHxt66BceGaw', 1967),
 -- Ленинград - Терминатор
 (DEFAULT, 'original', '1E_wDM4rT1cEjt0o1ZFxtQM0XnWFVCxJX', 1970),
 (DEFAULT, '0', '1OlHrTMzg1lysRzmBSFhPssCYtkO9OChh', 1970),
