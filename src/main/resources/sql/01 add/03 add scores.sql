@@ -1277,6 +1277,17 @@ VALUES
 (DEFAULT, 'Tenor Saxophone', '1x1TO8POOcV8Ia8zAV6Y3hoD9WlRihOd0', 1960),
 (DEFAULT, 'Trombone', '1SJ0oW-ebpzZ8Mb3O6DAVra-81-umBGYI', 1960),
 (DEFAULT, 'Tuba', '1wrICAzWf4IrRoY-3vkheBfRTdDOIkiFq', 1960),
+-- Ленинград - Свобода
+(DEFAULT, 'Full Score', '1ZcGMgkZ1sHeDBnz-7p1uKPed9Wuxmt__', 1967),
+(DEFAULT, 'Voice 1, Voice 2.3', '1w7lbNdTNvFbMSs5pWfRHfmzQvumv1L9Z', 1967),
+(DEFAULT, 'Voice 1', '1ng2pbj0ZLIkYC-w6bUUdHupj-iSW5J-l', 1967),
+(DEFAULT, 'Voice 2.3', '15-gUteFFVuh-xoOZcmkJ25NapCGA4NiH', 1967),
+(DEFAULT, 'Acoustic Guitar 1, Acoustic Guitar 2, Acoustic Guitar 3', '1tt7CXkPZkwoX8FC8jrogOOZ1dJr4Eru-', 1967),
+(DEFAULT, 'Acoustic Guitar 1', '1dgIMWcFdV3BDmfLZlZhbbfJclgy_E11l', 1967),
+(DEFAULT, 'Acoustic Guitar 2', '19KfSwqAn_8kNkHCKrwNkAG6oh_xAj5HM', 1967),
+(DEFAULT, 'Acoustic Guitar 3', '1by-3BhFQPAGthDbv3jgwJGr4faCpNF5J', 1967),
+(DEFAULT, '5-string Bass Guitar', '1Whk_uCKU3EwASSBPVPp3_gwBi97OxfHJ', 1967),
+(DEFAULT, 'Drum Set', '1iAfVY31vqcZmyqi8KNBoX7NTm2_uee02', 1967),
 -- Ленинград - Терминатор
 (DEFAULT, 'Full Score', '1vLSju7yJoXyZoGMZA-W3TUJ9iGvE-AXU', 1970),
 (DEFAULT, 'Voice 1, Voice 2, Voice 3', '1oqjDFRqS9z87r-n2CCoUP0iFQFRHcd-t', 1970),
