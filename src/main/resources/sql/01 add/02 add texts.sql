@@ -512,6 +512,7 @@ VALUES
 -- Musical
 
 -- Notre-Dame de Paris - Belle
+(DEFAULT, '18vEv6ZakyDcgS2RYIh1BLtEOvCK_nEIo', 9100),
 
 -- Folk
 
