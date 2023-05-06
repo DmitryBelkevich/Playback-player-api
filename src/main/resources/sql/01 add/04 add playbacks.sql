@@ -49,6 +49,8 @@ VALUES
 (DEFAULT, 'original', '1R8yWiUQIbtWI9WSzN7HIIuxnbBrvUXcC', 120),
 (DEFAULT, '+3', '1ySTX2WfEA9NeHHaBINGhKYpAh0DGw_VZ', 120),
 (DEFAULT, '0', '1y111jbIy84aVIaqVKPU8jmmRo4irhIHQ', 120),
+-- Ария - Там высоко
+(DEFAULT, 'original', '1m6IR0XMy9TTWqGGEQYqOeTJ9B7RGaoXk', 140),
 -- Ария - Улица роз
 (DEFAULT, 'original', '17ZINl5RliIUs0mpXp8_CfmPPZD9Y2iKm', 150),
 (DEFAULT, '0', '1y-ilaiPEzMRN5R4znpm7GOpDYQbKWwtp', 150),
