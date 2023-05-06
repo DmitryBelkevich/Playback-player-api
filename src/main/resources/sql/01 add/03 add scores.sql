@@ -2308,6 +2308,10 @@ VALUES
 (DEFAULT, 'Strings', '10N8ZNs-3P2dwjUmjiDzin3pnjPOu5FaS', 9040),
 (DEFAULT, 'Pad 2 (Warm)', '1j4fX6EXkUEw8274ACri5qopqiO5FnTiH', 9040),
 
+-- Musical
+
+-- Notre-Dame de Paris - Belle
+
 -- Folk
 
 -- Купалiнка

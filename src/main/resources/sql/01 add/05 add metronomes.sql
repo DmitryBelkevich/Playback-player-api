@@ -528,6 +528,10 @@ VALUES
 -- Стас Михайлов - Всё для тебя
 (DEFAULT, null, 4, 4, 138, 9040),
 
+-- Musical
+
+-- Notre-Dame de Paris - Belle
+
 -- Classic
 
 -- Ennio Morricone - Chi Mai

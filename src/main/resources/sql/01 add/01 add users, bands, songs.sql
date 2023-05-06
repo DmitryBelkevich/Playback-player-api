@@ -162,6 +162,8 @@ VALUES
 
     -- Musical
 
+    (395, 'Notre-Dame de Paris'),
+
     -- Folk
     (400, 'Белорусская народная песня'),
 
@@ -621,6 +623,8 @@ VALUES
     (9050, 'Свеча', 390, null),
 
     -- Musical
+
+    (9100, 'Belle', 395, null),
 
     -- Folk
 

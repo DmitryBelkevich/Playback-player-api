@@ -511,6 +511,8 @@ VALUES
 
 -- Musical
 
+-- Notre-Dame de Paris - Belle
+
 -- Folk
 
 -- Купалiнка
