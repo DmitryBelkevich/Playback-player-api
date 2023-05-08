@@ -29,7 +29,7 @@ VALUES
 -- Ария - Осколок льда
 (DEFAULT, '1dwlw_1sYJeFaJZSOk71tpi682478Yrjj', 120),
 -- Ария - Свобода
--- (DEFAULT, '', 130),
+(DEFAULT, '1Iljp6CWKi_woWEDBQLR8BG8L58DUas-m', 130),
 -- Ария - Там высоко
 (DEFAULT, '192h-TOqwMSW5IktB_fiSlfjEdRE3_G0E', 140),
 -- Ария - Улица роз
