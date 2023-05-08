@@ -160,6 +160,16 @@ VALUES
 (DEFAULT, 'Viola', '1sV_31zkURyvJapsOTIgRjRgA7483ktZT', 120),
 (DEFAULT, 'Violoncello', '1Si0ahsuYOTqDYZmZlfvR8UFUek_2h5Nf', 120),
 -- Ария - Там высоко
+(DEFAULT, 'Full Score', '1wjfcUn9nyUs5tG_SxJucOtTO-esq38y5', 140),
+(DEFAULT, 'Voice 1, Voice 2.3', '1wrWw37I34eNMCXG75fZb20SpOWvdvvh-', 140),
+(DEFAULT, 'Voice 1', '1Msk9q8eUKk8jVQz1Mv3_7zXnxHbgLUIP', 140),
+(DEFAULT, 'Voice 2.3', '1GlZcUcfdESCo72Sg_HwwJTtY-OPMTjlM', 140),
+(DEFAULT, 'Acoustic Guitar in B, Electric Guitar in B 1, Electric Guitar in B 2', '1SblBUbFj8CoUeD99Fp_x6I3wiJP9GTqY', 140),
+(DEFAULT, 'Acoustic Guitar in B', '1fYjwWAchbD6t8eHgjCZvwMYzhb7rv6gS', 140),
+(DEFAULT, 'Electric Guitar in B 1', '1eCj3ee8VUoukq0UPBlluJoFJwlU6btur', 140),
+(DEFAULT, 'Electric Guitar in B 2', '1AbiQenbqJ0n8nuU79Q8ZZN0fuu6aSheg', 140),
+(DEFAULT, 'Bass Guitar in B', '1Xx41ig87gbbCvir0XiInXZtIAMN3gVIq', 140),
+(DEFAULT, 'Drum Set', '1D48jlO3pEk05LB48sH-ehEJdvpGqf312', 140),
 -- Ария - Улица роз
 (DEFAULT, 'Full Score', '1GQhIyoGSA9YlN3GmGQyVN0tPjOb2ZA9N', 150),
 (DEFAULT, 'Voice', '1f7uybiM-NYlbv1VlpUu1asqueKeeO-0_', 150),
