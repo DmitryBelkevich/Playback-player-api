@@ -38,6 +38,8 @@ VALUES
 (DEFAULT, null, 4, 4, 71, 120),
 (DEFAULT, 'Solo 2', 2, 4, 71, 120),
 -- Ария - Там высоко
+(DEFAULT, null, 2, 4, 65, 140),
+(DEFAULT, 'Solo 1', 4, 4, 65, 140),
 -- Ария - Улица роз
 (DEFAULT, 'Intro, Verse, Pre-Chorus, Chorus, Break, Solo 1', 4, 4, 160, 150),
 (DEFAULT, 'Chorus, Solo 2', 2, 2, 80, 150),
