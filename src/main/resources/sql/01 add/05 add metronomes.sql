@@ -38,7 +38,7 @@ VALUES
 (DEFAULT, null, 4, 4, 71, 120),
 (DEFAULT, 'Solo 2', 2, 4, 71, 120),
 -- Ария - Свобода
-(DEFAULT, null, 4, 4, 0, 130),
+(DEFAULT, null, 4, 4, 108, 130),
 -- Ария - Там высоко
 (DEFAULT, null, 2, 4, 65, 140),
 (DEFAULT, 'Solo 1', 4, 4, 65, 140),
