@@ -51,6 +51,8 @@ VALUES
 (DEFAULT, '0', '1y111jbIy84aVIaqVKPU8jmmRo4irhIHQ', 120),
 -- Ария - Свобода
 (DEFAULT, 'original', '1lwfs137A8rzlXCTltU2n_XkluWSHFXbr', 130),
+(DEFAULT, '+1', '1SQjjQub_taX5zH6mZgPNmAKA8ahoKJTX', 130),
+(DEFAULT, '0', '1PjQDhELq52PlXhhAucg_NRsHsEbsY4uS', 130),
 -- Ария - Там высоко
 (DEFAULT, 'original', '1m6IR0XMy9TTWqGGEQYqOeTJ9B7RGaoXk', 140),
 -- Ария - Улица роз
