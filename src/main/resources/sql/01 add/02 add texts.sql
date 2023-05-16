@@ -344,6 +344,8 @@ VALUES
 (DEFAULT, '1t59tt8JO4WuKtDV0ByF3_lmqjEptfloK', 2240),
 -- Nautilus Pompilius - Я хочу быть с тобой
 (DEFAULT, '1E02LHvaWLLtgYsaFdBY9QczgbNs7X2Qy', 2245),
+-- Неприкасаемые - Напои меня водой
+(DEFAULT, '1SmoEsvqH3Zha1JJisN6KY6WE0cRJMzqG', 2252),
 -- Нервы - Батареи
 (DEFAULT, '1UA59OLgKJ84zAvq0we5txK4-GhFFo2tR', 2253),
 -- Нервы - Кофе - мой друг

@@ -488,6 +488,8 @@ VALUES
 (DEFAULT, 'original', '16Oi9d8d0e6OcwIZZHPsnTDDoAdQA-hN_', 2245),
 (DEFAULT, '0', '1A-gHqRqbp1T7GcNn3SJZEDcvp5oK0oIR', 2245),
 (DEFAULT, '-2', '1mb2MUBhLViP1HdCswCtLawKdsJfudPhU', 2245),
+-- Неприкасаемые - Напои меня водой
+(DEFAULT, 'original', '1S5p47gdgrxC20qErcCVITj8EBsKeikjI', 2252),
 -- Нервы - Батареи
 (DEFAULT, 'original', '10eW5QZqD_vHPu1sxe6_9WCTlLACObdZD', 2253),
 (DEFAULT, '0', '1kbcthrkP2NrwN2QDTSz8sUKgxdcSi1HZ', 2253),
