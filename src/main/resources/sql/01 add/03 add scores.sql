@@ -431,6 +431,7 @@ VALUES
 (DEFAULT, 'Bass Guitar', '1fHt2KwkR5bqgf0Gvley1WH-MJ6daEQW2', 1174),
 (DEFAULT, 'Drum Set', '1kiMxQTvW8nQ94tyhPz8waZlqiJ2Uq0Ti', 1174),
 (DEFAULT, 'FM Synth', '1lHcFaqQby96TDDxx-8Eb7p6QMJ-2Nj5k', 1174),
+-- Noize MC - На Марсе классно
 -- Zdob și Zdub - Видели ночь
 (DEFAULT, 'Full Score', '1gjhFlgwhfeEgZCuA1Nr0lI357gZQROjw', 1179),
 (DEFAULT, 'Voice 1.2, Voice 3.4', '1x24u7b759d2fuvAxtIXXwX0wIZ9OG02d', 1179),

@@ -105,6 +105,7 @@ VALUES
 -- Noize MC - Выдыхай
 (DEFAULT, 'Intro, Verse', 4, 4, 100, 1174),
 (DEFAULT, 'Chorus, Break, Outro', 2, 4, 100, 1174),
+-- Noize MC - На Марсе классно
 -- Zdob și Zdub - Видели ночь
 (DEFAULT, 'Intro, Coda', 4, 4, 60, 1179),
 (DEFAULT, 'Break, Verse, Chorus, Outro', 8, 8, 290, 1179),

@@ -93,6 +93,8 @@ VALUES
 (DEFAULT, '1ILt6TOdtB5SQ_XKT5ELPiD186VesJAWb', 1171),
 -- Noize MC - Выдыхай
 (DEFAULT, '15P64E9pAITW2KHbGG0Pc3e-TwKkXdOmu', 1174),
+-- Noize MC - На Марсе классно
+(DEFAULT, '1DN3wURAckqTwPTeoVTU3WMtyQZfFS8zw', 1176),
 -- Zdob și Zdub - Видели ночь
 (DEFAULT, '16iYpjV3ZROlmKNMS_bLsIVr5oJxqacGg', 1179),
 -- Агата Кристи - Как на войне
