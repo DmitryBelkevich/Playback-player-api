@@ -106,9 +106,9 @@ VALUES
 (DEFAULT, 'Intro, Verse', 4, 4, 100, 1174),
 (DEFAULT, 'Chorus, Break, Outro', 2, 4, 100, 1174),
 -- Zdob și Zdub - Видели ночь
-(DEFAULT, 'Intro, Coda', 4, 4, 60, 1178),
-(DEFAULT, 'Break, Verse, Chorus, Outro', 8, 8, 290, 1178),
-(DEFAULT, 'Verse 3, Chorus', 4, 4, 95, 1178),
+(DEFAULT, 'Intro, Coda', 4, 4, 60, 1179),
+(DEFAULT, 'Break, Verse, Chorus, Outro', 8, 8, 290, 1179),
+(DEFAULT, 'Verse 3, Chorus', 4, 4, 95, 1179),
 -- Агата Кристи - Как на войне
 (DEFAULT, null, 4, 4, 137, 1180),
 -- Агата Кристи - Никогда

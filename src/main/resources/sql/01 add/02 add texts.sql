@@ -94,7 +94,7 @@ VALUES
 -- Noize MC - Выдыхай
 (DEFAULT, '15P64E9pAITW2KHbGG0Pc3e-TwKkXdOmu', 1174),
 -- Zdob și Zdub - Видели ночь
-(DEFAULT, '16iYpjV3ZROlmKNMS_bLsIVr5oJxqacGg', 1178),
+(DEFAULT, '16iYpjV3ZROlmKNMS_bLsIVr5oJxqacGg', 1179),
 -- Агата Кристи - Как на войне
 (DEFAULT, '1RyOu58rkrFU4jGd1iUja4pjevEnoVzUf', 1180),
 -- Агата Кристи - Никогда
