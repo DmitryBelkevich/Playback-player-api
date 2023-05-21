@@ -432,6 +432,16 @@ VALUES
 (DEFAULT, 'Drum Set', '1kiMxQTvW8nQ94tyhPz8waZlqiJ2Uq0Ti', 1174),
 (DEFAULT, 'FM Synth', '1lHcFaqQby96TDDxx-8Eb7p6QMJ-2Nj5k', 1174),
 -- Noize MC - На Марсе классно
+(DEFAULT, 'Full Score', '1fj_kzWyq1Vz3FjESVWwP6oXCB9ysSxpR', 1176),
+(DEFAULT, 'Voice 1, Voice 2', '1nzjSc79rCWs24A7kT0NmgqxHxMi50cib', 1176),
+(DEFAULT, 'Voice 1', '1wRwoHsZIO34XgDG0g3LynK_zzdC7uSoU', 1176),
+(DEFAULT, 'Voice 2', '1WeKRQBEilvcEmQTTyMCuJ8ggHaXXJwPF', 1176),
+(DEFAULT, 'Electric Guitar 1, Electric Guitar 2', '1uzX-DSonc2OenWIEtWDNR-PPB2wqhYq7', 1176),
+(DEFAULT, 'Electric Guitar 1', '1wlVi7gF561W-gjjX2wnd87OikFfQ1DQr', 1176),
+(DEFAULT, 'Electric Guitar 2', '1ccadDi6K6E3Pvw3jRN4omkzOcsJdHirW', 1176),
+(DEFAULT, 'Bass Guitar', '12Qeor3Rw2ostMKqcluhuJ75ft9E79e0Q', 1176),
+(DEFAULT, 'Drum Set', '10ymsy9AaiITw5PxknszA4VxKgtxtu2YI', 1176),
+(DEFAULT, 'Strings', '1Ywh_MkVTtlzpwrtEddrqVRJttmLH_QT6', 1176),
 -- Zdob și Zdub - Видели ночь
 (DEFAULT, 'Full Score', '1gjhFlgwhfeEgZCuA1Nr0lI357gZQROjw', 1179),
 (DEFAULT, 'Voice 1.2, Voice 3.4', '1x24u7b759d2fuvAxtIXXwX0wIZ9OG02d', 1179),

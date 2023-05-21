@@ -106,6 +106,7 @@ VALUES
 (DEFAULT, 'Intro, Verse', 4, 4, 100, 1174),
 (DEFAULT, 'Chorus, Break, Outro', 2, 4, 100, 1174),
 -- Noize MC - На Марсе классно
+(DEFAULT, null, 2, 4, 91, 1176),
 -- Zdob și Zdub - Видели ночь
 (DEFAULT, 'Intro, Coda', 4, 4, 60, 1179),
 (DEFAULT, 'Break, Verse, Chorus, Outro', 8, 8, 290, 1179),
