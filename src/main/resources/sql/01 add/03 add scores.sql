@@ -366,6 +366,7 @@ VALUES
 (DEFAULT, 'Drum Set', '1d452rf34B3Myz80SzbDcsT7ei1GiZY4i', 1113),
 (DEFAULT, 'Piano', '1dqCJuSFPtXwji9TjFmh_uWAi4orcfPcM', 1113),
 -- The Rolling Stones - Paint It Black
+-- 7Б - Молодые ветра
 -- Animal ДжаZ - Три полоски
 (DEFAULT, 'Full Score', '1HL9_Zd2sl7t03kQ9RSjaw4A02zv0FoHl', 1125),
 (DEFAULT, 'Voice 1, Voice 2', '1BLzbgzD05PcrIMI_nAT0f9fjSWHzB6uM', 1125),

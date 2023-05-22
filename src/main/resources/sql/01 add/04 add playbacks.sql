@@ -113,6 +113,8 @@ VALUES
 (DEFAULT, 'original', '1a5i29mtQX35-cmFmM1z0rQ5mhXEuvdFM', 1113),
 -- The Rolling Stones - Paint It Black
 (DEFAULT, 'original', '1p3v8WEIPohHCUauA5OCmY_iPbaDvwsQM', 1115),
+-- 7Б - Молодые ветра
+(DEFAULT, 'original', '1Te8nlVUQhknv9iPRZrcT0KTyPlMcUxoJ', 1122),
 -- Animal ДжаZ - Три полоски
 (DEFAULT, 'original', '11FHM4hHS6tqdStEO3nKC3-F-Cwr3RnAx', 1125),
 (DEFAULT, '0', '1GwtNaeQA74cZt1ZMziWZWF861vYKZbix', 1125),

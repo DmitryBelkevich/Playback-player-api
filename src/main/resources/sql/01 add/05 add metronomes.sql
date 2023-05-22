@@ -88,6 +88,8 @@ VALUES
 (DEFAULT, null, 4, 4, 117, 1113),
 -- The Rolling Stones - Paint It Black
 (DEFAULT, null, 4, 4, 160, 1115),
+-- 7Б - Молодые ветра
+(DEFAULT, null, 4, 4, 0, 1122),
 -- Animal ДжаZ - Три полоски
 (DEFAULT, null, 4, 4, 108, 1125),
 -- BRUTTO - 12 обезьян
