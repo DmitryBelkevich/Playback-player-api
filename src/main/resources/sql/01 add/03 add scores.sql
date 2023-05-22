@@ -433,9 +433,9 @@ VALUES
 (DEFAULT, 'FM Synth', '1lHcFaqQby96TDDxx-8Eb7p6QMJ-2Nj5k', 1174),
 -- Noize MC - На Марсе классно
 (DEFAULT, 'Full Score', '1fj_kzWyq1Vz3FjESVWwP6oXCB9ysSxpR', 1176),
-(DEFAULT, 'Voice 1, Voice 2', '1nzjSc79rCWs24A7kT0NmgqxHxMi50cib', 1176),
+(DEFAULT, 'Voice 1, Voice 2 3.4.5.6.7.8. 9.10.11.12.13.14', '1nzjSc79rCWs24A7kT0NmgqxHxMi50cib', 1176),
 (DEFAULT, 'Voice 1', '1wRwoHsZIO34XgDG0g3LynK_zzdC7uSoU', 1176),
-(DEFAULT, 'Voice 2', '1WeKRQBEilvcEmQTTyMCuJ8ggHaXXJwPF', 1176),
+(DEFAULT, 'Voice 2 3.4.5.6.7.8. 9.10.11.12.13.14', '1WeKRQBEilvcEmQTTyMCuJ8ggHaXXJwPF', 1176),
 (DEFAULT, 'Electric Guitar 1, Electric Guitar 2', '1uzX-DSonc2OenWIEtWDNR-PPB2wqhYq7', 1176),
 (DEFAULT, 'Electric Guitar 1', '1wlVi7gF561W-gjjX2wnd87OikFfQ1DQr', 1176),
 (DEFAULT, 'Electric Guitar 2', '1ccadDi6K6E3Pvw3jRN4omkzOcsJdHirW', 1176),
