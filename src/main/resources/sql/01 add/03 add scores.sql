@@ -367,6 +367,22 @@ VALUES
 (DEFAULT, 'Piano', '1dqCJuSFPtXwji9TjFmh_uWAi4orcfPcM', 1113),
 -- The Rolling Stones - Paint It Black
 -- 7Б - Молодые ветра
+(DEFAULT, 'Full Score', '17bss4DumXKUjP6pLEgtuutqsVRireJaK', 1122),
+(DEFAULT, 'Voice 1, Voice 2', '1AsDz37Gdtz4w7jALu6iNxHyMREyEFgnt', 1122),
+(DEFAULT, 'Voice 1', '11JXw62Z1TO0s54OQUvo4OK1iSxftrlNN', 1122),
+(DEFAULT, 'Voice 2', '1SPpQSqV9jKWxXtLwP0vBvjsHNyLnKD7z', 1122),
+(DEFAULT, 'Acoustic Guitar, Electric Guitar', '1AM56Izh_yYMs-5ddek0EXjSfmy41M1Hi', 1122),
+(DEFAULT, 'Acoustic Guitar', '1zjNfxs5umHLE3cD5FuPNRff-9iwilzAY', 1122),
+(DEFAULT, 'Electric Guitar', '10AYsuqYCU1IfL9AFbxkWg4e0oMwqwLVg', 1122),
+(DEFAULT, '5-string Bass Guitar', '1UXKaYXgfEx7x1eegGkesuzQjiiZpPI7-', 1122),
+(DEFAULT, 'Drum Set, Tambourine, Bass Drum', '18h4xlmd0jx2LUsXGjrmPZqeAkWGGo3Fv', 1122),
+(DEFAULT, 'Drum Set', '1IZ3wIWYe3nFevDwjN52g5imSrGVa6VDK', 1122),
+(DEFAULT, 'Tambourine', '1vx_Rc3USM8NMM174TBJ1XrI0q3KxobKf', 1122),
+(DEFAULT, 'Bass Drum', '1r6IZB29qbYsV2mLxi-GSyap63EgjTTaf', 1122),
+(DEFAULT, 'Piano, Lead 1 (Square), Pad 2 (Warm)', '1HRiaHfxYP2EkQFf6sQbTidjNVm-uvgag', 1122),
+(DEFAULT, 'Piano', '1-S1J38kCZpP6lCSY7U7n3I7MJfhAUaa8', 1122),
+(DEFAULT, 'Lead 1 (Square)', '1BgdvZc_arjDqLds0xiYgxXaWVlmimmp1', 1122),
+(DEFAULT, 'Pad 2 (Warm)', '1AertgHBJ-q9eMA4NJnkHbExHJsGLSodw', 1122),
 -- Animal ДжаZ - Три полоски
 (DEFAULT, 'Full Score', '1HL9_Zd2sl7t03kQ9RSjaw4A02zv0FoHl', 1125),
 (DEFAULT, 'Voice 1, Voice 2', '1BLzbgzD05PcrIMI_nAT0f9fjSWHzB6uM', 1125),
