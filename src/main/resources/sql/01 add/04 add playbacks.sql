@@ -115,6 +115,7 @@ VALUES
 (DEFAULT, 'original', '1p3v8WEIPohHCUauA5OCmY_iPbaDvwsQM', 1115),
 -- 7Б - Молодые ветра
 (DEFAULT, 'original', '1Te8nlVUQhknv9iPRZrcT0KTyPlMcUxoJ', 1122),
+(DEFAULT, '0', '19MjIFKYJpCD3jO8x-kJTjoG7UoBnnrfI', 1122),
 -- Animal ДжаZ - Три полоски
 (DEFAULT, 'original', '11FHM4hHS6tqdStEO3nKC3-F-Cwr3RnAx', 1125),
 (DEFAULT, '0', '1GwtNaeQA74cZt1ZMziWZWF861vYKZbix', 1125),
