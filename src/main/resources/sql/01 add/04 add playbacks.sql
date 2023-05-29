@@ -231,6 +231,7 @@ VALUES
 -- Жуки - Батарейка
 -- Жуки - Влечение
 (DEFAULT, 'original', '15W3czzdUS8yX4_gFBpDxjN7SiPdwQlTW', 1510),
+(DEFAULT, '0', '10PrfUwJemUS3yLt9-PH5Cj975vsMCqtT', 1510),
 -- Звери - Всё, что касается
 (DEFAULT, 'original', '1b6_DTGyFiJjRB1IZACaS88mEKEYuIi8B', 1520),
 (DEFAULT, '0', '1AHZ0DVs7gu13uxD5eLOPgOAb-DoURQB6', 1520),
