@@ -705,6 +705,17 @@ VALUES
 (DEFAULT, 'Tambourine', '10N0O-TdtuZbgCnZ4Hsiuh8iIpshaIEA5', 1470),
 (DEFAULT, 'Violin', '1aHS6xOpKSv5iZ84RQVOwH_JfWoSiqGrs', 1470),
 -- Жуки - Влечение
+(DEFAULT, 'Full Score', '1pm5orT1azyRTXJp7i7s3Ve44F9jd-nZe', 1510),
+(DEFAULT, 'Voice 1, Voice 2', '1iRfZw7ESJvj3QmLHw2T6ffXDVNQJ0iH-', 1510),
+(DEFAULT, 'Voice 1', '1Fw8kX29tfM2iuqUpcF9yHFRNoqoTobo4', 1510),
+(DEFAULT, 'Voice 2', '1Vgk6li66B7x1S92vajg0MW7ZfCfQXdzv', 1510),
+(DEFAULT, 'Acoustic Guitar, Electric Guitar 1, Electric Guitar 2', '1nfG-nUH54SEW_ELQ8A9x2IZ4H9A4CdY6', 1510),
+(DEFAULT, 'Acoustic Guitar', '1PZyxLRsBqO14e4Is1yyDRSbpdaZpuJQd', 1510),
+(DEFAULT, 'Electric Guitar 1', '1OX1n9znfybgsmroS5uKI2Hp2gYsagQa6', 1510),
+(DEFAULT, 'Electric Guitar 2', '1fS5cPnZJSi3OTFw358W1xhyiyd6gwe96', 1510),
+(DEFAULT, 'Bass Guitar', '1rUciGghBHQCiZG5vm4thDDrAIqHNLQZK', 1510),
+(DEFAULT, 'Drum Set', '1PWS9J3bFg_kUivCmxY-nbGihfBbg489P', 1510),
+(DEFAULT, 'Electric Organ', '1V9blsT624RtR2he5ivhm9HYevj2HGj0d', 1510),
 -- Звери - Всё, что касается
 (DEFAULT, 'Full Score', '1zNluN1CgzMrB8NUa9VORR0xd4Mi833K3', 1520),
 (DEFAULT, 'Voice 1, Voice 2.3', '12bYQRJuBgVdSTAcIh4QypREx714XBQO-', 1520),
