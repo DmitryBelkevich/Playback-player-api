@@ -229,6 +229,8 @@ VALUES
 -- ДДТ - Это всё...
 (DEFAULT, 'original', '1d-kbiq9WJv9Z7RbG1muRajg4xrCiegtm', 1470),
 -- Жуки - Батарейка
+-- Жуки - Влечение
+(DEFAULT, 'original', '15W3czzdUS8yX4_gFBpDxjN7SiPdwQlTW', 1510),
 -- Звери - Всё, что касается
 (DEFAULT, 'original', '1b6_DTGyFiJjRB1IZACaS88mEKEYuIi8B', 1520),
 (DEFAULT, '0', '1AHZ0DVs7gu13uxD5eLOPgOAb-DoURQB6', 1520),
