@@ -704,6 +704,7 @@ VALUES
 (DEFAULT, 'Handclap', '1_gDjIxKo88v9KBXxpYMkI3XoRQmy9Ff1', 1470),
 (DEFAULT, 'Tambourine', '10N0O-TdtuZbgCnZ4Hsiuh8iIpshaIEA5', 1470),
 (DEFAULT, 'Violin', '1aHS6xOpKSv5iZ84RQVOwH_JfWoSiqGrs', 1470),
+-- Жуки - Влечение
 -- Звери - Всё, что касается
 (DEFAULT, 'Full Score', '1zNluN1CgzMrB8NUa9VORR0xd4Mi833K3', 1520),
 (DEFAULT, 'Voice 1, Voice 2.3', '12bYQRJuBgVdSTAcIh4QypREx714XBQO-', 1520),
