@@ -107,6 +107,8 @@ VALUES
 (DEFAULT, '1ioMOPIKqppfNx_tNX67ONu1lUGCHq1th', 1200),
 -- Алексин - Малолетние шалавы
 (DEFAULT, '1vayh9CHsO46ZU3pSGBLVEA9MLP9axNxK', 1210),
+-- Алиса - Трасса Е-95
+(DEFAULT, '1VX1PmTQLhHWom-yrw4G4B9ayqlTGoor4', 1220),
 -- АукцЫон - Дорога
 (DEFAULT, '1vxXVHZf-WXy6zc9KuTFlSPsnkfp1ob8W', 1230),
 -- Би-2 - Варвара

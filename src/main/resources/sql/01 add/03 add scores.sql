@@ -504,6 +504,7 @@ VALUES
 (DEFAULT, 'Acoustic Guitar', '1i_x7aeXwLNOW9SaE6YoO03G0T9xGxRg1', 1200),
 (DEFAULT, 'Fretless Bass Guitar', '1pXsvkuULwx8h-NnM-v5zCs7YI7A76H-L', 1200),
 (DEFAULT, 'Piccolo', '1MWnMxx-fyrWSZEM0hxtBxr45ZVrajWys', 1200),
+-- Алиса - Трасса Е-95
 -- АукцЫон - Дорога
 -- Би-2 - Варвара
 (DEFAULT, 'Full Score', '1hBEiUMbJS1G4afmreoj_0OMK-STfETMm', 1240),
