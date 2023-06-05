@@ -306,6 +306,8 @@ VALUES
 (DEFAULT, '19-rFZWto5BcGB4Bc8eNgl9ho8cGpiZo3', 2031),
 -- Ляпис Трубецкой - Золотая антилопа
 (DEFAULT, '1S9rnuthY2O9Eo8BMBGu7v6On3eTgI2td', 2035),
+-- Ляпис Трубецкой - Зорачкі
+(DEFAULT, '1n0Rtr2BIv6SH1KYSd7etfL2Bngk7v5We', 2037),
 -- Ляпис Трубецкой - Капитал
 (DEFAULT, '10DO8XBy4mWEQYzs-Qevk97iAzIWOafh8', 2040),
 -- Ляпис Трубецкой - Манифест

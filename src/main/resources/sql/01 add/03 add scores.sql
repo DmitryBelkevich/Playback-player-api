@@ -1490,6 +1490,7 @@ VALUES
 (DEFAULT, 'Drum Set', '1mswmNg7Eghvhlujb5SfuERvKC_f897uO', 2035),
 (DEFAULT, 'Tambourine', '1sgOapGP2wVNSyVt5vYG4qQKgplr1H9Vh', 2035),
 (DEFAULT, 'Trumpet in Bb, Trombone', '1blQPKYypThXf_OW2h3FWOrquasYrsw_x', 2035),
+-- Ляпис Трубецкой - Зорачкі
 -- Ляпис Трубецкой - Капитал
 (DEFAULT, 'Full Score', '1KadXCz0ML1wBlidIetxkhPpN9thu19Vn', 2040),
 (DEFAULT, 'Voice', '1sYgd4UNE9ZPucXIrwjyR1OU4-hoGuvRy', 2040),
