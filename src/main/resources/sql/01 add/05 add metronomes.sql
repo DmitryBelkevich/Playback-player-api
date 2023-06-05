@@ -120,7 +120,8 @@ VALUES
 -- Аквариум - Город золотой
 (DEFAULT, null, 2, 4, 65, 1200),
 -- Алиса - Трасса Е-95
-(DEFAULT, null, 4, 4, 120, 1220),
+(DEFAULT, 'Intro, Break, Verse', 2, 4, 120, 1220),
+(DEFAULT, 'Chorus, Outro', 4, 4, 120, 1220),
 -- АукцЫон - Дорога
 (DEFAULT, null, 6, 4, 130, 1230),
 -- Би-2 - Варвара

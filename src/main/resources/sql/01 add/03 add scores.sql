@@ -505,6 +505,19 @@ VALUES
 (DEFAULT, 'Fretless Bass Guitar', '1pXsvkuULwx8h-NnM-v5zCs7YI7A76H-L', 1200),
 (DEFAULT, 'Piccolo', '1MWnMxx-fyrWSZEM0hxtBxr45ZVrajWys', 1200),
 -- Алиса - Трасса Е-95
+(DEFAULT, 'Full Score', '11bBmbyjoE7NojPu16PgSDsOiSFOoAvex', 1220),
+(DEFAULT, 'Voice 1, Voice 2', '1p3umVERzvhGMvuYPy_dVIldvK39USXCH', 1220),
+(DEFAULT, 'Voice 1', '15DwfFZH9EebAtHpWbpRRiDZ-pr7CVIq1', 1220),
+(DEFAULT, 'Voice 2', '1e7jH0kPLsU2VqHYCKPzLHRFTPic0TEJm', 1220),
+(DEFAULT, 'Acoustic Guitar, Electric Guitar 1, Electric Guitar 2', '16FDPn6WS6-24LS-cNTOll9nfqJWOwSw8', 1220),
+(DEFAULT, 'Acoustic Guitar', '1PPcvBismtQEsD-c9DNGwx8q8BoMtR9Ft', 1220),
+(DEFAULT, 'Electric Guitar 1', '1EwgC0IYocNdMBuqw0rnPL2dPtm0AIvwa', 1220),
+(DEFAULT, 'Electric Guitar 2', '1bcL56J1bJ6HMSFBhNvuzSXWEiOppT9DQ', 1220),
+(DEFAULT, 'Bass Guitar', '1TLvNlGWq5zNIjh1KKav_IWdk0BSNcxXs', 1220),
+(DEFAULT, 'Drum Set, Tambourine', '1yDxZKDOAyTovT_NNxJBHJK4qlZc-K1tD', 1220),
+(DEFAULT, 'Drum Set', '16BIrrmXnsG-_Mv-BVlHg35PIgQ8Lbd1K', 1220),
+(DEFAULT, 'Tambourine', '1bEBckco0Qvq-KV92S82GHcNzVrj06UTY', 1220),
+(DEFAULT, 'Accordion', '1dI7jlB8vHdorrxIJSj35pNZKMPngIw4-', 1220),
 -- АукцЫон - Дорога
 -- Би-2 - Варвара
 (DEFAULT, 'Full Score', '1hBEiUMbJS1G4afmreoj_0OMK-STfETMm', 1240),
