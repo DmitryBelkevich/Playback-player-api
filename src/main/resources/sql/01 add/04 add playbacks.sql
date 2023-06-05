@@ -166,6 +166,7 @@ VALUES
 (DEFAULT, '-2', '1_91wLHOLYrLFEXs7waRC-ixYzoxgjy8X', 1200),
 -- Алиса - Трасса Е-95
 (DEFAULT, 'original', '1HdldRcx8Y3vZ0xtT-Ei4_7bJePkijPIw', 1220),
+(DEFAULT, '0', '1X1D2cnyXYa60sIx4kK_Y_H_FqFgzzof0', 1220),
 -- АукцЫон - Дорога
 (DEFAULT, 'original', '1q9DRF7o7diRj3tpDxJrexl9_41hioS2z', 1230),
 (DEFAULT, '0', '1xl9crJCQ64aaP5sEFrKrX25LdvCRX231', 1230),
