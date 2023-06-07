@@ -700,6 +700,8 @@ VALUES
 (DEFAULT, 'original', '1_vGMqVWwZvAT7sLJNpITKCBBcaaCkcKY', 8100),
 (DEFAULT, '0', '1wlHDu22rywGc5OvDFwmquO4Q24wooPQo', 8100),
 (DEFAULT, '-2', '1Cja_cMlr2gg-dFAOoEvbx1PPR_WP0JAq', 8100),
+-- Юрий Лоза - Плот
+(DEFAULT, 'original', '1weSqdPosnVCGljbGItLa_3zQBFCaVgMi', 8117),
 
 -- Chanson
 

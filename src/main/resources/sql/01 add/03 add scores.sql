@@ -2328,6 +2328,7 @@ VALUES
 (DEFAULT, 'Bass Guitar', '1nY-q0y_cVX-nLgl0NlIbCqqBWWakbU5Z', 8100),
 (DEFAULT, 'Drum Set', '1K9iM-eatwv5AMLxT_sMl4G1p_jHOlxl4', 8100),
 (DEFAULT, 'Piano', '1pjjnaxWpufB1fcQ8ju6qZ58x3q002pIn', 8100),
+-- Юрий Лоза - Плот
 
 -- Chanson
 

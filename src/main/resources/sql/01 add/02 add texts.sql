@@ -503,6 +503,8 @@ VALUES
 (DEFAULT, '1jU1OELMO1mB8-e40pxr9ibZ8DdPXGQIK', 8100),
 -- Татьяна Дасковская - Прекрасное далёко
 (DEFAULT, '163HW7ZpJBV5e54feoiwlDbQf4r1nptFz', 8110),
+-- Юрий Лоза - Плот
+(DEFAULT, '1dToFBBbGhAyH8vBVk_pz138SMD-cqFIz', 8117),
 -- Ярослав Евдокимов - Фантазёр
 (DEFAULT, '1aVMCjQqYjtUh4lka4jdx-BNudi3LBRIR', 8120),
 
