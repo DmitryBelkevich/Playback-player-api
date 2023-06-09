@@ -2329,6 +2329,24 @@ VALUES
 (DEFAULT, 'Drum Set', '1K9iM-eatwv5AMLxT_sMl4G1p_jHOlxl4', 8100),
 (DEFAULT, 'Piano', '1pjjnaxWpufB1fcQ8ju6qZ58x3q002pIn', 8100),
 -- Юрий Лоза - Плот
+(DEFAULT, 'Full Score', '1L63Vw3C0-jNbQYeMj31dFPAsXu3ihd6L', 8117),
+(DEFAULT, 'Voice 1, Voice 2.3', '178gFrJjWQTK6ZMUgEDY3mZVaByihigFi', 8117),
+(DEFAULT, 'Voice 1', '1Q55niYKRw2Y0pIELnPFWZ0QT0Q7sk_3L', 8117),
+(DEFAULT, 'Voice 2.3', '1bB3LZZttxwoL9Hm2WDrncq2wWKIe8pWR', 8117),
+(DEFAULT, 'Acoustic Guitar 1, Acoustic Guitar 2, Electric Guitar', '1B_mr2jcicRVqdzEy64jgDbUHEEuBi-FI', 8117),
+(DEFAULT, 'Acoustic Guitar 1', '1IzX1BgNer8R4FRczN4nN-EBB2A0sdNyL', 8117),
+(DEFAULT, 'Acoustic Guitar 2', '1tqG6z4LDaFs4o48xGpwwgnii-dukcqmT', 8117),
+(DEFAULT, 'Electric Guitar', '1iBeCv7gKraudm8UP8khLi9ZVIXdW8TEW', 8117),
+(DEFAULT, 'Bass Guitar', '1dG5uTLL5vJqEEh27lMoO8tEAn9_YYzAl', 8117),
+(DEFAULT, 'Drum Set, Tambourine', '10b8L6BoFJAfgpm5bYV6-Dj-XSMKoq2wf', 8117),
+(DEFAULT, 'Drum Set', '1guF-pE3OsdcXVBGZWFDTJ-dcEHxsUC0W', 8117),
+(DEFAULT, 'Tambourine', '1lLYQ6yH8dSJTVS4shDtwU9gPC9t6Ght9', 8117),
+(DEFAULT, 'Piano, FX 3 (Crystal), Bassoon, Strings, Pad 2 (Warm)', '1LMT2cEVikB2R7oPAwgcTZXke4LMu0fc2', 8117),
+(DEFAULT, 'Piano', '1rg3l5c5gxQwyXwh7wTcQi5wRecy7JSjt', 8117),
+(DEFAULT, 'FX 3 (Crystal)', '1tH6qUKdIONaUwZM-jMUzrh9f_Ce_6Zg4', 8117),
+(DEFAULT, 'Bassoon', '1RIaL28_6IHzYEcvcMHp1TPdUQBDqDIh5', 8117),
+(DEFAULT, 'Strings', '1hW8sAAjxec9rnuY16dUFRqewiSqZvPav', 8117),
+(DEFAULT, 'Pad 2 (Warm)', '1jTOyMahDUiojpQ9xxxKYnecLrpW7tDPv', 8117),
 
 -- Chanson
 
