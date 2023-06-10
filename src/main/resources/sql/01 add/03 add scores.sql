@@ -2076,7 +2076,7 @@ VALUES
 -- Avicii - Wake Me Up
 (DEFAULT, 'Full Score', '1VIOsnqP9m6Tkmb6f5zDgMCLG_cTzwTNF', 5002),
 (DEFAULT, 'Electric Guitar', '1zfexkRDfDbiI4cfP4pXPIt6smWGhfqh5', 5002),
-
+-- Céline Dion - My Heart Will Go On
 -- Coolio - Gangsta's Paradise
 (DEFAULT, 'Full Score', '1m6gS_xoOWGUBzxguuYDqFEXeiwuqLR8b', 5004),
 (DEFAULT, 'Voice 1, Voice 2, Voice 3', '1XBUv4OGup_uK79cYIbjzG4NkEodhhnjB', 5004),

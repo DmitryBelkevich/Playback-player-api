@@ -612,6 +612,7 @@ VALUES
 
 -- Alice Merton - No Roots
 (DEFAULT, 'original', '1zKkmIf6LTAORRgXGtA4aairbtsy2LAbA', 5000),
+-- Céline Dion - My Heart Will Go On
 -- Coolio - Gangsta's Paradise
 (DEFAULT, 'original', '1SC8Z3OLMrSP1oH88qS9KMS6dcgDMjlMM', 5004),
 (DEFAULT, '0', '1WcUz_97BxYYjyiRV68syznA4ikY6Xi7w', 5004),
