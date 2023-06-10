@@ -264,6 +264,8 @@ VALUES
 (DEFAULT, '0', '1Y0nAcZx1XLNkmvGeucgVaS_kUp6nfmBA', 1590),
 -- Игорь Корнелюк - Город, которого нет
 (DEFAULT, 'original', '12KHlhuGz7kD7R2GzFgdOCwbols8Ueu2H', 1595),
+(DEFAULT, '0', '1oW4hyF7Nwi3Z6XsuLDLZOG45jg7mBXmr', 1595),
+(DEFAULT, '-2', '1uOCmnZGf6kDyaoGspxw_0oetoxhgURVo', 1595),
 -- Кино - Апрель
 (DEFAULT, 'original', '1lbJ03vm5gd6cgCNaaVzl8ALSymkSA0_d', 1603),
 (DEFAULT, '0', '1bFFTeYOZyHw8pLKiYEoA5_LRO0VHrlPJ', 1603),
