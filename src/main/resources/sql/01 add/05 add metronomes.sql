@@ -465,7 +465,7 @@ VALUES
 -- Alice Merton - No Roots
 (DEFAULT, null, 4, 4, 116, 5000),
 -- Céline Dion - My Heart Will Go On
-(DEFAULT, null, 4, 4, 0, 5003),
+(DEFAULT, null, 2, 2, 50, 5003),
 -- Coolio - Gangsta's Paradise
 (DEFAULT, null, 2, 4, 80, 5004),
 -- Leonard Cohen - Hallelujah
