@@ -124,7 +124,6 @@ VALUES
 -- BRUTTO - 12 обезьян
 (DEFAULT, 'original', '1VLFscNbxvL7AFgwMMHwef4DLHr2O6E_J', 1130),
 (DEFAULT, '0', '1OngnvjBS4pTH6CjEsuAq2GRSG8nw_BX-', 1130),
-(DEFAULT, '-2', '1shRpIIQeov8Zm-hGe5-5Cge1V7JxpOBM', 1130),
 -- DREZDEN - Эдельвейс
 (DEFAULT, 'original', '1nVr62lWeXnu4O7I_NmbJeVaI8HyKUozV', 1140),
 -- Lumen - Гореть
@@ -355,11 +354,9 @@ VALUES
 -- Король и Шут - Дурак и молния
 (DEFAULT, 'original', '1a4DgfuiaB-irTmAmn-iW64kgBlaUgseG', 1740),
 (DEFAULT, '0', '1I806AnkGJB6ezB3LdKbi5d8V6PdClULE', 1740),
-(DEFAULT, '-2', '14-llEOfSkXxrUkFsk34OjJh4wqIMReCa', 1740),
 -- Король и Шут - Ели мясо мужики
 (DEFAULT, 'original', '1C1Ne1uam2icG1LvQ1SO0Tq9AiJLlZcSi', 1760),
 (DEFAULT, '0', '1cOeixT1l33q18K0a9efgRu5mDMoe2V5S', 1760),
-(DEFAULT, '-2', '1F5DdRpEv2sv4IWRkrupMxPRQWPsg7hNr', 1760),
 -- Король и Шут - Жаль, нет ружья!
 (DEFAULT, 'original', '1NvzZg9oaFODT-xkG3FXqV92ZCFkrrq85', 1770),
 (DEFAULT, '0', '1WiuXcOgrtxxPs0PdF-FQYAe089MoPWwX', 1770),
@@ -367,16 +364,12 @@ VALUES
 (DEFAULT, 'original', '15NPV7PyeHkBlmNY1SfkpO71SOGogQlG0', 1775),
 -- Король и Шут - Камнем по голове
 (DEFAULT, '0', '14ZREIU6Rt6Z10oimQ4S3iPBMvxQyRTgE', 1780),
-(DEFAULT, '-1', '1NDpE_bbxck-TG8z-jymLNRrrRCv7y-NQ', 1780),
-(DEFAULT, '-2', '1vuKM0mZe9E-pTLIMJrx0RstUQG_Ea-x2', 1780),
 -- Король и Шут - Кукла колдуна
 (DEFAULT, 'original', '1EKbTgfTx13wT-X7CGfKga63Xr1BDvZdn', 1790),
 (DEFAULT, '0', '1g-jm9usUFnXQoDVgJnFJFRNsEzdoAc9l', 1790),
-(DEFAULT, '-2', '1zbKgUOjJMNAHytdcPXp_wPq-PT8DbtRR', 1790),
 -- Король и Шут - Лесник
 (DEFAULT, 'original', '1Q-1rGHNMcSIAkaOgHu7r5kGW5u6AlAzp', 1800),
 (DEFAULT, '0', '1vWLUDuImcxf29qHDNGLeLtyfGR5SHmJu', 1800),
-(DEFAULT, '-2', '1UCihZ7rWxvYilO3wqpouXz6bzfePqPyV', 1800),
 -- Король и Шут - Мёртвый Анархист
 (DEFAULT, 'original', '1_a5-6MuaDVE3cDtsgncZL32lQ8jc0Eon', 1810),
 (DEFAULT, '0', '1TCnPcBkF12z8IL90GjBdeXCxBIzFk5V5', 1810),
@@ -389,11 +382,9 @@ VALUES
 -- Король и Шут - Проклятый старый дом
 (DEFAULT, 'original', '1ubGf2pFgLUAz7Xv8N7K4kkgv2zjXtQup', 1830),
 (DEFAULT, '0', '18qmcM03QaXLVnAhP1-Mk-PiZaOy1KyjN', 1830),
-(DEFAULT, '-2', '1ksge7sXVk4lIifheTe98G6i8RqFzOb_5', 1830),
 -- Король и Шут - Прыгну со скалы
 (DEFAULT, 'original', '1E3jUYAieNqbm-NXqKXEyto4TDi2bquCZ', 1835),
 (DEFAULT, '0', '1bRnGo2Qvq2R6NB4Tt4wjtLWbgYasp2Ej', 1835),
-(DEFAULT, '-2', '1ck1vE7Ia3yk61ug4msrYj3P4xMsQPyqx', 1835),
 -- Король и Шут - Танец злобного гения
 (DEFAULT, 'original', '1rNLY9uGD5zebru-bivTvaGkX3SfOZPPo', 1848),
 (DEFAULT, '0', '1KxdzLrOtyiw77_Q_bwMO4BlXK9KGpfuv', 1848),
