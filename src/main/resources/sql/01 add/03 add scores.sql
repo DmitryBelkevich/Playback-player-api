@@ -1154,6 +1154,7 @@ VALUES
 (DEFAULT, 'Electric Guitar', '1mJ-qqDQhB5m5z_8TtqFSeNjO8Baom-4x', 1720),
 (DEFAULT, 'Fretless Bass Guitar', '1tsOuSQ0PmnpMGnBjGMGeh_KF7tErRrSn', 1720),
 (DEFAULT, 'Drum Set', '1Y1OPEykiFEihXndnXYSl5aoPiKzSmYz6', 1720),
+-- Король и Шут - Валет и дама
 -- Король и Шут - Ведьма и осёл
 -- Король и Шут - Воспоминание о былой любви
 (DEFAULT, 'Full Score', '1mI8CDtEtNfULkAoJnlggW0UTrSuXmem1', 1726),

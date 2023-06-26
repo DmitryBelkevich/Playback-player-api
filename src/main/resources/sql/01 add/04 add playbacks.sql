@@ -336,6 +336,8 @@ VALUES
 -- Кино - Я объявляю свой дом
 (DEFAULT, 'original', '1EcrzgWuWD6UcODBMwESBc0Al3JCI_FA3', 1720),
 (DEFAULT, '0', '1EL8J_zj_HDa6XHB3wMo5hjGRetoScROa', 1720),
+-- Король и Шут - Валет и дама
+(DEFAULT, 'original', '11sGw7o_VLkIGMEG0s96FKEk9j4C2WcEK', 1721),
 -- Король и Шут - Ведьма и осёл
 (DEFAULT, 'original', '1-zoXaoppJ8gfAAdIxhD8PXn6l_mTv5J_', 1723),
 (DEFAULT, '0', '1U0kOJC5DiAKr-A36hInZ4fN3HlJm59Cs', 1723),
