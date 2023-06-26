@@ -238,6 +238,8 @@ VALUES
 (DEFAULT, '1uWZqXCm_AMZoWgtVfSe6vLTzMvjyGPNp', 1718),
 -- Кино - Я объявляю свой дом
 (DEFAULT, '12gfNhSI6bfhCWEvyZ0NjukhN5cNco5WN', 1720),
+-- Король и Шут - Валет и дама
+(DEFAULT, '12ax78te47JlC3DirZ7FkCZBFiqVxAB9a', 1721),
 -- Король и Шут - Ведьма и осёл
 (DEFAULT, '1e2Fs5KxqsCzQfr1ivYlLOGEekcO6Xd3o', 1723),
 -- Король и Шут - Воспоминание о былой любви
