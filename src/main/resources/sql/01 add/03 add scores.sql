@@ -1155,6 +1155,16 @@ VALUES
 (DEFAULT, 'Fretless Bass Guitar', '1tsOuSQ0PmnpMGnBjGMGeh_KF7tErRrSn', 1720),
 (DEFAULT, 'Drum Set', '1Y1OPEykiFEihXndnXYSl5aoPiKzSmYz6', 1720),
 -- Король и Шут - Валет и дама
+(DEFAULT, 'Full Score', '1eYjt0bcrBnyegBltq4cLSEMraTEkgcAt', 1721),
+(DEFAULT, 'Voice 1, Voice 2', '1wkMvVCo_uE3EbVN1-atvvJMZi3OcZDgM', 1721),
+(DEFAULT, 'Voice 1', '1wQbxB_ub3QGftNiUnQmXtTEqsw3ihcHJ', 1721),
+(DEFAULT, 'Voice 2', '1pFe5AP3IUUR0yBSzHODyCVXnZrl5_dYV', 1721),
+(DEFAULT, 'Electric Guitar 1, Electric Guitar 2, Electric Guitar 3', '19pI2Yns_VzGwhrqcuXNpQSK0x06dQK-i', 1721),
+(DEFAULT, 'Electric Guitar 1', '12ykOhBZkndQhls4yolrPEXugUTK757ci', 1721),
+(DEFAULT, 'Electric Guitar 2', '1U8lKR1fhiUfY_jEGVhOOmfnxbN4Si_O2', 1721),
+(DEFAULT, 'Electric Guitar 3', '1cH_1k18m_mM97lRHPBwGjaZUFnY6p-tO', 1721),
+(DEFAULT, 'Bass Guitar', '1UsDG1GAj9sJfQVQga1QyC1UrqeU0ibUN', 1721),
+(DEFAULT, 'Drum Set', '1cMw6bn5xRQgVionSvNGE9vcwsK364Ujp', 1721),
 -- Король и Шут - Ведьма и осёл
 -- Король и Шут - Воспоминание о былой любви
 (DEFAULT, 'Full Score', '1mI8CDtEtNfULkAoJnlggW0UTrSuXmem1', 1726),
