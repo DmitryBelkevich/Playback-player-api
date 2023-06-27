@@ -436,6 +436,7 @@ VALUES
 (DEFAULT, '0', '1MIdv-PonHmL7EkHAI59b-TnJsmxhchju', 2035),
 -- Ляпис Трубецкой - Зорачкі
 (DEFAULT, 'original', '1aT2Fem3d18yq9WNld8wpLfuASCCoYL8-', 2037),
+(DEFAULT, '0', '1Ia1sVbL4twORz91CrZhFJnVhGNMSh76d', 2037),
 -- Ляпис Трубецкой - Капитал
 (DEFAULT, 'original', '1IuRBaCdhtyEMe8G4Su0GrlFHFlgR-th1', 2040),
 (DEFAULT, '0', '1wfvO6pXXnmUifzY4MU-ypK6y4lB4uo3N', 2040),
