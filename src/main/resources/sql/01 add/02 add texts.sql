@@ -386,6 +386,8 @@ VALUES
 (DEFAULT, '18BIop-OrduXX3qPAVjtbVUmuInJ8R2RY', 2320),
 -- Сектор Газа - Туман
 (DEFAULT, '1dcEqgfBCl2ABVcwGlmTAs9lQFJSTpjnz', 2325),
+-- Сергей Бабкин - Забери
+(DEFAULT, '1CJShY3IGe12zPk2BhyD4Z8W0Jw-CP1im', 2329),
 -- Сергей Тихановcкий & Kosmas - Разбуры турмы муры
 -- (DEFAULT, '', 2330),
 -- Сергей Тихановcкий & Kosmas - Стены рухнут

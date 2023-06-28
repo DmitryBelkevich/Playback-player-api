@@ -554,6 +554,8 @@ VALUES
 -- Сектор Газа - Туман
 (DEFAULT, 'original', '1KmiuMyrSRQa7sg3SMAsKww4OcvavGBuX', 2325),
 (DEFAULT, '0', '1bdpyuCKN9v7NA1qb0pUL9y6o0uwJRHlX', 2325),
+-- Сергей Бабкин - Забери
+(DEFAULT, 'original', '1efaDBxgYtimHItJGsjhuFnR2-tKLlnAZ', 2329),
 -- Сергей Тихановcкий & Kosmas - Разбуры турмы муры
 (DEFAULT, 'original', '1VEyAlIKFCcQ9jVc4cvkhuPHRXpPNygri', 2330),
 (DEFAULT, '0', '1E-myP2M7zOkpOgp3mBgY1fA5TZYnHhbJ', 2330),
