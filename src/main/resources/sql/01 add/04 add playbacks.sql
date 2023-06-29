@@ -374,6 +374,8 @@ VALUES
 -- Король и Шут - Лесник
 (DEFAULT, 'original', '1Q-1rGHNMcSIAkaOgHu7r5kGW5u6AlAzp', 1800),
 (DEFAULT, '0', '1vWLUDuImcxf29qHDNGLeLtyfGR5SHmJu', 1800),
+-- Король и Шут - Медведь
+(DEFAULT, 'original', '1vYu7K_40o5xM9N0Y__Cr-Mu6GtfCKcNv', 1805),
 -- Король и Шут - Мёртвый Анархист
 (DEFAULT, 'original', '1_a5-6MuaDVE3cDtsgncZL32lQ8jc0Eon', 1810),
 (DEFAULT, '0', '1TCnPcBkF12z8IL90GjBdeXCxBIzFk5V5', 1810),

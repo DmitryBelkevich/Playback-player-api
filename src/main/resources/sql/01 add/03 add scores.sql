@@ -1271,6 +1271,7 @@ VALUES
 (DEFAULT, 'Electric Guitar 2', '17XVGBrnSHRvOh_lQcpwad43pCM_priG8', 1800),
 (DEFAULT, 'Bass Guitar', '1N9MlTOqESbmMqI8fhUy1DcylUKAeC_ur', 1800),
 (DEFAULT, 'Drum Set', '1DlIZqupSS1mPghV13ZzIKp7exEOdIp7C', 1800),
+-- Король и Шут - Медведь
 -- Король и Шут - Мёртвый Анархист
 (DEFAULT, 'Full Score', '1A8t-nSPh_7jpoRUVVikE1Pj5NfgdpWTz', 1810),
 (DEFAULT, 'Voice 1, Voice 2, Voice 3', '1o8vRSeE4-OCbhAWGuf9TXt3qh12d8RYu', 1810),

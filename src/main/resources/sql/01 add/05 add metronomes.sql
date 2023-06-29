@@ -286,6 +286,8 @@ VALUES
 (DEFAULT, 'Intro, Break, Chorus', 4, 4, 173, 1800),
 (DEFAULT, 'Verse', 2, 4, 173, 1800),
 (DEFAULT, 'Outro', 2, 2, 86, 1800),
+-- Король и Шут - Медведь
+(DEFAULT, null, 4, 4, 0, 1805),
 -- Король и Шут - Мёртвый Анархист
 (DEFAULT, 'Intro, Outro', 2, 2, 62, 1810),
 (DEFAULT, 'Chorus', 4, 4, 125, 1810),
@@ -426,7 +428,7 @@ VALUES
 -- Сектор Газа - Туман
 (DEFAULT, null, 4, 4, 160, 2325),
 -- Сергей Бабкин - Забери
-(DEFAULT, null, 4, 4, 0, 2329),
+(DEFAULT, null, 2, 2, 55, 2329),
 -- Сергей Тихановcкий & Kosmas - Разбуры турмы муры
 (DEFAULT, null, 6, 8, 69, 2330),
 -- Сергей Тихановcкий & Kosmas - Стены рухнут
