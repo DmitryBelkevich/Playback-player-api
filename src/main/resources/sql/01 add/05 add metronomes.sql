@@ -287,7 +287,7 @@ VALUES
 (DEFAULT, 'Verse', 2, 4, 173, 1800),
 (DEFAULT, 'Outro', 2, 2, 86, 1800),
 -- Король и Шут - Медведь
-(DEFAULT, null, 4, 4, 0, 1805),
+(DEFAULT, null, 4, 4, 125, 1805),
 -- Король и Шут - Мёртвый Анархист
 (DEFAULT, 'Intro, Outro', 2, 2, 62, 1810),
 (DEFAULT, 'Chorus', 4, 4, 125, 1810),
