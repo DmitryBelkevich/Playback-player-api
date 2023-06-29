@@ -1941,6 +1941,10 @@ VALUES
 (DEFAULT, 'Bass Guitar', '1O1GFKDUIq_BH0HbXoLkS3d-upypWOSNy', 2325),
 (DEFAULT, 'Drum Set', '1KXTvKkb6FxqNSx5epwIMmP1MEqtLEoLn', 2325),
 -- Сергей Бабкин - Забери
+(DEFAULT, 'Full Score', '1Cz9piUjuZeI84fydklMfUCD7khWx-NOW', 2329),
+(DEFAULT, 'Voice', '1nNSEHWGJnRaXLVgiLb0hinIgFHj5pV8D', 2329),
+(DEFAULT, 'Acoustic Guitar', '1f6sdEii5_6epac6jz8z0d3KxcNJ_WrPa', 2329),
+(DEFAULT, 'Clarinet in Bb', '1Tn9No6Gp2kLBfyqBWJF3GfVlsGYTedKO', 2329),
 -- Сергей Тихановcкий & Kosmas - Разбуры турмы муры
 (DEFAULT, 'Full Score', '1AohRuxB41Wogr6hxh_AXI8U7A3_MDyxG', 2330),
 (DEFAULT, 'Voice 1.2', '1wkJGz6JNYUOstTgXNYqYr8uE4ngsz0G5', 2330),
