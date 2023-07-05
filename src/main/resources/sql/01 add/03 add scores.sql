@@ -1346,6 +1346,15 @@ VALUES
 (DEFAULT, 'Violin 2', '1R8BlMVsxkMYay501Mt2MTJVYjmeN9lko', 1835),
 (DEFAULT, 'Violin 3', '14ZXsvjwONKo_O3vdf_yVBtbJvdgzQ-5x', 1835),
 -- Король и Шут - Сапоги мертвеца
+(DEFAULT, 'Full Score', '15Q269rOMbj2ZYgdPEHiSP8rYaAkU9sM-', 1846),
+(DEFAULT, 'Voice 1, Voice 2', '1MV32zKYbnx_P1NWWXISWPyjsTn5IzHnh', 1846),
+(DEFAULT, 'Voice 1', '1EkqlBVo_Y7XvxLLuNxyqm_R5FSQMslZr', 1846),
+(DEFAULT, 'Voice 2', '1kikovj_Wei6cWbjCjpJp6unDgy_c-Jkp', 1846),
+(DEFAULT, 'Electric Guitar 1, Electric Guitar 2', '1CVLzJdOe0r_xwpDgeuYxUOpdwBVCx_De', 1846),
+(DEFAULT, 'Electric Guitar 1', '1anLO7NYKAKrqq5_NxDmzpkojA-BJsVoQ', 1846),
+(DEFAULT, 'Electric Guitar 2', '1hTFs0Rm3QTUjbCbHv2O9BdhfrbvuvS7q', 1846),
+(DEFAULT, 'Bass Guitar', '1kXGU8nMtOyK0Ze_z82qgSgXr6RbtIx7R', 1846),
+(DEFAULT, 'Drum Set', '1Ju2hgTcH091AnWuord8dhnfNH7sLZ-lp', 1846),
 -- Король и Шут - Танец злобного гения
 (DEFAULT, 'Full Score', '1hFnYqcncdpiXKVwlpOVIj_FySIrvQQ7G', 1848),
 (DEFAULT, 'Voice 1, Voice 2', '1PNEmfjRw1ytK4vuluxtQ2CCMmDIbjYrH', 1848),
