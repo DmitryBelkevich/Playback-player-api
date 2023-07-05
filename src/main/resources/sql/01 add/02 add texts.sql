@@ -276,6 +276,8 @@ VALUES
 (DEFAULT, '1RuJJGH48mhyJU9Hn8v66jKxYR6hR5ZJU', 1830),
 -- Король и Шут - Прыгну со скалы
 (DEFAULT, '1BD8F9mIDJ77ZUlne-mEBlFdehFoxC0a9', 1835),
+-- Король и Шут - Садовник
+(DEFAULT, '1F9R9cfYG6wkuIOzq1fwmykTlVlEQ95kK', 1845),
 -- Король и Шут - Сапоги мертвеца
 (DEFAULT, '1M6OTA3jPDzCHMgESPAucF-cDTxl_q9kg', 1846),
 -- Король и Шут - Танец злобного гения

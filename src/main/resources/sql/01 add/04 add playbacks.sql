@@ -392,6 +392,8 @@ VALUES
 -- Король и Шут - Прыгну со скалы
 (DEFAULT, 'original', '1E3jUYAieNqbm-NXqKXEyto4TDi2bquCZ', 1835),
 (DEFAULT, '0', '1bRnGo2Qvq2R6NB4Tt4wjtLWbgYasp2Ej', 1835),
+-- Король и Шут - Садовник
+(DEFAULT, 'original', '1krWJr4-lE4ZWUVRMs55DQTOu1Japg8hD', 1845),
 -- Король и Шут - Сапоги мертвеца
 (DEFAULT, 'original', '1zWj9I36MQg6vjztSlILPen-sAKdZ5yCo', 1846),
 (DEFAULT, '0', '1vbGeyVM4mA11l5eMCrHXqcuyqtLNbeb_', 1846),
