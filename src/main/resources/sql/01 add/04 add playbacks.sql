@@ -394,6 +394,7 @@ VALUES
 (DEFAULT, '0', '1bRnGo2Qvq2R6NB4Tt4wjtLWbgYasp2Ej', 1835),
 -- Король и Шут - Сапоги мертвеца
 (DEFAULT, 'original', '1zWj9I36MQg6vjztSlILPen-sAKdZ5yCo', 1846),
+(DEFAULT, '0', '1vbGeyVM4mA11l5eMCrHXqcuyqtLNbeb_', 1846),
 -- Король и Шут - Танец злобного гения
 (DEFAULT, 'original', '1rNLY9uGD5zebru-bivTvaGkX3SfOZPPo', 1848),
 (DEFAULT, '0', '1KxdzLrOtyiw77_Q_bwMO4BlXK9KGpfuv', 1848),
