@@ -1346,6 +1346,17 @@ VALUES
 (DEFAULT, 'Violin 2', '1R8BlMVsxkMYay501Mt2MTJVYjmeN9lko', 1835),
 (DEFAULT, 'Violin 3', '14ZXsvjwONKo_O3vdf_yVBtbJvdgzQ-5x', 1835),
 -- Король и Шут - Садовник
+(DEFAULT, 'Full Score', '1FYxRmWiRiwV4GLoTXh_TjCga4Tq0TBws', 1845),
+(DEFAULT, 'Voice 1, Voice 2', '1Y1il0aWTIEiPu5vv7YxcAa8ibxDraSP6', 1845),
+(DEFAULT, 'Voice 1', '16h7U39vHHZrPd6Gp1iFWG4IZnzb8lnIl', 1845),
+(DEFAULT, 'Voice 2', '1yUyGGzHlPw4830bv8FD2v4Q8co_urZWD', 1845),
+(DEFAULT, 'Electric Guitar 1, Electric Guitar 2, Electric Guitar 3', '1jvNE9BKjAi7InyhJCZ-uKl_ruVhl8134', 1845),
+(DEFAULT, 'Electric Guitar 1', '17Pqx8m1nJ_khOq6aHu_EwputbM0BY3H4', 1845),
+(DEFAULT, 'Electric Guitar 2', '13nbm8CN44K-qZ_sOaIZJcALYQVLp14Mb', 1845),
+(DEFAULT, 'Electric Guitar 3', '17qQPwYZg6iGRrMNmTj15iK4eSRgJZjOI', 1845),
+(DEFAULT, 'Bass Guitar', '1kYXtws85--d5w_dDCOXacRkaHvwBjuuH', 1845),
+(DEFAULT, 'Drum Set', '1Ym6o5_3BwaCyr0cxDf7dlJ3-XOpKQa5H', 1845),
+(DEFAULT, 'Electric Organ', '1cOZkaLvnn_T_ru0FtDbCwhOVtC9cVRN3', 1845),
 -- Король и Шут - Сапоги мертвеца
 (DEFAULT, 'Full Score', '15Q269rOMbj2ZYgdPEHiSP8rYaAkU9sM-', 1846),
 (DEFAULT, 'Voice 1, Voice 2', '1MV32zKYbnx_P1NWWXISWPyjsTn5IzHnh', 1846),
