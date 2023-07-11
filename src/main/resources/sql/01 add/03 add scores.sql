@@ -1259,10 +1259,9 @@ VALUES
 (DEFAULT, 'Electric Guitar 3', '1WsCXI3tZ-zwb_K5Upg_UYvuFtP4-OY11', 1790),
 (DEFAULT, 'Bass Guitar', '1hzhto3xW1f6Pz2YkthUSg9VnghahEXAy', 1790),
 (DEFAULT, 'Drum Set', '15nLat0ctyA0yNtEU_vLKbtt1tXLGGowO', 1790),
-(DEFAULT, 'Violin 1, Violin 2, Violin 3', '1LmajkO3x9HBnS2KI6w6394kyUXHIFiko', 1790),
+(DEFAULT, 'Violin 1, Violin 2', '1LmajkO3x9HBnS2KI6w6394kyUXHIFiko', 1790),
 (DEFAULT, 'Violin 1', '1wrOVVibsHgIKOHVZXxPwfLx7Un2oai4d', 1790),
 (DEFAULT, 'Violin 2', '18qCyAu5hUOK5DLl4hAYPdM2q_iXeD_7y', 1790),
-(DEFAULT, 'Violin 3', '1CsEgpzrpve4zzkjyyYfzDRljMD1M9UVA', 1790),
 -- Король и Шут - Лесник
 (DEFAULT, 'Full Score', '1s8QF-EBE1TffkSz4QQIxwCwcXecrMA-0', 1800),
 (DEFAULT, 'Voice', '1SzerSlCnFcT0yw6hnAr7uqAai7s5zZTN', 1800),
