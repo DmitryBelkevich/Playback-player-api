@@ -364,6 +364,8 @@ VALUES
 (DEFAULT, '1SmoEsvqH3Zha1JJisN6KY6WE0cRJMzqG', 2252),
 -- Нервы - Батареи
 (DEFAULT, '1UA59OLgKJ84zAvq0we5txK4-GhFFo2tR', 2253),
+-- Нервы - Кому ты звонишь
+(DEFAULT, '1jxcTEhFoH_oXhEVNOJWrGdD-HmWeYDAN', 2255),
 -- Нервы - Кофе - мой друг
 (DEFAULT, '1mtWxpazMZ4IasyGv7XyqtG21hAA4KUdZ', 2256),
 -- Нервы - Самый дорогой человек

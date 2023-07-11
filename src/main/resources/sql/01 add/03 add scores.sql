@@ -1834,6 +1834,7 @@ VALUES
 (DEFAULT, 'Electric Guitar 2', '1pVIw-YeQUcnN6l1gpq0nl6qL0iaUllEl', 2253),
 (DEFAULT, 'Bass Guitar', '188ic_mj8YN0g9L13XlfeLKbvnIFfl_lJ', 2253),
 (DEFAULT, 'Drum Set', '1HAmjDWeOH-UM3Ip6dn68goeqZWboQoQz', 2253),
+-- Нервы - Кому ты звонишь
 -- Нервы - Кофе - мой друг
 (DEFAULT, 'Full Score', '1q79_JPnYFamQnWsf3UDS9IPKr89iuSF4', 2256),
 (DEFAULT, 'Voice', '1Y0bCMStcsJJA9TwlwG2G-D-ClQg6UwDz', 2256),
