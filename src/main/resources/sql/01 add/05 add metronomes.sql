@@ -404,7 +404,8 @@ VALUES
 (DEFAULT, 'Intro, Verse, Chorus, Break', 4, 4, 150, 2253),
 (DEFAULT, 'Break, Chorus', 2, 2, 75, 2253),
 -- Нервы - Кому ты звонишь
-(DEFAULT, null, 4, 4, 0, 2255),
+(DEFAULT, 'Chorus', 2, 4, 71, 2255),
+(DEFAULT, 'Verse', 4, 4, 71, 2255),
 -- Нервы - Кофе - мой друг
 (DEFAULT, null, 4, 4, 75, 2256),
 -- Нервы - Самый дорогой человек
