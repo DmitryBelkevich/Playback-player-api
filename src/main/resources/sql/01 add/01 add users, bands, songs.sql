@@ -240,7 +240,7 @@ VALUES
     (1110, 'Self Esteem', 85, 'Am'),
 
     (1113, 'Every Breath You Take', 86, 'A'),
-    (1115, 'Paint It Black', 87, null),
+    (1115, 'Paint It Black', 87, 'Em'),
 
     (1122, 'Молодые ветра', 90, 'Bm'),
     (1125, 'Три полоски', 92, 'Dm'),
