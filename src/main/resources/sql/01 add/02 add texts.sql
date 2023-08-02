@@ -338,6 +338,8 @@ VALUES
 (DEFAULT, '1pLWbNKK01oHonf9yQk6KMMSKack3lgtt', 2130),
 -- Ляпис Трубецкой - Я верю
 (DEFAULT, '1cRWUgp0kLuD1gycmz6EPDGfzCB3AeNg_', 2140),
+-- Маша и Медведи - Земля
+(DEFAULT, '17xP077xeTVZqXLnfzcjbT4jStJzNqvNx', 2145),
 -- Мумий Тролль - Владивосток 2000
 (DEFAULT, '1Lp4x49dw1LFzzct_gLN8WFVtvG1eEDLv', 2150),
 -- Мумий Тролль - Медведица
