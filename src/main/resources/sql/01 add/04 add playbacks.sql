@@ -113,6 +113,7 @@ VALUES
 (DEFAULT, 'original', '1a5i29mtQX35-cmFmM1z0rQ5mhXEuvdFM', 1113),
 -- The Rolling Stones - Paint It Black
 (DEFAULT, 'original', '1p3v8WEIPohHCUauA5OCmY_iPbaDvwsQM', 1115),
+(DEFAULT, '0', '1UQVQOAD-D7QXYsG8Cq9g4hdWENN0ujNA', 1115),
 -- 7Б - Молодые ветра
 (DEFAULT, 'original', '1Te8nlVUQhknv9iPRZrcT0KTyPlMcUxoJ', 1122),
 (DEFAULT, '0', '19MjIFKYJpCD3jO8x-kJTjoG7UoBnnrfI', 1122),

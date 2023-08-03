@@ -653,6 +653,12 @@ VALUES
     (10300, 'Flight of the Bumblebee (Act III)', 440, 'Am'),
     (10500, 'Summer Presto', 460, 'Gm');
 
+-- Rock:
+
+-- Король и Шут - Тайна хозяйки старинных часов
+-- Король и Шут - Утопленник
+-- Порнофильмы - Молодость
+
 -- Romance:
 
 -- Francis Lai - Theme from Love Story
