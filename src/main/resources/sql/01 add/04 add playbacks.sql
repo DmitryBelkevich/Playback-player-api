@@ -766,7 +766,9 @@ VALUES
 -- Bach Johann Sebastian - Suite in E minor, BWV 996 - Bourree
 -- Gomez Vicente - Romance de Amor
 -- Oginski Michal Kleofas - Polonaise
-(DEFAULT, '0', '12ual_oeoPtD4p2ffsz1sEKnET_hVUVOw', 10200);
+(DEFAULT, '0', '12ual_oeoPtD4p2ffsz1sEKnET_hVUVOw', 10200),
 -- Paganini Nicolo - Caprice №24, Op.1
 -- Rimsky-Korsakov Nikolai - Flight of the Bumblebee (Act III)
 -- Vivaldi - Summer Presto
+
+(DEFAULT, 'original', '109ODHLeeVuSxKgEoo_5ONe_QPjCW3MoT', 20000);

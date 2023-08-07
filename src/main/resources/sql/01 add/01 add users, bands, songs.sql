@@ -180,7 +180,9 @@ VALUES
     (430, 'Oginski Michal Kleofas'),
     (435, 'Paganini Nicolo'),
     (440, 'Rimsky-Korsakov Nikolai'),
-    (460, 'Vivaldi Antonio');
+    (460, 'Vivaldi Antonio'),
+
+    (1000, 'Test');
 
 -- songs
 
@@ -651,7 +653,9 @@ VALUES
     (10200, 'Polonaise', 430, 'Am'),
     (10250, 'Caprice №24, Op.1', 435, 'Am'),
     (10300, 'Flight of the Bumblebee (Act III)', 440, 'Am'),
-    (10500, 'Summer Presto', 460, 'Gm');
+    (10500, 'Summer Presto', 460, 'Gm'),
+
+    (20000, 'Test', 1000, null);
 
 -- Rock:
 
