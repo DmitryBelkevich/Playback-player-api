@@ -120,8 +120,6 @@ VALUES
 -- Animal ДжаZ - Три полоски
 (DEFAULT, 'original', '11FHM4hHS6tqdStEO3nKC3-F-Cwr3RnAx', 1125),
 (DEFAULT, '0', '1GwtNaeQA74cZt1ZMziWZWF861vYKZbix', 1125),
-(DEFAULT, '-2', '1WQRJfhEOVAZAyvEXOmvMqGNH1BPMEEF5', 1125),
-(DEFAULT, '-3', '1i_HWqPtPraL0MEML0rWeHrMq-tyUJFDO', 1125),
 -- BRUTTO - 12 обезьян
 (DEFAULT, 'original', '1VLFscNbxvL7AFgwMMHwef4DLHr2O6E_J', 1130),
 (DEFAULT, '0', '1OngnvjBS4pTH6CjEsuAq2GRSG8nw_BX-', 1130),
