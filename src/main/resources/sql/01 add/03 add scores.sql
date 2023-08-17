@@ -519,6 +519,16 @@ VALUES
 (DEFAULT, 'Tambourine', '1bEBckco0Qvq-KV92S82GHcNzVrj06UTY', 1220),
 (DEFAULT, 'Accordion', '1dI7jlB8vHdorrxIJSj35pNZKMPngIw4-', 1220),
 -- АукцЫон - Дорога
+(DEFAULT, 'Full Score', '1Dj_gYmlhvGSorOhVgyx1i9BHnpXWsh-h', 1230),
+(DEFAULT, 'Voice', '1_Sq0YdhG3DcygHJ7h4VUQf0z9UX2_BZV', 1230),
+(DEFAULT, 'Acoustic Guitar, Electric Guitar, Bass Guitar', '1IYz7KH6A5l9YMb16s0d3oeVQ-CXHcMju', 1230),
+(DEFAULT, 'Acoustic Guitar', '1xKIPqaNzLGNXXCYQBEbqxSp_VBAapCxt', 1230),
+(DEFAULT, 'Electric Guitar', '1K4-4oqa4UO1HTH4XP_F8s9-6sU4NAvbG', 1230),
+(DEFAULT, 'Bass Guitar', '1EuQq3SxEshLptWQKVpE0WgEzpKztx_tP', 1230),
+(DEFAULT, 'Drum Set', '1AGCs3wN2RGR3zH6XGH_VpLb-iSAhdNAB', 1230),
+(DEFAULT, 'Baritone Saxophone, Electric Organ', '1rGjEIsAHHShmJCkwbNtGu9THCL6ZpXRS', 1230),
+(DEFAULT, 'Baritone Saxophone', '1E8MSx9KTCznc8YESJZf2GLMuUIT_yKhx', 1230),
+(DEFAULT, 'Electric Organ', '15ILo7FXNq4nTPGgRZ8N53l96N9DM7e10', 1230),
 -- Би-2 - Варвара
 (DEFAULT, 'Full Score', '1hBEiUMbJS1G4afmreoj_0OMK-STfETMm', 1240),
 (DEFAULT, 'Voice 1, Voice 2', '1827OGVprnzMiaW3W_JBzi0jz0drusiuT', 1240),
