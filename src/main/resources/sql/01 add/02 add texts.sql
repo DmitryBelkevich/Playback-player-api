@@ -42,6 +42,8 @@ VALUES
 (DEFAULT, '1W7nl3U-5883MKEtpJGnRVxMFif5vLGhc', 175),
 -- Слот - Круги на воде
 (DEFAULT, '1HeTPP8lo7ym9mSEEDoxS6PzipOlxspEA', 180),
+-- Stigmata - Сентябрь
+(DEFAULT, '1NuNP7FGiQdu0WTeIGhddRKgefOwHRicr', 185),
 -- Эпидемия - Эпилог
 (DEFAULT, '1vpKtaNFOsBrmM7AqjVj0OoDZH1o9Tz1B', 200),
 

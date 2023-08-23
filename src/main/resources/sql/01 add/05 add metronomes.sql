@@ -54,6 +54,7 @@ VALUES
 (DEFAULT, null, 4, 4, 96, 175),
 -- Слот - Круги на воде
 (DEFAULT, null, 4, 4, 71, 180),
+-- Stigmata - Сентябрь
 -- Эпидемия - Эпилог
 (DEFAULT, 'Intro', 2, 2, 65, 200),
 (DEFAULT, 'Variation 2', 4, 4, 130, 200),

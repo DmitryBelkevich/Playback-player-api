@@ -242,6 +242,7 @@ VALUES
 (DEFAULT, '5-string Bass Guitar', '1AczV33ebgfAwXrwUw90tFZV2KAHNx98V', 180),
 (DEFAULT, 'Drum Set', '1O71Qv4HxrTq184_dbOdKWW21-APOUwRM', 180),
 (DEFAULT, 'Keyboard', '1sv3mZSyqhnJVYv2q8tNlC2ZCDdSCnFU1', 180),
+-- Stigmata - Сентябрь
 -- Эпидемия - Эпилог
 (DEFAULT, 'Full Score', '1JLCqtkDxeI8Wu8slktBNN_ao_tsk1yUl', 200),
 (DEFAULT, 'Alto, Tenor', '16FFXakUxSPosF50Jpdx7nc44pHlZPAq9', 200),

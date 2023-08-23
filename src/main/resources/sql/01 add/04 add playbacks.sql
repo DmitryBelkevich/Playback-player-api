@@ -74,6 +74,7 @@ VALUES
 (DEFAULT, '+1', '1zm4DItjrNXzme9cqTUiY9BeOccdThdyO', 180),
 (DEFAULT, '0', '1WxlOt8Y6HT5sC2BVke0nYLMr0ZtxGCj0', 180),
 (DEFAULT, '-2', '1msD9K3PYAOzLC3XlEdtL3STnbxT7l86R', 180),
+-- Stigmata - Сентябрь
 -- Эпидемия - Эпилог
 (DEFAULT, 'original', '1E84n8-a5oSY1MELRxB8C-Gs2GDVLp1cV', 200),
 (DEFAULT, '0', '11NKNmXA6e1X45W662MNm0Hr8joc244IC', 200),
@@ -158,7 +159,6 @@ VALUES
 -- Агата Кристи - Никогда
 (DEFAULT, 'original', '1UQW9aBdBCpTnLoVMNxZpqyeRU91jiw0v', 1190),
 (DEFAULT, '0', '12eQqVL-t2KFJiFrYELfv-1qOoVVd3wf4', 1190),
-(DEFAULT, '-2', '1XxyZbCMGg0bo0agfl5u76wZfHyVFTj6s', 1190),
 -- Аквариум - Город золотой
 (DEFAULT, 'original', '1SJOhp6-EYnR0NeEAWTXGnLGecDyS5L0D', 1200),
 (DEFAULT, '0', '1Y1Z8L9_N7Er8ma3xd_AJ3YGiuNle1kY5', 1200),
