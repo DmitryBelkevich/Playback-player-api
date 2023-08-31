@@ -857,12 +857,14 @@ VALUES
 -- Zемфира - Хочешь?
 (DEFAULT, 'Full Score', '1wY6xGA0GK_QMHKwSc-rLSGNjnR1P88LP', 1590),
 (DEFAULT, 'Voice', '1QRP7G9jpr0duSXo0NbhhUOTsIdJK2qjg', 1590),
-(DEFAULT, 'Electric Guitar 1, Electric Guitar 2', '14i4zrk2o2y5tfdbmXHmxLWnunNSrkhXd', 1590),
+(DEFAULT, 'Electric Guitar 1, Electric Guitar 2, Bass Guitar', '14i4zrk2o2y5tfdbmXHmxLWnunNSrkhXd', 1590),
 (DEFAULT, 'Electric Guitar 1', '1D8eS9eDqA5ZFkTclln2oefjdBjr6O_kD', 1590),
 (DEFAULT, 'Electric Guitar 2', '1o8xDdYExU1bXR52Zs0zc-WxJ5jrtm0d6', 1590),
 (DEFAULT, 'Bass Guitar', '10BLPxodkowZJR2ZDhmBe6ygAAYFejAGf', 1590),
+(DEFAULT, 'Drum Set, Tambourine', '1pL4EHa6DdiBFoz9nBoxxE7QS7JaEeKFW', 1590),
 (DEFAULT, 'Drum Set', '1sBl_-9j61bqiOPt5ZFxnwRIkHpws1qJc', 1590),
 (DEFAULT, 'Tambourine', '1wT480Wh9fp7vM7wGAgTiYiuY6_g7HAec', 1590),
+(DEFAULT, 'Electric Organ, Strings', '1GPjXvUSA9is5qZSn5Y6ylQGhmKRPAkeQ', 1590),
 (DEFAULT, 'Electric Organ', '1yspuFXkAsXcCoW_u6-KNE-p3Isl1nPok', 1590),
 (DEFAULT, 'Strings', '1YF5ALBlWhCSqdC2n4baQ9u_wU0KBeMiY', 1590),
 -- Игорь Корнелюк - Город, которого нет
