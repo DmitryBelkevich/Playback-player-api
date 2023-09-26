@@ -182,6 +182,8 @@ VALUES
 (DEFAULT, '1vtsCxcGLj6-O51ZjNEuMKt7TZw-GmjOK', 1570),
 -- Zемфира - Искала
 (DEFAULT, '1z8xEijfI02snc0XswS0OhIc1eo_o5NtE', 1581),
+-- Zемфира - Москва
+(DEFAULT, '1GGN-RCssbl0fWojj51OF7Z5QMtApy-cx', 1582),
 -- Zемфира - П.М.М.Л.
 (DEFAULT, '1U_cL4U9n21T9xEX-jBdMlETuiRk2esGa', 1587),
 -- Zемфира - Хочешь?
