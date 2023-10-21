@@ -2308,6 +2308,24 @@ VALUES
 -- SynthPop
 
 -- Era - Ameno
+(DEFAULT, 'Full Score', '', 5950),
+(DEFAULT, 'Alto, Tenor', '', 5950),
+(DEFAULT, 'Alto', '', 5950),
+(DEFAULT, 'Tenor', '', 5950),
+(DEFAULT, 'Electric Guitar, Bass Guitar', '', 5950),
+(DEFAULT, 'Electric Guitar', '', 5950),
+(DEFAULT, 'Bass Guitar', '', 5950),
+(DEFAULT, 'Cymbals, Tambourine, Tom-toms, Drum Set', '', 5950),
+(DEFAULT, 'Cymbals', '', 5950),
+(DEFAULT, 'Tambourine', '', 5950),
+(DEFAULT, 'Tom-toms', '', 5950),
+(DEFAULT, 'Drum Set', '', 5950),
+(DEFAULT, 'Choir Mm, Flute, Strings 1, Strings 2, String Bass', '', 5950),
+(DEFAULT, 'Choir Mm', '', 5950),
+(DEFAULT, 'Flute', '', 5950),
+(DEFAULT, 'Strings 1', '', 5950),
+(DEFAULT, 'Strings 2', '', 5950),
+(DEFAULT, 'String Bass', '', 5950),
 -- Альянс - На заре
 (DEFAULT, 'Full Score', '1MISoKHhR8gp-4d3iSxKkv3ljT6Qrij6b', 6010),
 (DEFAULT, 'Voice', '18y2owa_9vvaRrnPA9wDvmX8L1ODSJ0ti', 6010),
