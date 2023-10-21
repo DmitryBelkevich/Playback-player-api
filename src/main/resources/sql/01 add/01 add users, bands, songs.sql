@@ -132,6 +132,7 @@ VALUES
     (330, 'Форум'),
 
     -- SynthPop
+    (333, 'Era'),
     (335, 'Eurythmics'),
     (337, 'Альянс'),
 
@@ -586,6 +587,7 @@ VALUES
     (5900, 'Белая ночь', 330, 'D#m'),
 
     -- SynthPop
+    (5950, 'Ameno', 333, 'G#m'),
     (6000, 'Sweet Dreams (Are Made of This)', 335, 'Cm'),
     (6010, 'На заре', 337, 'Gm'),
 

@@ -673,6 +673,8 @@ VALUES
 
 -- SynthPop
 
+-- Era - Ameno
+(DEFAULT, 'original', '1EpVfimmfLKm4dmHLhY0q3WhIBzDCxQPc', 5950),
 -- Eurythmics - Sweet Dreams (Are Made of This)
 (DEFAULT, 'original', '1WiC6XGzYRXTpMTtVS6qtJ0Iq6MUI9d1q', 6000),
 -- Альянс - На заре

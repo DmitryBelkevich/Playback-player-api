@@ -2307,6 +2307,7 @@ VALUES
 
 -- SynthPop
 
+-- Era - Ameno
 -- Альянс - На заре
 (DEFAULT, 'Full Score', '1MISoKHhR8gp-4d3iSxKkv3ljT6Qrij6b', 6010),
 (DEFAULT, 'Voice', '18y2owa_9vvaRrnPA9wDvmX8L1ODSJ0ti', 6010),
