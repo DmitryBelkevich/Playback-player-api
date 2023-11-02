@@ -105,6 +105,7 @@ VALUES
 (DEFAULT, 'original', '10W9OyU9d3FH3yBvXfQJPcwdRRZziLAOI', 1073),
 -- Scorpions - Still Loving You
 (DEFAULT, 'original', '1P1dsOfAlgQNAhxeSc4D8WMwxznRX42_R', 1075),
+(DEFAULT, '0', '1pX6Jj0zYaO7SxU_X9doF8FnlGqpldjbX', 1075),
 -- The Beatles - Yesterday
 (DEFAULT, 'original', '1ee2g11nNUiCMVF53zHSAXqnYII8ZdZvV', 1080),
 (DEFAULT, '0', '1Vk_yY_pI03sMfM4y9zr27zQCBYbbIa8n', 1080),
