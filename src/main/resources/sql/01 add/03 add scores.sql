@@ -321,6 +321,18 @@ VALUES
 (DEFAULT, 'Shaker', '1hH3qXYxk6l29WIT9tgqlNO1mjsmJBJiU', 1073),
 (DEFAULT, 'Electric Organ', '1PzT6Z8Eb5xVYYFlJY9hSgzpKFQrERu6l', 1073),
 -- Scorpions - Still Loving You
+(DEFAULT, 'Full Score', '1ItrIZnuf-q950HB2NWBLLfepGHhr1Us9', 1075),
+(DEFAULT, 'Voice 1, Voice 2, Choir', '12FTCigN2NuL9dsZiWGkLzlAxjhqhs-R_', 1075),
+(DEFAULT, 'Voice 1', '1bSLUJ2nWAxmkMnwpT7bsHV2gx7zdfMA4', 1075),
+(DEFAULT, 'Voice 2', '1NWdI9_d7J_f0PzkHkbyhUnUET5kLn9KO', 1075),
+(DEFAULT, 'Choir', '1K9jACEM9LU5UaoU67c1RgHnqe6K2oNLA', 1075),
+(DEFAULT, 'Electric Guitar 1, Electric Guitar 2, Electric Guitar 3, Electric Guitar 4, Bass Guitar', '14tPaKZ1T6lx_Ey7BPr3m1oLmp3mV-gxY', 1075),
+(DEFAULT, 'Electric Guitar 1', '1gxhvekMuW5G_x21_37i69ljJSBSGZFaK', 1075),
+(DEFAULT, 'Electric Guitar 2', '1qAVW_vomBcaMXtmo30wzBIAUuYf6zswk', 1075),
+(DEFAULT, 'Electric Guitar 3', '1ZLas4pU8Qz9PJsm0R8o2qTbIOMeL7mSs', 1075),
+(DEFAULT, 'Electric Guitar 4', '1pLrbnSpA4xfKBDIDmy3zlAtO8UV8Y3YJ', 1075),
+(DEFAULT, 'Bass Guitar', '1UUL1A-6qJKXWC5xTyWAFARpgFz16Toul', 1075),
+(DEFAULT, 'Drum Set', '19o43oKGhrqQ0I_NMAF5mjyBv-nvO_1tr', 1075),
 -- The Beatles - Yesterday
 (DEFAULT, 'Full Score', '11Me5Ek7F0Nq2utBgcTvJXOaztRyQcr6d', 1080),
 (DEFAULT, 'Voice', '13psDvvGOXm-blsbGjfljCRxXZreOCZDY', 1080),
