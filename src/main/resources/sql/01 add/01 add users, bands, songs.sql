@@ -46,6 +46,7 @@ VALUES
     (65, 'Radiohead'),
     (70, 'Reamonn'),
     (73, 'Red Hot Chili Peppers'),
+    (74, 'Scorpions'),
     (75, 'The Beatles'),
     (80, 'The Cranberries'),
     (85, 'The Offspring'),
@@ -236,6 +237,7 @@ VALUES
     (1060, 'Karma Police', 65, null),
     (1070, 'Supergirl', 70, null),
     (1073, 'Californication', 73, 'Am'),
+    (1075, 'Still Loving You', 74, 'Gm'),
     (1080, 'Yesterday', 75, 'F'),
     (1090, 'Zombie', 80, 'Em'),
 

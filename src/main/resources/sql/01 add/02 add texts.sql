@@ -67,6 +67,8 @@ VALUES
 -- (DEFAULT, '', 1070),
 -- Red Hot Chili Peppers - Californication
 (DEFAULT, '1Bwm_v9UlrDjSTjgNfR-WuENd5KvUD1Xx', 1073),
+-- Scorpions - Still Loving You
+(DEFAULT, '189T4ycrAOPH5eBH1ZaNrj8VJia9rI0jJ', 1075),
 -- The Beatles - Yesterday
 (DEFAULT, '1fZssjEMEoHsa1HD6Vh3f5HExWvzVY5b5', 1080),
 -- The Cranberries - Zombie

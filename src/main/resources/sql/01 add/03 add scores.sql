@@ -320,6 +320,7 @@ VALUES
 (DEFAULT, 'Drum Set', '1hvPyXEDptsw4urkIWrQCaFAseWDw-e6S', 1073),
 (DEFAULT, 'Shaker', '1hH3qXYxk6l29WIT9tgqlNO1mjsmJBJiU', 1073),
 (DEFAULT, 'Electric Organ', '1PzT6Z8Eb5xVYYFlJY9hSgzpKFQrERu6l', 1073),
+-- Scorpions - Still Loving You
 -- The Beatles - Yesterday
 (DEFAULT, 'Full Score', '11Me5Ek7F0Nq2utBgcTvJXOaztRyQcr6d', 1080),
 (DEFAULT, 'Voice', '13psDvvGOXm-blsbGjfljCRxXZreOCZDY', 1080),

@@ -78,6 +78,9 @@ VALUES
 -- Reamonn - Supergirl
 -- Red Hot Chili Peppers - Californication
 (DEFAULT, null, 2, 4, 97, 1073),
+-- Scorpions - Still Loving You
+(DEFAULT, 'Intro Break, Chorus', 2, 4, 50, 1075),
+(DEFAULT, 'Verse', 4, 4, 50, 1075),
 -- The Beatles - Yesterday
 (DEFAULT, null, 2, 4, 95, 1080),
 -- The Cranberries - Zombie
