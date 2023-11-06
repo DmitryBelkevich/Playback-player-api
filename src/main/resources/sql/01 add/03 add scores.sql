@@ -57,7 +57,7 @@ VALUES
 (DEFAULT, 'Strings', '1bRnD4lmbkGFS0DhlKCiWK72rlXYvbG74', 40),
 -- Rammstein - Mutter
 (DEFAULT, 'Full Score', '1_hXAXC_U4BWl9Ea3aO-SykBBUJATRgLW', 50),
-(DEFAULT, 'Voice 1, Voice 2', '181JHaiemz7fyF1IgllXp-amUEegNs6oI/view?usp=drive_link', 50),
+(DEFAULT, 'Voice 1, Voice 2', '181JHaiemz7fyF1IgllXp-amUEegNs6oI', 50),
 (DEFAULT, 'Voice 1', '1WxlRi0uF6Pp5OwZt1oAXVlrYeCOLl79C', 50),
 (DEFAULT, 'Voice 2', '1MUo5IyzzroweAWAPx7Qo_W2zjaSNR2zI', 50),
 (DEFAULT, 'Electric Guitar 1, Electric Guitar 2', '1DUFGzsY7dy4GGKxUwk5g-eR32d6Kst60', 50),
