@@ -984,7 +984,7 @@ VALUES
 (DEFAULT, 'Full Score', '1xBFoBRSgNdl20WUhL2AaNMF1YQ80aY_R', 1650),
 (DEFAULT, 'Voice', '1PgdEzYAWBMsIEv0ViBroVUwVQ-4ClxRJ', 1650),
 (DEFAULT, 'Acoustic Guitar', '18_iGB9yA4cAqdczkiuOl52nmJ_OJ9bEM', 1650),
-(DEFAULT, 'Electric Guitar 1, Electric Guitar 2, Electric Guitar 3, Electric Guitar 4', '19jsDtyv_VRDuzIVyVSxwanWkklt6BSyn', 1650),
+(DEFAULT, 'Acoustic Guitar, Electric Guitar 1, Electric Guitar 2, Electric Guitar 3, Electric Guitar 4, Bass Guitar', '19jsDtyv_VRDuzIVyVSxwanWkklt6BSyn', 1650),
 (DEFAULT, 'Electric Guitar 1', '1CoGSXX7tscEIVPnXz4AxP30QrtbA34Gz', 1650),
 (DEFAULT, 'Electric Guitar 2', '1C6a7qay1qgLB8q99Wql1xfVS0GgWvuTh', 1650),
 (DEFAULT, 'Electric Guitar 3', '1GbP7eqFnigMc3V6MLU0SdV1dOmED4yjJ', 1650),
