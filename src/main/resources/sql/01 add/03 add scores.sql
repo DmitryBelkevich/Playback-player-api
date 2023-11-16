@@ -1305,10 +1305,11 @@ VALUES
 -- Король и Шут - Медведь
 (DEFAULT, 'Full Score', '1pMVvjmq5ZgZ8sBVJ6Hxiey9YYChvVhKU', 1805),
 (DEFAULT, 'Voice', '1MVcXl897wu4-JpGyjaBLwOZgapTBjEpj', 1805),
-(DEFAULT, 'Acoustic Guitar 1, Acoustic Guitar 2, Acoustic Guitar 3', '1QRGOQHbzZKN_NSvk7X9LXTN9FI_yEp2E', 1805),
+(DEFAULT, 'Acoustic Guitar 1, Acoustic Guitar 2, Acoustic Guitar 3, Acoustic Guitar 4, Bass Guitar', '1QRGOQHbzZKN_NSvk7X9LXTN9FI_yEp2E', 1805),
 (DEFAULT, 'Acoustic Guitar 1', '1KkLf50XwOcm4w0oqnsIxEFdmiDRll_zL', 1805),
 (DEFAULT, 'Acoustic Guitar 2', '1cHYY4iz3ssEl5Ynwdyjs2HCVXINmoNCE', 1805),
 (DEFAULT, 'Acoustic Guitar 3', '1LIuHIcD4-PpAGZ4eqFBktdzEOXzLhIYm', 1805),
+(DEFAULT, 'Acoustic Guitar 4', '1if6TDTwh0JIcfKRuJMf6Fi23CVnh4kl-', 1805),
 (DEFAULT, 'Bass Guitar', '1WaNQamYn4jtx0rSzvrJ4BBB_5FyDbFWc', 1805),
 (DEFAULT, 'Drum Set', '1yYKX80P8Fw8qPlnsfsciPvawXTQz8ics', 1805),
 -- Король и Шут - Мёртвый Анархист
