@@ -564,9 +564,11 @@ VALUES
 -- Би-2 - Полковнику никто не пишет
 (DEFAULT, 'Full Score', '1xBT415rcj2VNHbkA8cEnDnQ-1m5NODlq', 1260),
 (DEFAULT, 'Voice', '1Gvl8mPIS7YUTWwKh_lPSnpKGxQ3rvzGF', 1260),
+(DEFAULT, 'Electric Guitar, 5-string Bass Guitar', '1GQV3iAYWGMwyKJTidwvxEymuAVwuMxei', 1260),
 (DEFAULT, 'Electric Guitar', '159lB47LJ4bMt8VUEWJSq5k0aKWvduKKZ', 1260),
 (DEFAULT, '5-string Bass Guitar', '19Y6IggLhtSETnBWuTpAGqfOIhxgNJpal', 1260),
 (DEFAULT, 'Drum Set', '1EWUTtroVzqI7dmzMH8cZ0qQk5OKBfqUs', 1260),
+(DEFAULT, 'FX 5 (Brightness), Piano, Strings, Pizzicato, Pad 2 (Warm)', '1pGOGSmip6lylFUxH1i18ksYB5hV7oasq', 1260),
 (DEFAULT, 'FX 5 (Brightness)', '1VHDWRQSySfPnwPb368fVXr5Hxtcw9RNH', 1260),
 (DEFAULT, 'Piano', '1NjehnVl9_AS07S0RfhnaQiNpSBiP49wC', 1260),
 (DEFAULT, 'Pizzicato', '16WPaioMCqqg2FwEaEpG983t2w-nwpKOI', 1260),
