@@ -26,10 +26,12 @@ VALUES
 (DEFAULT, 'original', '1DWfMgW6cS6A78Dg8kl5mojszgMjLSklc', 60),
 (DEFAULT, '+2', '1gysBlYCBsph5O2LMU8U2jEmeO29qSDXw', 60),
 (DEFAULT, '0', '1IoWvG9PDdyiQs0tmNaw9be1JcAROx06n', 60),
+(DEFAULT, '-1', '16SS0Btv-Fq-NrH4Jh9dOn_tKdkfvE1yE', 60),
 -- System of a Down - Chop Suey!
 (DEFAULT, 'original', '1qcpfX-NRo5QzizHiAP6Q3SW03bNjMCDK', 70),
 (DEFAULT, '+2', '1XV3X-RkFHl734tvfrtpGdyBh8IyQ5GP_', 70),
 (DEFAULT, '0', '1ApYzsHDImUuUv66olczd3oUQoh0heg_h', 70),
+(DEFAULT, '-1', '1brYKQ3FnrDRolJNnaWn3jTri_TYUff5H', 70),
 -- System of a Down - Lonely Day
 (DEFAULT, 'original', '1rnxYbhBrkCZOG1Tu7SikQkrxGdwaIcf9', 80),
 (DEFAULT, '+1', '1D2LwHZoFw6H__mYOYQhJsl-v7_XL5CgW', 80),
@@ -40,6 +42,7 @@ VALUES
 (DEFAULT, 'original', '14a5-1Vp0Ty4AS-Uf7841QxOcMTkFp6wV', 90),
 (DEFAULT, '+2', '1Zp7zcYdYSGNAMm04Gbchf1Q5SwZWK0Zr', 90),
 (DEFAULT, '0', '1Kuso3EfG5zmOk4qQ0cIvbw2nghTAtbNX', 90),
+(DEFAULT, '-1', '1PtQ6hgxuYtgMx4p-QsFKGubBpX_1_4ZJ', 90),
 -- Ария - Беспечный ангел
 (DEFAULT, 'original', '1kg1a0A46M7FfLPkdZ3xfPA2aIkU0K0ov', 100),
 (DEFAULT, '+1', '1tijdBkkiRhBvK1nvrAe12K9_xPE5a-wI', 100),
