@@ -21,6 +21,8 @@ VALUES
 (DEFAULT, 'Drum Set', '1MZ5fugr_OO2oP5hs1BUaELZhP-hIIYgP', 20),
 (DEFAULT, 'Cymbals', '1rt9CyZBN5PKDm70sKwlkceE_QtpHYkQz', 20),
 (DEFAULT, 'Tambourine', '1t0fjtCpmLCq_sjS9Pv0AJIvDN9tl0LH4', 20),
+(DEFAULT, 'Horn in F, Strings', '1BbWNLZ5y6ZCiIzPISgJGrYnIHA42D4kY', 20),
+(DEFAULT, 'Horn in F', '1IQsqUrSc4UIcJFq8ZGzRbod0pi-hI8-b', 20),
 (DEFAULT, 'Strings', '1TQUDJs5tPMvDSpJ4h19_GGAEGQIyr0ZL', 20),
 -- Metallica - The Unforgiven
 (DEFAULT, 'Full Score', '1gbn2ZIYhr01ykD96jewKOvEN23I08Qpc', 30),
