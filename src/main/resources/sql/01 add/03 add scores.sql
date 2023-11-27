@@ -953,6 +953,14 @@ VALUES
 (DEFAULT, 'Drum Set', '1DvIN8rWVjaENw3WaJJ9WrJCeIbawxH4G', 1625),
 (DEFAULT, 'Alto Recorder', '1Ln6nlzeMn68pmeuo4mc85PC8y97Zb4RW', 1625),
 -- Кино - Закрой за мной дверь
+(DEFAULT, 'Full Score', '1YVclHA3WkXaaPLKT3QeX2xy7yLGnWmt6', 1626),
+(DEFAULT, 'Voice', '1Y89lknWPfmpz3q-Be9chLgt6BOHWW2KW', 1626),
+(DEFAULT, 'Acoustic Guitar, Electric Guitar, Bass Guitar', '1EmadnGm0hRcpHYGKcqpDKnaVPXAaKRSa', 1626),
+(DEFAULT, 'Acoustic Guitar', '1oqXB5v-22zId4GnKiVpG1QRnfDnymTwA', 1626),
+(DEFAULT, 'Electric Guitar', '1Y670yBz93Cc0HeCnVzS0Djp5F9LwESMF', 1626),
+(DEFAULT, 'Bass Guitar', '1Rm935lOFR577T2lstHCSGcl1ta2wgT4x', 1626),
+(DEFAULT, 'Drum Set', '12JB81jJQxtPdj2vs89ad9wg_AU_WlAMe', 1626),
+(DEFAULT, 'Piano', '1vi_e6rdGbT20zH8GNbCYuePl2KWHJHNA', 1626),
 -- Кино - Завтра война
 (DEFAULT, 'Full Score', '1mpGGnHHIcYScQuy_ZJhTLs8mE-FES7eZ', 1627),
 (DEFAULT, 'Voice', '1XrFrj8820FZVT9-DovfI4SBN9A3MPy5T', 1627),
