@@ -955,9 +955,10 @@ VALUES
 -- Кино - Закрой за мной дверь, я ухожу
 (DEFAULT, 'Full Score', '1YVclHA3WkXaaPLKT3QeX2xy7yLGnWmt6', 1626),
 (DEFAULT, 'Voice', '1Y89lknWPfmpz3q-Be9chLgt6BOHWW2KW', 1626),
-(DEFAULT, 'Acoustic Guitar, Electric Guitar, Bass Guitar', '1EmadnGm0hRcpHYGKcqpDKnaVPXAaKRSa', 1626),
+(DEFAULT, 'Acoustic Guitar, Electric Guitar 1, Electric Guitar 2', '1EmadnGm0hRcpHYGKcqpDKnaVPXAaKRSa', 1626),
 (DEFAULT, 'Acoustic Guitar', '1oqXB5v-22zId4GnKiVpG1QRnfDnymTwA', 1626),
-(DEFAULT, 'Electric Guitar', '1Y670yBz93Cc0HeCnVzS0Djp5F9LwESMF', 1626),
+(DEFAULT, 'Electric Guitar 1', '1Y670yBz93Cc0HeCnVzS0Djp5F9LwESMF', 1626),
+(DEFAULT, 'Electric Guitar 2', '1qWvRxvM4kte7Iuo2qfmUi94S0x4Hu2Qc', 1626),
 (DEFAULT, 'Bass Guitar', '1Rm935lOFR577T2lstHCSGcl1ta2wgT4x', 1626),
 (DEFAULT, 'Drum Set', '12JB81jJQxtPdj2vs89ad9wg_AU_WlAMe', 1626),
 (DEFAULT, 'Piano', '1vi_e6rdGbT20zH8GNbCYuePl2KWHJHNA', 1626),
