@@ -952,7 +952,7 @@ VALUES
 (DEFAULT, 'Fretless Bass Guitar', '1oq5rrANep0mrBA0mITRoPyEGWwnvGlwX', 1625),
 (DEFAULT, 'Drum Set', '1DvIN8rWVjaENw3WaJJ9WrJCeIbawxH4G', 1625),
 (DEFAULT, 'Alto Recorder', '1Ln6nlzeMn68pmeuo4mc85PC8y97Zb4RW', 1625),
--- Кино - Закрой за мной дверь
+-- Кино - Закрой за мной дверь, я ухожу
 (DEFAULT, 'Full Score', '1YVclHA3WkXaaPLKT3QeX2xy7yLGnWmt6', 1626),
 (DEFAULT, 'Voice', '1Y89lknWPfmpz3q-Be9chLgt6BOHWW2KW', 1626),
 (DEFAULT, 'Acoustic Guitar, Electric Guitar, Bass Guitar', '1EmadnGm0hRcpHYGKcqpDKnaVPXAaKRSa', 1626),

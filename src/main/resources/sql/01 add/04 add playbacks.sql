@@ -289,7 +289,7 @@ VALUES
 -- Кино - Игра
 (DEFAULT, 'original', '1on-6JYFSbzI_yEFUJmNSVK3Gd1CcgFw9', 1625),
 (DEFAULT, '0', '1wfTZxsv4TF1BBg4e7imcwM958fU1VnVB', 1625),
--- Кино - Закрой за мной дверь
+-- Кино - Закрой за мной дверь, я ухожу
 (DEFAULT, 'original', '1rTYpe0wd3g3sLzIx4mdcf7MWZJBEkWsS', 1626),
 (DEFAULT, '0', '1BKT0-iabU0GzizZlIXhOiq-dOlTMpXHF', 1626),
 -- Кино - Завтра война
