@@ -163,7 +163,6 @@ VALUES
 -- Агата Кристи - Как на войне
 (DEFAULT, 'original', '1yfNtoBHW9lveJNCAoDdH3Hj5rW_v6ZbB', 1180),
 (DEFAULT, '0', '1PzdpD4xWTnP4HTfK5T5c5Ak8z22ZwK01', 1180),
-(DEFAULT, '-2', '10mQqwVyiDQJBCSUtVO6PlIMBglzOzOZl', 1180),
 -- Агата Кристи - Никогда
 (DEFAULT, 'original', '1UQW9aBdBCpTnLoVMNxZpqyeRU91jiw0v', 1190),
 (DEFAULT, '0', '12eQqVL-t2KFJiFrYELfv-1qOoVVd3wf4', 1190),
