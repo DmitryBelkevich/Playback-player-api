@@ -497,11 +497,12 @@ VALUES
 (DEFAULT, 'Acoustic Guitar, Electric Guitar', '1vNFQBax3Pj-I7VNeEfHxZ7zJbaBaivBV', 1180),
 (DEFAULT, 'Acoustic Guitar', '1d62LlONAqGqqFyGhDzSSr5qrm8AZtLux', 1180),
 (DEFAULT, 'Electric Guitar', '1mvouwul0ADvA6NBI0q7PM1kXjHboolB4', 1180),
-(DEFAULT, 'Synth Bass', '1M25_qqUzC4ziZGjMDI77BvVeX-0rDWP4', 1180),
 (DEFAULT, 'Drum Set, Tambourine', '1Gho9UZKk4tFhPA9q2eMGfbx6-vFojfqJ', 1180),
 (DEFAULT, 'Drum Set', '1dVvIwTkuN4g3oAnU5P1W-0wxyhd5Asuz', 1180),
 (DEFAULT, 'Tambourine', '1w_L1UDUqypLWsLEXea2uQSIZ4PMaQVWq', 1180),
+(DEFAULT, 'Pad 1 (New Age), Synth Bass', '1dRgzMudP0UGKNoBYVzFOIkiXptmfDmh1', 1180),
 (DEFAULT, 'Pad 1 (New Age)', '1dRgzMudP0UGKNoBYVzFOIkiXptmfDmh1', 1180),
+(DEFAULT, 'Synth Bass', '1M25_qqUzC4ziZGjMDI77BvVeX-0rDWP4', 1180),
 -- Агата Кристи - Никогда
 (DEFAULT, 'Full Score', '1wwYDuXNksD18s4tKXqyVsFikwpdbtmpS', 1190),
 (DEFAULT, 'Voice 1, Voice 2', '1cNyuvL1eim1lze2Q8CwiHSpFYYEC1trj', 1190),
