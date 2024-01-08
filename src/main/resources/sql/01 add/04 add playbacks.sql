@@ -674,6 +674,8 @@ VALUES
 (DEFAULT, '0', '1laiknHHDXlgVe5ch46bhbrXQEqGNsS4w', 5800),
 (DEFAULT, '-1', '1gQC6lkTngsw7IbiLdyLis1hPMarj-zhX', 5800),
 (DEFAULT, '-2', '1jp6v9p-QYc1PQ7jZ33JOP98Q3jTG4e31', 5800),
+-- Рок-Острова - Ничего Не Говори
+(DEFAULT, 'original', '1RhWqCOI8196eAUb41Mh9qWDeOSyVdix2', 5825),
 -- Сладкий сон - На белом покрывале января
 (DEFAULT, 'original', '1NhzfBNKjYJ4IJtX3y75JGOjArcsa9Hug', 5850),
 (DEFAULT, '0', '1UM_UTj5_XB7qJey8OgF_5UcuiWRUaBqK', 5850),

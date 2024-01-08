@@ -476,6 +476,8 @@ VALUES
 (DEFAULT, '1BEVEH3tLqiBfc69HNHKrUF3WlwaqEvW0', 5750),
 -- Нэнси - Чистый лист
 (DEFAULT, '1XDMKvweEBggsTkVWAI607DzFZvASw0gP', 5800),
+-- Рок-Острова - Ничего Не Говори
+(DEFAULT, '1Ap_blfI8qw9h3pOSUI16GoW8xd_4rAq2', 5825),
 -- Сладкий сон - На белом покрывале января
 (DEFAULT, '1jCPrNwLhoo6PnG-hJaiO6gw_DZAuLKzD', 5850),
 -- Форум - Белая ночь

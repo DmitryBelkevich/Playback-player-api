@@ -2317,6 +2317,7 @@ VALUES
 (DEFAULT, 'Lead 1 (Square)', '1wc9Y92qkx8PFqPGQ6hOcQlogfjXA7Bme', 5800),
 (DEFAULT, 'Pad 2 (Warm)', '1K7VD5xxc57nC7DCJT4fW2KEsmTDE0ITP', 5800),
 (DEFAULT, 'Synth Bass', '1WbLoSPS_5467ppvDIScEe8-VST1R5qym', 5800),
+-- Рок-Острова - Ничего Не Говори
 -- Сладкий сон - На белом покрывале января
 (DEFAULT, 'Full Score', '1c2HedhlAAGpoPKmcBkPdVpC129Ud-qbz', 5850),
 (DEFAULT, 'Voice 1, Voice 2', '1QE0RMdts9oFQDs3GxEXRrVUwIm8fXdEe', 5850),
