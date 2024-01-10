@@ -666,6 +666,8 @@ VALUES
 (DEFAULT, 'original', '1EgjhenWF2bOTP3O1ckKplEfluFIyjl-d', 5500),
 (DEFAULT, '0', '1JWVHP_d7_7iN63LLtXEwvNYpeGlrP3jB', 5500),
 (DEFAULT, '-2', '1N1262NQf7SI7MTjLi0kKQtREFXgLhl9a', 5500),
+-- МакSим - Знаешь ли ты
+(DEFAULT, 'original', '1jbl8oZpMXd8Raw6LL6-f1dXkV4egTiMp', 5600),
 -- Нэнси - Дым сигарет с ментолом
 (DEFAULT, 'original', '1G0fC6XaLmrkDzavWQWe1fMlzJkqwx_Rd', 5750),
 (DEFAULT, '0', '1ploL5eOFshXLM6RkwqcyW7PMH8giR_JV', 5750),

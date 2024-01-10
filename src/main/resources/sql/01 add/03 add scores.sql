@@ -2275,6 +2275,7 @@ VALUES
 (DEFAULT, 'FX 3 (Crystal)', '1FwqANF1BQ1rPeDfi0JF0afExE3MJOUna', 5500),
 (DEFAULT, 'Lead 1 (Square)', '1J3E95EAVP8TkWVvEwdOVeRlq9UQkTr9B', 5500),
 (DEFAULT, 'Strings', '15CgwPwO6VQmsDHT2UjxgUqqsCHDbUZFy', 5500),
+-- МакSим - Знаешь ли ты
 -- Нэнси - Дым сигарет с ментолом
 (DEFAULT, 'Full Score', '1cn7LImaZdjbp4Mz8Tg0ETHUtXMATTIZ1', 5750),
 (DEFAULT, 'Voice 1, Voice 2, Voice 3.4', '1eW0WrAEhsjdBmqlMJEoMsxkiaSrkr02X', 5750),
