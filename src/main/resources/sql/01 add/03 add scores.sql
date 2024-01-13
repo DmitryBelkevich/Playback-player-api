@@ -1814,6 +1814,18 @@ VALUES
 (DEFAULT, 'FX 3 (Crystal)', '1FrORb5CylhF1BtUQy7X_6N-H878JQB-Z', 2170),
 (DEFAULT, 'Crotales', '1gIKinNCxJOS_UGEZyYPCS_VwKa21f0jc', 2170),
 -- Nautilus Pompilius - Князь тишины
+(DEFAULT, 'Full Score', '1Onw3e3Wpvc2V1e0yCLHAuIlLGGMeq4sp', 2170),
+(DEFAULT, 'Voice 1, Voice 2', '1sF5owlCom7hAf2O-DrNoueRsAU7zSefJ', 2170),
+(DEFAULT, 'Voice 1', '1mgyiUz0xDVaAT-Z83BBgQ3GXEjebKE-9', 2170),
+(DEFAULT, 'Voice 2', '138nIbSMVKbYayzKbK6yi-k2UV_1eYqny', 2170),
+(DEFAULT, 'Electric Guitar, Bass Guitar', '1-ghfWhsi8nC7Mw1tos8O-A_izKf3hd-6', 2170),
+(DEFAULT, 'Electric Guitar', '10tT6sC1I0fN11Kmm6ccqNbvzDUW2t2IP', 2170),
+(DEFAULT, 'Bass Guitar', '1IXsr7Xi02MDuRvMJRoCF9lSPbZDwdomN', 2170),
+(DEFAULT, 'Drum Set', '1us2v3rG83dL9-aw5W4SJo_0fSMkhKCUQ', 2170),
+(DEFAULT, 'Synth Brass, Pad 7 (Halo), Strings', '1SjUlVGwjtRRKrjWmYnWSaJiGnfmJX6eU', 2170),
+(DEFAULT, 'Synth Brass', '1qNU7t08SBfrFeAxach_ND7QhJ20_qFXT', 2170),
+(DEFAULT, 'Pad 7 (Halo)', '11cSxRuyoEHo6JjC_Y2838IRprupsfM2E', 2170),
+(DEFAULT, 'Strings', '1IYPbfHersdZ-YSlbL4Ijt_udhDwFQcNt', 2170),
 -- Nautilus Pompilius - Крылья
 (DEFAULT, 'Full Score', '1JBUoeA1Gpj3KLcIfWo6FLhL83kE8bbbX', 2180),
 (DEFAULT, 'Voice', '1-DJfDknTJF1ay9hnPBvL0mbw1-oeFCJY', 2180),
