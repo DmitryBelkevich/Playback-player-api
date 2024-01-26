@@ -47,6 +47,7 @@ VALUES
 (DEFAULT, 'Chorus, Solo 2', 2, 2, 80, 150),
 -- Ария - Штиль
 (DEFAULT, null, 12, 8, 68, 160),
+-- Кипелов - Свет дневной иссяк...
 -- Кипелов - Я свободен!
 (DEFAULT, 'Introduction, Intro, Verse, Break, Chorus, Outro', 2, 4, 70, 170),
 (DEFAULT, 'Interlude', 4, 8, 140, 170),

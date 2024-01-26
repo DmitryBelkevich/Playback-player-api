@@ -209,6 +209,7 @@ VALUES
 (DEFAULT, 'Choir', '1mLZUInGabTeJp7yu3kpF3cpylPI2-4mK', 160),
 (DEFAULT, 'Organ', '1GzMs3gp9OzNbP4UgCDH3Rwf5jVIHp_Se', 160),
 (DEFAULT, 'Strings', '1BIloJZ2a6NsL5L-3YuDMw6dlChKxXAXY', 160),
+-- Кипелов - Свет дневной иссяк...
 -- Кипелов - Я свободен!
 (DEFAULT, 'Full Score', '1JflHe1l7_sh_s68KGvhyPeYPorEUiTPm', 170),
 (DEFAULT, 'Voice 1, Voice 2', '141Zp1scBeZ7BXLTcL7iC3ZWMGgNDY3Il', 170),

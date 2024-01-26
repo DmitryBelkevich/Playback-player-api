@@ -36,6 +36,7 @@ VALUES
 (DEFAULT, '1U1GjJ8iLenRvtRFFXe3AcSOvMxDsLjT1', 150),
 -- Ария - Штиль
 (DEFAULT, '18lgs_Oj5jJpO0oZZuNFQhB62GyWNviBJ', 160),
+-- Кипелов - Свет дневной иссяк...
 -- Кипелов - Я свободен!
 (DEFAULT, '1E7QaWVx4x55oqeCe1Z_plTXdvpmqUQoy', 170),
 -- Легион - Звезда

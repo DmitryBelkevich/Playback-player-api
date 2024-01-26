@@ -66,6 +66,7 @@ VALUES
 (DEFAULT, 'original', '1nzb51T6n7i0Qb0ci08TthKZRd-26Qs-X', 160),
 (DEFAULT, '+2', '193aNPwfwC4RGLQcIb7EV9quKBXEKfjar', 160),
 (DEFAULT, '0', '1QkPNKlTAYclfMLPZTZER1tJp41qgy0iQ', 160),
+-- Кипелов - Свет дневной иссяк...
 -- Кипелов - Я свободен!
 (DEFAULT, 'original', '1G2TPOig-GUVAQcNPDs3yOw1JLDvfbHga', 170),
 (DEFAULT, '0', '1Weqv2d_LS2GQ0_3v2dwHQHcCLuON63A7', 170),
