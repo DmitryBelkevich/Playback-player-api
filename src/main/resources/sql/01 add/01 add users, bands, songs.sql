@@ -554,7 +554,7 @@ VALUES
     (3030, 'The Prophet', 290, 'Gm'),
 
     -- Surf
-    (4000, 'Misirlou', 295, 'Em'),
+    (4000, 'Misirlou', 295, 'Am'),
 
     -- Pop, Dance
     (5000, 'No Roots', 300, 'Bm'),
