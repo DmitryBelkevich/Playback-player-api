@@ -1577,7 +1577,7 @@ VALUES
 -- Ляпис Трубецкой - Евпатория
 (DEFAULT, 'Full Score', '1Vbi4MToJaZZBsJORkqlzjXrQ21TFBqeQ', 2030),
 (DEFAULT, 'Voice', '1mkUd1CjhHP0UZChbwQduV7tVBj5vykHC', 2030),
-(DEFAULT, 'Electric Guitar 1, Electric Guitar 2, Electric Guitar 3', '1sgo_N0jXfKVSwyv-lj_Qwou0glnPeYXH', 2030),
+(DEFAULT, 'Electric Guitar 1, Electric Guitar 2, Electric Guitar 3, Bass Guitar', '1sgo_N0jXfKVSwyv-lj_Qwou0glnPeYXH', 2030),
 (DEFAULT, 'Electric Guitar 1', '1oe13lBTLEnXJvHBg6U8ZF8N3M0yCDEYR', 2030),
 (DEFAULT, 'Electric Guitar 2', '1h6MJRQ44f__MXPNmvWqBTKsUHCWGakCr', 2030),
 (DEFAULT, 'Electric Guitar 3', '1lWxWQbG_zIFdHuy07CLC2GEbzFL0qibu', 2030),
