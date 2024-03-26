@@ -971,7 +971,7 @@ VALUES
 -- Кино - Звезда по имени Солнце
 (DEFAULT, 'Full Score', '1GEqY5ZRzYxjTekAP9NYDc1r47K_1AlM-', 1630),
 (DEFAULT, 'Voice', '1Wk-aPHhidMH5PNt8qBHGQ4iKxiRkiuK-', 1630),
-(DEFAULT, 'Acoustic Guitar, Electric Guitar 1, Electric Guitar 2', '1KMobv5Jl6LYwYpqcQlBKFmHK6A_wZo5c', 1630),
+(DEFAULT, 'Acoustic Guitar, Electric Guitar 1, Electric Guitar 2, Bass Guitar', '1KMobv5Jl6LYwYpqcQlBKFmHK6A_wZo5c', 1630),
 (DEFAULT, 'Acoustic Guitar', '1MTU9u0FqN0RV8AO_D2_ewanUEBBLW4jO', 1630),
 (DEFAULT, 'Electric Guitar 1', '1YTFiD5s-XExYJz6GHGcvFf7O1_DTo-Yr', 1630),
 (DEFAULT, 'Electric Guitar 2', '1nCj7S416uEe80xxNtcqXvpmiOhahzc_c', 1630),
